@@ -1,0 +1,98 @@
+[
+  {
+    "id": "11403",
+    "name": "form1[0].Section14_1[0].#area[4].RadioButtonList[1]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 34,
+    "rect": {
+      "x": 29.957000732421875,
+      "y": 207.7979736328125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "15",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "11402",
+    "name": "form1[0].Section14_1[0].#area[4].RadioButtonList[1]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 34,
+    "rect": {
+      "x": 68.6500015258789,
+      "y": 207.7979736328125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "15",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "11480",
+    "name": "form1[0].Section15_2[0].#area[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 35,
+    "rect": {
+      "x": 423.5249938964844,
+      "y": 78.55499267578125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "15",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "11479",
+    "name": "form1[0].Section15_2[0].#area[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 35,
+    "rect": {
+      "x": 462.2179870605469,
+      "y": 78.55499267578125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "15",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "11492",
+    "name": "form1[0].Section15_3[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 36,
+    "rect": {
+      "x": 430.33599853515625,
+      "y": 76.30401611328125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "15",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "11491",
+    "name": "form1[0].Section15_3[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 36,
+    "rect": {
+      "x": 468.968994140625,
+      "y": 76.30401611328125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "15",
+    "subsection": null,
+    "entry": null
+  }
+]

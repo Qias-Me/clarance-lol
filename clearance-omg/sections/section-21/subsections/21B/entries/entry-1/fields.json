@@ -1,0 +1,418 @@
+[
+  {
+    "id": "14455",
+    "name": "form1[0].Section21b[0].From_Datefield_Name_2[0]",
+    "label": "Complete the following if you responded 'Yes' to having a court or administrative agency EVER ordered you to consult with a mental health professional. Entry 1. Provide the date this occurred (month/year)",
+    "type": 7,
+    "page": 90,
+    "rect": {
+      "x": 36.0,
+      "y": 184.655029296875,
+      "width": 117.0,
+      "height": 19.344970703125
+    },
+    "section": "21",
+    "subsection": "21B",
+    "entry": 1
+  },
+  {
+    "id": "14453",
+    "name": "form1[0].Section21b[0].TextField11[0]",
+    "label": "Provide the name of the court or administrative agency that ordered you to consult with a mental \nhealth professional. ",
+    "type": 7,
+    "page": 90,
+    "rect": {
+      "x": 202.50100708007812,
+      "y": 185.35101318359375,
+      "width": 389.7179870605469,
+      "height": 15.81396484375
+    },
+    "section": "21",
+    "subsection": "21B",
+    "entry": 1
+  },
+  {
+    "id": "14454",
+    "name": "form1[0].Section21b[0].#field[3]",
+    "label": "Estimate",
+    "type": 2,
+    "page": 90,
+    "rect": {
+      "x": 168.50100708007812,
+      "y": 188.8280029296875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "21",
+    "subsection": "21B",
+    "entry": 1
+  },
+  {
+    "id": "14451",
+    "name": "form1[0].Section21b[0].TextField11[2]",
+    "label": "City",
+    "type": 7,
+    "page": 90,
+    "rect": {
+      "x": 202.50100708007812,
+      "y": 224.4219970703125,
+      "width": 125.8070068359375,
+      "height": 15.009033203125
+    },
+    "section": "21",
+    "subsection": "21B",
+    "entry": 1
+  },
+  {
+    "id": "14449",
+    "name": "form1[0].Section21b[0].#field[8]",
+    "label": "Country",
+    "type": 3,
+    "page": 90,
+    "rect": {
+      "x": 455.7090148925781,
+      "y": 224.43597412109375,
+      "width": 138.29098510742188,
+      "height": 14.99505615234375
+    },
+    "section": "21",
+    "subsection": "21B",
+    "entry": 1
+  },
+  {
+    "id": "14452",
+    "name": "form1[0].Section21b[0].TextField11[1]",
+    "label": "Provide the address of the court or administrative agency. (Provide City and Country if outside the United States; otherwise, provide City, State and Zip Code) Street ",
+    "type": 7,
+    "page": 90,
+    "rect": {
+      "x": 36.0,
+      "y": 224.56402587890625,
+      "width": 159.7519989013672,
+      "height": 14.86700439453125
+    },
+    "section": "21",
+    "subsection": "21B",
+    "entry": 1
+  },
+  {
+    "id": "14450",
+    "name": "form1[0].Section21b[0].School6_State[0]",
+    "label": "State",
+    "type": 3,
+    "page": 90,
+    "rect": {
+      "x": 334.5050048828125,
+      "y": 224.56402587890625,
+      "width": 45.49798583984375,
+      "height": 17.70196533203125
+    },
+    "section": "21",
+    "subsection": "21B",
+    "entry": 1
+  },
+  {
+    "id": "14448",
+    "name": "form1[0].Section21b[0].TextField11[3]",
+    "label": "Zip Code",
+    "type": 7,
+    "page": 90,
+    "rect": {
+      "x": 386.7309875488281,
+      "y": 225.18701171875,
+      "width": 65.97601318359375,
+      "height": 14.2440185546875
+    },
+    "section": "21",
+    "subsection": "21B",
+    "entry": 1
+  },
+  {
+    "id": "14433",
+    "name": "form1[0].Section21b[0].TextField11[14]",
+    "label": "Provide the final disposition.",
+    "type": 7,
+    "page": 90,
+    "rect": {
+      "x": 35.48400115966797,
+      "y": 254.98199462890625,
+      "width": 558.1019973754883,
+      "height": 14.2440185546875
+    },
+    "section": "21",
+    "subsection": "21B",
+    "entry": 1
+  },
+  {
+    "id": "14457",
+    "name": "form1[0].Section21b[0].RadioButtonList[1]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 90,
+    "rect": {
+      "x": 38.834999084472656,
+      "y": 292.1109924316406,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "21",
+    "subsection": "21B",
+    "entry": 1
+  },
+  {
+    "id": "14456",
+    "name": "form1[0].Section21b[0].RadioButtonList[1]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 90,
+    "rect": {
+      "x": 86.61599731445312,
+      "y": 292.1109924316406,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "21",
+    "subsection": "21B",
+    "entry": 1
+  },
+  {
+    "id": "14447",
+    "name": "form1[0].Section21b[0].TextField11[4]",
+    "label": "Complete the following if you responded 'Yes' to the matter was appealed to a higher court or administrative agency. Appeal #1 Provide the name of the court or administrative agency.",
+    "type": 7,
+    "page": 90,
+    "rect": {
+      "x": 51.749000549316406,
+      "y": 332.19500732421875,
+      "width": 274.5009994506836,
+      "height": 14.772979736328125
+    },
+    "section": "21",
+    "subsection": "21B",
+    "entry": 1
+  },
+  {
+    "id": "14441",
+    "name": "form1[0].Section21b[0].TextField11[8]",
+    "label": "Provide the final disposition.",
+    "type": 7,
+    "page": 90,
+    "rect": {
+      "x": 334.2080078125,
+      "y": 332.19500732421875,
+      "width": 259.7919921875,
+      "height": 14.772979736328125
+    },
+    "section": "21",
+    "subsection": "21B",
+    "entry": 1
+  },
+  {
+    "id": "14443",
+    "name": "form1[0].Section21b[0].#field[14]",
+    "label": "Country",
+    "type": 3,
+    "page": 90,
+    "rect": {
+      "x": 455.7090148925781,
+      "y": 370.1109924316406,
+      "width": 138.29098510742188,
+      "height": 16.1090087890625
+    },
+    "section": "21",
+    "subsection": "21B",
+    "entry": 1
+  },
+  {
+    "id": "14445",
+    "name": "form1[0].Section21b[0].TextField11[6]",
+    "label": "City",
+    "type": 7,
+    "page": 90,
+    "rect": {
+      "x": 209.25100708007812,
+      "y": 371.21099853515625,
+      "width": 119.0579833984375,
+      "height": 15.009002685546875
+    },
+    "section": "21",
+    "subsection": "21B",
+    "entry": 1
+  },
+  {
+    "id": "14444",
+    "name": "form1[0].Section21b[0].School6_State[1]",
+    "label": "State",
+    "type": 3,
+    "page": 90,
+    "rect": {
+      "x": 334.5050048828125,
+      "y": 371.3529968261719,
+      "width": 45.49798583984375,
+      "height": 17.701995849609375
+    },
+    "section": "21",
+    "subsection": "21B",
+    "entry": 1
+  },
+  {
+    "id": "14442",
+    "name": "form1[0].Section21b[0].TextField11[7]",
+    "label": "Zip Code",
+    "type": 7,
+    "page": 90,
+    "rect": {
+      "x": 386.7309875488281,
+      "y": 371.97601318359375,
+      "width": 65.97601318359375,
+      "height": 14.243988037109375
+    },
+    "section": "21",
+    "subsection": "21B",
+    "entry": 1
+  },
+  {
+    "id": "14446",
+    "name": "form1[0].Section21b[0].TextField11[5]",
+    "label": "Provide the address of the court or administrative agency.  (Provide City and Country if outside the United States; otherwise, provide City, State and Zip Code). Street ",
+    "type": 7,
+    "page": 90,
+    "rect": {
+      "x": 51.749000549316406,
+      "y": 372.5539855957031,
+      "width": 152.99999237060547,
+      "height": 13.666015625
+    },
+    "section": "21",
+    "subsection": "21B",
+    "entry": 1
+  },
+  {
+    "id": "14440",
+    "name": "form1[0].Section21b[0].TextField11[9]",
+    "label": "Complete the following if you responded 'Yes' to the matter was appealed to a higher court or administrative agency. Appeal #2 Provide the name of the court or administrative agency.",
+    "type": 7,
+    "page": 90,
+    "rect": {
+      "x": 51.749000549316406,
+      "y": 415.4490051269531,
+      "width": 274.5009994506836,
+      "height": 14.772979736328125
+    },
+    "section": "21",
+    "subsection": "21B",
+    "entry": 1
+  },
+  {
+    "id": "14434",
+    "name": "form1[0].Section21b[0].TextField11[13]",
+    "label": "Provide the final disposition.",
+    "type": 7,
+    "page": 90,
+    "rect": {
+      "x": 334.2080078125,
+      "y": 415.4490051269531,
+      "width": 259.7919921875,
+      "height": 14.772979736328125
+    },
+    "section": "21",
+    "subsection": "21B",
+    "entry": 1
+  },
+  {
+    "id": "14436",
+    "name": "form1[0].Section21b[0].#field[21]",
+    "label": "Country",
+    "type": 3,
+    "page": 90,
+    "rect": {
+      "x": 455.7090148925781,
+      "y": 453.364990234375,
+      "width": 138.29098510742188,
+      "height": 16.1090087890625
+    },
+    "section": "21",
+    "subsection": "21B",
+    "entry": 1
+  },
+  {
+    "id": "14438",
+    "name": "form1[0].Section21b[0].TextField11[11]",
+    "label": "City",
+    "type": 7,
+    "page": 90,
+    "rect": {
+      "x": 209.25100708007812,
+      "y": 454.4649963378906,
+      "width": 119.0579833984375,
+      "height": 15.009002685546875
+    },
+    "section": "21",
+    "subsection": "21B",
+    "entry": 1
+  },
+  {
+    "id": "14437",
+    "name": "form1[0].Section21b[0].School6_State[2]",
+    "label": "State",
+    "type": 3,
+    "page": 90,
+    "rect": {
+      "x": 334.5050048828125,
+      "y": 454.60699462890625,
+      "width": 45.49798583984375,
+      "height": 17.701995849609375
+    },
+    "section": "21",
+    "subsection": "21B",
+    "entry": 1
+  },
+  {
+    "id": "14435",
+    "name": "form1[0].Section21b[0].TextField11[12]",
+    "label": "Zip Code",
+    "type": 7,
+    "page": 90,
+    "rect": {
+      "x": 386.7309875488281,
+      "y": 455.2300109863281,
+      "width": 65.97601318359375,
+      "height": 14.243988037109375
+    },
+    "section": "21",
+    "subsection": "21B",
+    "entry": 1
+  },
+  {
+    "id": "14439",
+    "name": "form1[0].Section21b[0].TextField11[10]",
+    "label": "Provide the address of the court or administrative agency.  (Provide City and Country if outside the United States; otherwise, provide City, State and Zip Code). Street ",
+    "type": 7,
+    "page": 90,
+    "rect": {
+      "x": 51.749000549316406,
+      "y": 455.8080139160156,
+      "width": 152.99999237060547,
+      "height": 13.665985107421875
+    },
+    "section": "21",
+    "subsection": "21B",
+    "entry": 1
+  },
+  {
+    "id": "14460",
+    "name": "form1[0].Section21b[0].SSN[0]",
+    "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+    "type": 7,
+    "page": 90,
+    "rect": {
+      "x": 476.7279968261719,
+      "y": 739.0009765625,
+      "width": 115.51303100585938,
+      "height": 13.6710205078125
+    },
+    "section": "21",
+    "subsection": "21B",
+    "entry": 1
+  }
+]

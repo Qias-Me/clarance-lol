@@ -1,0 +1,194 @@
+[
+  {
+    "id": "14712",
+    "name": "form1[0].Section21d3[0].#field[41]",
+    "label": "Day",
+    "type": 2,
+    "page": 95,
+    "rect": {
+      "x": 451.364013671875,
+      "y": 489.8819885253906,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "21",
+    "subsection": "21D.1",
+    "entry": 4
+  },
+  {
+    "id": "14711",
+    "name": "form1[0].Section21d3[0].#field[42]",
+    "label": "Night",
+    "type": 2,
+    "page": 95,
+    "rect": {
+      "x": 487.25299072265625,
+      "y": 489.8819885253906,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "21",
+    "subsection": "21D.1",
+    "entry": 4
+  },
+  {
+    "id": "14718",
+    "name": "form1[0].Section21d3[0].TextField11[15]",
+    "label": "Complete the following if you responded 'Yes' to currently in treatment. Entry #4. Provide the name of the health care professional providing such treatment.",
+    "type": 7,
+    "page": 95,
+    "rect": {
+      "x": 36.130001068115234,
+      "y": 501.37200927734375,
+      "width": 222.6160011291504,
+      "height": 14.38201904296875
+    },
+    "section": "21",
+    "subsection": "21D.1",
+    "entry": 4
+  },
+  {
+    "id": "14710",
+    "name": "form1[0].Section21d3[0].p3-t68[3]",
+    "label": "Provide the telephone number of the health care professional. Telephone number",
+    "type": 7,
+    "page": 95,
+    "rect": {
+      "x": 268.1830139160156,
+      "y": 501.95001220703125,
+      "width": 127.26699829101562,
+      "height": 17.67999267578125
+    },
+    "section": "21",
+    "subsection": "21D.1",
+    "entry": 4
+  },
+  {
+    "id": "14709",
+    "name": "form1[0].Section21d3[0].TextField11[19]",
+    "label": "Extension",
+    "type": 7,
+    "page": 95,
+    "rect": {
+      "x": 404.23699951171875,
+      "y": 502.0220031738281,
+      "width": 38.001007080078125,
+      "height": 17.608001708984375
+    },
+    "section": "21",
+    "subsection": "21D.1",
+    "entry": 4
+  },
+  {
+    "id": "14708",
+    "name": "form1[0].Section21d3[0].#field[45]",
+    "label": "International or D S N phone number",
+    "type": 2,
+    "page": 95,
+    "rect": {
+      "x": 451.3609924316406,
+      "y": 506.42498779296875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "21",
+    "subsection": "21D.1",
+    "entry": 4
+  },
+  {
+    "id": "14716",
+    "name": "form1[0].Section21d3[0].TextField11[17]",
+    "label": "City",
+    "type": 7,
+    "page": 95,
+    "rect": {
+      "x": 209.6479949951172,
+      "y": 540.7879638671875,
+      "width": 110.88002014160156,
+      "height": 14.9150390625
+    },
+    "section": "21",
+    "subsection": "21D.1",
+    "entry": 4
+  },
+  {
+    "id": "14714",
+    "name": "form1[0].Section21d3[0].#field[39]",
+    "label": "Country",
+    "type": 3,
+    "page": 95,
+    "rect": {
+      "x": 450.0509948730469,
+      "y": 540.7879638671875,
+      "width": 142.00198364257812,
+      "height": 14.9150390625
+    },
+    "section": "21",
+    "subsection": "21D.1",
+    "entry": 4
+  },
+  {
+    "id": "14717",
+    "name": "form1[0].Section21d3[0].TextField11[16]",
+    "label": "Provide the address of the health care professional.  (Provide City and Country if outside the United States; otherwise, provide City, State and Zip Code). Street",
+    "type": 7,
+    "page": 95,
+    "rect": {
+      "x": 36.64899826049805,
+      "y": 540.9299926757812,
+      "width": 166.50000381469727,
+      "height": 14.77301025390625
+    },
+    "section": "21",
+    "subsection": "21D.1",
+    "entry": 4
+  },
+  {
+    "id": "14715",
+    "name": "form1[0].Section21d3[0].School6_State[3]",
+    "label": "State",
+    "type": 3,
+    "page": 95,
+    "rect": {
+      "x": 329.1510009765625,
+      "y": 540.9299926757812,
+      "width": 45.49798583984375,
+      "height": 17.60797119140625
+    },
+    "section": "21",
+    "subsection": "21D.1",
+    "entry": 4
+  },
+  {
+    "id": "14713",
+    "name": "form1[0].Section21d3[0].TextField11[18]",
+    "label": "Zip Code",
+    "type": 7,
+    "page": 95,
+    "rect": {
+      "x": 381.3760070800781,
+      "y": 541.552978515625,
+      "width": 65.99899291992188,
+      "height": 14.1500244140625
+    },
+    "section": "21",
+    "subsection": "21D.1",
+    "entry": 4
+  },
+  {
+    "id": "14705",
+    "name": "form1[0].Section21d3[0].SSN[0]",
+    "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+    "type": 7,
+    "page": 95,
+    "rect": {
+      "x": 476.7279968261719,
+      "y": 739.0009765625,
+      "width": 115.51303100585938,
+      "height": 13.6710205078125
+    },
+    "section": "21",
+    "subsection": "21D.1",
+    "entry": 4
+  }
+]

@@ -1,0 +1,1266 @@
+[
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].TextField11[7]",
+    "label": "Complete the following if you presently reside with a cohabitant. Entry #2. Provide the full name. Last name",
+    "type": 7,
+    "rect": {
+      "x": 35.80400085449219,
+      "y": 131.56097412109375,
+      "width": 135.1959991455078,
+      "height": 17.6800537109375
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12024"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].TextField11[8]",
+    "label": "First name",
+    "type": 7,
+    "rect": {
+      "x": 178.60499572753906,
+      "y": 131.56097412109375,
+      "width": 126.01701354980469,
+      "height": 17.6800537109375
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12023"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].TextField11[6]",
+    "label": "Middle name",
+    "type": 7,
+    "rect": {
+      "x": 310.8810119628906,
+      "y": 131.56097412109375,
+      "width": 96.24197387695312,
+      "height": 17.6800537109375
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12026"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].From_Datefield_Name_2[3]",
+    "label": "Provide the date of birth. Date (Month/Day/Year)",
+    "type": 7,
+    "rect": {
+      "x": 463.4989929199219,
+      "y": 131.56097412109375,
+      "width": 59.584014892578125,
+      "height": 17.6800537109375
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12021"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].suffix[2]",
+    "label": "Suffix",
+    "type": 3,
+    "rect": {
+      "x": 414.0,
+      "y": 132.1290283203125,
+      "width": 43.475006103515625,
+      "height": 17.11199951171875
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12025"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].#field[27]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 560.0,
+      "y": 134.74298095703125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12022"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].#area[2].DropDownList22[0]",
+    "label": "Country (Required)",
+    "type": 3,
+    "rect": {
+      "x": 382.5010070800781,
+      "y": 170.6259765625,
+      "width": 210.18301391601562,
+      "height": 17.75
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12018"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].#area[2].TextField11[9]",
+    "label": "Provide the cohabitant place of birth. City",
+    "type": 7,
+    "rect": {
+      "x": 35.80400085449219,
+      "y": 170.76800537109375,
+      "width": 279.1959991455078,
+      "height": 17.60797119140625
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12020"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].#area[2].School6_State[0]",
+    "label": "State",
+    "type": 3,
+    "rect": {
+      "x": 317.75799560546875,
+      "y": 170.76800537109375,
+      "width": 51.24200439453125,
+      "height": 17.60797119140625
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12019"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].#field[61]",
+    "label": "For your foreign born cohabitant, indicate one type of documentation that he or she possesses and the document number. Born Abroad to U.S. Parents: FS 240 or 545",
+    "type": 2,
+    "rect": {
+      "x": 38.18299865722656,
+      "y": 214.1939697265625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "11984"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].#field[65]",
+    "label": "Derived: Alien Registration (on Certificate of Citizenship\u2014utilize U S C I S, C I S or I N S Registration number)",
+    "type": 2,
+    "rect": {
+      "x": 185.3800048828125,
+      "y": 214.1939697265625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12041"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].#field[60]",
+    "label": "Not a U.S. Citizen: I-551 Permanent Resident",
+    "type": 2,
+    "rect": {
+      "x": 329.3800048828125,
+      "y": 214.1939697265625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "11985"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].#field[68]",
+    "label": "U.S. Visa (red foil number)",
+    "type": 2,
+    "rect": {
+      "x": 458.385009765625,
+      "y": 214.1939697265625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12038"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].#field[57]",
+    "label": "DS 1350",
+    "type": 2,
+    "rect": {
+      "x": 38.18299865722656,
+      "y": 228.5999755859375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "11988"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].#field[59]",
+    "label": "I-766 Employment Authorization",
+    "type": 2,
+    "rect": {
+      "x": 329.3800048828125,
+      "y": 228.5999755859375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "11986"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].#field[69]",
+    "label": "I-20 Certificate of Eligibility for Non-Immigrant-F1-Student",
+    "type": 2,
+    "rect": {
+      "x": 458.385009765625,
+      "y": 228.5999755859375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12037"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].#field[66]",
+    "label": "Permanent Resident Card (I-551)",
+    "type": 2,
+    "rect": {
+      "x": 185.3800048828125,
+      "y": 249.60198974609375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12040"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].#field[71]",
+    "label": "I-94 Arrival-Departure Record",
+    "type": 2,
+    "rect": {
+      "x": 329.3800048828125,
+      "y": 253.239013671875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12035"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].#field[70]",
+    "label": "DS-2019 Certificate of Eligibility of Exchange Visitor-J1-Status",
+    "type": 2,
+    "rect": {
+      "x": 458.385009765625,
+      "y": 253.239013671875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12036"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].#field[58]",
+    "label": "Naturalized: Alien Registration (on Certificate of Naturalization\u2014utilize U S C I S, C I S or I N S Registration number) ",
+    "type": 2,
+    "rect": {
+      "x": 38.37799835205078,
+      "y": 255.5999755859375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "11987"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].#field[67]",
+    "label": "Certificate of Citizenship (N560 or N561) ",
+    "type": 2,
+    "rect": {
+      "x": 185.3800048828125,
+      "y": 264.60302734375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12039"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].#field[62]",
+    "label": "Other (Provide explanation)",
+    "type": 2,
+    "rect": {
+      "x": 329.38299560546875,
+      "y": 282.0989990234375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "11983"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].#field[64]",
+    "label": "Permanent Resident Card (I-551)",
+    "type": 2,
+    "rect": {
+      "x": 38.37799835205078,
+      "y": 288.09698486328125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12042"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].TextField11[18]",
+    "label": "TextField11",
+    "type": 7,
+    "rect": {
+      "x": 329.87298583984375,
+      "y": 294.06201171875,
+      "width": 256.80499267578125,
+      "height": 29.313995361328125
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12043"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].#field[56]",
+    "label": "Certificate of Naturalization (N550 or N570) ",
+    "type": 2,
+    "rect": {
+      "x": 38.37799835205078,
+      "y": 308.12298583984375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "11989"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].TextField11[17]",
+    "label": "Provide document number.",
+    "type": 7,
+    "rect": {
+      "x": 37.61399841308594,
+      "y": 339.34100341796875,
+      "width": 97.58200073242188,
+      "height": 15.751983642578125
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "11993"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].From_Datefield_Name_2[6]",
+    "label": "Provide document expiration date, if applicable. (Month/Day/Year)",
+    "type": 7,
+    "rect": {
+      "x": 141.19700622558594,
+      "y": 339.4110107421875,
+      "width": 171.0030059814453,
+      "height": 15.681976318359375
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "11991"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].TextField11[16]",
+    "label": "Provide your cohabitant's U.S. Social Security Number.",
+    "type": 7,
+    "rect": {
+      "x": 381.1969909667969,
+      "y": 339.4110107421875,
+      "width": 135.00302124023438,
+      "height": 17.67999267578125
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "11994"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].#field[53]",
+    "label": "Not applicable",
+    "type": 2,
+    "rect": {
+      "x": 516.4979858398438,
+      "y": 345.5920104980469,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "11992"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].#field[55]",
+    "label": "Est.",
+    "type": 2,
+    "rect": {
+      "x": 317.197998046875,
+      "y": 345.5989990234375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "11990"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].#field[32]",
+    "label": "Provide other names used by your cohabitant (such as maiden name, names by other marriages, etc., and provide dates each name was used). Not applicable",
+    "type": 2,
+    "rect": {
+      "x": 516.1090087890625,
+      "y": 363.968994140625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12017"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].suffix[0]",
+    "label": "Suffix",
+    "type": 3,
+    "rect": {
+      "x": 533.7009887695312,
+      "y": 392.239013671875,
+      "width": 60.0460205078125,
+      "height": 17.75
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12055"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].TextField11[1]",
+    "label": "First name",
+    "type": 7,
+    "rect": {
+      "x": 240.3300018310547,
+      "y": 392.3810119628906,
+      "width": 159.99900817871094,
+      "height": 14.772979736328125
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12059"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].TextField11[0]",
+    "label": "Middle name",
+    "type": 7,
+    "rect": {
+      "x": 404.7900085449219,
+      "y": 392.3810119628906,
+      "width": 124.00198364257812,
+      "height": 14.772979736328125
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12060"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].TextField11[2]",
+    "label": "Provide other names used by your cohabitant (such as maiden name, names by other marriages, etc., and provide dates each name was used). #1. Last name.",
+    "type": 7,
+    "rect": {
+      "x": 49.500999450683594,
+      "y": 392.7049865722656,
+      "width": 183.2490005493164,
+      "height": 14.449005126953125
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12058"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].#field[10]",
+    "label": "Present",
+    "type": 2,
+    "rect": {
+      "x": 308.0010070800781,
+      "y": 413.6159973144531,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12052"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].#area[0].From_Datefield_Name_2[0]",
+    "label": "Time name used. From (month/year)",
+    "type": 7,
+    "rect": {
+      "x": 121.5009994506836,
+      "y": 419.3089904785156,
+      "width": 67.5009994506836,
+      "height": 17.680023193359375
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12057"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].#area[0].To_Datefield_Name_2[0]",
+    "label": "Time name used. To (month/year)",
+    "type": 7,
+    "rect": {
+      "x": 240.32899475097656,
+      "y": 419.3089904785156,
+      "width": 58.49601745605469,
+      "height": 17.680023193359375
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12056"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 52.33599853515625,
+      "y": 423.875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12050"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 86.81700134277344,
+      "y": 423.875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12051"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].#field[8]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 195.50100708007812,
+      "y": 425.87298583984375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12054"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].#field[9]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 308.0,
+      "y": 425.87298583984375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12053"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].suffix[1]",
+    "label": "Suffix",
+    "type": 3,
+    "rect": {
+      "x": 533.7009887695312,
+      "y": 448.4859924316406,
+      "width": 60.0460205078125,
+      "height": 17.75
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12044"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].TextField11[4]",
+    "label": "First name",
+    "type": 7,
+    "rect": {
+      "x": 240.3300018310547,
+      "y": 448.62799072265625,
+      "width": 159.99900817871094,
+      "height": 14.77301025390625
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12048"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].TextField11[3]",
+    "label": "Middle name",
+    "type": 7,
+    "rect": {
+      "x": 404.7900085449219,
+      "y": 448.62799072265625,
+      "width": 124.00198364257812,
+      "height": 14.77301025390625
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12049"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].TextField11[5]",
+    "label": "#2. Last name",
+    "type": 7,
+    "rect": {
+      "x": 49.500999450683594,
+      "y": 448.9519958496094,
+      "width": 183.2490005493164,
+      "height": 14.449005126953125
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12047"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].#field[19]",
+    "label": "Present",
+    "type": 2,
+    "rect": {
+      "x": 308.0010070800781,
+      "y": 469.864013671875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12032"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].#area[1].From_Datefield_Name_2[1]",
+    "label": "Time name used. From (month/year)",
+    "type": 7,
+    "rect": {
+      "x": 121.5009994506836,
+      "y": 475.5559997558594,
+      "width": 67.5009994506836,
+      "height": 17.67999267578125
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12046"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].#area[1].To_Datefield_Name_2[1]",
+    "label": "Time name used. To (month/year)",
+    "type": 7,
+    "rect": {
+      "x": 240.32899475097656,
+      "y": 475.5559997558594,
+      "width": 58.49601745605469,
+      "height": 17.67999267578125
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12045"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].RadioButtonList[1]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 52.33599853515625,
+      "y": 480.12200927734375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12030"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].RadioButtonList[1]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 86.81700134277344,
+      "y": 480.12200927734375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12031"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].#field[17]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 195.50100708007812,
+      "y": 482.1210021972656,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12034"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].#field[18]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 308.0,
+      "y": 482.1210021972656,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12033"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].suffix[3]",
+    "label": "Suffix",
+    "type": 3,
+    "rect": {
+      "x": 533.7009887695312,
+      "y": 504.3999938964844,
+      "width": 60.0460205078125,
+      "height": 17.750030517578125
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12011"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].TextField11[11]",
+    "label": "First name",
+    "type": 7,
+    "rect": {
+      "x": 240.3300018310547,
+      "y": 504.5419921875,
+      "width": 159.99900817871094,
+      "height": 14.77301025390625
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12015"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].TextField11[10]",
+    "label": "Middle name",
+    "type": 7,
+    "rect": {
+      "x": 404.7900085449219,
+      "y": 504.5419921875,
+      "width": 124.00198364257812,
+      "height": 14.77301025390625
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12016"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].TextField11[12]",
+    "label": "#3. Last name.",
+    "type": 7,
+    "rect": {
+      "x": 49.500999450683594,
+      "y": 504.8659973144531,
+      "width": 183.2490005493164,
+      "height": 14.449005126953125
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12014"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].#field[41]",
+    "label": "Present",
+    "type": 2,
+    "rect": {
+      "x": 308.0010070800781,
+      "y": 525.7769775390625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12008"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].#area[3].From_Datefield_Name_2[4]",
+    "label": "Time name used. From (month/year)",
+    "type": 7,
+    "rect": {
+      "x": 121.5009994506836,
+      "y": 531.469970703125,
+      "width": 67.5009994506836,
+      "height": 17.6800537109375
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12013"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].#area[3].To_Datefield_Name_2[2]",
+    "label": "Time name used. To (month/year)",
+    "type": 7,
+    "rect": {
+      "x": 240.32899475097656,
+      "y": 531.469970703125,
+      "width": 58.49601745605469,
+      "height": 17.6800537109375
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12012"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].RadioButtonList[2]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 52.33599853515625,
+      "y": 536.0269775390625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12006"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].RadioButtonList[2]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 86.81700134277344,
+      "y": 536.0269775390625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12007"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].#field[39]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 195.50100708007812,
+      "y": 538.0339965820312,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12010"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].#field[40]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 308.0,
+      "y": 538.0339965820312,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12009"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].suffix[4]",
+    "label": "Suffix",
+    "type": 3,
+    "rect": {
+      "x": 533.7009887695312,
+      "y": 560.6480102539062,
+      "width": 60.0460205078125,
+      "height": 17.75
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12000"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].TextField11[14]",
+    "label": "First name",
+    "type": 7,
+    "rect": {
+      "x": 240.3300018310547,
+      "y": 560.7899780273438,
+      "width": 159.99900817871094,
+      "height": 14.77301025390625
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12004"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].TextField11[13]",
+    "label": "Middle name",
+    "type": 7,
+    "rect": {
+      "x": 404.7900085449219,
+      "y": 560.7899780273438,
+      "width": 124.00198364257812,
+      "height": 14.77301025390625
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12005"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].TextField11[15]",
+    "label": "#4. Last name.",
+    "type": 7,
+    "rect": {
+      "x": 49.500999450683594,
+      "y": 561.114013671875,
+      "width": 183.2490005493164,
+      "height": 14.448974609375
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12003"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].#field[50]",
+    "label": "Present",
+    "type": 2,
+    "rect": {
+      "x": 308.0010070800781,
+      "y": 582.0250244140625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "11997"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].#area[4].From_Datefield_Name_2[5]",
+    "label": "Time name used. From (month/year)",
+    "type": 7,
+    "rect": {
+      "x": 121.5009994506836,
+      "y": 587.718017578125,
+      "width": 67.5009994506836,
+      "height": 17.67999267578125
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12002"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].#area[4].To_Datefield_Name_2[3]",
+    "label": "Time name used. To (month/year)",
+    "type": 7,
+    "rect": {
+      "x": 240.32899475097656,
+      "y": 587.718017578125,
+      "width": 58.49601745605469,
+      "height": 17.67999267578125
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12001"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].RadioButtonList[3]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 52.33599853515625,
+      "y": 592.2750244140625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "11995"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].RadioButtonList[3]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 86.81700134277344,
+      "y": 592.2750244140625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "11996"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].#field[48]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 195.50100708007812,
+      "y": 594.281982421875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "11999"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].#field[49]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 308.0,
+      "y": 594.281982421875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "11998"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].DropDownList12[0]",
+    "label": "Provide your cohabitant's country(ies) of citizenship. Country #1",
+    "type": 3,
+    "rect": {
+      "x": 36.0,
+      "y": 627.166015625,
+      "width": 198.0,
+      "height": 17.60797119140625
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12029"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].DropDownList12[1]",
+    "label": "Country #2",
+    "type": 3,
+    "rect": {
+      "x": 240.3300018310547,
+      "y": 627.166015625,
+      "width": 197.99998474121094,
+      "height": 17.60797119140625
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12027"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].From_Datefield_Name_2[2]",
+    "label": "Provide date cohabitation residing with person began. (Month/Day/Year)",
+    "type": 7,
+    "rect": {
+      "x": 443.75,
+      "y": 627.3179931640625,
+      "width": 149.99798583984375,
+      "height": 18.458984375
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12028"
+  },
+  {
+    "page": 44,
+    "name": "form1[0].Section17_3_2[0].SSN[0]",
+    "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+    "type": 7,
+    "rect": {
+      "x": 476.7279968261719,
+      "y": 739.0009765625,
+      "width": 115.51303100585938,
+      "height": 13.6710205078125
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": 2,
+    "id": "12061"
+  }
+]

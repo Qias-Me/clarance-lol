@@ -1,0 +1,178 @@
+[
+  {
+    "id": "14723",
+    "name": "form1[0].Section21d3[0].#field[30]",
+    "label": "Day",
+    "type": 2,
+    "page": 95,
+    "rect": {
+      "x": 451.364013671875,
+      "y": 386.385986328125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "21",
+    "subsection": "21D.1",
+    "entry": 3
+  },
+  {
+    "id": "14722",
+    "name": "form1[0].Section21d3[0].#field[31]",
+    "label": "Night",
+    "type": 2,
+    "page": 95,
+    "rect": {
+      "x": 487.25299072265625,
+      "y": 386.385986328125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "21",
+    "subsection": "21D.1",
+    "entry": 3
+  },
+  {
+    "id": "14729",
+    "name": "form1[0].Section21d3[0].TextField11[10]",
+    "label": "Complete the following if you responded 'Yes' to currently in treatment. Entry #3. Provide the name of the health care professional providing such treatment.",
+    "type": 7,
+    "page": 95,
+    "rect": {
+      "x": 36.130001068115234,
+      "y": 397.8760070800781,
+      "width": 222.6160011291504,
+      "height": 14.381988525390625
+    },
+    "section": "21",
+    "subsection": "21D.1",
+    "entry": 3
+  },
+  {
+    "id": "14721",
+    "name": "form1[0].Section21d3[0].p3-t68[2]",
+    "label": "Provide the telephone number of the health care professional. Telephone number",
+    "type": 7,
+    "page": 95,
+    "rect": {
+      "x": 268.1830139160156,
+      "y": 398.4540100097656,
+      "width": 127.26699829101562,
+      "height": 17.67999267578125
+    },
+    "section": "21",
+    "subsection": "21D.1",
+    "entry": 3
+  },
+  {
+    "id": "14720",
+    "name": "form1[0].Section21d3[0].TextField11[14]",
+    "label": "Extension",
+    "type": 7,
+    "page": 95,
+    "rect": {
+      "x": 404.23699951171875,
+      "y": 398.5260009765625,
+      "width": 38.001007080078125,
+      "height": 17.608001708984375
+    },
+    "section": "21",
+    "subsection": "21D.1",
+    "entry": 3
+  },
+  {
+    "id": "14719",
+    "name": "form1[0].Section21d3[0].#field[34]",
+    "label": "Provide the telephone number of the health care professional. International or D S N phone number",
+    "type": 2,
+    "page": 95,
+    "rect": {
+      "x": 451.3609924316406,
+      "y": 402.9289855957031,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "21",
+    "subsection": "21D.1",
+    "entry": 3
+  },
+  {
+    "id": "14728",
+    "name": "form1[0].Section21d3[0].TextField11[11]",
+    "label": "Provide the address of the health care professional.  (Provide City and Country if outside the United States; otherwise, provide City, State and Zip Code). Street",
+    "type": 7,
+    "page": 95,
+    "rect": {
+      "x": 36.64899826049805,
+      "y": 437.4339904785156,
+      "width": 166.50000381469727,
+      "height": 14.77301025390625
+    },
+    "section": "21",
+    "subsection": "21D.1",
+    "entry": 3
+  },
+  {
+    "id": "14727",
+    "name": "form1[0].Section21d3[0].TextField11[12]",
+    "label": "City",
+    "type": 7,
+    "page": 95,
+    "rect": {
+      "x": 209.6479949951172,
+      "y": 437.9590148925781,
+      "width": 110.88002014160156,
+      "height": 14.91497802734375
+    },
+    "section": "21",
+    "subsection": "21D.1",
+    "entry": 3
+  },
+  {
+    "id": "14725",
+    "name": "form1[0].Section21d3[0].#field[28]",
+    "label": "Country",
+    "type": 3,
+    "page": 95,
+    "rect": {
+      "x": 450.0509948730469,
+      "y": 437.9590148925781,
+      "width": 142.00198364257812,
+      "height": 14.91497802734375
+    },
+    "section": "21",
+    "subsection": "21D.1",
+    "entry": 3
+  },
+  {
+    "id": "14726",
+    "name": "form1[0].Section21d3[0].School6_State[2]",
+    "label": "State",
+    "type": 3,
+    "page": 95,
+    "rect": {
+      "x": 329.1510009765625,
+      "y": 438.10101318359375,
+      "width": 45.49798583984375,
+      "height": 17.608001708984375
+    },
+    "section": "21",
+    "subsection": "21D.1",
+    "entry": 3
+  },
+  {
+    "id": "14724",
+    "name": "form1[0].Section21d3[0].TextField11[13]",
+    "label": "Zip Code",
+    "type": 7,
+    "page": 95,
+    "rect": {
+      "x": 381.3760070800781,
+      "y": 438.7239990234375,
+      "width": 65.99899291992188,
+      "height": 14.149993896484375
+    },
+    "section": "21",
+    "subsection": "21D.1",
+    "entry": 3
+  }
+]

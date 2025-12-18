@@ -1,0 +1,34 @@
+[
+  {
+    "page": 5,
+    "name": "form1[0].Sections1-6[0].SSN[1]",
+    "label": "Section 4. Social Security Number. Provide your U.S. Social Security Number",
+    "type": 7,
+    "rect": {
+      "x": 27.0,
+      "y": 266.635986328125,
+      "width": 153.0,
+      "height": 17.608001708984375
+    },
+    "section": "4",
+    "subsection": null,
+    "entry": null,
+    "id": "9441"
+  },
+  {
+    "page": 5,
+    "name": "form1[0].Sections1-6[0].CheckBox1[0]",
+    "label": "Not applicable",
+    "type": 2,
+    "rect": {
+      "x": 189.58399963378906,
+      "y": 271.2540283203125,
+      "width": 9.0,
+      "height": 8.999969482421875
+    },
+    "section": "4",
+    "subsection": null,
+    "entry": null,
+    "id": "9442"
+  }
+]

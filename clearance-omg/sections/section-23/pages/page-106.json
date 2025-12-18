@@ -1,0 +1,818 @@
+[
+  {
+    "page": 106,
+    "name": "form1[0].Section23_2[0].RadioButtonList[3]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 452.8349914550781,
+      "y": 76.30401611328125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": null,
+    "id": "15256"
+  },
+  {
+    "page": 106,
+    "name": "form1[0].Section23_2[0].RadioButtonList[3]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 488.00299072265625,
+      "y": 76.30401611328125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": null,
+    "id": "15255"
+  },
+  {
+    "page": 106,
+    "name": "form1[0].Section23_2[0].RadioButtonList[7]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 38.957000732421875,
+      "y": 151.49700927734375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 1,
+    "id": "15242"
+  },
+  {
+    "page": 106,
+    "name": "form1[0].Section23_2[0].RadioButtonList[7]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 313.5799865722656,
+      "y": 151.49700927734375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 1,
+    "id": "15238"
+  },
+  {
+    "page": 106,
+    "name": "form1[0].Section23_2[0].RadioButtonList[7]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 38.957000732421875,
+      "y": 168.7490234375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 1,
+    "id": "15241"
+  },
+  {
+    "page": 106,
+    "name": "form1[0].Section23_2[0].RadioButtonList[7]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 313.5799865722656,
+      "y": 168.7490234375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 1,
+    "id": "15237"
+  },
+  {
+    "page": 106,
+    "name": "form1[0].Section23_2[0].RadioButtonList[7]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 38.957000732421875,
+      "y": 186.0,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 1,
+    "id": "15240"
+  },
+  {
+    "page": 106,
+    "name": "form1[0].Section23_2[0].RadioButtonList[7]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 313.5799865722656,
+      "y": 186.0,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 1,
+    "id": "15239"
+  },
+  {
+    "page": 106,
+    "name": "form1[0].Section23_2[0].RadioButtonList[7]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 38.957000732421875,
+      "y": 203.2490234375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 1,
+    "id": "15236"
+  },
+  {
+    "page": 106,
+    "name": "form1[0].Section23_2[0].RadioButtonList[7]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 313.5799865722656,
+      "y": 203.2490234375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 1,
+    "id": "15235"
+  },
+  {
+    "page": 106,
+    "name": "form1[0].Section23_2[0].TextField11[0]",
+    "label": "(Provide explanation)",
+    "type": 7,
+    "rect": {
+      "x": 435.6210021972656,
+      "y": 218.2509765625,
+      "width": 154.00198364257812,
+      "height": 13.50103759765625
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 1,
+    "id": "15272"
+  },
+  {
+    "page": 106,
+    "name": "form1[0].Section23_2[0].RadioButtonList[7]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 38.957000732421875,
+      "y": 220.5009765625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 1,
+    "id": "15234"
+  },
+  {
+    "page": 106,
+    "name": "form1[0].Section23_2[0].RadioButtonList[7]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 313.5799865722656,
+      "y": 220.5009765625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 1,
+    "id": "15233"
+  },
+  {
+    "page": 106,
+    "name": "form1[0].Section23_2[0].TextField11[1]",
+    "label": "Provide the nature and frequency of activity.",
+    "type": 7,
+    "rect": {
+      "x": 409.5010070800781,
+      "y": 255.5770263671875,
+      "width": 184.37997436523438,
+      "height": 16.344970703125
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 1,
+    "id": "15271"
+  },
+  {
+    "page": 106,
+    "name": "form1[0].Section23_2[0].From_Datefield_Name_2[0]",
+    "label": "Provide an estimate of the month and year of first involvement. (Month/Year)",
+    "type": 7,
+    "rect": {
+      "x": 36.0,
+      "y": 255.66497802734375,
+      "width": 139.50100708007812,
+      "height": 19.08905029296875
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 1,
+    "id": "15270"
+  },
+  {
+    "page": 106,
+    "name": "form1[0].Section23_2[0].From_Datefield_Name_2[1]",
+    "label": "Provide an estimate of the month and year of most recent involvement. (Month/Year)",
+    "type": 7,
+    "rect": {
+      "x": 211.50100708007812,
+      "y": 256.3900146484375,
+      "width": 157.49899291992188,
+      "height": 18.364013671875
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 1,
+    "id": "15268"
+  },
+  {
+    "page": 106,
+    "name": "form1[0].Section23_2[0].#field[5]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 177.50100708007812,
+      "y": 261.26800537109375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 1,
+    "id": "15269"
+  },
+  {
+    "page": 106,
+    "name": "form1[0].Section23_2[0].#field[7]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 371.0,
+      "y": 261.26800537109375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 1,
+    "id": "15267"
+  },
+  {
+    "page": 106,
+    "name": "form1[0].Section23_2[0].TextField11[6]",
+    "label": "Provide the reason(s) why you engaged in the activity.",
+    "type": 7,
+    "rect": {
+      "x": 36.0,
+      "y": 285.1400146484375,
+      "width": 557.8779907226562,
+      "height": 14.866973876953125
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 1,
+    "id": "15248"
+  },
+  {
+    "page": 106,
+    "name": "form1[0].Section23_2[0].#area[3].RadioButtonList[4]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 503.8330078125,
+      "y": 308.0530090332031,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 1,
+    "id": "15254"
+  },
+  {
+    "page": 106,
+    "name": "form1[0].Section23_2[0].#area[3].RadioButtonList[4]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 541.6309814453125,
+      "y": 308.0530090332031,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 1,
+    "id": "15253"
+  },
+  {
+    "page": 106,
+    "name": "form1[0].Section23_2[0].RadioButtonList[5]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 503.843994140625,
+      "y": 330.552001953125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 1,
+    "id": "15252"
+  },
+  {
+    "page": 106,
+    "name": "form1[0].Section23_2[0].RadioButtonList[5]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 541.6309814453125,
+      "y": 330.552001953125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 1,
+    "id": "15251"
+  },
+  {
+    "page": 106,
+    "name": "form1[0].Section23_2[0].RadioButtonList[6]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 38.00199890136719,
+      "y": 362.0530090332031,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 1,
+    "id": "15250"
+  },
+  {
+    "page": 106,
+    "name": "form1[0].Section23_2[0].TextField11[2]",
+    "label": "Provide explanation.",
+    "type": 7,
+    "rect": {
+      "x": 121.5009994506836,
+      "y": 370.6419982910156,
+      "width": 472.38199615478516,
+      "height": 14.86700439453125
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 1,
+    "id": "15266"
+  },
+  {
+    "page": 106,
+    "name": "form1[0].Section23_2[0].RadioButtonList[6]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 38.0,
+      "y": 375.5539855957031,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 1,
+    "id": "15249"
+  },
+  {
+    "page": 106,
+    "name": "form1[0].Section23_2[0].RadioButtonList[8]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 36.827999114990234,
+      "y": 419.2489929199219,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 2,
+    "id": "15232"
+  },
+  {
+    "page": 106,
+    "name": "form1[0].Section23_2[0].RadioButtonList[8]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 311.45098876953125,
+      "y": 419.2489929199219,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 2,
+    "id": "15228"
+  },
+  {
+    "page": 106,
+    "name": "form1[0].Section23_2[0].RadioButtonList[8]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 36.827999114990234,
+      "y": 436.5010070800781,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 2,
+    "id": "15231"
+  },
+  {
+    "page": 106,
+    "name": "form1[0].Section23_2[0].RadioButtonList[8]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 311.45098876953125,
+      "y": 436.5010070800781,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 2,
+    "id": "15227"
+  },
+  {
+    "page": 106,
+    "name": "form1[0].Section23_2[0].RadioButtonList[8]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 36.827999114990234,
+      "y": 453.75201416015625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 2,
+    "id": "15230"
+  },
+  {
+    "page": 106,
+    "name": "form1[0].Section23_2[0].RadioButtonList[8]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 311.45098876953125,
+      "y": 453.75201416015625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 2,
+    "id": "15229"
+  },
+  {
+    "page": 106,
+    "name": "form1[0].Section23_2[0].RadioButtonList[8]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 36.827999114990234,
+      "y": 471.0010070800781,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 2,
+    "id": "15226"
+  },
+  {
+    "page": 106,
+    "name": "form1[0].Section23_2[0].RadioButtonList[8]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 311.45098876953125,
+      "y": 471.0010070800781,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 2,
+    "id": "15225"
+  },
+  {
+    "page": 106,
+    "name": "form1[0].Section23_2[0].TextField11[3]",
+    "label": "(Provide explanation)",
+    "type": 7,
+    "rect": {
+      "x": 433.49200439453125,
+      "y": 486.00299072265625,
+      "width": 154.00201416015625,
+      "height": 13.501007080078125
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 2,
+    "id": "15265"
+  },
+  {
+    "page": 106,
+    "name": "form1[0].Section23_2[0].RadioButtonList[8]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 36.827999114990234,
+      "y": 488.25299072265625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 2,
+    "id": "15224"
+  },
+  {
+    "page": 106,
+    "name": "form1[0].Section23_2[0].RadioButtonList[8]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 311.45098876953125,
+      "y": 488.25299072265625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 2,
+    "id": "15223"
+  },
+  {
+    "page": 106,
+    "name": "form1[0].Section23_2[0].TextField11[7]",
+    "label": "Provide the nature and frequency of activity.",
+    "type": 7,
+    "rect": {
+      "x": 409.5010070800781,
+      "y": 523.583984375,
+      "width": 184.37997436523438,
+      "height": 16.34503173828125
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 2,
+    "id": "15247"
+  },
+  {
+    "page": 106,
+    "name": "form1[0].Section23_2[0].From_Datefield_Name_2[2]",
+    "label": "Provide an estimate of the month and year of first involvement. (Month/Year)",
+    "type": 7,
+    "rect": {
+      "x": 33.87099838256836,
+      "y": 523.6719970703125,
+      "width": 139.50099563598633,
+      "height": 19.0889892578125
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 2,
+    "id": "15246"
+  },
+  {
+    "page": 106,
+    "name": "form1[0].Section23_2[0].From_Datefield_Name_2[3]",
+    "label": "Provide an estimate of the month and year of most recent involvement. (Month/Year)",
+    "type": 7,
+    "rect": {
+      "x": 211.50100708007812,
+      "y": 524.39697265625,
+      "width": 157.49899291992188,
+      "height": 18.364013671875
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 2,
+    "id": "15244"
+  },
+  {
+    "page": 106,
+    "name": "form1[0].Section23_2[0].#field[15]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 177.50100708007812,
+      "y": 529.2750244140625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 2,
+    "id": "15245"
+  },
+  {
+    "page": 106,
+    "name": "form1[0].Section23_2[0].#field[17]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 371.0,
+      "y": 529.2750244140625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 2,
+    "id": "15243"
+  },
+  {
+    "page": 106,
+    "name": "form1[0].Section23_2[0].TextField11[5]",
+    "label": "Provide the reason(s) why you engaged in the activity.",
+    "type": 7,
+    "rect": {
+      "x": 33.87099838256836,
+      "y": 552.8919677734375,
+      "width": 557.8780250549316,
+      "height": 14.8670654296875
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 2,
+    "id": "15257"
+  },
+  {
+    "page": 106,
+    "name": "form1[0].Section23_2[0].#area[1].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 501.7040100097656,
+      "y": 575.8049926757812,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 2,
+    "id": "15263"
+  },
+  {
+    "page": 106,
+    "name": "form1[0].Section23_2[0].#area[1].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 539.5020141601562,
+      "y": 575.8049926757812,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 2,
+    "id": "15262"
+  },
+  {
+    "page": 106,
+    "name": "form1[0].Section23_2[0].RadioButtonList[1]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 501.71600341796875,
+      "y": 598.3040161132812,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 2,
+    "id": "15260"
+  },
+  {
+    "page": 106,
+    "name": "form1[0].Section23_2[0].RadioButtonList[1]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 539.5029907226562,
+      "y": 598.3040161132812,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 2,
+    "id": "15261"
+  },
+  {
+    "page": 106,
+    "name": "form1[0].Section23_2[0].RadioButtonList[2]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 35.87300109863281,
+      "y": 629.8049926757812,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 2,
+    "id": "15258"
+  },
+  {
+    "page": 106,
+    "name": "form1[0].Section23_2[0].TextField11[4]",
+    "label": "Provide explanation.",
+    "type": 7,
+    "rect": {
+      "x": 119.37300109863281,
+      "y": 638.3939819335938,
+      "width": 472.3820037841797,
+      "height": 14.86700439453125
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 2,
+    "id": "15264"
+  },
+  {
+    "page": 106,
+    "name": "form1[0].Section23_2[0].RadioButtonList[2]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 35.87099838256836,
+      "y": 643.3060302734375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 2,
+    "id": "15259"
+  },
+  {
+    "page": 106,
+    "name": "form1[0].Section23_2[0].SSN[0]",
+    "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+    "type": 7,
+    "rect": {
+      "x": 476.7279968261719,
+      "y": 739.0009765625,
+      "width": 115.51303100585938,
+      "height": 13.6710205078125
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 2,
+    "id": "15273"
+  }
+]

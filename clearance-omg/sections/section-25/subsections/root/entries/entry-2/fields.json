@@ -1,0 +1,674 @@
+[
+  {
+    "id": "15714",
+    "name": "form1[0].Section25[0].#field[16]",
+    "label": "Entry #2. Provide the investigating agency: U.S. Department of Defense",
+    "type": 2,
+    "page": 116,
+    "rect": {
+      "x": 35.90299987792969,
+      "y": 402.010986328125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "25",
+    "subsection": null,
+    "entry": 2
+  },
+  {
+    "id": "15709",
+    "name": "form1[0].Section25[0].#field[21]",
+    "label": "U.S. Department of Homeland Security",
+    "type": 2,
+    "page": 116,
+    "rect": {
+      "x": 220.2480010986328,
+      "y": 402.010986328125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "25",
+    "subsection": null,
+    "entry": 2
+  },
+  {
+    "id": "15721",
+    "name": "form1[0].Section25[0].TextField11[1]",
+    "label": "If foreign government selected, provide name of government.",
+    "type": 7,
+    "page": 116,
+    "rect": {
+      "x": 421.114013671875,
+      "y": 413.26300048828125,
+      "width": 172.75299072265625,
+      "height": 15.746002197265625
+    },
+    "section": "25",
+    "subsection": null,
+    "entry": 2
+  },
+  {
+    "id": "15713",
+    "name": "form1[0].Section25[0].#field[17]",
+    "label": "U.S. Department of State",
+    "type": 2,
+    "page": 116,
+    "rect": {
+      "x": 35.90299987792969,
+      "y": 416.635009765625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "25",
+    "subsection": null,
+    "entry": 2
+  },
+  {
+    "id": "15708",
+    "name": "form1[0].Section25[0].#field[22]",
+    "label": "Foreign government ",
+    "type": 2,
+    "page": 116,
+    "rect": {
+      "x": 220.25,
+      "y": 416.635009765625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "25",
+    "subsection": null,
+    "entry": 2
+  },
+  {
+    "id": "15712",
+    "name": "form1[0].Section25[0].#field[18]",
+    "label": "U.S. Office of Personnel Management",
+    "type": 2,
+    "page": 116,
+    "rect": {
+      "x": 35.90299987792969,
+      "y": 431.2590026855469,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "25",
+    "subsection": null,
+    "entry": 2
+  },
+  {
+    "id": "15707",
+    "name": "form1[0].Section25[0].#field[23]",
+    "label": "I don't know",
+    "type": 2,
+    "page": 116,
+    "rect": {
+      "x": 220.2480010986328,
+      "y": 431.2590026855469,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "25",
+    "subsection": null,
+    "entry": 2
+  },
+  {
+    "id": "15705",
+    "name": "form1[0].Section25[0].TextField11[2]",
+    "label": "If OTHER, provide explanation.",
+    "type": 7,
+    "page": 116,
+    "rect": {
+      "x": 340.7349853515625,
+      "y": 442.50799560546875,
+      "width": 250.7960205078125,
+      "height": 15.748992919921875
+    },
+    "section": "25",
+    "subsection": null,
+    "entry": 2
+  },
+  {
+    "id": "15711",
+    "name": "form1[0].Section25[0].#field[19]",
+    "label": "Federal Bureau of Investigation",
+    "type": 2,
+    "page": 116,
+    "rect": {
+      "x": 35.90299987792969,
+      "y": 445.88299560546875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "25",
+    "subsection": null,
+    "entry": 2
+  },
+  {
+    "id": "15706",
+    "name": "form1[0].Section25[0].#field[24]",
+    "label": "Other (Provide explanation)",
+    "type": 2,
+    "page": 116,
+    "rect": {
+      "x": 220.2519989013672,
+      "y": 445.88299560546875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "25",
+    "subsection": null,
+    "entry": 2
+  },
+  {
+    "id": "15667",
+    "name": "form1[0].Section25[0].TextField11[7]",
+    "label": "If U.S. Department of Treasury, provide name of bureau",
+    "type": 7,
+    "page": 116,
+    "rect": {
+      "x": 258.34600830078125,
+      "y": 457.135009765625,
+      "width": 334.54296875,
+      "height": 15.748992919921875
+    },
+    "section": "25",
+    "subsection": null,
+    "entry": 2
+  },
+  {
+    "id": "15710",
+    "name": "form1[0].Section25[0].#field[20]",
+    "label": "U.S. Department of Treasury",
+    "type": 2,
+    "page": 116,
+    "rect": {
+      "x": 35.90299987792969,
+      "y": 460.5090026855469,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "25",
+    "subsection": null,
+    "entry": 2
+  },
+  {
+    "id": "15704",
+    "name": "form1[0].Section25[0].From_Datefield_Name_2[4]",
+    "label": "Provide the name of agency that issued the clearance eligibility/access if different from the investigating agency.",
+    "type": 7,
+    "page": 116,
+    "rect": {
+      "x": 34.02399826049805,
+      "y": 483.43798828125,
+      "width": 557.9999885559082,
+      "height": 18.311004638671875
+    },
+    "section": "25",
+    "subsection": null,
+    "entry": 2
+  },
+  {
+    "id": "15718",
+    "name": "form1[0].Section25[0].#field[12]",
+    "label": "Date the investigation was completed (Month/Year). I don't know",
+    "type": 2,
+    "page": 116,
+    "rect": {
+      "x": 220.24899291992188,
+      "y": 506.322998046875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "25",
+    "subsection": null,
+    "entry": 2
+  },
+  {
+    "id": "15715",
+    "name": "form1[0].Section25[0].#field[15]",
+    "label": "Provide the date clearance eligibility/access was granted. (Month/Year). I don't know",
+    "type": 2,
+    "page": 116,
+    "rect": {
+      "x": 533.2739868164062,
+      "y": 506.322998046875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "25",
+    "subsection": null,
+    "entry": 2
+  },
+  {
+    "id": "15720",
+    "name": "form1[0].Section25[0].From_Datefield_Name_2[2]",
+    "label": "Date the investigation was completed (Month/Year)",
+    "type": 7,
+    "page": 116,
+    "rect": {
+      "x": 34.02399826049805,
+      "y": 512.3930053710938,
+      "width": 179.99699783325195,
+      "height": 17.73101806640625
+    },
+    "section": "25",
+    "subsection": null,
+    "entry": 2
+  },
+  {
+    "id": "15717",
+    "name": "form1[0].Section25[0].From_Datefield_Name_2[3]",
+    "label": "Provide the date clearance eligibility/access was granted. (Month/Year)",
+    "type": 7,
+    "page": 116,
+    "rect": {
+      "x": 281.52301025390625,
+      "y": 512.3930053710938,
+      "width": 249.75201416015625,
+      "height": 17.73101806640625
+    },
+    "section": "25",
+    "subsection": null,
+    "entry": 2
+  },
+  {
+    "id": "15719",
+    "name": "form1[0].Section25[0].#field[11]",
+    "label": "Estimate",
+    "type": 2,
+    "page": 116,
+    "rect": {
+      "x": 220.2480010986328,
+      "y": 519.6119995117188,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "25",
+    "subsection": null,
+    "entry": 2
+  },
+  {
+    "id": "15716",
+    "name": "form1[0].Section25[0].#field[14]",
+    "label": "Estimate",
+    "type": 2,
+    "page": 116,
+    "rect": {
+      "x": 533.2750244140625,
+      "y": 519.6119995117188,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "25",
+    "subsection": null,
+    "entry": 2
+  },
+  {
+    "id": "15703",
+    "name": "form1[0].Section25[0].#field[27]",
+    "label": "Provide the level of clearance eligibility/access granted: None",
+    "type": 2,
+    "page": 116,
+    "rect": {
+      "x": 35.90299987792969,
+      "y": 550.511962890625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "25",
+    "subsection": null,
+    "entry": 2
+  },
+  {
+    "id": "15698",
+    "name": "form1[0].Section25[0].#field[32]",
+    "label": "Q",
+    "type": 2,
+    "page": 116,
+    "rect": {
+      "x": 220.2480010986328,
+      "y": 550.511962890625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "25",
+    "subsection": null,
+    "entry": 2
+  },
+  {
+    "id": "15702",
+    "name": "form1[0].Section25[0].#field[28]",
+    "label": "Confidential",
+    "type": 2,
+    "page": 116,
+    "rect": {
+      "x": 35.90299987792969,
+      "y": 565.135986328125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "25",
+    "subsection": null,
+    "entry": 2
+  },
+  {
+    "id": "15697",
+    "name": "form1[0].Section25[0].#field[33]",
+    "label": "L",
+    "type": 2,
+    "page": 116,
+    "rect": {
+      "x": 220.25,
+      "y": 565.135986328125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "25",
+    "subsection": null,
+    "entry": 2
+  },
+  {
+    "id": "15701",
+    "name": "form1[0].Section25[0].#field[29]",
+    "label": "Secret",
+    "type": 2,
+    "page": 116,
+    "rect": {
+      "x": 35.90299987792969,
+      "y": 579.760009765625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "25",
+    "subsection": null,
+    "entry": 2
+  },
+  {
+    "id": "15696",
+    "name": "form1[0].Section25[0].#field[34]",
+    "label": "I don't know",
+    "type": 2,
+    "page": 116,
+    "rect": {
+      "x": 220.2480010986328,
+      "y": 579.760009765625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "25",
+    "subsection": null,
+    "entry": 2
+  },
+  {
+    "id": "15700",
+    "name": "form1[0].Section25[0].#field[30]",
+    "label": "Top Secret",
+    "type": 2,
+    "page": 116,
+    "rect": {
+      "x": 35.90299987792969,
+      "y": 594.384033203125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "25",
+    "subsection": null,
+    "entry": 2
+  },
+  {
+    "id": "15693",
+    "name": "form1[0].Section25[0].#field[37]",
+    "label": "Issued by foreign country",
+    "type": 2,
+    "page": 116,
+    "rect": {
+      "x": 220.2480010986328,
+      "y": 594.384033203125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "25",
+    "subsection": null,
+    "entry": 2
+  },
+  {
+    "id": "15694",
+    "name": "form1[0].Section25[0].TextField11[3]",
+    "label": "If OTHER, provide explanation.",
+    "type": 7,
+    "page": 116,
+    "rect": {
+      "x": 339.1789855957031,
+      "y": 608.2210083007812,
+      "width": 252.84500122070312,
+      "height": 12.1939697265625
+    },
+    "section": "25",
+    "subsection": null,
+    "entry": 2
+  },
+  {
+    "id": "15699",
+    "name": "form1[0].Section25[0].#field[31]",
+    "label": "Sensitive Compartmented Information (SCI)",
+    "type": 2,
+    "page": 116,
+    "rect": {
+      "x": 35.902000427246094,
+      "y": 609.010986328125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "25",
+    "subsection": null,
+    "entry": 2
+  },
+  {
+    "id": "15695",
+    "name": "form1[0].Section25[0].#field[35]",
+    "label": "Other (Provide explanation)",
+    "type": 2,
+    "page": 116,
+    "rect": {
+      "x": 220.25,
+      "y": 609.010986328125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "25",
+    "subsection": null,
+    "entry": 2
+  },
+  {
+    "id": "15729",
+    "name": "form1[0].Section25[0].SSN[0]",
+    "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+    "type": 7,
+    "page": 116,
+    "rect": {
+      "x": 476.7279968261719,
+      "y": 739.0009765625,
+      "width": 115.51303100585938,
+      "height": 13.6710205078125
+    },
+    "section": "25",
+    "subsection": null,
+    "entry": 2
+  },
+  {
+    "id": "15745",
+    "name": "form1[0].Section25_2[0].From_Datefield_Name_2[1]",
+    "label": "Provide the name of the agency that took the action.",
+    "type": 7,
+    "page": 117,
+    "rect": {
+      "x": 222.87100219726562,
+      "y": 216.010986328125,
+      "width": 146.02700805664062,
+      "height": 29.239990234375
+    },
+    "section": "25",
+    "subsection": null,
+    "entry": 2
+  },
+  {
+    "id": "15744",
+    "name": "form1[0].Section25_2[0].From_Datefield_Name_2[2]",
+    "label": "Provide an explanation of the circumstances of the denial,suspension or revocation action.",
+    "type": 7,
+    "page": 117,
+    "rect": {
+      "x": 378.12200927734375,
+      "y": 216.010986328125,
+      "width": 211.5009765625,
+      "height": 29.239990234375
+    },
+    "section": "25",
+    "subsection": null,
+    "entry": 2
+  },
+  {
+    "id": "15747",
+    "name": "form1[0].Section25_2[0].From_Datefield_Name_2[0]",
+    "label": "Entry #2. Provide the date security clearance eligibility/access authorization was denied, suspended or revoked. (Month/Year)",
+    "type": 7,
+    "page": 117,
+    "rect": {
+      "x": 36.125,
+      "y": 225.333984375,
+      "width": 150.74600219726562,
+      "height": 19.9169921875
+    },
+    "section": "25",
+    "subsection": null,
+    "entry": 2
+  },
+  {
+    "id": "15746",
+    "name": "form1[0].Section25_2[0].#field[3]",
+    "label": "Estimate",
+    "type": 2,
+    "page": 117,
+    "rect": {
+      "x": 188.87100219726562,
+      "y": 231.010986328125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "25",
+    "subsection": null,
+    "entry": 2
+  },
+  {
+    "id": "15730",
+    "name": "form1[0].Section25_2[0].RadioButtonList[1]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 117,
+    "rect": {
+      "x": 434.8349914550781,
+      "y": 256.30401611328125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "25",
+    "subsection": null,
+    "entry": 2
+  },
+  {
+    "id": "15750",
+    "name": "form1[0].Section25_2[0].RadioButtonList[1]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 117,
+    "rect": {
+      "x": 470.0,
+      "y": 256.30401611328125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "25",
+    "subsection": null,
+    "entry": 2
+  },
+  {
+    "id": "15738",
+    "name": "form1[0].Section25_2[0].From_Datefield_Name_2[6]",
+    "label": "Provide the date the debarment occurred. (Month/Year)",
+    "type": 7,
+    "page": 117,
+    "rect": {
+      "x": 193.49899291992188,
+      "y": 377.7019958496094,
+      "width": 148.67999267578125,
+      "height": 29.6820068359375
+    },
+    "section": "25",
+    "subsection": null,
+    "entry": 2
+  },
+  {
+    "id": "15737",
+    "name": "form1[0].Section25_2[0].From_Datefield_Name_2[7]",
+    "label": "Provide an explanation of the circumstances of the debarment.",
+    "type": 7,
+    "page": 117,
+    "rect": {
+      "x": 378.2550048828125,
+      "y": 378.1409912109375,
+      "width": 211.5009765625,
+      "height": 29.240020751953125
+    },
+    "section": "25",
+    "subsection": null,
+    "entry": 2
+  },
+  {
+    "id": "15740",
+    "name": "form1[0].Section25_2[0].From_Datefield_Name_2[5]",
+    "label": "Entry #2. Provide the name of the government agency taking debarment action.",
+    "type": 7,
+    "page": 117,
+    "rect": {
+      "x": 36.0,
+      "y": 378.1440124511719,
+      "width": 148.49899291992188,
+      "height": 29.239990234375
+    },
+    "section": "25",
+    "subsection": null,
+    "entry": 2
+  },
+  {
+    "id": "15739",
+    "name": "form1[0].Section25_2[0].#field[10]",
+    "label": "Estimate",
+    "type": 2,
+    "page": 117,
+    "rect": {
+      "x": 343.74200439453125,
+      "y": 393.1440124511719,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "25",
+    "subsection": null,
+    "entry": 2
+  },
+  {
+    "id": "15748",
+    "name": "form1[0].Section25_2[0].SSN[0]",
+    "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+    "type": 7,
+    "page": 117,
+    "rect": {
+      "x": 476.7279968261719,
+      "y": 739.0009765625,
+      "width": 115.51303100585938,
+      "height": 13.6710205078125
+    },
+    "section": "25",
+    "subsection": null,
+    "entry": 2
+  }
+]

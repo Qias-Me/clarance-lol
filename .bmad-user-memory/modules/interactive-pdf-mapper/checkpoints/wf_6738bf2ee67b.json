@@ -1,0 +1,15 @@
+{
+  "workflowId": "wf_6738bf2ee67b",
+  "documentPath": "C:\\Users\\TJ\\Desktop\\clarance-lol\\samples\\test-pdfs\\clean.pdf",
+  "documentHash": "",
+  "currentPhase": "error",
+  "phaseHistory": [],
+  "pages": [],
+  "detectedFields": [],
+  "validatedFields": [],
+  "retryPool": [],
+  "outputPaths": {},
+  "startedAt": "2025-12-14T11:11:49.799282",
+  "updatedAt": "2025-12-14T11:11:49.861046",
+  "error": "'PDFLoader' object has no attribute 'metadata'"
+}

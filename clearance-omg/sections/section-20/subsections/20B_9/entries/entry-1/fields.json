@@ -1,0 +1,82 @@
+[
+  {
+    "id": "14162",
+    "name": "form1[0].#subform[91].From_Datefield_Name_2[42]",
+    "label": "Complete the following if you responded 'Yes' to having EVER voted in the election of a foreign country. Entry #1. Provide the date you voted in the foreign election. (Month/Year)",
+    "type": 7,
+    "page": 83,
+    "rect": {
+      "x": 37.000999450683594,
+      "y": 324.07000732421875,
+      "width": 246.49799346923828,
+      "height": 17.67999267578125
+    },
+    "section": "20",
+    "subsection": "20B.9",
+    "entry": 1
+  },
+  {
+    "id": "14159",
+    "name": "form1[0].#subform[91].From_Datefield_Name_2[43]",
+    "label": "Provide the name of the country involved.",
+    "type": 3,
+    "page": 83,
+    "rect": {
+      "x": 320.99798583984375,
+      "y": 324.07000732421875,
+      "width": 270.0,
+      "height": 17.67999267578125
+    },
+    "section": "20",
+    "subsection": "20B.9",
+    "entry": 1
+  },
+  {
+    "id": "14161",
+    "name": "form1[0].#subform[91].#field[528]",
+    "label": "Estimate",
+    "type": 2,
+    "page": 83,
+    "rect": {
+      "x": 286.8760070800781,
+      "y": 328.302001953125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20B.9",
+    "entry": 1
+  },
+  {
+    "id": "14160",
+    "name": "form1[0].#subform[91].TextField11[229]",
+    "label": "Provide the reason(s) for these activities.",
+    "type": 7,
+    "page": 83,
+    "rect": {
+      "x": 37.000999450683594,
+      "y": 352.57000732421875,
+      "width": 281.9990005493164,
+      "height": 15.67999267578125
+    },
+    "section": "20",
+    "subsection": "20B.9",
+    "entry": 1
+  },
+  {
+    "id": "14163",
+    "name": "form1[0].#subform[91].TextField11[228]",
+    "label": "Provide your current eligibility to vote in a foreign country.",
+    "type": 7,
+    "page": 83,
+    "rect": {
+      "x": 320.99798583984375,
+      "y": 352.57000732421875,
+      "width": 270.0,
+      "height": 14.845001220703125
+    },
+    "section": "20",
+    "subsection": "20B.9",
+    "entry": 1
+  }
+]

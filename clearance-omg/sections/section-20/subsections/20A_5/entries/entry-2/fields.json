@@ -1,0 +1,258 @@
+[
+  {
+    "id": "13841",
+    "name": "form1[0].#subform[76].TextField11[99]",
+    "label": "First name",
+    "type": 7,
+    "page": 75,
+    "rect": {
+      "x": 207.0,
+      "y": 292.8299865722656,
+      "width": 166.5,
+      "height": 15.75
+    },
+    "section": "20",
+    "subsection": "20A.5",
+    "entry": 2
+  },
+  {
+    "id": "13844",
+    "name": "form1[0].#subform[76].suffix[8]",
+    "label": "Suffix",
+    "type": 3,
+    "page": 75,
+    "rect": {
+      "x": 524.8770141601562,
+      "y": 292.8299865722656,
+      "width": 69.0009765625,
+      "height": 15.75
+    },
+    "section": "20",
+    "subsection": "20A.5",
+    "entry": 2
+  },
+  {
+    "id": "13842",
+    "name": "form1[0].#subform[76].TextField11[98]",
+    "label": "Entry #2. Provide the name of the foreign national you support or have supported financially. Last name",
+    "type": 7,
+    "page": 75,
+    "rect": {
+      "x": 36.0,
+      "y": 292.97198486328125,
+      "width": 166.5,
+      "height": 15.608001708984375
+    },
+    "section": "20",
+    "subsection": "20A.5",
+    "entry": 2
+  },
+  {
+    "id": "13843",
+    "name": "form1[0].#subform[76].TextField11[97]",
+    "label": "Middle name",
+    "type": 7,
+    "page": 75,
+    "rect": {
+      "x": 378.0,
+      "y": 293.5950012207031,
+      "width": 144.0,
+      "height": 14.9849853515625
+    },
+    "section": "20",
+    "subsection": "20A.5",
+    "entry": 2
+  },
+  {
+    "id": "13848",
+    "name": "form1[0].#subform[76].#area[14].TextField11[95]",
+    "label": "City",
+    "type": 7,
+    "page": 75,
+    "rect": {
+      "x": 207.0,
+      "y": 330.62200927734375,
+      "width": 117.0,
+      "height": 14.91497802734375
+    },
+    "section": "20",
+    "subsection": "20A.5",
+    "entry": 2
+  },
+  {
+    "id": "13846",
+    "name": "form1[0].#subform[76].#area[14].DropDownList30[0]",
+    "label": "Country",
+    "type": 3,
+    "page": 75,
+    "rect": {
+      "x": 450.8760070800781,
+      "y": 330.62200927734375,
+      "width": 142.00198364257812,
+      "height": 14.91497802734375
+    },
+    "section": "20",
+    "subsection": "20A.5",
+    "entry": 2
+  },
+  {
+    "id": "13849",
+    "name": "form1[0].#subform[76].#area[14].TextField11[94]",
+    "label": "Provide the address of the foreign national listed above. (Provide City and Country if outside the United States; otherwise, provide City, State and Zip Code.) Street",
+    "type": 7,
+    "page": 75,
+    "rect": {
+      "x": 36.0,
+      "y": 330.7640075683594,
+      "width": 166.5,
+      "height": 14.772979736328125
+    },
+    "section": "20",
+    "subsection": "20A.5",
+    "entry": 2
+  },
+  {
+    "id": "13847",
+    "name": "form1[0].#subform[76].#area[14].School6_State[8]",
+    "label": "State",
+    "type": 3,
+    "page": 75,
+    "rect": {
+      "x": 328.5,
+      "y": 330.7640075683594,
+      "width": 40.5,
+      "height": 17.608001708984375
+    },
+    "section": "20",
+    "subsection": "20A.5",
+    "entry": 2
+  },
+  {
+    "id": "13845",
+    "name": "form1[0].#subform[76].#area[14].TextField11[96]",
+    "label": "Zip Code",
+    "type": 7,
+    "page": 75,
+    "rect": {
+      "x": 378.0,
+      "y": 331.3869934082031,
+      "width": 65.99899291992188,
+      "height": 14.149993896484375
+    },
+    "section": "20",
+    "subsection": "20A.5",
+    "entry": 2
+  },
+  {
+    "id": "13838",
+    "name": "form1[0].#subform[76].NumericField1[6]",
+    "label": "Provide the amount (in U.S. dollars) of all financial support provided.",
+    "type": 7,
+    "page": 75,
+    "rect": {
+      "x": 328.5010070800781,
+      "y": 359.3819885253906,
+      "width": 182.99899291992188,
+      "height": 17.680023193359375
+    },
+    "section": "20",
+    "subsection": "20A.5",
+    "entry": 2
+  },
+  {
+    "id": "13840",
+    "name": "form1[0].#subform[76].TextField11[100]",
+    "label": "Provide the nature of your relationship with the foreign national listed above.",
+    "type": 7,
+    "page": 75,
+    "rect": {
+      "x": 36.0,
+      "y": 359.4530029296875,
+      "width": 288.0,
+      "height": 14.77301025390625
+    },
+    "section": "20",
+    "subsection": "20A.5",
+    "entry": 2
+  },
+  {
+    "id": "13839",
+    "name": "form1[0].#subform[76].#field[250]",
+    "label": "Estimate",
+    "type": 2,
+    "page": 75,
+    "rect": {
+      "x": 564.0999755859375,
+      "y": 364.6050109863281,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20A.5",
+    "entry": 2
+  },
+  {
+    "id": "13837",
+    "name": "form1[0].#subform[76].TextField11[101]",
+    "label": "Provide the frequency of your support.",
+    "type": 7,
+    "page": 75,
+    "rect": {
+      "x": 36.0,
+      "y": 389.33599853515625,
+      "width": 166.50100708007812,
+      "height": 25.358001708984375
+    },
+    "section": "20",
+    "subsection": "20A.5",
+    "entry": 2
+  },
+  {
+    "id": "13834",
+    "name": "form1[0].#subform[76].DropDownList12[16]",
+    "label": "Provide this foreign national's country(ies) of citizenship. Country #1",
+    "type": 3,
+    "page": 75,
+    "rect": {
+      "x": 207.0,
+      "y": 397.21099853515625,
+      "width": 163.50201416015625,
+      "height": 17.608001708984375
+    },
+    "section": "20",
+    "subsection": "20A.5",
+    "entry": 2
+  },
+  {
+    "id": "13833",
+    "name": "form1[0].#subform[76].DropDownList12[17]",
+    "label": "Country #2",
+    "type": 3,
+    "page": 75,
+    "rect": {
+      "x": 378.0,
+      "y": 397.21099853515625,
+      "width": 157.4990234375,
+      "height": 17.608001708984375
+    },
+    "section": "20",
+    "subsection": "20A.5",
+    "entry": 2
+  },
+  {
+    "id": "13850",
+    "name": "form1[0].#subform[76].SSN[6]",
+    "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+    "type": 7,
+    "page": 75,
+    "rect": {
+      "x": 476.7279968261719,
+      "y": 739.0009765625,
+      "width": 115.51303100585938,
+      "height": 13.6710205078125
+    },
+    "section": "20",
+    "subsection": "20A.5",
+    "entry": 2
+  }
+]

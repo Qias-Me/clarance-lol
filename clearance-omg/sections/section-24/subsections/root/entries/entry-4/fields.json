@@ -1,0 +1,162 @@
+[
+  {
+    "id": "15510",
+    "name": "form1[0].Section24[0].#field[33]",
+    "label": "Present",
+    "type": 2,
+    "page": 112,
+    "rect": {
+      "x": 546.864013671875,
+      "y": 479.7449951171875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 4
+  },
+  {
+    "id": "15514",
+    "name": "form1[0].Section24[0].From_Datefield_Name_2[9]",
+    "label": "Complete the following if you responded 'Yes' to your alcohol use having had a negative impact on your work performance, your professional or personal relationships, your finances, or resulted in intervention by law enforcement/public safety personnel. Entry #4. Provide the month/year when this negative impact occurred. From Date (Month/Year) ",
+    "type": 7,
+    "page": 112,
+    "rect": {
+      "x": 36.00299835205078,
+      "y": 486.29400634765625,
+      "width": 85.49600219726562,
+      "height": 17.730987548828125
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 4
+  },
+  {
+    "id": "15509",
+    "name": "form1[0].Section24[0].From_Datefield_Name_2[10]",
+    "label": "Provide dates of involvement or use. From Date (Month/Year)",
+    "type": 7,
+    "page": 112,
+    "rect": {
+      "x": 333.7510070800781,
+      "y": 486.29400634765625,
+      "width": 85.50100708007812,
+      "height": 17.730987548828125
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 4
+  },
+  {
+    "id": "15507",
+    "name": "form1[0].Section24[0].From_Datefield_Name_2[11]",
+    "label": "To Date (Month/Year)",
+    "type": 7,
+    "page": 112,
+    "rect": {
+      "x": 464.25299072265625,
+      "y": 486.29400634765625,
+      "width": 81.0,
+      "height": 17.730987548828125
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 4
+  },
+  {
+    "id": "15513",
+    "name": "form1[0].Section24[0].#field[30]",
+    "label": "Estimate",
+    "type": 2,
+    "page": 112,
+    "rect": {
+      "x": 132.50100708007812,
+      "y": 490.4939880371094,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 4
+  },
+  {
+    "id": "15508",
+    "name": "form1[0].Section24[0].#field[35]",
+    "label": "Estimate",
+    "type": 2,
+    "page": 112,
+    "rect": {
+      "x": 430.25299072265625,
+      "y": 491.5010070800781,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 4
+  },
+  {
+    "id": "15506",
+    "name": "form1[0].Section24[0].#field[37]",
+    "label": "Estimate",
+    "type": 2,
+    "page": 112,
+    "rect": {
+      "x": 546.864013671875,
+      "y": 492.5069885253906,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 4
+  },
+  {
+    "id": "15512",
+    "name": "form1[0].Section24[0].TextField11[6]",
+    "label": "Provide circumstances.",
+    "type": 7,
+    "page": 112,
+    "rect": {
+      "x": 36.00299835205078,
+      "y": 515.092041015625,
+      "width": 294.0070114135742,
+      "height": 40.52593994140625
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 4
+  },
+  {
+    "id": "15511",
+    "name": "form1[0].Section24[0].TextField11[7]",
+    "label": "Provide negative impact.",
+    "type": 7,
+    "page": 112,
+    "rect": {
+      "x": 333.7510070800781,
+      "y": 515.092041015625,
+      "width": 260.2460021972656,
+      "height": 40.52593994140625
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 4
+  },
+  {
+    "id": "15505",
+    "name": "form1[0].Section24[0].SSN[0]",
+    "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+    "type": 7,
+    "page": 112,
+    "rect": {
+      "x": 476.7279968261719,
+      "y": 739.0009765625,
+      "width": 115.51303100585938,
+      "height": 13.6710205078125
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 4
+  }
+]

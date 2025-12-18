@@ -1,0 +1,306 @@
+[
+  {
+    "page": 132,
+    "name": "form1[0].Section29_5[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 452.8349914550781,
+      "y": 78.55499267578125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "29",
+    "subsection": null,
+    "entry": null,
+    "id": "16253"
+  },
+  {
+    "page": 132,
+    "name": "form1[0].Section29_5[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 491.4679870605469,
+      "y": 78.55499267578125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "29",
+    "subsection": null,
+    "entry": null,
+    "id": "16252"
+  },
+  {
+    "page": 132,
+    "name": "form1[0].Section29_5[0].TextField11[0]",
+    "label": "Complete the following if you responded 'Yes' to having EVER knowingly engaged in activities designed to overthrow the U.S. Government by force. Entry #1. Describe the nature and reasons for the activity. ",
+    "type": 7,
+    "rect": {
+      "x": 35.810001373291016,
+      "y": 129.739013671875,
+      "width": 306.189998626709,
+      "height": 30.0159912109375
+    },
+    "section": "29",
+    "subsection": null,
+    "entry": 1,
+    "id": "16256"
+  },
+  {
+    "page": 132,
+    "name": "form1[0].Section29_5[0].#field[5]",
+    "label": "Present",
+    "type": 2,
+    "rect": {
+      "x": 551.0339965820312,
+      "y": 135.27398681640625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "29",
+    "subsection": null,
+    "entry": 1,
+    "id": "16251"
+  },
+  {
+    "page": 132,
+    "name": "form1[0].Section29_5[0].From_Datefield_Name_2[0]",
+    "label": "Provide the dates of such activities. From Date (Month/Year)",
+    "type": 7,
+    "rect": {
+      "x": 351.0,
+      "y": 141.0770263671875,
+      "width": 83.25100708007812,
+      "height": 17.73095703125
+    },
+    "section": "29",
+    "subsection": null,
+    "entry": 1,
+    "id": "16250"
+  },
+  {
+    "page": 132,
+    "name": "form1[0].Section29_5[0].From_Datefield_Name_2[1]",
+    "label": "To Date (Month/Year)",
+    "type": 7,
+    "rect": {
+      "x": 472.4960021972656,
+      "y": 141.0770263671875,
+      "width": 76.62002563476562,
+      "height": 17.73095703125
+    },
+    "section": "29",
+    "subsection": null,
+    "entry": 1,
+    "id": "16248"
+  },
+  {
+    "page": 132,
+    "name": "form1[0].Section29_5[0].#field[7]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 436.25,
+      "y": 147.02899169921875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "29",
+    "subsection": null,
+    "entry": 1,
+    "id": "16249"
+  },
+  {
+    "page": 132,
+    "name": "form1[0].Section29_5[0].#field[9]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 550.9990234375,
+      "y": 148.03497314453125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "29",
+    "subsection": null,
+    "entry": 1,
+    "id": "16247"
+  },
+  {
+    "page": 132,
+    "name": "form1[0].Section29_5[0].TextField11[3]",
+    "label": "Entry #2. Describe the nature and reasons for the activity. ",
+    "type": 7,
+    "rect": {
+      "x": 36.0,
+      "y": 185.98699951171875,
+      "width": 306.19000244140625,
+      "height": 30.0159912109375
+    },
+    "section": "29",
+    "subsection": null,
+    "entry": 2,
+    "id": "16246"
+  },
+  {
+    "page": 132,
+    "name": "form1[0].Section29_5[0].#field[11]",
+    "label": "Present",
+    "type": 2,
+    "rect": {
+      "x": 551.27197265625,
+      "y": 191.52099609375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "29",
+    "subsection": null,
+    "entry": 2,
+    "id": "16245"
+  },
+  {
+    "page": 132,
+    "name": "form1[0].Section29_5[0].From_Datefield_Name_2[2]",
+    "label": "Provide the dates of such activities. From Date (Month/Year)",
+    "type": 7,
+    "rect": {
+      "x": 351.19000244140625,
+      "y": 197.32501220703125,
+      "width": 83.25100708007812,
+      "height": 17.73101806640625
+    },
+    "section": "29",
+    "subsection": null,
+    "entry": 2,
+    "id": "16244"
+  },
+  {
+    "page": 132,
+    "name": "form1[0].Section29_5[0].From_Datefield_Name_2[3]",
+    "label": "To Date (Month/Year)",
+    "type": 7,
+    "rect": {
+      "x": 472.67999267578125,
+      "y": 197.32501220703125,
+      "width": 76.6199951171875,
+      "height": 17.73101806640625
+    },
+    "section": "29",
+    "subsection": null,
+    "entry": 2,
+    "id": "16242"
+  },
+  {
+    "page": 132,
+    "name": "form1[0].Section29_5[0].#field[13]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 436.44000244140625,
+      "y": 203.2769775390625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "29",
+    "subsection": null,
+    "entry": 2,
+    "id": "16243"
+  },
+  {
+    "page": 132,
+    "name": "form1[0].Section29_5[0].#field[15]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 551.1890258789062,
+      "y": 204.28302001953125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "29",
+    "subsection": null,
+    "entry": 2,
+    "id": "16241"
+  },
+  {
+    "page": 132,
+    "name": "form1[0].Section29_5[0].RadioButtonList[1]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 470.8349914550781,
+      "y": 222.5579833984375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "29",
+    "subsection": null,
+    "entry": 2,
+    "id": "16240"
+  },
+  {
+    "page": 132,
+    "name": "form1[0].Section29_5[0].RadioButtonList[1]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 509.4679870605469,
+      "y": 222.5579833984375,
+      "width": 9.000030517578125,
+      "height": 9.0
+    },
+    "section": "29",
+    "subsection": null,
+    "entry": 2,
+    "id": "16239"
+  },
+  {
+    "page": 132,
+    "name": "form1[0].Section29_5[0].TextField11[1]",
+    "label": "Complete the following if you responded 'Yes' to having EVER associated with anyone involved in activities to further terrorism. Entry #1. Provide explanation. ",
+    "type": 7,
+    "rect": {
+      "x": 35.810001373291016,
+      "y": 278.10198974609375,
+      "width": 558.189998626709,
+      "height": 29.404022216796875
+    },
+    "section": "29",
+    "subsection": null,
+    "entry": 1,
+    "id": "16255"
+  },
+  {
+    "page": 132,
+    "name": "form1[0].Section29_5[0].TextField11[2]",
+    "label": "Entry #2. Provide explanation. ",
+    "type": 7,
+    "rect": {
+      "x": 35.810001373291016,
+      "y": 333.73699951171875,
+      "width": 558.189998626709,
+      "height": 30.0159912109375
+    },
+    "section": "29",
+    "subsection": null,
+    "entry": 2,
+    "id": "16254"
+  },
+  {
+    "page": 132,
+    "name": "form1[0].Section29_5[0].SSN[0]",
+    "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+    "type": 7,
+    "rect": {
+      "x": 476.7279968261719,
+      "y": 739.0009765625,
+      "width": 115.51303100585938,
+      "height": 13.6710205078125
+    },
+    "section": "29",
+    "subsection": null,
+    "entry": 2,
+    "id": "16257"
+  }
+]

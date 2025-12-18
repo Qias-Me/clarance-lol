@@ -1,0 +1,146 @@
+[
+  {
+    "id": "14184",
+    "name": "form1[0].#subform[91].TextField11[232]",
+    "label": "Entry #2. Provide the position held. ",
+    "type": 7,
+    "page": 83,
+    "rect": {
+      "x": 36.0,
+      "y": 207.583984375,
+      "width": 153.0,
+      "height": 25.6090087890625
+    },
+    "section": "20",
+    "subsection": "20B.8",
+    "entry": 2
+  },
+  {
+    "id": "14177",
+    "name": "form1[0].#subform[91].#field[543]",
+    "label": "Present",
+    "type": 2,
+    "page": 83,
+    "rect": {
+      "x": 392.0050048828125,
+      "y": 209.6519775390625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20B.8",
+    "entry": 2
+  },
+  {
+    "id": "14180",
+    "name": "form1[0].#subform[91].From_Datefield_Name_2[46]",
+    "label": "Provide the dates you held political office. From Date (Month/Year)",
+    "type": 7,
+    "page": 83,
+    "rect": {
+      "x": 198.0,
+      "y": 217.9580078125,
+      "width": 67.50100708007812,
+      "height": 17.73101806640625
+    },
+    "section": "20",
+    "subsection": "20B.8",
+    "entry": 2
+  },
+  {
+    "id": "14178",
+    "name": "form1[0].#subform[91].From_Datefield_Name_2[47]",
+    "label": "To Date (Month/Year)",
+    "type": 7,
+    "page": 83,
+    "rect": {
+      "x": 310.5010070800781,
+      "y": 217.9580078125,
+      "width": 75.00198364257812,
+      "height": 17.73101806640625
+    },
+    "section": "20",
+    "subsection": "20B.8",
+    "entry": 2
+  },
+  {
+    "id": "14182",
+    "name": "form1[0].#subform[91].DropDownList15[0]",
+    "label": "Provide the name of the country involved.",
+    "type": 3,
+    "page": 83,
+    "rect": {
+      "x": 441.0,
+      "y": 219.43701171875,
+      "width": 150.13702392578125,
+      "height": 13.7559814453125
+    },
+    "section": "20",
+    "subsection": "20B.8",
+    "entry": 2
+  },
+  {
+    "id": "14179",
+    "name": "form1[0].#subform[91].#field[541]",
+    "label": "Estimate",
+    "type": 2,
+    "page": 83,
+    "rect": {
+      "x": 272.0,
+      "y": 222.18902587890625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20B.8",
+    "entry": 2
+  },
+  {
+    "id": "14176",
+    "name": "form1[0].#subform[91].#field[544]",
+    "label": "Estimate",
+    "type": 2,
+    "page": 83,
+    "rect": {
+      "x": 392.0050048828125,
+      "y": 223.1929931640625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20B.8",
+    "entry": 2
+  },
+  {
+    "id": "14181",
+    "name": "form1[0].#subform[91].TextField11[234]",
+    "label": "Provide the reason(s) for these activities.",
+    "type": 7,
+    "page": 83,
+    "rect": {
+      "x": 36.0,
+      "y": 247.416015625,
+      "width": 265.5010070800781,
+      "height": 15.67999267578125
+    },
+    "section": "20",
+    "subsection": "20B.8",
+    "entry": 2
+  },
+  {
+    "id": "14183",
+    "name": "form1[0].#subform[91].TextField11[233]",
+    "label": "Provide your current eligibility to hold political office in a foreign country.",
+    "type": 7,
+    "page": 83,
+    "rect": {
+      "x": 310.5010070800781,
+      "y": 247.416015625,
+      "width": 280.4999694824219,
+      "height": 14.844970703125
+    },
+    "section": "20",
+    "subsection": "20B.8",
+    "entry": 2
+  }
+]

@@ -1,0 +1,210 @@
+[
+  {
+    "id": "13877",
+    "name": "form1[0].#subform[77].TextField11[119]",
+    "label": "Entry #2. Provide a description of advice/support provided.",
+    "type": 7,
+    "page": 76,
+    "rect": {
+      "x": 36.0,
+      "y": 286.4840087890625,
+      "width": 184.5,
+      "height": 24.510986328125
+    },
+    "section": "20",
+    "subsection": "20B.1",
+    "entry": 2
+  },
+  {
+    "id": "13882",
+    "name": "form1[0].#subform[77].TextField11[116]",
+    "label": "First name",
+    "type": 7,
+    "page": 76,
+    "rect": {
+      "x": 346.5010070800781,
+      "y": 295.2460021972656,
+      "width": 117.0,
+      "height": 15.75
+    },
+    "section": "20",
+    "subsection": "20B.1",
+    "entry": 2
+  },
+  {
+    "id": "13880",
+    "name": "form1[0].#subform[77].suffix[11]",
+    "label": "Suffix",
+    "type": 3,
+    "page": 76,
+    "rect": {
+      "x": 549.0,
+      "y": 295.2460021972656,
+      "width": 44.87799072265625,
+      "height": 15.75
+    },
+    "section": "20",
+    "subsection": "20B.1",
+    "entry": 2
+  },
+  {
+    "id": "13883",
+    "name": "form1[0].#subform[77].TextField11[115]",
+    "label": "Provide the name of the individual to whom advice or support was provided. Last name",
+    "type": 7,
+    "page": 76,
+    "rect": {
+      "x": 225.0,
+      "y": 295.38800048828125,
+      "width": 117.0,
+      "height": 15.608001708984375
+    },
+    "section": "20",
+    "subsection": "20B.1",
+    "entry": 2
+  },
+  {
+    "id": "13881",
+    "name": "form1[0].#subform[77].TextField11[117]",
+    "label": "Middle name",
+    "type": 7,
+    "page": 76,
+    "rect": {
+      "x": 468.0,
+      "y": 296.010986328125,
+      "width": 76.5,
+      "height": 14.985015869140625
+    },
+    "section": "20",
+    "subsection": "20B.1",
+    "entry": 2
+  },
+  {
+    "id": "13879",
+    "name": "form1[0].#subform[77].#area[18].TextField11[118]",
+    "label": "Provide the name of the foreign organization or foreign business with whom the individual\nis associated.",
+    "type": 7,
+    "page": 76,
+    "rect": {
+      "x": 36.0,
+      "y": 334.6130065917969,
+      "width": 326.9989929199219,
+      "height": 14.04498291015625
+    },
+    "section": "20",
+    "subsection": "20B.1",
+    "entry": 2
+  },
+  {
+    "id": "13878",
+    "name": "form1[0].#subform[77].#area[18].DropDownList29[0]",
+    "label": "Provide the country of origin for the organization or business.",
+    "type": 3,
+    "page": 76,
+    "rect": {
+      "x": 369.0,
+      "y": 334.6130065917969,
+      "width": 224.87799072265625,
+      "height": 14.04498291015625
+    },
+    "section": "20",
+    "subsection": "20B.1",
+    "entry": 2
+  },
+  {
+    "id": "13871",
+    "name": "form1[0].#subform[77].TextField11[120]",
+    "label": "Describe what compensation, if any, was provided for your service.",
+    "type": 7,
+    "page": 76,
+    "rect": {
+      "x": 310.5010070800781,
+      "y": 362.3840026855469,
+      "width": 283.5010070800781,
+      "height": 27.50799560546875
+    },
+    "section": "20",
+    "subsection": "20B.1",
+    "entry": 2
+  },
+  {
+    "id": "13873",
+    "name": "form1[0].#subform[77].#area[19].#field[295]",
+    "label": "Present",
+    "type": 2,
+    "page": 76,
+    "rect": {
+      "x": 258.50299072265625,
+      "y": 365.8909912109375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20B.1",
+    "entry": 2
+  },
+  {
+    "id": "13876",
+    "name": "form1[0].#subform[77].#area[19].From_Datefield_Name_2[20]",
+    "label": "Provide the date(s) during which this advice or support was provided. From Date (Month/Year)",
+    "type": 7,
+    "page": 76,
+    "rect": {
+      "x": 36.0,
+      "y": 372.2080078125,
+      "width": 90.0,
+      "height": 17.67999267578125
+    },
+    "section": "20",
+    "subsection": "20B.1",
+    "entry": 2
+  },
+  {
+    "id": "13874",
+    "name": "form1[0].#subform[77].#area[19].From_Datefield_Name_2[21]",
+    "label": "To Date (Month/Year)",
+    "type": 7,
+    "page": 76,
+    "rect": {
+      "x": 171.0,
+      "y": 372.2080078125,
+      "width": 82.00100708007812,
+      "height": 17.67999267578125
+    },
+    "section": "20",
+    "subsection": "20B.1",
+    "entry": 2
+  },
+  {
+    "id": "13875",
+    "name": "form1[0].#subform[77].#area[19].#field[293]",
+    "label": "Estimate",
+    "type": 2,
+    "page": 76,
+    "rect": {
+      "x": 132.50100708007812,
+      "y": 378.25299072265625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20B.1",
+    "entry": 2
+  },
+  {
+    "id": "13872",
+    "name": "form1[0].#subform[77].#area[19].#field[296]",
+    "label": "Estimate",
+    "type": 2,
+    "page": 76,
+    "rect": {
+      "x": 258.5010070800781,
+      "y": 378.25299072265625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20B.1",
+    "entry": 2
+  }
+]

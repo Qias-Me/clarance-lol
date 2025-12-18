@@ -1,0 +1,242 @@
+[
+  {
+    "page": 35,
+    "name": "form1[0].Section15_2[0].#area[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 423.5249938964844,
+      "y": 78.55499267578125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "15",
+    "subsection": null,
+    "entry": null,
+    "id": "11480"
+  },
+  {
+    "page": 35,
+    "name": "form1[0].Section15_2[0].#area[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 462.2179870605469,
+      "y": 78.55499267578125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "15",
+    "subsection": null,
+    "entry": null,
+    "id": "11479"
+  },
+  {
+    "page": 35,
+    "name": "form1[0].Section15_2[0].From_Datefield_Name_2[0]",
+    "label": "15.2 Complete the following if you responded 'Yes' to In the last seven (7) years, have you been subject to court martial or other disciplinary procedure under the Uniform Code of Military Justice (UCMJ), such as Article 15, Captain's Mast, Article 135 Court of Inquiry, etc. Entry #1.  Provide the date of the court martial or other disciplinary procedure. (Month/Year)",
+    "type": 7,
+    "rect": {
+      "x": 36.0,
+      "y": 152.573974609375,
+      "width": 285.7489929199219,
+      "height": 17.6800537109375
+    },
+    "section": "15",
+    "subsection": null,
+    "entry": 1,
+    "id": "11477"
+  },
+  {
+    "page": 35,
+    "name": "form1[0].Section15_2[0].#field[2]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 328.2510070800781,
+      "y": 157.00701904296875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "15",
+    "subsection": null,
+    "entry": 1,
+    "id": "11478"
+  },
+  {
+    "page": 35,
+    "name": "form1[0].Section15_2[0].From_Datefield_Name_2[2]",
+    "label": "Provide the name of the disciplinary procedure, such as Court Martial, Article 15, Captain's mast, Article 135 Court of Inquiry, etc.",
+    "type": 7,
+    "rect": {
+      "x": 316.0010070800781,
+      "y": 194.5,
+      "width": 269.9999694824219,
+      "height": 28.5009765625
+    },
+    "section": "15",
+    "subsection": null,
+    "entry": 1,
+    "id": "11475"
+  },
+  {
+    "page": 35,
+    "name": "form1[0].Section15_2[0].From_Datefield_Name_2[1]",
+    "label": "Provide a description of the Uniform Code of Military Justice (U C M J) offense(s) for which you were charged.",
+    "type": 7,
+    "rect": {
+      "x": 36.0,
+      "y": 195.37298583984375,
+      "width": 270.0,
+      "height": 28.50103759765625
+    },
+    "section": "15",
+    "subsection": null,
+    "entry": 1,
+    "id": "11476"
+  },
+  {
+    "page": 35,
+    "name": "form1[0].Section15_2[0].From_Datefield_Name_2[3]",
+    "label": "Provide the description of the military court or other authority in which you were charged (title of court or convening authority, address, to include city and state or country if overseas).",
+    "type": 7,
+    "rect": {
+      "x": 36.0,
+      "y": 253.0,
+      "width": 270.0,
+      "height": 28.501007080078125
+    },
+    "section": "15",
+    "subsection": null,
+    "entry": 1,
+    "id": "11474"
+  },
+  {
+    "page": 35,
+    "name": "form1[0].Section15_2[0].From_Datefield_Name_2[4]",
+    "label": "Provide the description of the final outcome of the disciplinary procedure, such as found guilty, found not guilty, fine, reduction in rank, \rimprisonment, etc.",
+    "type": 7,
+    "rect": {
+      "x": 316.0010070800781,
+      "y": 253.0,
+      "width": 269.9999694824219,
+      "height": 28.501007080078125
+    },
+    "section": "15",
+    "subsection": null,
+    "entry": 1,
+    "id": "11473"
+  },
+  {
+    "page": 35,
+    "name": "form1[0].Section15_2[0].From_Datefield_Name_2[5]",
+    "label": "15.2 Entry #2.  Provide the date of the court martial or other disciplinary procedure. (Month/Year)",
+    "type": 7,
+    "rect": {
+      "x": 36.0,
+      "y": 304.5790100097656,
+      "width": 285.7489929199219,
+      "height": 17.67999267578125
+    },
+    "section": "15",
+    "subsection": null,
+    "entry": 2,
+    "id": "11471"
+  },
+  {
+    "page": 35,
+    "name": "form1[0].Section15_2[0].#field[8]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 328.2510070800781,
+      "y": 309.0119934082031,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "15",
+    "subsection": null,
+    "entry": 2,
+    "id": "11472"
+  },
+  {
+    "page": 35,
+    "name": "form1[0].Section15_2[0].From_Datefield_Name_2[6]",
+    "label": "Provide a description of the Uniform Code of Military Justice (U C M J) offense(s) for which you were charged.",
+    "type": 7,
+    "rect": {
+      "x": 36.0,
+      "y": 346.5050048828125,
+      "width": 270.0,
+      "height": 28.501007080078125
+    },
+    "section": "15",
+    "subsection": null,
+    "entry": 2,
+    "id": "11470"
+  },
+  {
+    "page": 35,
+    "name": "form1[0].Section15_2[0].From_Datefield_Name_2[7]",
+    "label": "Provide the name of the disciplinary procedure, such as Court Martial, Article 15, Captain's mast, Article 135 Court of Inquiry, etc.",
+    "type": 7,
+    "rect": {
+      "x": 316.0010070800781,
+      "y": 346.5050048828125,
+      "width": 269.9999694824219,
+      "height": 28.501007080078125
+    },
+    "section": "15",
+    "subsection": null,
+    "entry": 2,
+    "id": "11469"
+  },
+  {
+    "page": 35,
+    "name": "form1[0].Section15_2[0].From_Datefield_Name_2[8]",
+    "label": "Provide the description of the military court or other authority in which you were charged (title of court or convening authority, address, to include city and state or country if overseas).",
+    "type": 7,
+    "rect": {
+      "x": 36.0,
+      "y": 405.0050048828125,
+      "width": 270.0,
+      "height": 28.501007080078125
+    },
+    "section": "15",
+    "subsection": null,
+    "entry": 2,
+    "id": "11468"
+  },
+  {
+    "page": 35,
+    "name": "form1[0].Section15_2[0].From_Datefield_Name_2[9]",
+    "label": "Provide the description of the final outcome of the disciplinary procedure, such as found guilty, found not guilty, fine, reduction in rank, \rimprisonment, etc.",
+    "type": 7,
+    "rect": {
+      "x": 316.0010070800781,
+      "y": 405.0050048828125,
+      "width": 269.9999694824219,
+      "height": 28.501007080078125
+    },
+    "section": "15",
+    "subsection": null,
+    "entry": 2,
+    "id": "11467"
+  },
+  {
+    "page": 35,
+    "name": "form1[0].Section15_2[0].SSN[0]",
+    "label": "Enter Social Security Number; this box will prefill on all other pages of the form ",
+    "type": 7,
+    "rect": {
+      "x": 476.7279968261719,
+      "y": 739.0009765625,
+      "width": 115.51303100585938,
+      "height": 13.6710205078125
+    },
+    "section": "15",
+    "subsection": null,
+    "entry": 2,
+    "id": "11481"
+  }
+]

@@ -1,0 +1,1298 @@
+[
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 511.1719970703125,
+      "y": 96.38800048828125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": null,
+    "id": "13141"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 475.1719970703125,
+      "y": 96.7490234375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": null,
+    "id": "13140"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].#area[0].#field[5]",
+    "label": "Complete the following if you responded 'Yes' to have, or have had, close and/or continuing contact with a foreign national. #1. Provide the full name of the foreign national, if known. I don't know",
+    "type": 2,
+    "rect": {
+      "x": 451.99798583984375,
+      "y": 152.25,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13136"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].#area[0].Name_List_Long[0].TextField11[1]",
+    "label": "Last name",
+    "type": 7,
+    "rect": {
+      "x": 36.0,
+      "y": 171.7650146484375,
+      "width": 130.8780059814453,
+      "height": 15.1510009765625
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13133"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].#area[0].Name_List_Long[0].TextField11[2]",
+    "label": "First name",
+    "type": 7,
+    "rect": {
+      "x": 169.99899291992188,
+      "y": 172.0009765625,
+      "width": 130.00302124023438,
+      "height": 14.9150390625
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13132"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].#area[0].Name_List_Long[0].suffix[0]",
+    "label": "Suffix",
+    "type": 3,
+    "rect": {
+      "x": 406.385986328125,
+      "y": 172.0009765625,
+      "width": 40.0,
+      "height": 17.75
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13135"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].#area[0].Name_List_Long[0].TextField11[3]",
+    "label": "Explanation if name is unknown",
+    "type": 7,
+    "rect": {
+      "x": 451.3599853515625,
+      "y": 172.14300537109375,
+      "width": 142.6390380859375,
+      "height": 14.77301025390625
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13131"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].#area[0].Name_List_Long[0].TextField11[0]",
+    "label": "Middle name",
+    "type": 7,
+    "rect": {
+      "x": 303.0010070800781,
+      "y": 172.7659912109375,
+      "width": 97.99899291992188,
+      "height": 14.1500244140625
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13134"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].#area[1].From_Datefield_Name_2[0]",
+    "label": "Provide approximate date of first contact. (Month/Year)",
+    "type": 7,
+    "rect": {
+      "x": 36.0,
+      "y": 201.82000732421875,
+      "width": 189.0,
+      "height": 17.67999267578125
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13130"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].#area[1].From_Datefield_Name_2[1]",
+    "label": "Provide approximate date of last contact. (Month/Year)",
+    "type": 7,
+    "rect": {
+      "x": 270.20098876953125,
+      "y": 201.82000732421875,
+      "width": 188.79901123046875,
+      "height": 17.67999267578125
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13128"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].#area[1].#field[7]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 236.0,
+      "y": 206.01702880859375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13129"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].#area[1].#field[9]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 470.0,
+      "y": 207.01800537109375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13127"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].#field[12]",
+    "label": "Provide methods of contact (Check all that apply). In person",
+    "type": 2,
+    "rect": {
+      "x": 38.5,
+      "y": 234.24700927734375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13124"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].#field[10]",
+    "label": "Telephone",
+    "type": 2,
+    "rect": {
+      "x": 179.37899780273438,
+      "y": 234.24700927734375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13126"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].#field[11]",
+    "label": "Electronic (Such as e-mail, texting, chat rooms, etc)",
+    "type": 2,
+    "rect": {
+      "x": 305.1319885253906,
+      "y": 234.24700927734375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13125"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].TextField11[0]",
+    "label": "(Provide explanation)",
+    "type": 7,
+    "rect": {
+      "x": 301.1969909667969,
+      "y": 244.99798583984375,
+      "width": 289.6789855957031,
+      "height": 17.00201416015625
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13122"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].#field[13]",
+    "label": "Written correspondence",
+    "type": 2,
+    "rect": {
+      "x": 38.5,
+      "y": 248.9990234375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13123"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].#field[15]",
+    "label": "Other ",
+    "type": 2,
+    "rect": {
+      "x": 179.37899780273438,
+      "y": 248.9990234375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13121"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].RadioButtonList[1]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 38.5,
+      "y": 277.48699951171875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13120"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].RadioButtonList[1]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 179.37899780273438,
+      "y": 278.4959716796875,
+      "width": 9.0,
+      "height": 9.000030517578125
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13118"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].RadioButtonList[1]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 305.1319885253906,
+      "y": 278.4959716796875,
+      "width": 9.0,
+      "height": 9.000030517578125
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13116"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].TextField11[1]",
+    "label": "(Provide explanation)",
+    "type": 7,
+    "rect": {
+      "x": 425.3760070800781,
+      "y": 288.2489929199219,
+      "width": 165.49996948242188,
+      "height": 17.00201416015625
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13195"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].RadioButtonList[1]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 38.5,
+      "y": 292.25,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13119"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].RadioButtonList[1]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 179.37899780273438,
+      "y": 292.25,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13117"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].RadioButtonList[1]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 305.1319885253906,
+      "y": 292.25,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13196"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].#field[20]",
+    "label": "Provide the nature of relationship (select all that apply). Professional or Business",
+    "type": 2,
+    "rect": {
+      "x": 38.5,
+      "y": 318.7619934082031,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13191"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].personal[0]",
+    "label": "Personal (Such as family ties, friendship, affection, common interests, etc)",
+    "type": 2,
+    "rect": {
+      "x": 314.5010070800781,
+      "y": 318.7619934082031,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13192"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].TextField11[3]",
+    "label": "(Provide explanation)",
+    "type": 7,
+    "rect": {
+      "x": 177.4040069580078,
+      "y": 329.260986328125,
+      "width": 130.8459930419922,
+      "height": 17.00201416015625
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13190"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].TextField11[2]",
+    "label": "(Provide explanation)",
+    "type": 7,
+    "rect": {
+      "x": 434.24200439453125,
+      "y": 329.260986328125,
+      "width": 157.50701904296875,
+      "height": 17.00201416015625
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13194"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].#field[22]",
+    "label": "Obligation ",
+    "type": 2,
+    "rect": {
+      "x": 38.5,
+      "y": 333.260986328125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13189"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].other[0]",
+    "label": "Other ",
+    "type": 2,
+    "rect": {
+      "x": 314.5010070800781,
+      "y": 333.260986328125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13193"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].Table2[0].Row1[0].Cell4[0]",
+    "label": "Suffix. Row 1",
+    "type": 3,
+    "rect": {
+      "x": 526.2150268554688,
+      "y": 374.95599365234375,
+      "width": 67.78497314453125,
+      "height": 16.631011962890625
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13185"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].Table2[0].Row1[0].Cell1[0]",
+    "label": "Provide other names and/or nicknames, as appropriate. Last name. Row 1",
+    "type": 7,
+    "rect": {
+      "x": 38.2760009765625,
+      "y": 376.37298583984375,
+      "width": 159.26800537109375,
+      "height": 13.797027587890625
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13188"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].Table2[0].Row1[0].Cell2[0]",
+    "label": "First name. Row 1",
+    "type": 7,
+    "rect": {
+      "x": 200.3780059814453,
+      "y": 376.37298583984375,
+      "width": 165.41600036621094,
+      "height": 13.797027587890625
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13187"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].Table2[0].Row1[0].Cell3[0]",
+    "label": "Middle name. Row 1",
+    "type": 7,
+    "rect": {
+      "x": 368.62799072265625,
+      "y": 376.37298583984375,
+      "width": 156.16998291015625,
+      "height": 13.797027587890625
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13186"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].Table2[0].Row2[0].Cell4[0]",
+    "label": "Suffix. Row 2",
+    "type": 3,
+    "rect": {
+      "x": 526.2150268554688,
+      "y": 391.5870056152344,
+      "width": 67.78497314453125,
+      "height": 15.941986083984375
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13181"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].Table2[0].Row2[0].Cell1[0]",
+    "label": "Last name. Row 2",
+    "type": 7,
+    "rect": {
+      "x": 38.2760009765625,
+      "y": 393.0039978027344,
+      "width": 159.26800537109375,
+      "height": 13.108001708984375
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13184"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].Table2[0].Row2[0].Cell2[0]",
+    "label": "First name. Row 2",
+    "type": 7,
+    "rect": {
+      "x": 200.3780059814453,
+      "y": 393.0039978027344,
+      "width": 165.41600036621094,
+      "height": 13.108001708984375
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13183"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].Table2[0].Row2[0].Cell3[0]",
+    "label": "Middle name. Row 2",
+    "type": 7,
+    "rect": {
+      "x": 368.62799072265625,
+      "y": 393.0039978027344,
+      "width": 156.16998291015625,
+      "height": 13.108001708984375
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13182"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].Table2[0].Row3[0].Cell4[0]",
+    "label": "Suffix. Row 3",
+    "type": 3,
+    "rect": {
+      "x": 526.2150268554688,
+      "y": 407.52899169921875,
+      "width": 67.78497314453125,
+      "height": 15.9420166015625
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13177"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].Table2[0].Row3[0].Cell1[0]",
+    "label": "Last name. Row 3",
+    "type": 7,
+    "rect": {
+      "x": 38.2760009765625,
+      "y": 408.9460144042969,
+      "width": 159.26800537109375,
+      "height": 13.10797119140625
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13180"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].Table2[0].Row3[0].Cell2[0]",
+    "label": "First name. Row 3",
+    "type": 7,
+    "rect": {
+      "x": 200.3780059814453,
+      "y": 408.9460144042969,
+      "width": 165.41600036621094,
+      "height": 13.10797119140625
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13179"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].Table2[0].Row3[0].Cell3[0]",
+    "label": "Middle name. Row 3",
+    "type": 7,
+    "rect": {
+      "x": 368.62799072265625,
+      "y": 408.9460144042969,
+      "width": 156.16998291015625,
+      "height": 13.10797119140625
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13178"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].Table2[0].Row5[0].Cell4[0]",
+    "label": "Suffix. Row 4",
+    "type": 3,
+    "rect": {
+      "x": 526.2150268554688,
+      "y": 423.47100830078125,
+      "width": 67.78497314453125,
+      "height": 15.397979736328125
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13173"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].Table2[0].Row5[0].Cell1[0]",
+    "label": "Last name. Row 4",
+    "type": 7,
+    "rect": {
+      "x": 38.2760009765625,
+      "y": 424.88800048828125,
+      "width": 159.26800537109375,
+      "height": 12.563995361328125
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13176"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].Table2[0].Row5[0].Cell2[0]",
+    "label": "First name. Row 4",
+    "type": 7,
+    "rect": {
+      "x": 200.3780059814453,
+      "y": 424.88800048828125,
+      "width": 165.41600036621094,
+      "height": 12.563995361328125
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13175"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].Table2[0].Row5[0].Cell3[0]",
+    "label": "Middle name. Row 4",
+    "type": 7,
+    "rect": {
+      "x": 368.62799072265625,
+      "y": 424.88800048828125,
+      "width": 156.16998291015625,
+      "height": 12.563995361328125
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13174"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].DropDownList12[0]",
+    "label": "Provide country(ies) of citizenship. Country #1",
+    "type": 3,
+    "rect": {
+      "x": 36.0,
+      "y": 461.68499755859375,
+      "width": 198.0,
+      "height": 17.608001708984375
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13138"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].DropDownList12[1]",
+    "label": "Country #2",
+    "type": 3,
+    "rect": {
+      "x": 243.0,
+      "y": 461.68499755859375,
+      "width": 195.70700073242188,
+      "height": 17.608001708984375
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13137"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].#field[2]",
+    "label": "Provide place of birth. I don't know.",
+    "type": 2,
+    "rect": {
+      "x": 339.5010070800781,
+      "y": 483.0,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13139"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].#field[25]",
+    "label": "Provide date of birth.\r(Month/Day/Year). I don't know",
+    "type": 2,
+    "rect": {
+      "x": 123.5009994506836,
+      "y": 484.0450134277344,
+      "width": 9.000007629394531,
+      "height": 9.0
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13170"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].From_Datefield_Name_2[2]",
+    "label": "Provide date of birth.\r(Month/Day/Year)",
+    "type": 7,
+    "rect": {
+      "x": 36.0,
+      "y": 501.2340087890625,
+      "width": 83.2509994506836,
+      "height": 16.31201171875
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13171"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].TextField11[15]",
+    "label": "Provide place of birth. City",
+    "type": 7,
+    "rect": {
+      "x": 243.0,
+      "y": 502.0469970703125,
+      "width": 144.0,
+      "height": 14.9150390625
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13143"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].DropDownList43[0]",
+    "label": "Country (If country unknown, requires explanation)",
+    "type": 3,
+    "rect": {
+      "x": 396.0,
+      "y": 502.0469970703125,
+      "width": 198.0,
+      "height": 14.9150390625
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13144"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].#field[23]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 123.5009994506836,
+      "y": 508.7980041503906,
+      "width": 9.000007629394531,
+      "height": 8.999969482421875
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13172"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].#field[31]",
+    "label": "Provide current address. (Provide City and Country if outside the United States; otherwise, provide City, State and Zip Code.) I don't know.",
+    "type": 2,
+    "rect": {
+      "x": 533.4840087890625,
+      "y": 524.2490234375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13164"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].TextField11[5]",
+    "label": "City",
+    "type": 7,
+    "rect": {
+      "x": 202.50100708007812,
+      "y": 543.5549926757812,
+      "width": 126.0,
+      "height": 14.91497802734375
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13168"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].DropDownList42[0]",
+    "label": "Country",
+    "type": 3,
+    "rect": {
+      "x": 447.0010070800781,
+      "y": 543.5549926757812,
+      "width": 146.99899291992188,
+      "height": 14.91497802734375
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13166"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].TextField11[4]",
+    "label": "Provide current address. (Provide City and Country if outside the United States; otherwise, provide City, State and Zip Code.) Street",
+    "type": 7,
+    "rect": {
+      "x": 36.0,
+      "y": 543.697021484375,
+      "width": 162.0,
+      "height": 14.77294921875
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13169"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].School6_State[0]",
+    "label": "State",
+    "type": 3,
+    "rect": {
+      "x": 331.20001220703125,
+      "y": 543.697021484375,
+      "width": 46.79998779296875,
+      "height": 17.60797119140625
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13167"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].TextField11[6]",
+    "label": "Zip Code",
+    "type": 7,
+    "rect": {
+      "x": 380.72698974609375,
+      "y": 544.3200073242188,
+      "width": 62.524017333984375,
+      "height": 14.14996337890625
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13165"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].#area[3].RadioButtonList[3]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 38.834999084472656,
+      "y": 577.75,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13149"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].#area[3].TextField11[14]",
+    "label": "A P O or F P O",
+    "type": 7,
+    "rect": {
+      "x": 324.0450134277344,
+      "y": 584.9459838867188,
+      "width": 99.0,
+      "height": 17.75
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13146"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].#area[3].TextField11[13]",
+    "label": "Address",
+    "type": 7,
+    "rect": {
+      "x": 155.25100708007812,
+      "y": 585.0880126953125,
+      "width": 162.0,
+      "height": 17.60797119140625
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13147"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].#area[3].School6_State[2]",
+    "label": "A P O / F P O State Code",
+    "type": 3,
+    "rect": {
+      "x": 430.875,
+      "y": 585.0880126953125,
+      "width": 94.5009765625,
+      "height": 17.60797119140625
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13145"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].#area[3].TextField11[12]",
+    "label": "Zip Code",
+    "type": 7,
+    "rect": {
+      "x": 529.1400146484375,
+      "y": 585.0880126953125,
+      "width": 64.0009765625,
+      "height": 17.60797119140625
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13151"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].#area[3].RadioButtonList[3]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 38.834999084472656,
+      "y": 591.2509765625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13150"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].#area[3].RadioButtonList[3]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 80.85800170898438,
+      "y": 591.2509765625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13148"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].TextField11[7]",
+    "label": "Provide the name of the foreign national's current employer, or provide the name of their most recent employer if not currently employed. Employer name",
+    "type": 7,
+    "rect": {
+      "x": 36.0,
+      "y": 623.7440185546875,
+      "width": 263.9989929199219,
+      "height": 14.58099365234375
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13163"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].#field[33]",
+    "label": "Provide the name of the foreign national's current employer, or provide the name of their most recent employer if not currently employed. I don't know",
+    "type": 2,
+    "rect": {
+      "x": 306.0,
+      "y": 629.5419921875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13162"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].#area[2].#field[39]",
+    "label": "Provide the address of the foreign national's current employer, or provide the address of their most recent employer if not currently employed. (Provide City and Country if outside the United States; otherwise, provide City, State and Zip Code.) I don't know",
+    "type": 2,
+    "rect": {
+      "x": 531.4819946289062,
+      "y": 648.9990234375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13156"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].#area[2].DropDownList41[0]",
+    "label": "Country",
+    "type": 3,
+    "rect": {
+      "x": 447.0010070800781,
+      "y": 672.22802734375,
+      "width": 146.99899291992188,
+      "height": 14.91497802734375
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13158"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].#area[2].TextField11[8]",
+    "label": "Street",
+    "type": 7,
+    "rect": {
+      "x": 36.0,
+      "y": 672.3699951171875,
+      "width": 162.0,
+      "height": 14.77301025390625
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13161"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].#area[2].School6_State[1]",
+    "label": "State",
+    "type": 3,
+    "rect": {
+      "x": 331.20001220703125,
+      "y": 672.3699951171875,
+      "width": 46.79998779296875,
+      "height": 17.6080322265625
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13159"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].#area[2].TextField11[9]",
+    "label": "City",
+    "type": 7,
+    "rect": {
+      "x": 202.50100708007812,
+      "y": 672.9929809570312,
+      "width": 126.0,
+      "height": 14.1500244140625
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13160"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].#area[2].TextField11[10]",
+    "label": "Zip Code",
+    "type": 7,
+    "rect": {
+      "x": 380.72698974609375,
+      "y": 674.1389770507812,
+      "width": 62.524017333984375,
+      "height": 13.0040283203125
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13157"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].RadioButtonList[2]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 38.834999084472656,
+      "y": 707.4349975585938,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13155"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].TextField11[11]",
+    "label": "Describe the contact's relationship with the foreign government, military, security, defense industry, or intelligence service.",
+    "type": 7,
+    "rect": {
+      "x": 144.0,
+      "y": 714.385009765625,
+      "width": 446.0,
+      "height": 18.7559814453125
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13152"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].RadioButtonList[2]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 38.834999084472656,
+      "y": 722.280029296875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13154"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].RadioButtonList[2]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 80.85600280761719,
+      "y": 722.280029296875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13153"
+  },
+  {
+    "page": 63,
+    "name": "form1[0].Section19_1[0].SSN[0]",
+    "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+    "type": 7,
+    "rect": {
+      "x": 476.7279968261719,
+      "y": 739.125,
+      "width": 115.51303100585938,
+      "height": 13.6710205078125
+    },
+    "section": "19",
+    "subsection": null,
+    "entry": 1,
+    "id": "13142"
+  }
+]

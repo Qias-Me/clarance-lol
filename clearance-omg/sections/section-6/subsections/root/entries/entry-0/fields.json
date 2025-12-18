@@ -1,0 +1,130 @@
+[
+  {
+    "id": "9439",
+    "name": "form1[0].Sections1-6[0].p3-rb3b[0]",
+    "label": "p3-rb3b",
+    "type": 5,
+    "page": 5,
+    "rect": {
+      "x": 534.02197265625,
+      "y": 621.0910034179688,
+      "width": 10.0,
+      "height": 10.0
+    },
+    "section": "6",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "9434",
+    "name": "form1[0].Sections1-6[0].DropDownList8[0]",
+    "label": "Section 6. Your Identifying Information. Provide your identifying information. Height (feet).",
+    "type": 3,
+    "page": 5,
+    "rect": {
+      "x": 27.0,
+      "y": 629.3989868164062,
+      "width": 32.49399948120117,
+      "height": 14.77398681640625
+    },
+    "section": "6",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "9433",
+    "name": "form1[0].Sections1-6[0].DropDownList7[0]",
+    "label": "Height (inches)",
+    "type": 3,
+    "page": 5,
+    "rect": {
+      "x": 85.5009994506836,
+      "y": 629.3989868164062,
+      "width": 38.625,
+      "height": 14.77398681640625
+    },
+    "section": "6",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "9438",
+    "name": "form1[0].Sections1-6[0].TextField11[5]",
+    "label": "Weight (in pounds)",
+    "type": 7,
+    "page": 5,
+    "rect": {
+      "x": 159.5,
+      "y": 629.4000244140625,
+      "width": 70.50300598144531,
+      "height": 14.77294921875
+    },
+    "section": "6",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "9437",
+    "name": "form1[0].Sections1-6[0].DropDownList10[0]",
+    "label": "Hair color",
+    "type": 3,
+    "page": 5,
+    "rect": {
+      "x": 237.0760040283203,
+      "y": 629.4000244140625,
+      "width": 144.9409942626953,
+      "height": 14.77294921875
+    },
+    "section": "6",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "9436",
+    "name": "form1[0].Sections1-6[0].DropDownList9[0]",
+    "label": "Eye color",
+    "type": 3,
+    "page": 5,
+    "rect": {
+      "x": 389.07501220703125,
+      "y": 629.4000244140625,
+      "width": 120.94000244140625,
+      "height": 14.77294921875
+    },
+    "section": "6",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "9440",
+    "name": "form1[0].Sections1-6[0].p3-rb3b[0]",
+    "label": "p3-rb3b",
+    "type": 5,
+    "page": 5,
+    "rect": {
+      "x": 534.02197265625,
+      "y": 634.0579833984375,
+      "width": 10.0,
+      "height": 10.0
+    },
+    "section": "6",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "9452",
+    "name": "form1[0].Sections1-6[0].SSN[0]",
+    "label": "Your Social Security Number will auto-fill based on answer provided in section 4.",
+    "type": 7,
+    "page": 5,
+    "rect": {
+      "x": 476.7279968261719,
+      "y": 739.0009765625,
+      "width": 115.51303100585938,
+      "height": 13.6710205078125
+    },
+    "section": "6",
+    "subsection": null,
+    "entry": null
+  }
+]

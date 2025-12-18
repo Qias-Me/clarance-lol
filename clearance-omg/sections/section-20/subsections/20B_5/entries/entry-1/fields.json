@@ -1,0 +1,258 @@
+[
+  {
+    "id": "13993",
+    "name": "form1[0].#subform[80].TextField11[177]",
+    "label": "Complete the following if you responded 'Yes' to in the last seven (7) years having attended or participated in any conferences, trade shows, seminars, or meetings outside the U.S.  Entry #1. Provide the name and description of event.",
+    "type": 7,
+    "page": 79,
+    "rect": {
+      "x": 36.0,
+      "y": 160.18902587890625,
+      "width": 177.00100708007812,
+      "height": 25.60894775390625
+    },
+    "section": "20",
+    "subsection": "20B.5",
+    "entry": 1
+  },
+  {
+    "id": "13991",
+    "name": "form1[0].#subform[80].TextField11[178]",
+    "label": "Provide the purpose of the event.",
+    "type": 7,
+    "page": 79,
+    "rect": {
+      "x": 441.0,
+      "y": 160.81201171875,
+      "width": 153.0,
+      "height": 24.9859619140625
+    },
+    "section": "20",
+    "subsection": "20B.5",
+    "entry": 1
+  },
+  {
+    "id": "13986",
+    "name": "form1[0].#subform[80].#field[411]",
+    "label": "Present",
+    "type": 2,
+    "page": 79,
+    "rect": {
+      "x": 389.0010070800781,
+      "y": 161.15399169921875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20B.5",
+    "entry": 1
+  },
+  {
+    "id": "13989",
+    "name": "form1[0].#subform[80].From_Datefield_Name_2[32]",
+    "label": "Provide the dates for the event. From Date (Month/Year)",
+    "type": 7,
+    "page": 79,
+    "rect": {
+      "x": 216.0,
+      "y": 170.322021484375,
+      "width": 50.944000244140625,
+      "height": 17.73095703125
+    },
+    "section": "20",
+    "subsection": "20B.5",
+    "entry": 1
+  },
+  {
+    "id": "13987",
+    "name": "form1[0].#subform[80].From_Datefield_Name_2[33]",
+    "label": "To Date (Month/Year)",
+    "type": 7,
+    "page": 79,
+    "rect": {
+      "x": 310.5010070800781,
+      "y": 170.322021484375,
+      "width": 51.94500732421875,
+      "height": 17.73095703125
+    },
+    "section": "20",
+    "subsection": "20B.5",
+    "entry": 1
+  },
+  {
+    "id": "13988",
+    "name": "form1[0].#subform[80].#field[409]",
+    "label": "Estimate",
+    "type": 2,
+    "page": 79,
+    "rect": {
+      "x": 276.4989929199219,
+      "y": 174.69500732421875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20B.5",
+    "entry": 1
+  },
+  {
+    "id": "13985",
+    "name": "form1[0].#subform[80].#field[412]",
+    "label": "Estimate",
+    "type": 2,
+    "page": 79,
+    "rect": {
+      "x": 389.0,
+      "y": 174.69500732421875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20B.5",
+    "entry": 1
+  },
+  {
+    "id": "13990",
+    "name": "form1[0].#subform[80].TextField11[179]",
+    "label": "Provide the name of sponsoring organization.",
+    "type": 7,
+    "page": 79,
+    "rect": {
+      "x": 36.0,
+      "y": 200.02001953125,
+      "width": 177.00100708007812,
+      "height": 15.67999267578125
+    },
+    "section": "20",
+    "subsection": "20B.5",
+    "entry": 1
+  },
+  {
+    "id": "13984",
+    "name": "form1[0].#subform[80].TextField11[180]",
+    "label": "Provide the city where the event was held.",
+    "type": 7,
+    "page": 79,
+    "rect": {
+      "x": 216.0,
+      "y": 200.02001953125,
+      "width": 162.0,
+      "height": 15.67999267578125
+    },
+    "section": "20",
+    "subsection": "20B.5",
+    "entry": 1
+  },
+  {
+    "id": "13992",
+    "name": "form1[0].#subform[80].DropDownList21[0]",
+    "label": "Provide the country where the event was held.",
+    "type": 3,
+    "page": 79,
+    "rect": {
+      "x": 384.0010070800781,
+      "y": 200.02001953125,
+      "width": 205.82101440429688,
+      "height": 14.844970703125
+    },
+    "section": "20",
+    "subsection": "20B.5",
+    "entry": 1
+  },
+  {
+    "id": "14016",
+    "name": "form1[0].#subform[80].#area[28].Table3[1].Row2[0].Cell2[0]",
+    "label": "If yes selected, provide explanation for each contact. Contact #1 explanation",
+    "type": 7,
+    "page": 79,
+    "rect": {
+      "x": 297.7200012207031,
+      "y": 232.55902099609375,
+      "width": 293.8619689941406,
+      "height": 13.2239990234375
+    },
+    "section": "20",
+    "subsection": "20B.5",
+    "entry": 1
+  },
+  {
+    "id": "13982",
+    "name": "form1[0].#subform[80].#area[28].RadioButtonList[30]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 79,
+    "rect": {
+      "x": 38.834999084472656,
+      "y": 234.906005859375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20B.5",
+    "entry": 1
+  },
+  {
+    "id": "14015",
+    "name": "form1[0].#subform[80].#area[28].Table3[1].Row3[0].Cell2[0]",
+    "label": "Contact #2 explanation",
+    "type": 7,
+    "page": 79,
+    "rect": {
+      "x": 297.7200012207031,
+      "y": 248.61700439453125,
+      "width": 293.8619689941406,
+      "height": 13.2239990234375
+    },
+    "section": "20",
+    "subsection": "20B.5",
+    "entry": 1
+  },
+  {
+    "id": "13983",
+    "name": "form1[0].#subform[80].#area[28].RadioButtonList[30]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 79,
+    "rect": {
+      "x": 38.834999084472656,
+      "y": 251.8060302734375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20B.5",
+    "entry": 1
+  },
+  {
+    "id": "14014",
+    "name": "form1[0].#subform[80].#area[28].Table3[1].Row4[0].Cell2[0]",
+    "label": "Contact #3 explanation",
+    "type": 7,
+    "page": 79,
+    "rect": {
+      "x": 297.7200012207031,
+      "y": 264.67498779296875,
+      "width": 293.8619689941406,
+      "height": 13.2239990234375
+    },
+    "section": "20",
+    "subsection": "20B.5",
+    "entry": 1
+  },
+  {
+    "id": "14013",
+    "name": "form1[0].#subform[80].#area[28].Table3[1].Row5[0].Cell2[0]",
+    "label": "Contact #4 explanation",
+    "type": 7,
+    "page": 79,
+    "rect": {
+      "x": 297.7200012207031,
+      "y": 280.7330017089844,
+      "width": 293.8619689941406,
+      "height": 13.2239990234375
+    },
+    "section": "20",
+    "subsection": "20B.5",
+    "entry": 1
+  }
+]

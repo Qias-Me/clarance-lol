@@ -1,0 +1,154 @@
+# Interactive PDF Mapper Module Configuration
+name: 'interactive-pdf-mapper'
+display_name: 'Interactive PDF Mapper'
+description: 'Transform PDF interaction through intelligent field detection, 100% accurate bidirectional mapping, and seamless React-based form editing with GLM4.5V self-validation.'
+version: '1.0.0'
+author: 'TJ'
+created: '2025-12-13T15:00:00Z'
+category: 'Technical'
+type: 'Complex'
+
+# Module installation settings
+default_selected: false
+
+# Configuration fields for user input during installation
+configuration:
+  glm45v_api_key:
+    type: 'text'
+    required: true
+    prompt: 'Enter your GLM4.5V API key for PDF field detection and validation:'
+    description: 'This is required for the core GLM4.5V vision analysis functionality.'
+    validation:
+      pattern: '^[a-zA-Z0-9_-]+$'
+      message: 'API key must be alphanumeric (letters, numbers, hyphens, underscores only)'
+
+  cache_directory:
+    type: 'text'
+    required: false
+    default: 'data/golden-maps'
+    prompt: 'Where should golden map cache be stored?'
+    description: 'Directory for storing optimized golden map files for instant loading.'
+    template: '{project-root}/{value}'
+
+  validation_tolerance:
+    type: 'select'
+    required: false
+    default: '0.5'
+    prompt: 'Select coordinate validation tolerance:'
+    description: 'Pixel tolerance for coordinate validation accuracy.'
+    options:
+      - value: '0.1'
+        label: 'High Precision (±0.1 pixels) - Slower processing'
+        description: 'Maximum accuracy with longer processing times'
+      - value: '0.5'
+        label: 'Standard Precision (±0.5 pixels) - Recommended'
+        description: 'Balanced accuracy and performance'
+      - value: '1.0'
+        label: 'Fast Processing (±1.0 pixel) - Quick results'
+        description: 'Faster processing with relaxed accuracy requirements'
+
+  max_concurrent_tasks:
+    type: 'select'
+    required: false
+    default: '3'
+    prompt: 'How many PDFs should be processed concurrently?'
+    description: 'Number of parallel PDF processing tasks for performance optimization.'
+    options:
+      - value: '1'
+        label: 'Single task (lowest resource usage)'
+        description: 'Process one PDF at a time, minimal memory usage'
+      - value: '3'
+        label: '3 tasks (balanced performance)'
+        description: 'Process 3 PDFs simultaneously, good balance'
+      - value: '5'
+        label: '5 tasks (maximum performance)'
+        description: 'Process 5 PDFs simultaneously, maximum throughput'
+
+  log_verbosity:
+    type: 'select'
+    required: false
+    default: 'standard'
+    prompt: 'Select logging verbosity level:'
+    description: 'Amount of logging information for debugging and monitoring.'
+    options:
+      - value: 'minimal'
+        label: 'Minimal - Errors only'
+        description: 'Only log error messages for troubleshooting'
+      - value: 'standard'
+        label: 'Standard - Warnings and info'
+        description: 'Log warnings, info, and error messages'
+      - value: 'verbose'
+        label: 'Verbose - Full debug output'
+        description: 'Log all debugging information for development'
+
+  component_output_format:
+    type: 'select'
+    required: false
+    default: 'typescript'
+    prompt: 'Select React component output format:'
+    description: 'Programming language for generated React components.'
+    options:
+      - value: 'typescript'
+        label: 'TypeScript (.tsx) - Type-safe components'
+        description: 'Generate components with full TypeScript type safety'
+      - value: 'javascript'
+        label: 'JavaScript (.jsx) - Standard components'
+        description: 'Generate standard JavaScript components'
+
+# Module dependencies
+dependencies:
+  required:
+    - 'react': '^19.0.0'
+    - 'react-dom': '^19.0.0'
+    - 'typescript': '^5.0.0'
+    - 'pdf-lib': '^1.17.1'
+    - 'pdfjs-dist': '^5.3.93'
+  optional:
+    - '@types/react': '^19.0.0'
+    - '@types/react-dom': '^19.0.0'
+
+# Installation requirements
+requirements:
+  nodejs: '>=18.0.0'
+  memory: '>=4GB'
+  storage: '>=10GB'
+
+# Module capabilities
+capabilities:
+  - 'PDF field detection with GLM4.5V'
+  - 'Self-validating coordinate mapping'
+  - 'React component generation'
+  - 'Golden map caching system'
+  - 'Real-time form interaction'
+  - 'Batch processing support'
+  - 'Section 13 complex entry handling'
+
+# Module structure
+structure:
+  agents:
+    - 'pdf-vision-agent.yaml'
+    - 'coordinate-validation-agent.yaml'
+    - 'react-generation-agent.yaml'
+    - 'golden-map-cache-agent.yaml'
+  workflows:
+    - 'discovery-workflow/'
+    - 'interactive-workflow/'
+    - 'evolution-workflow/'
+    - 'common-workflows/'
+  tasks:
+    - 'coordinate-converter.md'
+    - 'golden-map-cache-manager.md'
+    - 'field-classifier.md'
+
+# Installation assets
+assets:
+  - 'PDF sample files for testing'
+  - 'Configuration examples'
+  - 'Integration documentation'
+
+# Quality metrics
+quality_metrics:
+  field_detection_accuracy: '99.9%'
+  coordinate_mapping_precision: '±0.5 pixels'
+  cache_performance: '<150ms'
+  user_satisfaction_target: '>95%'

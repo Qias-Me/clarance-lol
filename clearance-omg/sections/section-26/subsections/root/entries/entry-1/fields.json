@@ -1,0 +1,2002 @@
+[
+  {
+    "id": "15808",
+    "name": "form1[0].Section26[0].p3-t68[0]",
+    "label": "Provide the bankruptcy court docket/account number.",
+    "type": 7,
+    "page": 118,
+    "rect": {
+      "x": 329.5249938964844,
+      "y": 130.35101318359375,
+      "width": 264.4750061035156,
+      "height": 17.75
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15802",
+    "name": "form1[0].Section26[0].RadioButtonList[1]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 118,
+    "rect": {
+      "x": 38.834999084472656,
+      "y": 135.0980224609375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15801",
+    "name": "form1[0].Section26[0].RadioButtonList[1]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 118,
+    "rect": {
+      "x": 103.83599853515625,
+      "y": 135.0980224609375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15800",
+    "name": "form1[0].Section26[0].RadioButtonList[1]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 118,
+    "rect": {
+      "x": 173.33299255371094,
+      "y": 135.0980224609375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15799",
+    "name": "form1[0].Section26[0].RadioButtonList[1]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 118,
+    "rect": {
+      "x": 242.83299255371094,
+      "y": 135.0980224609375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15796",
+    "name": "form1[0].Section26[0].#field[7]",
+    "label": "Provide the date of bankruptcy discharge. (Month/Year). Not applicable",
+    "type": 2,
+    "page": 118,
+    "rect": {
+      "x": 341.75,
+      "y": 163.7249755859375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15797",
+    "name": "form1[0].Section26[0].From_Datefield_Name_2[1]",
+    "label": "Provide the date of bankruptcy discharge. (Month/Year)",
+    "type": 7,
+    "page": 118,
+    "rect": {
+      "x": 216.0,
+      "y": 172.3380126953125,
+      "width": 121.50100708007812,
+      "height": 17.26300048828125
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15807",
+    "name": "form1[0].Section26[0].#area[0].From_Datefield_Name_2[0]",
+    "label": "Provide the date bankruptcy was filed. (Month/Year)",
+    "type": 7,
+    "page": 118,
+    "rect": {
+      "x": 36.0,
+      "y": 173.10302734375,
+      "width": 130.50100708007812,
+      "height": 16.49798583984375
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15795",
+    "name": "form1[0].Section26[0].NumericField2[0]",
+    "label": "Provide the total amount (in U.S. dollars) involved in the bankruptcy.",
+    "type": 7,
+    "page": 118,
+    "rect": {
+      "x": 420.7489929199219,
+      "y": 173.10302734375,
+      "width": 134.49801635742188,
+      "height": 13.6629638671875
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15794",
+    "name": "form1[0].Section26[0].#field[9]",
+    "label": "Estimate",
+    "type": 2,
+    "page": 118,
+    "rect": {
+      "x": 560.0,
+      "y": 175.3380126953125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15798",
+    "name": "form1[0].Section26[0].#field[5]",
+    "label": "Estimate",
+    "type": 2,
+    "page": 118,
+    "rect": {
+      "x": 341.75201416015625,
+      "y": 176.8489990234375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15806",
+    "name": "form1[0].Section26[0].#area[0].#field[3]",
+    "label": "Estimate",
+    "type": 2,
+    "page": 118,
+    "rect": {
+      "x": 170.74899291992188,
+      "y": 178.844970703125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15785",
+    "name": "form1[0].Section26[0].TextField11[5]",
+    "label": "First name",
+    "type": 7,
+    "page": 118,
+    "rect": {
+      "x": 214.5,
+      "y": 209.0980224609375,
+      "width": 159.00100708007812,
+      "height": 15.75
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15788",
+    "name": "form1[0].Section26[0].suffix[0]",
+    "label": "Suffix",
+    "type": 3,
+    "page": 118,
+    "rect": {
+      "x": 524.8770141601562,
+      "y": 209.0980224609375,
+      "width": 69.0009765625,
+      "height": 15.75
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15786",
+    "name": "form1[0].Section26[0].TextField11[4]",
+    "label": "Provide the name debt is recorded under. Last name",
+    "type": 7,
+    "page": 118,
+    "rect": {
+      "x": 36.0,
+      "y": 209.239990234375,
+      "width": 171.0,
+      "height": 15.6080322265625
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15787",
+    "name": "form1[0].Section26[0].TextField11[3]",
+    "label": "Middle name",
+    "type": 7,
+    "page": 118,
+    "rect": {
+      "x": 381.10101318359375,
+      "y": 209.86297607421875,
+      "width": 140.89898681640625,
+      "height": 14.98504638671875
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15777",
+    "name": "form1[0].Section26[0].TextField11[11]",
+    "label": "Provide the name of the court involved.",
+    "type": 7,
+    "page": 118,
+    "rect": {
+      "x": 36.0,
+      "y": 238.3489990234375,
+      "width": 342.0,
+      "height": 15.75
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15792",
+    "name": "form1[0].Section26[0].#area[1].TextField11[1]",
+    "label": "City",
+    "type": 7,
+    "page": 118,
+    "rect": {
+      "x": 214.49899291992188,
+      "y": 278.3790283203125,
+      "width": 110.8800048828125,
+      "height": 14.91497802734375
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15790",
+    "name": "form1[0].Section26[0].#area[1].DropDownList8[0]",
+    "label": "Country",
+    "type": 3,
+    "page": 118,
+    "rect": {
+      "x": 450.8760070800781,
+      "y": 278.3790283203125,
+      "width": 142.00198364257812,
+      "height": 14.91497802734375
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15793",
+    "name": "form1[0].Section26[0].#area[1].TextField11[0]",
+    "label": "Provide the address of the court involved.  (Provide City and Country if outside the United States; otherwise, provide City, State and Zip Code). Street ",
+    "type": 7,
+    "page": 118,
+    "rect": {
+      "x": 36.0,
+      "y": 278.52099609375,
+      "width": 171.0,
+      "height": 14.77301025390625
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15791",
+    "name": "form1[0].Section26[0].#area[1].School6_State[0]",
+    "label": "State",
+    "type": 3,
+    "page": 118,
+    "rect": {
+      "x": 329.7590026855469,
+      "y": 278.52099609375,
+      "width": 48.240997314453125,
+      "height": 17.608001708984375
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15789",
+    "name": "form1[0].Section26[0].#area[1].TextField11[2]",
+    "label": "Zip Code",
+    "type": 7,
+    "page": 118,
+    "rect": {
+      "x": 380.72698974609375,
+      "y": 279.14398193359375,
+      "width": 65.9990234375,
+      "height": 14.1500244140625
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15779",
+    "name": "form1[0].Section26[0].TextField11[9]",
+    "label": "(a)  If Chapter 13 previously selected: Provide the name of the trustee for this bankruptcy. ",
+    "type": 7,
+    "page": 118,
+    "rect": {
+      "x": 49.500999450683594,
+      "y": 317.2430114746094,
+      "width": 299.2479934692383,
+      "height": 14.772979736328125
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15783",
+    "name": "form1[0].Section26[0].TextField11[7]",
+    "label": "City",
+    "type": 7,
+    "page": 118,
+    "rect": {
+      "x": 214.5,
+      "y": 356.9079895019531,
+      "width": 110.8800048828125,
+      "height": 14.915008544921875
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15781",
+    "name": "form1[0].Section26[0].DropDownList7[0]",
+    "label": "Country",
+    "type": 3,
+    "page": 118,
+    "rect": {
+      "x": 450.8760070800781,
+      "y": 356.9079895019531,
+      "width": 142.00198364257812,
+      "height": 14.915008544921875
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15784",
+    "name": "form1[0].Section26[0].TextField11[6]",
+    "label": "Provide the address of the trustee for this bankruptcy. (Provide City and Country if outside the United States; otherwise, provide City, State and Zip Code. Street ",
+    "type": 7,
+    "page": 118,
+    "rect": {
+      "x": 49.499000549316406,
+      "y": 357.04998779296875,
+      "width": 161.99999237060547,
+      "height": 14.77301025390625
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15782",
+    "name": "form1[0].Section26[0].School6_State[1]",
+    "label": "State",
+    "type": 3,
+    "page": 118,
+    "rect": {
+      "x": 329.760009765625,
+      "y": 357.04998779296875,
+      "width": 48.240997314453125,
+      "height": 17.608001708984375
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15780",
+    "name": "form1[0].Section26[0].TextField11[8]",
+    "label": "Zip Code",
+    "type": 7,
+    "page": 118,
+    "rect": {
+      "x": 380.72698974609375,
+      "y": 357.6730041503906,
+      "width": 65.9990234375,
+      "height": 14.149993896484375
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15775",
+    "name": "form1[0].Section26[0].RadioButtonList[2]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 118,
+    "rect": {
+      "x": 380.8349914550781,
+      "y": 380.6570129394531,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15776",
+    "name": "form1[0].Section26[0].RadioButtonList[2]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 118,
+    "rect": {
+      "x": 496.54400634765625,
+      "y": 380.6570129394531,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15778",
+    "name": "form1[0].Section26[0].TextField11[10]",
+    "label": "Provide Explanation.",
+    "type": 7,
+    "page": 118,
+    "rect": {
+      "x": 36.0,
+      "y": 400.4909973144531,
+      "width": 558.0,
+      "height": 14.77301025390625
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15860",
+    "name": "form1[0].Section26_2[0].NumericField2[0]",
+    "label": "Provide an estimate of the amount (in U.S. dollars) of gambling losses incurred.",
+    "type": 7,
+    "page": 119,
+    "rect": {
+      "x": 277.2430114746094,
+      "y": 133.1259765625,
+      "width": 314.9999694824219,
+      "height": 23.791015625
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15859",
+    "name": "form1[0].Section26_2[0].#field[4]",
+    "label": "Present",
+    "type": 2,
+    "page": 119,
+    "rect": {
+      "x": 231.50100708007812,
+      "y": 137.51898193359375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15858",
+    "name": "form1[0].Section26_2[0].From_Datefield_Name_2[0]",
+    "label": "Complete the following if you responded 'Yes' to having EVER experienced financial problems due to gambling. Entry #1. Provide the date range of your financial problems due to gambling. From Date (Month/Year)",
+    "type": 7,
+    "page": 119,
+    "rect": {
+      "x": 36.0,
+      "y": 144.0670166015625,
+      "width": 83.2509994506836,
+      "height": 17.73095703125
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15856",
+    "name": "form1[0].Section26_2[0].From_Datefield_Name_2[1]",
+    "label": "To Date (Month/Year)",
+    "type": 7,
+    "page": 119,
+    "rect": {
+      "x": 153.0,
+      "y": 144.0670166015625,
+      "width": 74.25100708007812,
+      "height": 17.73095703125
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15857",
+    "name": "form1[0].Section26_2[0].#field[6]",
+    "label": "Estimate",
+    "type": 2,
+    "page": 119,
+    "rect": {
+      "x": 121.25,
+      "y": 149.27398681640625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15855",
+    "name": "form1[0].Section26_2[0].#field[8]",
+    "label": "Estimate",
+    "type": 2,
+    "page": 119,
+    "rect": {
+      "x": 231.5,
+      "y": 150.280029296875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15861",
+    "name": "form1[0].Section26_2[0].p3-t68[0]",
+    "label": "Provide a description of your financial problems due to gambling.",
+    "type": 7,
+    "page": 119,
+    "rect": {
+      "x": 36.0,
+      "y": 172.49700927734375,
+      "width": 234.0,
+      "height": 41.25201416015625
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15854",
+    "name": "form1[0].Section26_2[0].p3-t68[1]",
+    "label": "If you have taken any action(s) to rectify your financial problems due to gambling, provide a description of your actions. If you have not taken any action(s), provide explanation.",
+    "type": 7,
+    "page": 119,
+    "rect": {
+      "x": 276.3009948730469,
+      "y": 185.25299072265625,
+      "width": 316.9620056152344,
+      "height": 28.49603271484375
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15845",
+    "name": "form1[0].Section26_2[0].p3-t68[4]",
+    "label": "Provide the year you failed to file or pay your Federal, state, or other taxes.",
+    "type": 7,
+    "page": 119,
+    "rect": {
+      "x": 238.50100708007812,
+      "y": 386.2489929199219,
+      "width": 319.4989929199219,
+      "height": 17.75
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15817",
+    "name": "form1[0].Section26_2[0].#field[38]",
+    "label": "Estimate.",
+    "type": 2,
+    "page": 119,
+    "rect": {
+      "x": 562.2509765625,
+      "y": 388.49798583984375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15842",
+    "name": "form1[0].Section26_2[0].RadioButtonList[2]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 119,
+    "rect": {
+      "x": 38.834999084472656,
+      "y": 390.9949951171875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15841",
+    "name": "form1[0].Section26_2[0].RadioButtonList[2]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 119,
+    "rect": {
+      "x": 100.14800262451172,
+      "y": 390.9949951171875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15840",
+    "name": "form1[0].Section26_2[0].RadioButtonList[2]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 119,
+    "rect": {
+      "x": 163.7100067138672,
+      "y": 390.9949951171875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15834",
+    "name": "form1[0].Section26_2[0].TextField11[2]",
+    "label": "Provide the reason(s) for your failure to file or pay required taxes.",
+    "type": 7,
+    "page": 119,
+    "rect": {
+      "x": 36.0,
+      "y": 416.135009765625,
+      "width": 234.0,
+      "height": 27.8599853515625
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15836",
+    "name": "form1[0].Section26_2[0].TextField11[0]",
+    "label": "Provide the Federal, state, or other agency to which you failed to file or pay taxes.",
+    "type": 7,
+    "page": 119,
+    "rect": {
+      "x": 276.3009948730469,
+      "y": 426.4809875488281,
+      "width": 157.49899291992188,
+      "height": 17.514007568359375
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15833",
+    "name": "form1[0].Section26_2[0].TextField11[3]",
+    "label": "Provide the type of taxes you failed to file or pay (such as property, income, sales, etc.).",
+    "type": 7,
+    "page": 119,
+    "rect": {
+      "x": 436.5010070800781,
+      "y": 426.4809875488281,
+      "width": 157.49899291992188,
+      "height": 17.514007568359375
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15837",
+    "name": "form1[0].Section26_2[0].#field[21]",
+    "label": "Provide date satisfied. (Month/Year). Not applicable",
+    "type": 2,
+    "page": 119,
+    "rect": {
+      "x": 438.5,
+      "y": 449.3689880371094,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15832",
+    "name": "form1[0].Section26_2[0].NumericField2[2]",
+    "label": "Provide the amount (in U.S. dollars) of the taxes. ",
+    "type": 7,
+    "page": 119,
+    "rect": {
+      "x": 36.0,
+      "y": 456.5610046386719,
+      "width": 193.50100708007812,
+      "height": 17.6829833984375
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15838",
+    "name": "form1[0].Section26_2[0].From_Datefield_Name_2[4]",
+    "label": "Provide date satisfied. (Month/Year)",
+    "type": 7,
+    "page": 119,
+    "rect": {
+      "x": 276.3009948730469,
+      "y": 456.5639953613281,
+      "width": 153.0,
+      "height": 17.67999267578125
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15831",
+    "name": "form1[0].Section26_2[0].#field[27]",
+    "label": "Estimate",
+    "type": 2,
+    "page": 119,
+    "rect": {
+      "x": 238.25100708007812,
+      "y": 460.9939880371094,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15839",
+    "name": "form1[0].Section26_2[0].#field[19]",
+    "label": "Estimate",
+    "type": 2,
+    "page": 119,
+    "rect": {
+      "x": 438.5010070800781,
+      "y": 461.7430114746094,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15835",
+    "name": "form1[0].Section26_2[0].TextField11[1]",
+    "label": "Provide a description of any action(s) you have taken to satisfy this debt (such as withholdings, frequency and amount of payments, etc.). If you have not taken any action(s) provide explanation.",
+    "type": 7,
+    "page": 119,
+    "rect": {
+      "x": 36.0,
+      "y": 496.9949951171875,
+      "width": 558.0,
+      "height": 16.7490234375
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15907",
+    "name": "form1[0].Section26_3[0].TextField11[1]",
+    "label": "Complete the following if you responded 'Yes' to having been counseled, warned, or disciplined for violating the terms of agreement for a travel or credit card provided by your employer. Entry #1. Provide the name of the agency or company. ",
+    "type": 7,
+    "page": 120,
+    "rect": {
+      "x": 36.0,
+      "y": 143.3909912109375,
+      "width": 288.0,
+      "height": 17.6080322265625
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15905",
+    "name": "form1[0].Section26_3[0].#area[0].TextField11[3]",
+    "label": "City",
+    "type": 7,
+    "page": 120,
+    "rect": {
+      "x": 214.49899291992188,
+      "y": 182.6309814453125,
+      "width": 110.8800048828125,
+      "height": 14.9150390625
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15903",
+    "name": "form1[0].Section26_3[0].#area[0].DropDownList4[0]",
+    "label": "Country",
+    "type": 3,
+    "page": 120,
+    "rect": {
+      "x": 450.8760070800781,
+      "y": 182.6309814453125,
+      "width": 142.00198364257812,
+      "height": 14.9150390625
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15904",
+    "name": "form1[0].Section26_3[0].#area[0].School6_State[0]",
+    "label": "State",
+    "type": 3,
+    "page": 120,
+    "rect": {
+      "x": 329.760009765625,
+      "y": 182.77301025390625,
+      "width": 48.239990234375,
+      "height": 17.60797119140625
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15906",
+    "name": "form1[0].Section26_3[0].#area[0].TextField11[2]",
+    "label": "Provide the address of the agency or company. (Provide City and Country if outside the United States; otherwise, provide City, State and Zip Code). Street ",
+    "type": 7,
+    "page": 120,
+    "rect": {
+      "x": 36.0,
+      "y": 183.37701416015625,
+      "width": 175.5,
+      "height": 14.16900634765625
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15902",
+    "name": "form1[0].Section26_3[0].#area[0].TextField11[4]",
+    "label": "Zip Code",
+    "type": 7,
+    "page": 120,
+    "rect": {
+      "x": 380.72698974609375,
+      "y": 183.39599609375,
+      "width": 65.9990234375,
+      "height": 14.1500244140625
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15909",
+    "name": "form1[0].Section26_3[0].DateTimeField1[0]",
+    "label": "Provide the date of your counseling, warning, or disciplinary action. (Month/Year)",
+    "type": 7,
+    "page": 120,
+    "rect": {
+      "x": 36.0,
+      "y": 210.8170166015625,
+      "width": 243.74600219726562,
+      "height": 17.6829833984375
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15901",
+    "name": "form1[0].Section26_3[0].TextField11[5]",
+    "label": "Provide the reason(s) for the counseling, warning, or disciplinary action.",
+    "type": 7,
+    "page": 120,
+    "rect": {
+      "x": 329.760009765625,
+      "y": 210.89202880859375,
+      "width": 261.989013671875,
+      "height": 17.60797119140625
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15908",
+    "name": "form1[0].Section26_3[0].#field[4]",
+    "label": "Estimate",
+    "type": 2,
+    "page": 120,
+    "rect": {
+      "x": 294.4989929199219,
+      "y": 215.25,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15899",
+    "name": "form1[0].Section26_3[0].NumericField2[0]",
+    "label": "Provide the amount (in U.S. dollars) of violation.",
+    "type": 7,
+    "page": 120,
+    "rect": {
+      "x": 36.0,
+      "y": 251.1519775390625,
+      "width": 135.0,
+      "height": 18.8480224609375
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15910",
+    "name": "form1[0].Section26_3[0].TextField11[0]",
+    "label": "Provide a description of any action(s) you have taken to rectify this situation. If you have not taken any action(s) provide explanation.",
+    "type": 7,
+    "page": 120,
+    "rect": {
+      "x": 214.5,
+      "y": 251.1519775390625,
+      "width": 375.75201416015625,
+      "height": 16.8480224609375
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15900",
+    "name": "form1[0].Section26_3[0].#field[12]",
+    "label": "Estimate",
+    "type": 2,
+    "page": 120,
+    "rect": {
+      "x": 179.74899291992188,
+      "y": 258.0,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15875",
+    "name": "form1[0].Section26_3[0].TextField16[0]",
+    "label": "Provide the name of the credit counseling organization or resource.",
+    "type": 7,
+    "page": 120,
+    "rect": {
+      "x": 301.5010070800781,
+      "y": 498.8169860839844,
+      "width": 240.49996948242188,
+      "height": 17.683013916015625
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15883",
+    "name": "form1[0].Section26_3[0].TextField11[13]",
+    "label": "Complete the following if you responded 'Yes' to being currently utilizing, or seeking assistance from, a credit counseling service or other similar resource to resolve your financial difficulties. Entry #1. Provide explanation. ",
+    "type": 7,
+    "page": 120,
+    "rect": {
+      "x": 36.0,
+      "y": 498.8919982910156,
+      "width": 256.5010070800781,
+      "height": 17.608001708984375
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15878",
+    "name": "form1[0].Section26_3[0].#area[2].#field[32]",
+    "label": "International or DSN phone number",
+    "type": 2,
+    "page": 120,
+    "rect": {
+      "x": 227.8350067138672,
+      "y": 530.52001953125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15882",
+    "name": "form1[0].Section26_3[0].#area[2].TextField11[14]",
+    "label": "Provide the location of the credit counseling organization. City",
+    "type": 7,
+    "page": 120,
+    "rect": {
+      "x": 387.0,
+      "y": 538.1320190429688,
+      "width": 135.0,
+      "height": 14.91497802734375
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15880",
+    "name": "form1[0].Section26_3[0].#area[2].p3-t68[0]",
+    "label": "Provide the telephone number of the credit counseling organization. Telephone number. ",
+    "type": 7,
+    "page": 120,
+    "rect": {
+      "x": 36.0,
+      "y": 538.2020263671875,
+      "width": 134.8780059814453,
+      "height": 17.67999267578125
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15879",
+    "name": "form1[0].Section26_3[0].#area[2].TextField11[15]",
+    "label": "Extension",
+    "type": 7,
+    "page": 120,
+    "rect": {
+      "x": 178.875,
+      "y": 538.2739868164062,
+      "width": 38.001007080078125,
+      "height": 17.6080322265625
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15881",
+    "name": "form1[0].Section26_3[0].#area[2].School6_State[2]",
+    "label": "State",
+    "type": 3,
+    "page": 120,
+    "rect": {
+      "x": 531.0,
+      "y": 538.2739868164062,
+      "width": 60.62200927734375,
+      "height": 17.6080322265625
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15877",
+    "name": "form1[0].Section26_3[0].#area[2].#field[33]",
+    "label": "Day",
+    "type": 2,
+    "page": 120,
+    "rect": {
+      "x": 227.8350067138672,
+      "y": 543.7570190429688,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15876",
+    "name": "form1[0].Section26_3[0].#area[2].#field[34]",
+    "label": "Night",
+    "type": 2,
+    "page": 120,
+    "rect": {
+      "x": 263.7749938964844,
+      "y": 543.7570190429688,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15884",
+    "name": "form1[0].Section26_3[0].TextField11[12]",
+    "label": "As a result of this counseling, provide a description of any action(s) you have taken to resolve your financial difficulties. If you have not taken any action(s), provide explanation.",
+    "type": 7,
+    "page": 120,
+    "rect": {
+      "x": 36.0,
+      "y": 577.5050048828125,
+      "width": 558.0,
+      "height": 16.7459716796875
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15921",
+    "name": "form1[0].Section26_6[0].TextField11[9]",
+    "label": "Complete the following if you answered 'Yes' to having experienced one or more of the previously stated financial issues. Entry #1. Provide the name of agency/organization/individual to which debt is/was owed.",
+    "type": 7,
+    "page": 121,
+    "rect": {
+      "x": 36.0,
+      "y": 219.8900146484375,
+      "width": 558.0,
+      "height": 17.60797119140625
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15915",
+    "name": "form1[0].Section26_6[0].RadioButtonList[1]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 121,
+    "rect": {
+      "x": 446.08599853515625,
+      "y": 242.802978515625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15914",
+    "name": "form1[0].Section26_6[0].RadioButtonList[1]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 121,
+    "rect": {
+      "x": 484.67401123046875,
+      "y": 242.802978515625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15919",
+    "name": "form1[0].Section26_6[0].#field[21]",
+    "label": "In the last seven (7) years, you have been delinquent on alimony or child support payments.",
+    "type": 2,
+    "page": 121,
+    "rect": {
+      "x": 37.0,
+      "y": 261.00201416015625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15918",
+    "name": "form1[0].Section26_6[0].#field[22]",
+    "label": "In the last seven (7) years, you had a judgment entered against you. (Include financial obligations for which you were the sole debtor, as well as those for which you were a cosigner or guarantor).",
+    "type": 2,
+    "page": 121,
+    "rect": {
+      "x": 37.0,
+      "y": 279.0,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15917",
+    "name": "form1[0].Section26_6[0].#field[23]",
+    "label": "In the last seven (7) years, you had a lien placed against your property for failing to pay taxes or other debts. (Include financial obligations for which you were the sole debtor, as well as those for which you were a cosigner or guarantor).",
+    "type": 2,
+    "page": 121,
+    "rect": {
+      "x": 37.0,
+      "y": 303.0010070800781,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15916",
+    "name": "form1[0].Section26_6[0].#field[24]",
+    "label": "You are currently delinquent on any Federal debt. (Include financial obligations for which you are the sole debtor, as well as those for which you are a cosigner or guarantor).",
+    "type": 2,
+    "page": 121,
+    "rect": {
+      "x": 37.0,
+      "y": 326.9989929199219,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15937",
+    "name": "form1[0].Section26_6[0].TextField11[1]",
+    "label": "Provide the associated loan/account number(s) involved.",
+    "type": 7,
+    "page": 121,
+    "rect": {
+      "x": 36.0,
+      "y": 359.64300537109375,
+      "width": 202.50100708007812,
+      "height": 17.608001708984375
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15934",
+    "name": "form1[0].Section26_6[0].TextField11[2]",
+    "label": "Identify/describe the type of property involved (if any).",
+    "type": 7,
+    "page": 121,
+    "rect": {
+      "x": 247.50100708007812,
+      "y": 359.64300537109375,
+      "width": 346.4989929199219,
+      "height": 17.608001708984375
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15935",
+    "name": "form1[0].Section26_6[0].NumericField2[0]",
+    "label": "Provide the amount (in U.S. dollars) of the financial issue.",
+    "type": 7,
+    "page": 121,
+    "rect": {
+      "x": 36.0,
+      "y": 388.8160095214844,
+      "width": 153.0,
+      "height": 17.6829833984375
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15933",
+    "name": "form1[0].Section26_6[0].TextField11[3]",
+    "label": "Provide the reason(s) for the financial issue.",
+    "type": 7,
+    "page": 121,
+    "rect": {
+      "x": 247.50100708007812,
+      "y": 388.8909912109375,
+      "width": 162.0,
+      "height": 17.608001708984375
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15932",
+    "name": "form1[0].Section26_6[0].TextField11[4]",
+    "label": "Provide the current status of the financial issue.",
+    "type": 7,
+    "page": 121,
+    "rect": {
+      "x": 418.4989929199219,
+      "y": 388.8940124511719,
+      "width": 175.50100708007812,
+      "height": 17.608001708984375
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15936",
+    "name": "form1[0].Section26_6[0].#field[4]",
+    "label": "Estimate.",
+    "type": 2,
+    "page": 121,
+    "rect": {
+      "x": 211.25100708007812,
+      "y": 393.2489929199219,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15927",
+    "name": "form1[0].Section26_6[0].TextField11[5]",
+    "label": "Provide the name of the court involved.",
+    "type": 7,
+    "page": 121,
+    "rect": {
+      "x": 384.7489929199219,
+      "y": 418.1419982910156,
+      "width": 209.25100708007812,
+      "height": 27.35699462890625
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15920",
+    "name": "form1[0].Section26_6[0].#field[20]",
+    "label": "Not Resolved",
+    "type": 2,
+    "page": 121,
+    "rect": {
+      "x": 314.7510070800781,
+      "y": 420.7510070800781,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15931",
+    "name": "form1[0].Section26_6[0].From_Datefield_Name_2[0]",
+    "label": "Provide the date the financial issue began. (Month/Year)",
+    "type": 7,
+    "page": 121,
+    "rect": {
+      "x": 36.0,
+      "y": 427.62701416015625,
+      "width": 108.0,
+      "height": 17.871978759765625
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15929",
+    "name": "form1[0].Section26_6[0].From_Datefield_Name_2[1]",
+    "label": "Provide date the financial issue was resolved. (Month/Year)",
+    "type": 7,
+    "page": 121,
+    "rect": {
+      "x": 191.25100708007812,
+      "y": 429.15399169921875,
+      "width": 114.74899291992188,
+      "height": 16.345001220703125
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15928",
+    "name": "form1[0].Section26_6[0].#field[12]",
+    "label": "Estimate.",
+    "type": 2,
+    "page": 121,
+    "rect": {
+      "x": 314.75201416015625,
+      "y": 433.29998779296875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15930",
+    "name": "form1[0].Section26_6[0].#field[10]",
+    "label": "Estimate.",
+    "type": 2,
+    "page": 121,
+    "rect": {
+      "x": 148.25100708007812,
+      "y": 433.49798583984375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15925",
+    "name": "form1[0].Section26_6[0].#area[1].TextField11[7]",
+    "label": "City",
+    "type": 7,
+    "page": 121,
+    "rect": {
+      "x": 214.49899291992188,
+      "y": 466.0639953613281,
+      "width": 110.8800048828125,
+      "height": 14.915008544921875
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15923",
+    "name": "form1[0].Section26_6[0].#area[1].DropDownList2[0]",
+    "label": "Country",
+    "type": 3,
+    "page": 121,
+    "rect": {
+      "x": 450.8760070800781,
+      "y": 466.0639953613281,
+      "width": 142.00198364257812,
+      "height": 14.915008544921875
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15926",
+    "name": "form1[0].Section26_6[0].#area[1].TextField11[6]",
+    "label": "Provide the address of the court involved. (Provide City and Country if outside the United States; otherwise, provide City, State and Zip Code). Street ",
+    "type": 7,
+    "page": 121,
+    "rect": {
+      "x": 36.0,
+      "y": 466.20599365234375,
+      "width": 171.0,
+      "height": 14.77301025390625
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15924",
+    "name": "form1[0].Section26_6[0].#area[1].School6_State[0]",
+    "label": "State",
+    "type": 3,
+    "page": 121,
+    "rect": {
+      "x": 329.0400085449219,
+      "y": 466.20599365234375,
+      "width": 48.959991455078125,
+      "height": 17.608001708984375
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15922",
+    "name": "form1[0].Section26_6[0].#area[1].TextField11[8]",
+    "label": "Zip Code",
+    "type": 7,
+    "page": 121,
+    "rect": {
+      "x": 380.72698974609375,
+      "y": 466.8290100097656,
+      "width": 65.9990234375,
+      "height": 14.149993896484375
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15938",
+    "name": "form1[0].Section26_6[0].TextField11[0]",
+    "label": "Provide a description of any action(s) you have taken to satisfy this debt (such as withholdings, frequency and amount of payments, etc.). If you have not taken any action(s), provide explanation.",
+    "type": 7,
+    "page": 121,
+    "rect": {
+      "x": 36.0,
+      "y": 505.50799560546875,
+      "width": 558.0,
+      "height": 122.49200439453125
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15941",
+    "name": "form1[0].Section26_6[0].SSN[0]",
+    "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+    "type": 7,
+    "page": 121,
+    "rect": {
+      "x": 476.7279968261719,
+      "y": 739.0009765625,
+      "width": 115.51303100585938,
+      "height": 13.6710205078125
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15985",
+    "name": "form1[0].Section26_8[0].TextField11[5]",
+    "label": "Complete the following if you answered 'Yes' to having experienced one or more of the previously stated financial issues. Entry #1. Provide the name of agency/organization/individual to which debt is/was owed.",
+    "type": 7,
+    "page": 123,
+    "rect": {
+      "x": 36.0,
+      "y": 316.6419982910156,
+      "width": 558.0,
+      "height": 17.608001708984375
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15969",
+    "name": "form1[0].Section26_8[0].RadioButtonList[1]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 123,
+    "rect": {
+      "x": 430.33599853515625,
+      "y": 339.552001953125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15968",
+    "name": "form1[0].Section26_8[0].RadioButtonList[1]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 123,
+    "rect": {
+      "x": 468.5870056152344,
+      "y": 339.552001953125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15993",
+    "name": "form1[0].Section26_8[0].#field[6]",
+    "label": "In the last seven (7) years, you had any possessions or property voluntarily or involuntarily repossessed or foreclosed? (Include financial obligations for which you were the sole debtor, as well as those for which you were a cosigner or guarantor).",
+    "type": 2,
+    "page": 123,
+    "rect": {
+      "x": 38.0,
+      "y": 360.0010070800781,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15992",
+    "name": "form1[0].Section26_8[0].#field[7]",
+    "label": "In the last seven (7) years, you defaulted on any type of loan? (Include financial obligations for which you were the sole debtor, as well as those for which you were a cosigner or guarantor).",
+    "type": 2,
+    "page": 123,
+    "rect": {
+      "x": 38.000999450683594,
+      "y": 384.7510070800781,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15979",
+    "name": "form1[0].Section26_8[0].#field[20]",
+    "label": "In the last seven (7) years, you had bills or debts turned over to a collection agency? (Include financial obligations for which you were the sole debtor, as well as those for which you were a cosigner or guarantor).",
+    "type": 2,
+    "page": 123,
+    "rect": {
+      "x": 38.000999450683594,
+      "y": 409.31298828125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15978",
+    "name": "form1[0].Section26_8[0].#field[21]",
+    "label": "In the last seven (7) years, you had any account or credit card suspended, charged off, or cancelled for failing to pay as agreed? (Include financial obligations for which you were the sole debtor, as well as those for which you were a cosigner or guarantor). ",
+    "type": 2,
+    "page": 123,
+    "rect": {
+      "x": 38.0,
+      "y": 434.2489929199219,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15977",
+    "name": "form1[0].Section26_8[0].#field[22]",
+    "label": "In the last seven (7) years, you were evicted for non-payment?",
+    "type": 2,
+    "page": 123,
+    "rect": {
+      "x": 38.000999450683594,
+      "y": 458.1570129394531,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15988",
+    "name": "form1[0].Section26_8[0].#field[11]",
+    "label": "In the last seven (7) years, you had wages, benefits, or assets garnished or attached for any reason?",
+    "type": 2,
+    "page": 123,
+    "rect": {
+      "x": 38.000999450683594,
+      "y": 476.15399169921875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15987",
+    "name": "form1[0].Section26_8[0].#field[12]",
+    "label": "In the last seven (7) years, you were over 120 days delinquent on any debt not previously entered? (Include financial obligations for which you were the sole debtor, as well as those for which you were a cosigner or guarantor).",
+    "type": 2,
+    "page": 123,
+    "rect": {
+      "x": 38.000999450683594,
+      "y": 492.74798583984375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15986",
+    "name": "form1[0].Section26_8[0].#field[13]",
+    "label": "You are currently over 120 days delinquent on any debt? (Include financial obligations for which you are the sole debtor, as well as those for which you are a cosigner or guarantor).",
+    "type": 2,
+    "page": 123,
+    "rect": {
+      "x": 38.000999450683594,
+      "y": 517.4970092773438,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15972",
+    "name": "form1[0].Section26_8[0].TextField11[1]",
+    "label": "Provide the associated loan/account number(s) involved.",
+    "type": 7,
+    "page": 123,
+    "rect": {
+      "x": 36.0,
+      "y": 550.6419677734375,
+      "width": 202.50100708007812,
+      "height": 17.6080322265625
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15991",
+    "name": "form1[0].Section26_8[0].TextField11[2]",
+    "label": "Identify/describe the type of property involved (if any).",
+    "type": 7,
+    "page": 123,
+    "rect": {
+      "x": 247.50100708007812,
+      "y": 550.6419677734375,
+      "width": 346.4989929199219,
+      "height": 17.6080322265625
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15970",
+    "name": "form1[0].Section26_8[0].NumericField2[0]",
+    "label": "Provide the amount (in U.S. dollars) of the financial issue.",
+    "type": 7,
+    "page": 123,
+    "rect": {
+      "x": 36.0,
+      "y": 579.8150024414062,
+      "width": 139.50100708007812,
+      "height": 17.6829833984375
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15990",
+    "name": "form1[0].Section26_8[0].TextField11[3]",
+    "label": "Provide the reason(s) for the financial issue.",
+    "type": 7,
+    "page": 123,
+    "rect": {
+      "x": 247.50100708007812,
+      "y": 579.8900146484375,
+      "width": 162.0,
+      "height": 17.60797119140625
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15989",
+    "name": "form1[0].Section26_8[0].TextField11[4]",
+    "label": "Provide the current status of the financial issue.",
+    "type": 7,
+    "page": 123,
+    "rect": {
+      "x": 418.4989929199219,
+      "y": 579.8900146484375,
+      "width": 175.50100708007812,
+      "height": 17.60797119140625
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15971",
+    "name": "form1[0].Section26_8[0].#field[4]",
+    "label": "Estimate.",
+    "type": 2,
+    "page": 123,
+    "rect": {
+      "x": 211.25100708007812,
+      "y": 584.2449951171875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15980",
+    "name": "form1[0].Section26_8[0].#field[19]",
+    "label": "Not Resolved",
+    "type": 2,
+    "page": 123,
+    "rect": {
+      "x": 503.74798583984375,
+      "y": 602.9990234375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15984",
+    "name": "form1[0].Section26_8[0].From_Datefield_Name_2[0]",
+    "label": "Provide the date the financial issue began. (Month/Year)",
+    "type": 7,
+    "page": 123,
+    "rect": {
+      "x": 36.0,
+      "y": 609.0709838867188,
+      "width": 202.50100708007812,
+      "height": 18.67803955078125
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15982",
+    "name": "form1[0].Section26_8[0].From_Datefield_Name_2[1]",
+    "label": "Provide date the financial issue was resolved. (Month/Year)",
+    "type": 7,
+    "page": 123,
+    "rect": {
+      "x": 285.7489929199219,
+      "y": 609.0709838867188,
+      "width": 209.25100708007812,
+      "height": 18.67803955078125
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15983",
+    "name": "form1[0].Section26_8[0].#field[16]",
+    "label": "Estimate.",
+    "type": 2,
+    "page": 123,
+    "rect": {
+      "x": 249.49899291992188,
+      "y": 612.781005859375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15981",
+    "name": "form1[0].Section26_8[0].#field[18]",
+    "label": "Estimate.",
+    "type": 2,
+    "page": 123,
+    "rect": {
+      "x": 503.7489929199219,
+      "y": 615.5479736328125,
+      "width": 9.000030517578125,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15973",
+    "name": "form1[0].Section26_8[0].TextField11[0]",
+    "label": "Provide a description of any action(s) you have taken to satisfy this debt (such as withholdings, frequency and amount of payments, etc.). If you have not taken any action(s), provide explanation.",
+    "type": 7,
+    "page": 123,
+    "rect": {
+      "x": 36.0,
+      "y": 650.4710083007812,
+      "width": 558.0,
+      "height": 16.7459716796875
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15976",
+    "name": "form1[0].Section26_8[0].SSN[0]",
+    "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+    "type": 7,
+    "page": 123,
+    "rect": {
+      "x": 476.7279968261719,
+      "y": 739.0009765625,
+      "width": 115.51303100585938,
+      "height": 13.6710205078125
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1
+  }
+]

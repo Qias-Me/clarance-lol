@@ -1,0 +1,1250 @@
+[
+  {
+    "id": "15498",
+    "name": "form1[0].Section24[0].#field[6]",
+    "label": "Present",
+    "type": 2,
+    "page": 112,
+    "rect": {
+      "x": 546.864013671875,
+      "y": 160.54400634765625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15502",
+    "name": "form1[0].Section24[0].From_Datefield_Name_2[0]",
+    "label": "Complete the following if you responded 'Yes' to your alcohol use having had a negative impact on your work performance, your professional or personal relationships, your finances, or resulted in intervention by law enforcement/public safety personnel. Entry #1. Provide the month/year when this negative impact occurred. From Date (Month/Year) ",
+    "type": 7,
+    "page": 112,
+    "rect": {
+      "x": 36.00299835205078,
+      "y": 167.093017578125,
+      "width": 85.49600219726562,
+      "height": 17.73095703125
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15497",
+    "name": "form1[0].Section24[0].From_Datefield_Name_2[1]",
+    "label": "Provide dates of involvement or use. From Date (Month/Year)",
+    "type": 7,
+    "page": 112,
+    "rect": {
+      "x": 333.7510070800781,
+      "y": 167.093017578125,
+      "width": 85.50100708007812,
+      "height": 17.73095703125
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15495",
+    "name": "form1[0].Section24[0].From_Datefield_Name_2[2]",
+    "label": "To Date (Month/Year)",
+    "type": 7,
+    "page": 112,
+    "rect": {
+      "x": 464.25299072265625,
+      "y": 167.093017578125,
+      "width": 81.0,
+      "height": 17.73095703125
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15501",
+    "name": "form1[0].Section24[0].#field[3]",
+    "label": "Estimate",
+    "type": 2,
+    "page": 112,
+    "rect": {
+      "x": 132.50100708007812,
+      "y": 171.29302978515625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15496",
+    "name": "form1[0].Section24[0].#field[8]",
+    "label": "Estimate",
+    "type": 2,
+    "page": 112,
+    "rect": {
+      "x": 430.25299072265625,
+      "y": 172.29998779296875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15494",
+    "name": "form1[0].Section24[0].#field[10]",
+    "label": "Estimate",
+    "type": 2,
+    "page": 112,
+    "rect": {
+      "x": 546.864013671875,
+      "y": 173.3060302734375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15500",
+    "name": "form1[0].Section24[0].TextField11[0]",
+    "label": "Provide circumstances.",
+    "type": 7,
+    "page": 112,
+    "rect": {
+      "x": 36.00299835205078,
+      "y": 195.8909912109375,
+      "width": 294.0070114135742,
+      "height": 40.5260009765625
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15499",
+    "name": "form1[0].Section24[0].TextField11[1]",
+    "label": "Provide negative impact.",
+    "type": 7,
+    "page": 112,
+    "rect": {
+      "x": 333.7510070800781,
+      "y": 195.8909912109375,
+      "width": 260.2460021972656,
+      "height": 40.5260009765625
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15579",
+    "name": "form1[0].Section24_2[0].#area[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 113,
+    "rect": {
+      "x": 38.834999084472656,
+      "y": 141.7509765625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15576",
+    "name": "form1[0].Section24_2[0].#area[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 113,
+    "rect": {
+      "x": 309.0790100097656,
+      "y": 141.7509765625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15578",
+    "name": "form1[0].Section24_2[0].#area[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 113,
+    "rect": {
+      "x": 38.834999084472656,
+      "y": 158.6259765625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15575",
+    "name": "form1[0].Section24_2[0].#area[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 113,
+    "rect": {
+      "x": 309.0790100097656,
+      "y": 158.6259765625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15577",
+    "name": "form1[0].Section24_2[0].#area[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 113,
+    "rect": {
+      "x": 38.834999084472656,
+      "y": 175.5,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15566",
+    "name": "form1[0].Section24_2[0].TextField11[1]",
+    "label": "(Provide explanation)",
+    "type": 7,
+    "page": 113,
+    "rect": {
+      "x": 431.22900390625,
+      "y": 177.7490234375,
+      "width": 160.52001953125,
+      "height": 18.19598388671875
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15574",
+    "name": "form1[0].Section24_2[0].#area[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 113,
+    "rect": {
+      "x": 308.8349914550781,
+      "y": 182.34600830078125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15564",
+    "name": "form1[0].Section24_2[0].RadioButtonList[2]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 113,
+    "rect": {
+      "x": 378.5840148925781,
+      "y": 202.3070068359375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15565",
+    "name": "form1[0].Section24_2[0].RadioButtonList[2]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 113,
+    "rect": {
+      "x": 488.0,
+      "y": 202.3070068359375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15563",
+    "name": "form1[0].Section24_2[0].TextField11[2]",
+    "label": "(a) You responded 'No' to having taken action to seek counseling or treatment. Explain the reasons for not taking action to seek counseling or treatment. Provide explanation",
+    "type": 7,
+    "page": 113,
+    "rect": {
+      "x": 54.0,
+      "y": 240.14300537109375,
+      "width": 540.0,
+      "height": 14.86700439453125
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15553",
+    "name": "form1[0].Section24_2[0].#field[16]",
+    "label": "Present",
+    "type": 2,
+    "page": 113,
+    "rect": {
+      "x": 258.1130065917969,
+      "y": 285.83599853515625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15552",
+    "name": "form1[0].Section24_2[0].From_Datefield_Name_2[0]",
+    "label": "(b) You responded 'Yes' to having taken action to seek counseling or treatment. Provide the dates of counseling or treatment. From Date (Month/Year)",
+    "type": 7,
+    "page": 113,
+    "rect": {
+      "x": 54.0,
+      "y": 292.385009765625,
+      "width": 85.50100708007812,
+      "height": 17.730987548828125
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15550",
+    "name": "form1[0].Section24_2[0].From_Datefield_Name_2[1]",
+    "label": "To Date (Month/Year)",
+    "type": 7,
+    "page": 113,
+    "rect": {
+      "x": 175.50100708007812,
+      "y": 292.385009765625,
+      "width": 81.0,
+      "height": 17.730987548828125
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15557",
+    "name": "form1[0].Section24_2[0].TextField11[6]",
+    "label": "Provide the name of the individual counselor or treatment provider. ",
+    "type": 7,
+    "page": 113,
+    "rect": {
+      "x": 308.2510070800781,
+      "y": 293.40899658203125,
+      "width": 285.7489929199219,
+      "height": 13.3070068359375
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15551",
+    "name": "form1[0].Section24_2[0].#field[18]",
+    "label": "Estimate",
+    "type": 2,
+    "page": 113,
+    "rect": {
+      "x": 141.50100708007812,
+      "y": 297.59100341796875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15549",
+    "name": "form1[0].Section24_2[0].#field[20]",
+    "label": "Estimate",
+    "type": 2,
+    "page": 113,
+    "rect": {
+      "x": 258.1130065917969,
+      "y": 298.59698486328125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15561",
+    "name": "form1[0].Section24_2[0].TextField11[4]",
+    "label": "City",
+    "type": 7,
+    "page": 113,
+    "rect": {
+      "x": 211.50100708007812,
+      "y": 331.74200439453125,
+      "width": 117.0,
+      "height": 14.915008544921875
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15559",
+    "name": "form1[0].Section24_2[0].DropDownList16[0]",
+    "label": "Country",
+    "type": 3,
+    "page": 113,
+    "rect": {
+      "x": 450.8760070800781,
+      "y": 331.74200439453125,
+      "width": 142.00198364257812,
+      "height": 14.915008544921875
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15562",
+    "name": "form1[0].Section24_2[0].TextField11[3]",
+    "label": "Provide the full address for the counseling/treatment provider.  (Provide City and Country if outside the United States; otherwise, provide City, State and Zip Code). Street ",
+    "type": 7,
+    "page": 113,
+    "rect": {
+      "x": 54.0,
+      "y": 331.8840026855469,
+      "width": 153.0,
+      "height": 14.77301025390625
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15560",
+    "name": "form1[0].Section24_2[0].School6_State[0]",
+    "label": "State",
+    "type": 3,
+    "page": 113,
+    "rect": {
+      "x": 329.760009765625,
+      "y": 331.8840026855469,
+      "width": 48.239990234375,
+      "height": 17.608001708984375
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15558",
+    "name": "form1[0].Section24_2[0].TextField11[5]",
+    "label": "Zip Code",
+    "type": 7,
+    "page": 113,
+    "rect": {
+      "x": 380.72698974609375,
+      "y": 332.5069885253906,
+      "width": 65.9990234375,
+      "height": 14.1500244140625
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15573",
+    "name": "form1[0].Section24_2[0].#field[2]",
+    "label": "International or D N S phone number",
+    "type": 2,
+    "page": 113,
+    "rect": {
+      "x": 304.33599853515625,
+      "y": 355.0159912109375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15567",
+    "name": "form1[0].Section24_2[0].p3-t68[0]",
+    "label": "Provide telephone number.",
+    "type": 7,
+    "page": 113,
+    "rect": {
+      "x": 54.0,
+      "y": 361.2099914550781,
+      "width": 195.25599670410156,
+      "height": 17.680023193359375
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15568",
+    "name": "form1[0].Section24_2[0].TextField11[0]",
+    "label": "Extension",
+    "type": 7,
+    "page": 113,
+    "rect": {
+      "x": 259.0329895019531,
+      "y": 362.6419982910156,
+      "width": 38.001007080078125,
+      "height": 16.248016357421875
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15572",
+    "name": "form1[0].Section24_2[0].#field[3]",
+    "label": "Day",
+    "type": 2,
+    "page": 113,
+    "rect": {
+      "x": 304.33599853515625,
+      "y": 368.25299072265625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15571",
+    "name": "form1[0].Section24_2[0].#field[4]",
+    "label": "Night",
+    "type": 2,
+    "page": 113,
+    "rect": {
+      "x": 340.27398681640625,
+      "y": 368.25299072265625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15554",
+    "name": "form1[0].Section24_2[0].TextField11[7]",
+    "label": "(Provide explanation)",
+    "type": 7,
+    "page": 113,
+    "rect": {
+      "x": 421.2929992675781,
+      "y": 380.0920104980469,
+      "width": 172.70700073242188,
+      "height": 18.19598388671875
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15556",
+    "name": "form1[0].Section24_2[0].#area[1].RadioButtonList[3]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 113,
+    "rect": {
+      "x": 253.8699951171875,
+      "y": 384.39599609375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15555",
+    "name": "form1[0].Section24_2[0].#area[1].RadioButtonList[3]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 113,
+    "rect": {
+      "x": 292.239013671875,
+      "y": 384.39599609375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15610",
+    "name": "form1[0].Section24_3[0].#field[30]",
+    "label": "Present",
+    "type": 2,
+    "page": 114,
+    "rect": {
+      "x": 240.50100708007812,
+      "y": 136.135009765625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15609",
+    "name": "form1[0].Section24_3[0].From_Datefield_Name_2[2]",
+    "label": "Complete the following if you responded 'Yes' to voluntarily seeking counseling or treatment. Entry #1. Provide the dates of counseling or treatment. From Date (Month/Year)",
+    "type": 7,
+    "page": 114,
+    "rect": {
+      "x": 36.00899887084961,
+      "y": 142.68402099609375,
+      "width": 88.67599868774414,
+      "height": 17.73095703125
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15607",
+    "name": "form1[0].Section24_3[0].From_Datefield_Name_2[3]",
+    "label": "To Date (Month/Year)",
+    "type": 7,
+    "page": 114,
+    "rect": {
+      "x": 162.02000427246094,
+      "y": 142.68402099609375,
+      "width": 74.23100280761719,
+      "height": 17.73095703125
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15611",
+    "name": "form1[0].Section24_3[0].TextField11[10]",
+    "label": "Provide the name of the individual counselor or treatment provider. ",
+    "type": 7,
+    "page": 114,
+    "rect": {
+      "x": 288.031005859375,
+      "y": 142.8709716796875,
+      "width": 305.697021484375,
+      "height": 14.14501953125
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15608",
+    "name": "form1[0].Section24_3[0].#field[32]",
+    "label": "Estimate",
+    "type": 2,
+    "page": 114,
+    "rect": {
+      "x": 126.68399810791016,
+      "y": 147.8909912109375,
+      "width": 9.000007629394531,
+      "height": 9.0
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15606",
+    "name": "form1[0].Section24_3[0].#field[34]",
+    "label": "Estimate",
+    "type": 2,
+    "page": 114,
+    "rect": {
+      "x": 240.5,
+      "y": 148.89697265625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15620",
+    "name": "form1[0].Section24_3[0].#area[2].TextField11[7]",
+    "label": "City",
+    "type": 7,
+    "page": 114,
+    "rect": {
+      "x": 202.50100708007812,
+      "y": 182.041015625,
+      "width": 121.49899291992188,
+      "height": 14.91497802734375
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15618",
+    "name": "form1[0].Section24_3[0].#area[2].DropDownList14[0]",
+    "label": "Country",
+    "type": 3,
+    "page": 114,
+    "rect": {
+      "x": 450.8760070800781,
+      "y": 182.041015625,
+      "width": 142.00198364257812,
+      "height": 14.91497802734375
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15621",
+    "name": "form1[0].Section24_3[0].#area[2].TextField11[6]",
+    "label": "Provide the full address of the counseling/treatment provider. (Provide City and Country if outside the United States; otherwise, provide City, State and Zip Code). Street ",
+    "type": 7,
+    "page": 114,
+    "rect": {
+      "x": 35.87799835205078,
+      "y": 182.1829833984375,
+      "width": 157.62200164794922,
+      "height": 14.77301025390625
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15619",
+    "name": "form1[0].Section24_3[0].#area[2].School6_State[1]",
+    "label": "State",
+    "type": 3,
+    "page": 114,
+    "rect": {
+      "x": 329.760009765625,
+      "y": 182.1829833984375,
+      "width": 48.239990234375,
+      "height": 17.6080322265625
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15617",
+    "name": "form1[0].Section24_3[0].#area[2].TextField11[8]",
+    "label": "Zip Code",
+    "type": 7,
+    "page": 114,
+    "rect": {
+      "x": 380.72698974609375,
+      "y": 182.8060302734375,
+      "width": 65.9990234375,
+      "height": 14.14996337890625
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15614",
+    "name": "form1[0].Section24_3[0].#field[26]",
+    "label": "International or D N S phone number",
+    "type": 2,
+    "page": 114,
+    "rect": {
+      "x": 281.8380126953125,
+      "y": 205.3189697265625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15616",
+    "name": "form1[0].Section24_3[0].p3-t68[1]",
+    "label": "Provide telephone number.",
+    "type": 7,
+    "page": 114,
+    "rect": {
+      "x": 36.0,
+      "y": 211.50897216796875,
+      "width": 195.25599670410156,
+      "height": 17.6800537109375
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15615",
+    "name": "form1[0].Section24_3[0].TextField11[9]",
+    "label": "Extension",
+    "type": 7,
+    "page": 114,
+    "rect": {
+      "x": 235.2530059814453,
+      "y": 212.94097900390625,
+      "width": 38.00099182128906,
+      "height": 16.248046875
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15613",
+    "name": "form1[0].Section24_3[0].#field[27]",
+    "label": "Day",
+    "type": 2,
+    "page": 114,
+    "rect": {
+      "x": 281.8349914550781,
+      "y": 218.55499267578125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15612",
+    "name": "form1[0].Section24_3[0].#field[28]",
+    "label": "Night",
+    "type": 2,
+    "page": 114,
+    "rect": {
+      "x": 317.7749938964844,
+      "y": 218.55499267578125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15603",
+    "name": "form1[0].Section24_3[0].TextField11[11]",
+    "label": "(Provide explanation)",
+    "type": 7,
+    "page": 114,
+    "rect": {
+      "x": 422.4949951171875,
+      "y": 230.3909912109375,
+      "width": 171.5050048828125,
+      "height": 18.19598388671875
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15605",
+    "name": "form1[0].Section24_3[0].#area[3].RadioButtonList[2]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 114,
+    "rect": {
+      "x": 253.8699951171875,
+      "y": 234.69500732421875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15604",
+    "name": "form1[0].Section24_3[0].#area[3].RadioButtonList[2]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 114,
+    "rect": {
+      "x": 292.2409973144531,
+      "y": 234.69500732421875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15634",
+    "name": "form1[0].Section24_4[0].TextField11[13]",
+    "label": "Complete the following if you responded 'Yes' to having EVER received counseling or treatment as a result of your use of alcohol. Entry #1. Provide the name of the individual counselor or treatment provider. Name. ",
+    "type": 7,
+    "page": 115,
+    "rect": {
+      "x": 36.0,
+      "y": 144.302978515625,
+      "width": 555.7490234375,
+      "height": 13.91204833984375
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15638",
+    "name": "form1[0].Section24_4[0].#area[4].TextField11[11]",
+    "label": "City",
+    "type": 7,
+    "page": 115,
+    "rect": {
+      "x": 202.50100708007812,
+      "y": 183.239990234375,
+      "width": 121.49899291992188,
+      "height": 14.9150390625
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15636",
+    "name": "form1[0].Section24_4[0].#area[4].DropDownList12[0]",
+    "label": "Country",
+    "type": 3,
+    "page": 115,
+    "rect": {
+      "x": 450.8760070800781,
+      "y": 183.239990234375,
+      "width": 142.00198364257812,
+      "height": 14.9150390625
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15639",
+    "name": "form1[0].Section24_4[0].#area[4].TextField11[10]",
+    "label": "Provide the full address of the counseling/treatment provider. (Provide City and Country if outside the United States; otherwise, provide City, State and Zip Code). Street ",
+    "type": 7,
+    "page": 115,
+    "rect": {
+      "x": 35.87799835205078,
+      "y": 183.38201904296875,
+      "width": 157.62200164794922,
+      "height": 14.77301025390625
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15637",
+    "name": "form1[0].Section24_4[0].#area[4].School6_State[2]",
+    "label": "State",
+    "type": 3,
+    "page": 115,
+    "rect": {
+      "x": 329.760009765625,
+      "y": 183.38201904296875,
+      "width": 48.239990234375,
+      "height": 17.60797119140625
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15635",
+    "name": "form1[0].Section24_4[0].#area[4].TextField11[12]",
+    "label": "Zip Code",
+    "type": 7,
+    "page": 115,
+    "rect": {
+      "x": 380.72698974609375,
+      "y": 184.0050048828125,
+      "width": 65.9990234375,
+      "height": 14.1500244140625
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15622",
+    "name": "form1[0].Section24_4[0].TextField11[17]",
+    "label": "Provide the name of agency/organization where counseling/treatment was provided. Name",
+    "type": 7,
+    "page": 115,
+    "rect": {
+      "x": 36.12200164794922,
+      "y": 223.052001953125,
+      "width": 555.6270217895508,
+      "height": 13.9119873046875
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15628",
+    "name": "form1[0].Section24_4[0].#area[5].#field[33]",
+    "label": "Provide the address of agency/organization where counseling/treatment was provided. (Provide City and Country if outside the United States; otherwise, provide City, State and Zip Code). Same as above",
+    "type": 2,
+    "page": 115,
+    "rect": {
+      "x": 520.3359985351562,
+      "y": 247.01898193359375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15632",
+    "name": "form1[0].Section24_4[0].#area[5].TextField11[15]",
+    "label": "City",
+    "type": 7,
+    "page": 115,
+    "rect": {
+      "x": 202.6230010986328,
+      "y": 269.2490234375,
+      "width": 121.49900817871094,
+      "height": 14.91497802734375
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15630",
+    "name": "form1[0].Section24_4[0].#area[5].DropDownList11[0]",
+    "label": "Country",
+    "type": 3,
+    "page": 115,
+    "rect": {
+      "x": 450.99798583984375,
+      "y": 269.2490234375,
+      "width": 142.00201416015625,
+      "height": 14.91497802734375
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15633",
+    "name": "form1[0].Section24_4[0].#area[5].TextField11[14]",
+    "label": "Provide the address of agency/organization where counseling/treatment was provided. (Provide City and Country if outside the United States; otherwise, provide City, State and Zip Code). Street",
+    "type": 7,
+    "page": 115,
+    "rect": {
+      "x": 36.0,
+      "y": 269.3909912109375,
+      "width": 157.6219940185547,
+      "height": 14.77301025390625
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15631",
+    "name": "form1[0].Section24_4[0].#area[5].School6_State[3]",
+    "label": "State",
+    "type": 3,
+    "page": 115,
+    "rect": {
+      "x": 329.8819885253906,
+      "y": 269.3909912109375,
+      "width": 48.240020751953125,
+      "height": 17.608001708984375
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15629",
+    "name": "form1[0].Section24_4[0].#area[5].TextField11[16]",
+    "label": "Zip Code",
+    "type": 7,
+    "page": 115,
+    "rect": {
+      "x": 380.8489990234375,
+      "y": 270.01397705078125,
+      "width": 65.99899291992188,
+      "height": 14.1500244140625
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15627",
+    "name": "form1[0].Section24_4[0].#field[34]",
+    "label": "Present",
+    "type": 2,
+    "page": 115,
+    "rect": {
+      "x": 247.6219940185547,
+      "y": 301.5849914550781,
+      "width": 9.000015258789062,
+      "height": 9.0
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15626",
+    "name": "form1[0].Section24_4[0].From_Datefield_Name_2[2]",
+    "label": "Provide the dates of counseling or treatment. From date (Month/Year)",
+    "type": 7,
+    "page": 115,
+    "rect": {
+      "x": 36.0,
+      "y": 308.1340026855469,
+      "width": 88.6760025024414,
+      "height": 17.730987548828125
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15624",
+    "name": "form1[0].Section24_4[0].From_Datefield_Name_2[3]",
+    "label": "To Date (Month/Year)",
+    "type": 7,
+    "page": 115,
+    "rect": {
+      "x": 162.01100158691406,
+      "y": 308.1340026855469,
+      "width": 84.00799560546875,
+      "height": 17.730987548828125
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15625",
+    "name": "form1[0].Section24_4[0].#field[36]",
+    "label": "Estimate",
+    "type": 2,
+    "page": 115,
+    "rect": {
+      "x": 126.67500305175781,
+      "y": 313.3399963378906,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15623",
+    "name": "form1[0].Section24_4[0].#field[38]",
+    "label": "Estimate",
+    "type": 2,
+    "page": 115,
+    "rect": {
+      "x": 247.62100219726562,
+      "y": 314.34698486328125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15665",
+    "name": "form1[0].Section24_4[0].#area[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 115,
+    "rect": {
+      "x": 378.5840148925781,
+      "y": 330.2909851074219,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15664",
+    "name": "form1[0].Section24_4[0].#area[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 115,
+    "rect": {
+      "x": 494.2929992675781,
+      "y": 330.2909851074219,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "15663",
+    "name": "form1[0].Section24_4[0].TextField11[0]",
+    "label": "Explanation",
+    "type": 7,
+    "page": 115,
+    "rect": {
+      "x": 36.0,
+      "y": 355.7669982910156,
+      "width": 557.8779907226562,
+      "height": 13.99200439453125
+    },
+    "section": "24",
+    "subsection": null,
+    "entry": 1
+  }
+]

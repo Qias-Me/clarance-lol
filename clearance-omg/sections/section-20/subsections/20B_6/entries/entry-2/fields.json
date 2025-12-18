@@ -1,0 +1,482 @@
+[
+  {
+    "id": "14064",
+    "name": "form1[0].#subform[83].#subform[84].TextField11[188]",
+    "label": "First name",
+    "type": 7,
+    "page": 80,
+    "rect": {
+      "x": 216.0,
+      "y": 485.39599609375,
+      "width": 171.0,
+      "height": 15.75
+    },
+    "section": "20",
+    "subsection": "20B.6",
+    "entry": 2
+  },
+  {
+    "id": "14067",
+    "name": "form1[0].#subform[83].#subform[84].suffix[18]",
+    "label": "Suffix",
+    "type": 3,
+    "page": 80,
+    "rect": {
+      "x": 524.8770141601562,
+      "y": 485.39599609375,
+      "width": 69.0009765625,
+      "height": 15.75
+    },
+    "section": "20",
+    "subsection": "20B.6",
+    "entry": 2
+  },
+  {
+    "id": "14065",
+    "name": "form1[0].#subform[83].#subform[84].TextField11[187]",
+    "label": "Entry #2. Provide the name of the individual involved in the contact. Last name ",
+    "type": 7,
+    "page": 80,
+    "rect": {
+      "x": 36.0,
+      "y": 485.5379943847656,
+      "width": 171.0,
+      "height": 15.608001708984375
+    },
+    "section": "20",
+    "subsection": "20B.6",
+    "entry": 2
+  },
+  {
+    "id": "14066",
+    "name": "form1[0].#subform[83].#subform[84].TextField11[186]",
+    "label": "Middle name",
+    "type": 7,
+    "page": 80,
+    "rect": {
+      "x": 391.87799072265625,
+      "y": 486.1610107421875,
+      "width": 128.00103759765625,
+      "height": 14.9849853515625
+    },
+    "section": "20",
+    "subsection": "20B.6",
+    "entry": 2
+  },
+  {
+    "id": "14071",
+    "name": "form1[0].#subform[83].#subform[84].#area[29].TextField11[184]",
+    "label": "Provide the location of the contact. (Provide City and Country if outside the United States; otherwise, provide City, State and Zip Code.) City",
+    "type": 7,
+    "page": 80,
+    "rect": {
+      "x": 36.0,
+      "y": 522.7059936523438,
+      "width": 196.38099670410156,
+      "height": 14.91497802734375
+    },
+    "section": "20",
+    "subsection": "20B.6",
+    "entry": 2
+  },
+  {
+    "id": "14069",
+    "name": "form1[0].#subform[83].#subform[84].#area[29].DropDownList20[0]",
+    "label": "Country",
+    "type": 3,
+    "page": 80,
+    "rect": {
+      "x": 391.5010070800781,
+      "y": 522.7059936523438,
+      "width": 202.49899291992188,
+      "height": 14.91497802734375
+    },
+    "section": "20",
+    "subsection": "20B.6",
+    "entry": 2
+  },
+  {
+    "id": "14070",
+    "name": "form1[0].#subform[83].#subform[84].#area[29].School6_State[14]",
+    "label": "State",
+    "type": 3,
+    "page": 80,
+    "rect": {
+      "x": 243.0,
+      "y": 522.8480224609375,
+      "width": 49.501007080078125,
+      "height": 17.60797119140625
+    },
+    "section": "20",
+    "subsection": "20B.6",
+    "entry": 2
+  },
+  {
+    "id": "14068",
+    "name": "form1[0].#subform[83].#subform[84].#area[29].TextField11[185]",
+    "label": "Zip Code",
+    "type": 7,
+    "page": 80,
+    "rect": {
+      "x": 299.239013671875,
+      "y": 523.4710083007812,
+      "width": 83.26199340820312,
+      "height": 14.14996337890625
+    },
+    "section": "20",
+    "subsection": "20B.6",
+    "entry": 2
+  },
+  {
+    "id": "14021",
+    "name": "form1[0].#subform[83].#subform[84].DropDownList12[26]",
+    "label": "Provide the foreign government(s) involved. Country #1",
+    "type": 3,
+    "page": 80,
+    "rect": {
+      "x": 216.0,
+      "y": 563.0460205078125,
+      "width": 166.50100708007812,
+      "height": 17.60797119140625
+    },
+    "section": "20",
+    "subsection": "20B.6",
+    "entry": 2
+  },
+  {
+    "id": "14020",
+    "name": "form1[0].#subform[83].#subform[84].DropDownList12[27]",
+    "label": "Country #2",
+    "type": 3,
+    "page": 80,
+    "rect": {
+      "x": 391.5010070800781,
+      "y": 563.0460205078125,
+      "width": 202.49899291992188,
+      "height": 17.60797119140625
+    },
+    "section": "20",
+    "subsection": "20B.6",
+    "entry": 2
+  },
+  {
+    "id": "14023",
+    "name": "form1[0].#subform[83].#subform[84].#area[34].From_Datefield_Name_2[35]",
+    "label": "Provide the date of contact. (Month/Year)",
+    "type": 7,
+    "page": 80,
+    "rect": {
+      "x": 36.090999603271484,
+      "y": 563.4000244140625,
+      "width": 139.54399490356445,
+      "height": 19.03497314453125
+    },
+    "section": "20",
+    "subsection": "20B.6",
+    "entry": 2
+  },
+  {
+    "id": "14022",
+    "name": "form1[0].#subform[83].#subform[84].#area[34].#field[440]",
+    "label": "Estimate",
+    "type": 2,
+    "page": 80,
+    "rect": {
+      "x": 182.13400268554688,
+      "y": 571.1489868164062,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20B.6",
+    "entry": 2
+  },
+  {
+    "id": "14073",
+    "name": "form1[0].#subform[83].#subform[84].TextField11[182]",
+    "label": "Provide the purpose/circumstances of contact.",
+    "type": 7,
+    "page": 80,
+    "rect": {
+      "x": 391.5010070800781,
+      "y": 592.7899780273438,
+      "width": 200.99899291992188,
+      "height": 36.6090087890625
+    },
+    "section": "20",
+    "subsection": "20B.6",
+    "entry": 2
+  },
+  {
+    "id": "14019",
+    "name": "form1[0].#subform[83].#subform[84].TextField11[193]",
+    "label": "Provide the names of the foreign representatives involved in contact.",
+    "type": 7,
+    "page": 80,
+    "rect": {
+      "x": 216.0,
+      "y": 603.4100341796875,
+      "width": 164.24798583984375,
+      "height": 25.98895263671875
+    },
+    "section": "20",
+    "subsection": "20B.6",
+    "entry": 2
+  },
+  {
+    "id": "14072",
+    "name": "form1[0].#subform[83].#subform[84].TextField11[183]",
+    "label": "Provide the type of establishment (such as embassy, consulate, agency, military service, intelligence or security service, etc.) involved.",
+    "type": 7,
+    "page": 80,
+    "rect": {
+      "x": 36.0,
+      "y": 612.8049926757812,
+      "width": 175.50100708007812,
+      "height": 13.75897216796875
+    },
+    "section": "20",
+    "subsection": "20B.6",
+    "entry": 2
+  },
+  {
+    "id": "14062",
+    "name": "form1[0].#subform[83].#subform[84].#area[30].RadioButtonList[31]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 80,
+    "rect": {
+      "x": 38.834999084472656,
+      "y": 649.9509887695312,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20B.6",
+    "entry": 2
+  },
+  {
+    "id": "14063",
+    "name": "form1[0].#subform[83].#subform[84].#area[30].RadioButtonList[31]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 80,
+    "rect": {
+      "x": 38.834999084472656,
+      "y": 667.4550170898438,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20B.6",
+    "entry": 2
+  },
+  {
+    "id": "14061",
+    "name": "form1[0].#subform[83].#subform[84].Table1[0].Row1[0].Cell1[0]",
+    "label": "Provide the purpose of the subsequent contact. Row 1",
+    "type": 7,
+    "page": 80,
+    "rect": {
+      "x": 100.41699981689453,
+      "y": 669.2880249023438,
+      "width": 171.1100082397461,
+      "height": 12.8189697265625
+    },
+    "section": "20",
+    "subsection": "20B.6",
+    "entry": 2
+  },
+  {
+    "id": "14060",
+    "name": "form1[0].#subform[83].#subform[84].Table1[0].Row1[0].Cell2[0]",
+    "label": "Provide date of most recent contact (Month/Year). Row 1",
+    "type": 7,
+    "page": 80,
+    "rect": {
+      "x": 274.3609924316406,
+      "y": 669.2880249023438,
+      "width": 103.916015625,
+      "height": 12.8189697265625
+    },
+    "section": "20",
+    "subsection": "20B.6",
+    "entry": 2
+  },
+  {
+    "id": "14059",
+    "name": "form1[0].#subform[83].#subform[84].Table1[0].Row1[0].Cell4[0]",
+    "label": "Provide plans for future contact. Row 1",
+    "type": 7,
+    "page": 80,
+    "rect": {
+      "x": 381.1109924316406,
+      "y": 669.2880249023438,
+      "width": 210.66299438476562,
+      "height": 12.8189697265625
+    },
+    "section": "20",
+    "subsection": "20B.6",
+    "entry": 2
+  },
+  {
+    "id": "14058",
+    "name": "form1[0].#subform[83].#subform[84].Table1[0].Row2[0].Cell1[0]",
+    "label": "Provide the purpose of the subsequent contact. Row 2",
+    "type": 7,
+    "page": 80,
+    "rect": {
+      "x": 100.41699981689453,
+      "y": 684.9409790039062,
+      "width": 171.1100082397461,
+      "height": 11.030029296875
+    },
+    "section": "20",
+    "subsection": "20B.6",
+    "entry": 2
+  },
+  {
+    "id": "14057",
+    "name": "form1[0].#subform[83].#subform[84].Table1[0].Row2[0].Cell2[0]",
+    "label": "Provide date of most recent contact (Month/Year). Row 2",
+    "type": 7,
+    "page": 80,
+    "rect": {
+      "x": 274.3609924316406,
+      "y": 684.9409790039062,
+      "width": 103.916015625,
+      "height": 11.030029296875
+    },
+    "section": "20",
+    "subsection": "20B.6",
+    "entry": 2
+  },
+  {
+    "id": "14056",
+    "name": "form1[0].#subform[83].#subform[84].Table1[0].Row2[0].Cell4[0]",
+    "label": "Provide plans for future contact. Row 2",
+    "type": 7,
+    "page": 80,
+    "rect": {
+      "x": 381.1109924316406,
+      "y": 684.9409790039062,
+      "width": 210.66299438476562,
+      "height": 11.030029296875
+    },
+    "section": "20",
+    "subsection": "20B.6",
+    "entry": 2
+  },
+  {
+    "id": "14055",
+    "name": "form1[0].#subform[83].#subform[84].Table1[0].Row3[0].Cell1[0]",
+    "label": "Provide the purpose of the subsequent contact. Row 3",
+    "type": 7,
+    "page": 80,
+    "rect": {
+      "x": 100.41699981689453,
+      "y": 698.8049926757812,
+      "width": 171.1100082397461,
+      "height": 11.9219970703125
+    },
+    "section": "20",
+    "subsection": "20B.6",
+    "entry": 2
+  },
+  {
+    "id": "14054",
+    "name": "form1[0].#subform[83].#subform[84].Table1[0].Row3[0].Cell2[0]",
+    "label": "Provide date of most recent contact (Month/Year). Row 3",
+    "type": 7,
+    "page": 80,
+    "rect": {
+      "x": 274.3609924316406,
+      "y": 698.8049926757812,
+      "width": 103.916015625,
+      "height": 11.9219970703125
+    },
+    "section": "20",
+    "subsection": "20B.6",
+    "entry": 2
+  },
+  {
+    "id": "14053",
+    "name": "form1[0].#subform[83].#subform[84].Table1[0].Row3[0].Cell4[0]",
+    "label": "Provide plans for future contact. Row 3",
+    "type": 7,
+    "page": 80,
+    "rect": {
+      "x": 381.1109924316406,
+      "y": 698.8049926757812,
+      "width": 210.66299438476562,
+      "height": 11.9219970703125
+    },
+    "section": "20",
+    "subsection": "20B.6",
+    "entry": 2
+  },
+  {
+    "id": "14052",
+    "name": "form1[0].#subform[83].#subform[84].Table1[0].Row4[0].Cell1[0]",
+    "label": "Provide the purpose of the subsequent contact. Row 4",
+    "type": 7,
+    "page": 80,
+    "rect": {
+      "x": 100.41699981689453,
+      "y": 713.5609741210938,
+      "width": 171.1100082397461,
+      "height": 11.28900146484375
+    },
+    "section": "20",
+    "subsection": "20B.6",
+    "entry": 2
+  },
+  {
+    "id": "14051",
+    "name": "form1[0].#subform[83].#subform[84].Table1[0].Row4[0].Cell2[0]",
+    "label": "Provide date of most recent contact (Month/Year). Row 4",
+    "type": 7,
+    "page": 80,
+    "rect": {
+      "x": 274.3609924316406,
+      "y": 713.5609741210938,
+      "width": 103.916015625,
+      "height": 11.28900146484375
+    },
+    "section": "20",
+    "subsection": "20B.6",
+    "entry": 2
+  },
+  {
+    "id": "14050",
+    "name": "form1[0].#subform[83].#subform[84].Table1[0].Row4[0].Cell4[0]",
+    "label": "Provide plans for future contact. Row 4",
+    "type": 7,
+    "page": 80,
+    "rect": {
+      "x": 381.1109924316406,
+      "y": 713.5609741210938,
+      "width": 210.66299438476562,
+      "height": 11.28900146484375
+    },
+    "section": "20",
+    "subsection": "20B.6",
+    "entry": 2
+  },
+  {
+    "id": "14077",
+    "name": "form1[0].#subform[83].#subform[84].SSN[11]",
+    "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+    "type": 7,
+    "page": 80,
+    "rect": {
+      "x": 476.7279968261719,
+      "y": 739.0009765625,
+      "width": 115.51303100585938,
+      "height": 13.6710205078125
+    },
+    "section": "20",
+    "subsection": "20B.6",
+    "entry": 2
+  }
+]

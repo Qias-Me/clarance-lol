@@ -1,0 +1,610 @@
+[
+  {
+    "page": 40,
+    "name": "form1[0].Section17_1_2[0].#area[0].TextField11[4]",
+    "label": "County",
+    "type": 7,
+    "rect": {
+      "x": 211.3820037841797,
+      "y": 136.301025390625,
+      "width": 109.00099182128906,
+      "height": 17.75
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": null,
+    "id": "11815"
+  },
+  {
+    "page": 40,
+    "name": "form1[0].Section17_1_2[0].#area[0].DropDownList31[0]",
+    "label": "Country",
+    "type": 3,
+    "rect": {
+      "x": 381.8800048828125,
+      "y": 136.301025390625,
+      "width": 210.6820068359375,
+      "height": 17.75
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": null,
+    "id": "11813"
+  },
+  {
+    "page": 40,
+    "name": "form1[0].Section17_1_2[0].#area[0].TextField11[3]",
+    "label": "17.1  Complete the following if you selected 'Married' or 'Separated.' (Continued). Provide place married. (Provide City and Country if outside the United States; otherwise, provide City, County and State.) City",
+    "type": 7,
+    "rect": {
+      "x": 35.685001373291016,
+      "y": 136.4429931640625,
+      "width": 166.49999618530273,
+      "height": 17.6080322265625
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": null,
+    "id": "11816"
+  },
+  {
+    "page": 40,
+    "name": "form1[0].Section17_1_2[0].#area[0].School6_State[1]",
+    "label": "State",
+    "type": 3,
+    "rect": {
+      "x": 328.9209899902344,
+      "y": 136.4429931640625,
+      "width": 44.70501708984375,
+      "height": 17.6080322265625
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": null,
+    "id": "11814"
+  },
+  {
+    "page": 40,
+    "name": "form1[0].Section17_1_2[0].#field[30]",
+    "label": "Use my current address",
+    "type": 2,
+    "rect": {
+      "x": 488.3609924316406,
+      "y": 158.60101318359375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": null,
+    "id": "11794"
+  },
+  {
+    "page": 40,
+    "name": "form1[0].Section17_1_2[0].#area[2].TextField11[7]",
+    "label": "City",
+    "type": 7,
+    "rect": {
+      "x": 211.37899780273438,
+      "y": 177.67901611328125,
+      "width": 109.00100708007812,
+      "height": 17.75
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": null,
+    "id": "11806"
+  },
+  {
+    "page": 40,
+    "name": "form1[0].Section17_1_2[0].#area[2].DropDownList13[0]",
+    "label": "Country",
+    "type": 3,
+    "rect": {
+      "x": 450.9070129394531,
+      "y": 177.67901611328125,
+      "width": 142.00198364257812,
+      "height": 17.75
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": null,
+    "id": "11804"
+  },
+  {
+    "page": 40,
+    "name": "form1[0].Section17_1_2[0].#area[2].TextField11[6]",
+    "label": "Provide current address, if different than your current address. (Provide City and Country if outside the United States; otherwise, provide City, State and Zip Code). Street",
+    "type": 7,
+    "rect": {
+      "x": 35.685001373291016,
+      "y": 177.82098388671875,
+      "width": 166.49999618530273,
+      "height": 17.6080322265625
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": null,
+    "id": "11807"
+  },
+  {
+    "page": 40,
+    "name": "form1[0].Section17_1_2[0].#area[2].School6_State[2]",
+    "label": "State",
+    "type": 3,
+    "rect": {
+      "x": 328.9209899902344,
+      "y": 177.82098388671875,
+      "width": 44.70501708984375,
+      "height": 17.6080322265625
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": null,
+    "id": "11805"
+  },
+  {
+    "page": 40,
+    "name": "form1[0].Section17_1_2[0].#area[2].TextField11[8]",
+    "label": "Zip Code",
+    "type": 7,
+    "rect": {
+      "x": 380.75799560546875,
+      "y": 178.4439697265625,
+      "width": 65.99899291992188,
+      "height": 16.98504638671875
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": null,
+    "id": "11803"
+  },
+  {
+    "page": 40,
+    "name": "form1[0].Section17_1_2[0].#area[1].#field[15]",
+    "label": "Use my current telephone number",
+    "type": 2,
+    "rect": {
+      "x": 229.63099670410156,
+      "y": 198.49700927734375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": null,
+    "id": "11809"
+  },
+  {
+    "page": 40,
+    "name": "form1[0].Section17_1_2[0].#field[28]",
+    "label": "Day",
+    "type": 2,
+    "rect": {
+      "x": 191.38099670410156,
+      "y": 198.927978515625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": null,
+    "id": "11796"
+  },
+  {
+    "page": 40,
+    "name": "form1[0].Section17_1_2[0].#area[1].p3-t68[0]",
+    "label": "Provide telephone number.",
+    "type": 7,
+    "rect": {
+      "x": 35.685001373291016,
+      "y": 206.5689697265625,
+      "width": 103.69700241088867,
+      "height": 17.6800537109375
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": null,
+    "id": "11812"
+  },
+  {
+    "page": 40,
+    "name": "form1[0].Section17_1_2[0].#area[1].TextField11[5]",
+    "label": "Extension",
+    "type": 7,
+    "rect": {
+      "x": 145.87899780273438,
+      "y": 206.6409912109375,
+      "width": 38.001007080078125,
+      "height": 17.6080322265625
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": null,
+    "id": "11811"
+  },
+  {
+    "page": 40,
+    "name": "form1[0].Section17_1_2[0].#area[1].p3-t68[1]",
+    "label": "Provide email address.",
+    "type": 7,
+    "rect": {
+      "x": 382.61199951171875,
+      "y": 207.26397705078125,
+      "width": 211.2659912109375,
+      "height": 16.98504638671875
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": null,
+    "id": "11810"
+  },
+  {
+    "page": 40,
+    "name": "form1[0].Section17_1_2[0].#area[1].#field[16]",
+    "label": "International or D S N phone number",
+    "type": 2,
+    "rect": {
+      "x": 229.63099670410156,
+      "y": 213.1209716796875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": null,
+    "id": "11808"
+  },
+  {
+    "page": 40,
+    "name": "form1[0].Section17_1_2[0].#field[29]",
+    "label": "Night",
+    "type": 2,
+    "rect": {
+      "x": 191.38099670410156,
+      "y": 213.552001953125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": null,
+    "id": "11795"
+  },
+  {
+    "page": 40,
+    "name": "form1[0].Section17_1_2[0].RadioButtonList[1]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 37.430999755859375,
+      "y": 237.39697265625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": null,
+    "id": "11789"
+  },
+  {
+    "page": 40,
+    "name": "form1[0].Section17_1_2[0].TextField11[12]",
+    "label": "A P O or F P O",
+    "type": 7,
+    "rect": {
+      "x": 296.8699951171875,
+      "y": 243.593017578125,
+      "width": 113.6300048828125,
+      "height": 14.91497802734375
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": null,
+    "id": "11792"
+  },
+  {
+    "page": 40,
+    "name": "form1[0].Section17_1_2[0].TextField11[11]",
+    "label": "Address",
+    "type": 7,
+    "rect": {
+      "x": 100.11399841308594,
+      "y": 243.7349853515625,
+      "width": 192.37599182128906,
+      "height": 14.77301025390625
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": null,
+    "id": "11793"
+  },
+  {
+    "page": 40,
+    "name": "form1[0].Section17_1_2[0].School6_State[4]",
+    "label": "A P O / F P O State Code",
+    "type": 3,
+    "rect": {
+      "x": 417.36199951171875,
+      "y": 243.7349853515625,
+      "width": 102.00201416015625,
+      "height": 17.6080322265625
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": null,
+    "id": "11791"
+  },
+  {
+    "page": 40,
+    "name": "form1[0].Section17_1_2[0].TextField11[13]",
+    "label": "Zip Code",
+    "type": 7,
+    "rect": {
+      "x": 524.3579711914062,
+      "y": 243.7349853515625,
+      "width": 55.00604248046875,
+      "height": 14.77301025390625
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": null,
+    "id": "11790"
+  },
+  {
+    "page": 40,
+    "name": "form1[0].Section17_1_2[0].RadioButtonList[1]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 37.430999755859375,
+      "y": 248.55902099609375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": null,
+    "id": "11788"
+  },
+  {
+    "page": 40,
+    "name": "form1[0].Section17_1_2[0].TextField11[1]",
+    "label": "City or Post Name",
+    "type": 7,
+    "rect": {
+      "x": 211.3820037841797,
+      "y": 293.5329895019531,
+      "width": 111.00801086425781,
+      "height": 14.915008544921875
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": null,
+    "id": "11821"
+  },
+  {
+    "page": 40,
+    "name": "form1[0].Section17_1_2[0].TextField11[0]",
+    "label": "If you have indicated an APO/FPO address, complete (a). If you have indicated an address outside of the United States, complete (b). Provide your spouse's APO/FPO address.  (Provide City and Country if outside the United States; otherwise, provide City, State and Zip Code for ports in the United States.)  Street Address/Unit/Duty Location ",
+    "type": 7,
+    "rect": {
+      "x": 35.520999908447266,
+      "y": 293.67498779296875,
+      "width": 170.07299423217773,
+      "height": 14.77301025390625
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": null,
+    "id": "11822"
+  },
+  {
+    "page": 40,
+    "name": "form1[0].Section17_1_2[0].School6_State[0]",
+    "label": "State",
+    "type": 3,
+    "rect": {
+      "x": 328.92401123046875,
+      "y": 293.67498779296875,
+      "width": 44.704986572265625,
+      "height": 17.608001708984375
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": null,
+    "id": "11820"
+  },
+  {
+    "page": 40,
+    "name": "form1[0].Section17_1_2[0].TextField11[2]",
+    "label": "Zip Code",
+    "type": 7,
+    "rect": {
+      "x": 380.760986328125,
+      "y": 295.0350036621094,
+      "width": 65.9990234375,
+      "height": 13.412994384765625
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": null,
+    "id": "11818"
+  },
+  {
+    "page": 40,
+    "name": "form1[0].Section17_1_2[0].DropDownList4[0]",
+    "label": "Country",
+    "type": 3,
+    "rect": {
+      "x": 450.9100036621094,
+      "y": 295.0350036621094,
+      "width": 141.97000122070312,
+      "height": 13.00799560546875
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": null,
+    "id": "11819"
+  },
+  {
+    "page": 40,
+    "name": "form1[0].Section17_1_2[0].#field[27]",
+    "label": "If legally separated, provide the location of the record.\r(Provide Country if outside the United States; otherwise provide State and Zip Code). Not Applicable",
+    "type": 2,
+    "rect": {
+      "x": 524.3809814453125,
+      "y": 319.8110046386719,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": null,
+    "id": "11797"
+  },
+  {
+    "page": 40,
+    "name": "form1[0].Section17_1_2[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 37.32099914550781,
+      "y": 330.6199951171875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": null,
+    "id": "11823"
+  },
+  {
+    "page": 40,
+    "name": "form1[0].Section17_1_2[0].TextField11[9]",
+    "label": "If legally separated, provide the location of the record.\r(Provide City and Country if outside the United States; otherwise, provide City, State and Zip Code). City",
+    "type": 7,
+    "rect": {
+      "x": 211.3820037841797,
+      "y": 342.44000244140625,
+      "width": 110.00398254394531,
+      "height": 17.75
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": null,
+    "id": "11801"
+  },
+  {
+    "page": 40,
+    "name": "form1[0].Section17_1_2[0].DropDownList14[0]",
+    "label": "Country",
+    "type": 3,
+    "rect": {
+      "x": 450.9100036621094,
+      "y": 342.44000244140625,
+      "width": 142.00198364257812,
+      "height": 17.75
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": null,
+    "id": "11799"
+  },
+  {
+    "page": 40,
+    "name": "form1[0].Section17_1_2[0].School6_State[3]",
+    "label": "State",
+    "type": 3,
+    "rect": {
+      "x": 328.92401123046875,
+      "y": 342.5820007324219,
+      "width": 44.704986572265625,
+      "height": 17.608001708984375
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": null,
+    "id": "11800"
+  },
+  {
+    "page": 40,
+    "name": "form1[0].Section17_1_2[0].TextField11[10]",
+    "label": "Zip Code",
+    "type": 7,
+    "rect": {
+      "x": 380.760986328125,
+      "y": 343.2049865722656,
+      "width": 65.9990234375,
+      "height": 16.985015869140625
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": null,
+    "id": "11798"
+  },
+  {
+    "page": 40,
+    "name": "form1[0].Section17_1_2[0].From_Datefield_Name_2[0]",
+    "label": "Provide date of separation. \r(Month/Day/Year)",
+    "type": 7,
+    "rect": {
+      "x": 100.11399841308594,
+      "y": 344.0140075683594,
+      "width": 58.6199951171875,
+      "height": 16.178985595703125
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": null,
+    "id": "11802"
+  },
+  {
+    "page": 40,
+    "name": "form1[0].Section17_1_2[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 37.32099914550781,
+      "y": 344.1189880371094,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": null,
+    "id": "11824"
+  },
+  {
+    "page": 40,
+    "name": "form1[0].Section17_1_2[0].#field[7]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 172.8820037841797,
+      "y": 346.4289855957031,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": null,
+    "id": "11817"
+  },
+  {
+    "page": 40,
+    "name": "form1[0].Section17_1_2[0].SSN[0]",
+    "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+    "type": 7,
+    "rect": {
+      "x": 476.7279968261719,
+      "y": 739.0009765625,
+      "width": 115.51303100585938,
+      "height": 13.6710205078125
+    },
+    "section": "17",
+    "subsection": null,
+    "entry": null,
+    "id": "11825"
+  }
+]

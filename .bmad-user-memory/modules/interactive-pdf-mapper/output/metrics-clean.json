@@ -1,0 +1,31 @@
+{
+  "workflowId": "wf_c37793e0e8ec",
+  "documentId": "216ec7747acaa4c6f75f0dff8223d883",
+  "timestamp": "2025-12-14T11:57:19.674236",
+  "performance": {
+    "totalProcessingTime": "335338ms",
+    "averageTimePerPage": "2465ms",
+    "averageTimePerField": "0ms",
+    "detectionTime": "312530ms",
+    "validationTime": "22808ms",
+    "organizationTime": "0ms"
+  },
+  "accuracy": {
+    "overallAccuracy": 100.0,
+    "detectionConfidence": 0.0,
+    "validationPassRate": 100.0,
+    "coordinatePrecision": 0.5
+  },
+  "volume": {
+    "totalPages": 136,
+    "totalFields": 0,
+    "totalSections": 0,
+    "fieldsPerPage": 0.0,
+    "retryPoolSize": 0
+  },
+  "cacheRecommendations": {
+    "shouldCache": true,
+    "estimatedCacheSize": "0bytes",
+    "expectedHitRate": "99.8%"
+  }
+}

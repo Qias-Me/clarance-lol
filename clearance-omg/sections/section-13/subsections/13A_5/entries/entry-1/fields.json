@@ -1,0 +1,306 @@
+[
+  {
+    "id": "10473",
+    "name": "form1[0].section13_4[0].TextField11[6]",
+    "label": "13A.5  Complete the following if employment type is Active Duty, National Guard/Reserve, USPHS Commissioned Corps, Other Federal employment, State Government, Federal Contractor, Non-government employment, Self-Employment, or Other. Entry #1. Provide the reason for leaving the employment activity.",
+    "type": 7,
+    "page": 20,
+    "rect": {
+      "x": 36.73699951171875,
+      "y": 342.89300537109375,
+      "width": 553.2630004882812,
+      "height": 14.772979736328125
+    },
+    "section": "13",
+    "subsection": "13A.5",
+    "entry": 1
+  },
+  {
+    "id": "10472",
+    "name": "form1[0].section13_4[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 20,
+    "rect": {
+      "x": 38.834999084472656,
+      "y": 395.80499267578125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "13",
+    "subsection": "13A.5",
+    "entry": 1
+  },
+  {
+    "id": "10471",
+    "name": "form1[0].section13_4[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 20,
+    "rect": {
+      "x": 77.46800231933594,
+      "y": 395.80499267578125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "13",
+    "subsection": "13A.5",
+    "entry": 1
+  },
+  {
+    "id": "10467",
+    "name": "form1[0].section13_4[0].#area[0].#field[23]",
+    "label": "Select your type of incident: Fired",
+    "type": 2,
+    "page": 20,
+    "rect": {
+      "x": 39.446998596191406,
+      "y": 432.6239929199219,
+      "width": 8.0,
+      "height": 8.0
+    },
+    "section": "13",
+    "subsection": "13A.5",
+    "entry": 1
+  },
+  {
+    "id": "10463",
+    "name": "form1[0].section13_4[0].#area[1].#field[27]",
+    "label": "Provide the reason for being fired.",
+    "type": 7,
+    "page": 20,
+    "rect": {
+      "x": 188.50100708007812,
+      "y": 432.9460144042969,
+      "width": 194.0,
+      "height": 17.67999267578125
+    },
+    "section": "13",
+    "subsection": "13A.5",
+    "entry": 1
+  },
+  {
+    "id": "10461",
+    "name": "form1[0].section13_4[0].From_Datefield_Name_2[2]",
+    "label": "Provide the date you were fired. (Month/Year)",
+    "type": 7,
+    "page": 20,
+    "rect": {
+      "x": 391.5010070800781,
+      "y": 432.9460144042969,
+      "width": 170.99996948242188,
+      "height": 17.67999267578125
+    },
+    "section": "13",
+    "subsection": "13A.5",
+    "entry": 1
+  },
+  {
+    "id": "10462",
+    "name": "form1[0].section13_4[0].#field[28]",
+    "label": "Est.",
+    "type": 2,
+    "page": 20,
+    "rect": {
+      "x": 564.5009765625,
+      "y": 439.2669982910156,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "13",
+    "subsection": "13A.5",
+    "entry": 1
+  },
+  {
+    "id": "10468",
+    "name": "form1[0].section13_4[0].#area[0].#field[22]",
+    "label": "Quit after being told you would be fired",
+    "type": 2,
+    "page": 20,
+    "rect": {
+      "x": 39.446998596191406,
+      "y": 457.52899169921875,
+      "width": 8.0,
+      "height": 8.0
+    },
+    "section": "13",
+    "subsection": "13A.5",
+    "entry": 1
+  },
+  {
+    "id": "10464",
+    "name": "form1[0].section13_4[0].#area[1].#field[26]",
+    "label": "Provide the reason for quitting.",
+    "type": 7,
+    "page": 20,
+    "rect": {
+      "x": 188.50100708007812,
+      "y": 462.12298583984375,
+      "width": 194.0,
+      "height": 25.147003173828125
+    },
+    "section": "13",
+    "subsection": "13A.5",
+    "entry": 1
+  },
+  {
+    "id": "10460",
+    "name": "form1[0].section13_4[0].From_Datefield_Name_2[3]",
+    "label": "Provide the date you quit after being told you would be fired. (Month/Year)",
+    "type": 7,
+    "page": 20,
+    "rect": {
+      "x": 391.5010070800781,
+      "y": 470.2040100097656,
+      "width": 170.99996948242188,
+      "height": 14.531982421875
+    },
+    "section": "13",
+    "subsection": "13A.5",
+    "entry": 1
+  },
+  {
+    "id": "10459",
+    "name": "form1[0].section13_4[0].#field[31]",
+    "label": "Est.",
+    "type": 2,
+    "page": 20,
+    "rect": {
+      "x": 564.5009765625,
+      "y": 473.8320007324219,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "13",
+    "subsection": "13A.5",
+    "entry": 1
+  },
+  {
+    "id": "10469",
+    "name": "form1[0].section13_4[0].#area[0].#field[21]",
+    "label": " \nLeft by mutual agreement following charges or allegations of misconduct",
+    "type": 2,
+    "page": 20,
+    "rect": {
+      "x": 39.446998596191406,
+      "y": 491.83099365234375,
+      "width": 8.0,
+      "height": 8.0
+    },
+    "section": "13",
+    "subsection": "13A.5",
+    "entry": 1
+  },
+  {
+    "id": "10465",
+    "name": "form1[0].section13_4[0].#area[1].#field[25]",
+    "label": "Provide the charges or allegations of misconduct.",
+    "type": 7,
+    "page": 20,
+    "rect": {
+      "x": 188.50100708007812,
+      "y": 495.5190124511719,
+      "width": 194.0,
+      "height": 27.917999267578125
+    },
+    "section": "13",
+    "subsection": "13A.5",
+    "entry": 1
+  },
+  {
+    "id": "10456",
+    "name": "form1[0].section13_4[0].From_Datefield_Name_2[5]",
+    "label": "Provide the date you left following charges or allegations of misconduct. (Month/Year)",
+    "type": 7,
+    "page": 20,
+    "rect": {
+      "x": 391.5010070800781,
+      "y": 506.87298583984375,
+      "width": 170.99996948242188,
+      "height": 17.375
+    },
+    "section": "13",
+    "subsection": "13A.5",
+    "entry": 1
+  },
+  {
+    "id": "10455",
+    "name": "form1[0].section13_4[0].#field[35]",
+    "label": "Est.",
+    "type": 2,
+    "page": 20,
+    "rect": {
+      "x": 564.5009765625,
+      "y": 510.1409912109375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "13",
+    "subsection": "13A.5",
+    "entry": 1
+  },
+  {
+    "id": "10470",
+    "name": "form1[0].section13_4[0].#area[0].#field[20]",
+    "label": "\nLeft by mutual agreement following notice of unsatisfactory performance ",
+    "type": 2,
+    "page": 20,
+    "rect": {
+      "x": 39.446998596191406,
+      "y": 529.1240234375,
+      "width": 8.0,
+      "height": 8.0
+    },
+    "section": "13",
+    "subsection": "13A.5",
+    "entry": 1
+  },
+  {
+    "id": "10466",
+    "name": "form1[0].section13_4[0].#area[1].#field[24]",
+    "label": "Provide the reason(s) for unsatisfactory performance.",
+    "type": 7,
+    "page": 20,
+    "rect": {
+      "x": 188.50100708007812,
+      "y": 532.8670043945312,
+      "width": 193.62298583984375,
+      "height": 25.135009765625
+    },
+    "section": "13",
+    "subsection": "13A.5",
+    "entry": 1
+  },
+  {
+    "id": "10458",
+    "name": "form1[0].section13_4[0].From_Datefield_Name_2[4]",
+    "label": "Provide the date you left by mutual agreement following a notice of unsatisfactory performance. (Month/Year)",
+    "type": 7,
+    "page": 20,
+    "rect": {
+      "x": 391.5010070800781,
+      "y": 541.7860107421875,
+      "width": 170.99996948242188,
+      "height": 15.16998291015625
+    },
+    "section": "13",
+    "subsection": "13A.5",
+    "entry": 1
+  },
+  {
+    "id": "10457",
+    "name": "form1[0].section13_4[0].#field[33]",
+    "label": "Est.",
+    "type": 2,
+    "page": 20,
+    "rect": {
+      "x": 564.5009765625,
+      "y": 545.5289916992188,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "13",
+    "subsection": "13A.5",
+    "entry": 1
+  }
+]

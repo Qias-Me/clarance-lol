@@ -1,0 +1,715 @@
+{
+  "workflowId": "wf_bafe28b9543a",
+  "documentPath": "C:\\Users\\TJ\\Desktop\\clarance-lol\\samples\\test-pdfs\\clean.pdf",
+  "documentHash": "216ec7747acaa4c6f75f0dff8223d883",
+  "currentPhase": "error",
+  "phaseHistory": [
+    {
+      "phase": "loading",
+      "startedAt": "2025-12-14T11:17:28.781796",
+      "completedAt": "2025-12-14T11:17:55.519557",
+      "progressPercent": 100.0,
+      "itemsTotal": 3,
+      "itemsCompleted": 3,
+      "errorMessage": null
+    },
+    {
+      "phase": "detection",
+      "startedAt": "2025-12-14T11:17:55.519724",
+      "completedAt": "2025-12-14T11:18:22.640258",
+      "progressPercent": 0.0,
+      "itemsTotal": 136,
+      "itemsCompleted": 0,
+      "errorMessage": "'GLMConfig' object has no attribute 'model_version'"
+    }
+  ],
+  "pages": [
+    {
+      "pageNumber": 0,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 1,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 2,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 3,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 4,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 5,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 6,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 7,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 8,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 9,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 10,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 11,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 12,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 13,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 14,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 15,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 16,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 17,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 18,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 19,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 20,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 21,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 22,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 23,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 24,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 25,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 26,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 27,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 28,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 29,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 30,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 31,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 32,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 33,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 34,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 35,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 36,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 37,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 38,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 39,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 40,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 41,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 42,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 43,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 44,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 45,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 46,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 47,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 48,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 49,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 50,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 51,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 52,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 53,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 54,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 55,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 56,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 57,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 58,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 59,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 60,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 61,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 62,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 63,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 64,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 65,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 66,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 67,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 68,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 69,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 70,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 71,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 72,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 73,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 74,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 75,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 76,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 77,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 78,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 79,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 80,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 81,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 82,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 83,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 84,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 85,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 86,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 87,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 88,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 89,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 90,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 91,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 92,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 93,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 94,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 95,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 96,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 97,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 98,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 99,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 100,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 101,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 102,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 103,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 104,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 105,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 106,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 107,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 108,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 109,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 110,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 111,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 112,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 113,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 114,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 115,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 116,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 117,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 118,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 119,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 120,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 121,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 122,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 123,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 124,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 125,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 126,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 127,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 128,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 129,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 130,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 131,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 132,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 133,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 134,
+      "width": 612.0,
+      "height": 792.0
+    },
+    {
+      "pageNumber": 135,
+      "width": 612.0,
+      "height": 792.0
+    }
+  ],
+  "detectedFields": [],
+  "validatedFields": [],
+  "retryPool": [],
+  "outputPaths": {},
+  "startedAt": "2025-12-14T11:17:28.723570",
+  "updatedAt": "2025-12-14T11:18:22.640265",
+  "error": "'GLMConfig' object has no attribute 'model_version'"
+}

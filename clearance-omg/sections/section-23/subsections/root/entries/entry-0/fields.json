@@ -1,0 +1,194 @@
+[
+  {
+    "id": "15186",
+    "name": "form1[0].Section23_1[0].RadioButtonList[4]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 105,
+    "rect": {
+      "x": 452.8349914550781,
+      "y": 122.60198974609375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "15185",
+    "name": "form1[0].Section23_1[0].RadioButtonList[4]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 105,
+    "rect": {
+      "x": 490.63299560546875,
+      "y": 122.60198974609375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "15256",
+    "name": "form1[0].Section23_2[0].RadioButtonList[3]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 106,
+    "rect": {
+      "x": 452.8349914550781,
+      "y": 76.30401611328125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "15255",
+    "name": "form1[0].Section23_2[0].RadioButtonList[3]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 106,
+    "rect": {
+      "x": 488.00299072265625,
+      "y": 76.30401611328125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "15284",
+    "name": "form1[0].Section_23_3[0].RadioButtonList[1]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 107,
+    "rect": {
+      "x": 448.33599853515625,
+      "y": 78.55499267578125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "15283",
+    "name": "form1[0].Section_23_3[0].RadioButtonList[1]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 107,
+    "rect": {
+      "x": 488.0,
+      "y": 78.55499267578125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "15313",
+    "name": "form1[0].Section_23_4[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 108,
+    "rect": {
+      "x": 452.8349914550781,
+      "y": 78.55499267578125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "15312",
+    "name": "form1[0].Section_23_4[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 108,
+    "rect": {
+      "x": 488.38299560546875,
+      "y": 78.55499267578125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "15368",
+    "name": "form1[0].Section_23_5[0].#area[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 109,
+    "rect": {
+      "x": 452.8349914550781,
+      "y": 78.55499267578125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "15367",
+    "name": "form1[0].Section_23_5[0].#area[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 109,
+    "rect": {
+      "x": 488.3909912109375,
+      "y": 78.55499267578125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "15438",
+    "name": "form1[0].Section_23_6[0].RadioButtonList[3]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 111,
+    "rect": {
+      "x": 425.8349914550781,
+      "y": 78.55499267578125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "15437",
+    "name": "form1[0].Section_23_6[0].RadioButtonList[3]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 111,
+    "rect": {
+      "x": 465.5039978027344,
+      "y": 78.55499267578125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": null
+  }
+]

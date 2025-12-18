@@ -1,0 +1,658 @@
+[
+  {
+    "id": "14204",
+    "name": "form1[0].#subform[92].DropDownList141[0]",
+    "label": "Complete the following if you responded 'Yes' to having traveled outside the U.S. in the last seven (7) years for other than solely U.S. Government business. Provide information about all such trips made outside the United States including personal trips made in conjunction with official U.S. Government business on official government orders. Entry #1. Provide the country visited",
+    "type": 3,
+    "page": 84,
+    "rect": {
+      "x": 36.0,
+      "y": 183.83001708984375,
+      "width": 135.0,
+      "height": 25.6090087890625
+    },
+    "section": "20",
+    "subsection": "20C",
+    "entry": 1
+  },
+  {
+    "id": "14225",
+    "name": "form1[0].#subform[92].#field[559]",
+    "label": "Present",
+    "type": 2,
+    "page": 84,
+    "rect": {
+      "x": 352.9989929199219,
+      "y": 188.25897216796875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20C",
+    "entry": 1
+  },
+  {
+    "id": "14203",
+    "name": "form1[0].#subform[92].RadioButtonList[41]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 84,
+    "rect": {
+      "x": 402.5010070800781,
+      "y": 188.25897216796875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20C",
+    "entry": 1
+  },
+  {
+    "id": "14201",
+    "name": "form1[0].#subform[92].RadioButtonList[41]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 84,
+    "rect": {
+      "x": 459.5,
+      "y": 188.25897216796875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20C",
+    "entry": 1
+  },
+  {
+    "id": "14199",
+    "name": "form1[0].#subform[92].RadioButtonList[41]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 84,
+    "rect": {
+      "x": 516.5029907226562,
+      "y": 188.25897216796875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20C",
+    "entry": 1
+  },
+  {
+    "id": "14228",
+    "name": "form1[0].#subform[92].From_Datefield_Name_2[50]",
+    "label": "Provide the dates of your travel to this country. From Date (Month/Year)",
+    "type": 7,
+    "page": 84,
+    "rect": {
+      "x": 177.74899291992188,
+      "y": 193.8070068359375,
+      "width": 60.74900817871094,
+      "height": 17.73101806640625
+    },
+    "section": "20",
+    "subsection": "20C",
+    "entry": 1
+  },
+  {
+    "id": "14226",
+    "name": "form1[0].#subform[92].From_Datefield_Name_2[51]",
+    "label": "To Date (Month/Year)",
+    "type": 7,
+    "page": 84,
+    "rect": {
+      "x": 274.4989929199219,
+      "y": 193.8070068359375,
+      "width": 65.81201171875,
+      "height": 17.73101806640625
+    },
+    "section": "20",
+    "subsection": "20C",
+    "entry": 1
+  },
+  {
+    "id": "14227",
+    "name": "form1[0].#subform[92].#field[557]",
+    "label": "Estimate",
+    "type": 2,
+    "page": 84,
+    "rect": {
+      "x": 240.50100708007812,
+      "y": 201.79998779296875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20C",
+    "entry": 1
+  },
+  {
+    "id": "14224",
+    "name": "form1[0].#subform[92].#field[560]",
+    "label": "Estimate",
+    "type": 2,
+    "page": 84,
+    "rect": {
+      "x": 353.0,
+      "y": 201.79998779296875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20C",
+    "entry": 1
+  },
+  {
+    "id": "14202",
+    "name": "form1[0].#subform[92].RadioButtonList[41]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 84,
+    "rect": {
+      "x": 402.5010070800781,
+      "y": 201.79998779296875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20C",
+    "entry": 1
+  },
+  {
+    "id": "14200",
+    "name": "form1[0].#subform[92].RadioButtonList[41]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 84,
+    "rect": {
+      "x": 459.5,
+      "y": 201.79998779296875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20C",
+    "entry": 1
+  },
+  {
+    "id": "14198",
+    "name": "form1[0].#subform[92].RadioButtonList[41]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 84,
+    "rect": {
+      "x": 516.5020141601562,
+      "y": 201.79998779296875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20C",
+    "entry": 1
+  },
+  {
+    "id": "14192",
+    "name": "form1[0].#subform[92].#field[574]",
+    "label": "Provide the purpose of the travel to this country (Check all that apply). Business/Professional conference ",
+    "type": 2,
+    "page": 84,
+    "rect": {
+      "x": 38.0,
+      "y": 228.35797119140625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20C",
+    "entry": 1
+  },
+  {
+    "id": "14195",
+    "name": "form1[0].#subform[92].#field[571]",
+    "label": "Education",
+    "type": 2,
+    "page": 84,
+    "rect": {
+      "x": 206.0019989013672,
+      "y": 228.35797119140625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20C",
+    "entry": 1
+  },
+  {
+    "id": "14196",
+    "name": "form1[0].#subform[92].#field[570]",
+    "label": "Trade shows, conferences, and seminars",
+    "type": 2,
+    "page": 84,
+    "rect": {
+      "x": 296.00201416015625,
+      "y": 228.35797119140625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20C",
+    "entry": 1
+  },
+  {
+    "id": "14191",
+    "name": "form1[0].#subform[92].#field[575]",
+    "label": "Other",
+    "type": 2,
+    "page": 84,
+    "rect": {
+      "x": 491.18798828125,
+      "y": 228.35797119140625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20C",
+    "entry": 1
+  },
+  {
+    "id": "14193",
+    "name": "form1[0].#subform[92].#field[573]",
+    "label": "Volunteer activities",
+    "type": 2,
+    "page": 84,
+    "rect": {
+      "x": 38.0,
+      "y": 241.89898681640625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20C",
+    "entry": 1
+  },
+  {
+    "id": "14194",
+    "name": "form1[0].#subform[92].#field[572]",
+    "label": "Tourism",
+    "type": 2,
+    "page": 84,
+    "rect": {
+      "x": 206.00100708007812,
+      "y": 241.89898681640625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20C",
+    "entry": 1
+  },
+  {
+    "id": "14197",
+    "name": "form1[0].#subform[92].#field[569]",
+    "label": "Visit family or friends",
+    "type": 2,
+    "page": 84,
+    "rect": {
+      "x": 296.00201416015625,
+      "y": 241.89898681640625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20C",
+    "entry": 1
+  },
+  {
+    "id": "14189",
+    "name": "form1[0].#subform[92].RadioButtonList[42]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 84,
+    "rect": {
+      "x": 38.834999084472656,
+      "y": 278.4000244140625,
+      "width": 9.0,
+      "height": 8.999969482421875
+    },
+    "section": "20",
+    "subsection": "20C",
+    "entry": 1
+  },
+  {
+    "id": "14223",
+    "name": "form1[0].#subform[92].#area[39].TextField11[238]",
+    "label": "If yes, provide explanation.",
+    "type": 7,
+    "page": 84,
+    "rect": {
+      "x": 122.80000305175781,
+      "y": 287.2380065917969,
+      "width": 471.1999969482422,
+      "height": 17.608001708984375
+    },
+    "section": "20",
+    "subsection": "20C",
+    "entry": 1
+  },
+  {
+    "id": "14190",
+    "name": "form1[0].#subform[92].RadioButtonList[42]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 84,
+    "rect": {
+      "x": 38.834999084472656,
+      "y": 291.89898681640625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20C",
+    "entry": 1
+  },
+  {
+    "id": "14220",
+    "name": "form1[0].#subform[92].#area[41].#area[42].RadioButtonList[35]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 84,
+    "rect": {
+      "x": 38.834999084472656,
+      "y": 321.1520080566406,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20C",
+    "entry": 1
+  },
+  {
+    "id": "14222",
+    "name": "form1[0].#subform[92].#area[41].TextField11[239]",
+    "label": "If yes, provide explanation.",
+    "type": 7,
+    "page": 84,
+    "rect": {
+      "x": 122.80000305175781,
+      "y": 329.239013671875,
+      "width": 471.1999969482422,
+      "height": 17.60797119140625
+    },
+    "section": "20",
+    "subsection": "20C",
+    "entry": 1
+  },
+  {
+    "id": "14221",
+    "name": "form1[0].#subform[92].#area[41].#area[42].RadioButtonList[35]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 84,
+    "rect": {
+      "x": 38.834999084472656,
+      "y": 334.6510009765625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20C",
+    "entry": 1
+  },
+  {
+    "id": "14217",
+    "name": "form1[0].#subform[92].#area[43].#area[44].RadioButtonList[36]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 84,
+    "rect": {
+      "x": 38.834999084472656,
+      "y": 372.9010009765625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20C",
+    "entry": 1
+  },
+  {
+    "id": "14219",
+    "name": "form1[0].#subform[92].#area[43].TextField11[240]",
+    "label": "If yes, provide explanation.",
+    "type": 7,
+    "page": 84,
+    "rect": {
+      "x": 122.80000305175781,
+      "y": 381.739013671875,
+      "width": 471.1999969482422,
+      "height": 17.60797119140625
+    },
+    "section": "20",
+    "subsection": "20C",
+    "entry": 1
+  },
+  {
+    "id": "14218",
+    "name": "form1[0].#subform[92].#area[43].#area[44].RadioButtonList[36]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 84,
+    "rect": {
+      "x": 38.834999084472656,
+      "y": 386.3999938964844,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20C",
+    "entry": 1
+  },
+  {
+    "id": "14214",
+    "name": "form1[0].#subform[92].#area[45].#area[46].RadioButtonList[37]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 84,
+    "rect": {
+      "x": 38.834999084472656,
+      "y": 414.9049987792969,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20C",
+    "entry": 1
+  },
+  {
+    "id": "14216",
+    "name": "form1[0].#subform[92].#area[45].TextField11[241]",
+    "label": "If yes, provide explanation.",
+    "type": 7,
+    "page": 84,
+    "rect": {
+      "x": 122.80000305175781,
+      "y": 423.7430114746094,
+      "width": 471.1999969482422,
+      "height": 17.608001708984375
+    },
+    "section": "20",
+    "subsection": "20C",
+    "entry": 1
+  },
+  {
+    "id": "14215",
+    "name": "form1[0].#subform[92].#area[45].#area[46].RadioButtonList[37]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 84,
+    "rect": {
+      "x": 38.834999084472656,
+      "y": 428.40399169921875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20C",
+    "entry": 1
+  },
+  {
+    "id": "14211",
+    "name": "form1[0].#subform[92].#area[47].#area[48].RadioButtonList[38]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 84,
+    "rect": {
+      "x": 38.834999084472656,
+      "y": 456.90899658203125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20C",
+    "entry": 1
+  },
+  {
+    "id": "14213",
+    "name": "form1[0].#subform[92].#area[47].TextField11[242]",
+    "label": "If yes, provide explanation.",
+    "type": 7,
+    "page": 84,
+    "rect": {
+      "x": 122.80000305175781,
+      "y": 465.74700927734375,
+      "width": 471.1999969482422,
+      "height": 17.608001708984375
+    },
+    "section": "20",
+    "subsection": "20C",
+    "entry": 1
+  },
+  {
+    "id": "14212",
+    "name": "form1[0].#subform[92].#area[47].#area[48].RadioButtonList[38]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 84,
+    "rect": {
+      "x": 38.834999084472656,
+      "y": 470.4079895019531,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20C",
+    "entry": 1
+  },
+  {
+    "id": "14208",
+    "name": "form1[0].#subform[92].#area[49].#area[50].RadioButtonList[39]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 84,
+    "rect": {
+      "x": 38.834999084472656,
+      "y": 505.6499938964844,
+      "width": 9.0,
+      "height": 9.000030517578125
+    },
+    "section": "20",
+    "subsection": "20C",
+    "entry": 1
+  },
+  {
+    "id": "14210",
+    "name": "form1[0].#subform[92].#area[49].TextField11[243]",
+    "label": "If yes, provide explanation.",
+    "type": 7,
+    "page": 84,
+    "rect": {
+      "x": 122.80000305175781,
+      "y": 514.488037109375,
+      "width": 471.1999969482422,
+      "height": 17.60797119140625
+    },
+    "section": "20",
+    "subsection": "20C",
+    "entry": 1
+  },
+  {
+    "id": "14209",
+    "name": "form1[0].#subform[92].#area[49].#area[50].RadioButtonList[39]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 84,
+    "rect": {
+      "x": 38.834999084472656,
+      "y": 519.1489868164062,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20C",
+    "entry": 1
+  },
+  {
+    "id": "14205",
+    "name": "form1[0].#subform[92].#area[51].RadioButtonList[40]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 84,
+    "rect": {
+      "x": 38.834999084472656,
+      "y": 555.552001953125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20C",
+    "entry": 1
+  },
+  {
+    "id": "14207",
+    "name": "form1[0].#subform[92].TextField11[244]",
+    "label": "If yes, provide explanation.",
+    "type": 7,
+    "page": 84,
+    "rect": {
+      "x": 122.80000305175781,
+      "y": 562.490966796875,
+      "width": 471.1999969482422,
+      "height": 17.6080322265625
+    },
+    "section": "20",
+    "subsection": "20C",
+    "entry": 1
+  },
+  {
+    "id": "14206",
+    "name": "form1[0].#subform[92].#area[51].RadioButtonList[40]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 84,
+    "rect": {
+      "x": 38.834999084472656,
+      "y": 569.051025390625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20C",
+    "entry": 1
+  },
+  {
+    "id": "14233",
+    "name": "form1[0].#subform[92].SSN[15]",
+    "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+    "type": 7,
+    "page": 84,
+    "rect": {
+      "x": 476.7279968261719,
+      "y": 739.0009765625,
+      "width": 115.51303100585938,
+      "height": 13.6710205078125
+    },
+    "section": "20",
+    "subsection": "20C",
+    "entry": 1
+  }
+]

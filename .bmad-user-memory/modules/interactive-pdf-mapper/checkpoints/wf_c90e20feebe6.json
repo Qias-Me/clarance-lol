@@ -1,0 +1,25 @@
+{
+  "workflowId": "wf_c90e20feebe6",
+  "documentPath": "C:\\Users\\TJ\\Desktop\\clarance-lol\\samples\\test-pdfs\\clean.pdf",
+  "documentHash": "",
+  "currentPhase": "error",
+  "phaseHistory": [
+    {
+      "phase": "loading",
+      "startedAt": "2025-12-14T11:12:20.815261",
+      "completedAt": "2025-12-14T11:12:20.815320",
+      "progressPercent": 0.0,
+      "itemsTotal": 3,
+      "itemsCompleted": 0,
+      "errorMessage": "'charmap' codec can't encode characters in position 17-46: character maps to <undefined>"
+    }
+  ],
+  "pages": [],
+  "detectedFields": [],
+  "validatedFields": [],
+  "retryPool": [],
+  "outputPaths": {},
+  "startedAt": "2025-12-14T11:12:20.762191",
+  "updatedAt": "2025-12-14T11:12:20.815321",
+  "error": "'charmap' codec can't encode characters in position 17-46: character maps to <undefined>"
+}

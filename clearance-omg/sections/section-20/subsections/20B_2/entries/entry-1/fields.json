@@ -1,0 +1,146 @@
+[
+  {
+    "id": "13865",
+    "name": "form1[0].#subform[77].TextField11[123]",
+    "label": "First name",
+    "type": 7,
+    "page": 76,
+    "rect": {
+      "x": 225.0,
+      "y": 534.4749755859375,
+      "width": 161.87799072265625,
+      "height": 15.75
+    },
+    "section": "20",
+    "subsection": "20B.2",
+    "entry": 1
+  },
+  {
+    "id": "13868",
+    "name": "form1[0].#subform[77].suffix[12]",
+    "label": "Suffix",
+    "type": 3,
+    "page": 76,
+    "rect": {
+      "x": 524.8770141601562,
+      "y": 534.4749755859375,
+      "width": 69.0009765625,
+      "height": 15.75
+    },
+    "section": "20",
+    "subsection": "20B.2",
+    "entry": 1
+  },
+  {
+    "id": "13866",
+    "name": "form1[0].#subform[77].TextField11[122]",
+    "label": "Complete the following if you responded 'Yes' to you, your spouse or legally recognized civil union/domestic partner, cohabitant, or any member of your immediate family having in the last seven (7) years been asked to provide advice or serve as a consultant, even informally, by any foreign government official or agency. Entry #1. Provide the name of the government official. Last name",
+    "type": 7,
+    "page": 76,
+    "rect": {
+      "x": 36.0,
+      "y": 534.6170043945312,
+      "width": 176.87899780273438,
+      "height": 15.60797119140625
+    },
+    "section": "20",
+    "subsection": "20B.2",
+    "entry": 1
+  },
+  {
+    "id": "13867",
+    "name": "form1[0].#subform[77].TextField11[121]",
+    "label": "Middle name",
+    "type": 7,
+    "page": 76,
+    "rect": {
+      "x": 391.87799072265625,
+      "y": 535.239990234375,
+      "width": 128.00103759765625,
+      "height": 14.9849853515625
+    },
+    "section": "20",
+    "subsection": "20B.2",
+    "entry": 1
+  },
+  {
+    "id": "13864",
+    "name": "form1[0].#subform[77].TextField11[124]",
+    "label": "Provide the name of the agency.",
+    "type": 7,
+    "page": 76,
+    "rect": {
+      "x": 36.0,
+      "y": 563.615966796875,
+      "width": 263.9989929199219,
+      "height": 14.7730712890625
+    },
+    "section": "20",
+    "subsection": "20B.2",
+    "entry": 1
+  },
+  {
+    "id": "13863",
+    "name": "form1[0].#subform[77].DropDownList27[0]",
+    "label": "Provide the country with which the government official or agency is affiliated.",
+    "type": 3,
+    "page": 76,
+    "rect": {
+      "x": 308.9989929199219,
+      "y": 563.615966796875,
+      "width": 285.0010070800781,
+      "height": 17.6080322265625
+    },
+    "section": "20",
+    "subsection": "20B.2",
+    "entry": 1
+  },
+  {
+    "id": "13861",
+    "name": "form1[0].#subform[77].#area[20].From_Datefield_Name_2[22]",
+    "label": "Provide the date of the request. (Month/Year)",
+    "type": 7,
+    "page": 76,
+    "rect": {
+      "x": 36.0,
+      "y": 591.5449829101562,
+      "width": 148.50100708007812,
+      "height": 17.67999267578125
+    },
+    "section": "20",
+    "subsection": "20B.2",
+    "entry": 1
+  },
+  {
+    "id": "13862",
+    "name": "form1[0].#subform[77].TextField11[125]",
+    "label": "Provide the circumstances of request.",
+    "type": 7,
+    "page": 76,
+    "rect": {
+      "x": 225.0,
+      "y": 591.6170043945312,
+      "width": 182.99899291992188,
+      "height": 17.60797119140625
+    },
+    "section": "20",
+    "subsection": "20B.2",
+    "entry": 1
+  },
+  {
+    "id": "13860",
+    "name": "form1[0].#subform[77].#area[20].#field[306]",
+    "label": "Estimate",
+    "type": 2,
+    "page": 76,
+    "rect": {
+      "x": 186.50100708007812,
+      "y": 596.7260131835938,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20B.2",
+    "entry": 1
+  }
+]

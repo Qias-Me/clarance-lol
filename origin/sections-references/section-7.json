@@ -1,0 +1,296 @@
+{
+    "metadata": {
+        "sectionId": 7,
+        "sectionName": "Contact Information",
+        "totalFields": 17,
+        "pageRange": [
+            6,
+            6
+        ]
+    },
+    "fields": [
+        {
+            "id": "9513 0 R",
+            "name": "form1[0].Sections7-9[0].TextField11[13]",
+            "value": "sect7homeEmail",
+            "page": 6,
+            "label": "Section 7-Your Contact Information. Provide your contact information. Home e-mail address",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 27,
+                "y": 682.23,
+                "width": 276,
+                "height": 14.77
+            },
+            "section": 7
+        },
+        {
+            "id": "9512 0 R",
+            "name": "form1[0].Sections7-9[0].TextField11[14]",
+            "value": "sect7workEmail",
+            "page": 6,
+            "label": "Work e-mail address",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 310,
+                "y": 682.23,
+                "width": 284,
+                "height": 14.77
+            },
+            "section": 7
+        },
+        {
+            "id": "9511 0 R",
+            "name": "form1[0].Sections7-9[0].p3-t68[1]",
+            "value": "sect7phoneNumber1",
+            "page": 6,
+            "label": "Home telephone number",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 27,
+                "y": 611.19,
+                "width": 94.5,
+                "height": 17.68
+            },
+            "section": 7
+        },
+        {
+            "id": "9510 0 R",
+            "name": "form1[0].Sections7-9[0].TextField11[15]",
+            "value": "sect7Exttension1",
+            "page": 6,
+            "label": "Extension",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 123.5,
+                "y": 611.19,
+                "width": 38,
+                "height": 17.61
+            },
+            "section": 7
+        },
+        {
+            "id": "9509 0 R",
+            "name": "form1[0].Sections7-9[0].#field[33]",
+            "value": true,
+            "page": 6,
+            "label": "Home telephone number: International or D S N phone number",
+            "type": "PDFCheckBox",
+            "maxLength": 0,
+            "rect": {
+                "x": 28.83,
+                "y": 638.59,
+                "width": 9,
+                "height": 9
+            },
+            "section": 7
+        },
+        {
+            "id": "9508 0 R",
+            "name": "form1[0].Sections7-9[0].#field[34]",
+            "value": true,
+            "page": 6,
+            "label": "Night",
+            "type": "PDFCheckBox",
+            "maxLength": 0,
+            "rect": {
+                "x": 170.34,
+                "y": 614.19,
+                "width": 9,
+                "height": 9
+            },
+            "section": 7
+        },
+        {
+            "id": "9507 0 R",
+            "name": "form1[0].Sections7-9[0].#field[35]",
+            "value": true,
+            "page": 6,
+            "label": "Day",
+            "type": "PDFCheckBox",
+            "maxLength": 0,
+            "rect": {
+                "x": 170.34,
+                "y": 628.19,
+                "width": 9,
+                "height": 9
+            },
+            "section": 7
+        },
+        {
+            "id": "9506 0 R",
+            "name": "form1[0].Sections7-9[0].p3-t68[2]",
+            "value": "sect7phoneNumber2",
+            "page": 6,
+            "label": "Work telephone number",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 211.5,
+                "y": 611.19,
+                "width": 99,
+                "height": 17.11
+            },
+            "section": 7
+        },
+        {
+            "id": "9505 0 R",
+            "name": "form1[0].Sections7-9[0].TextField11[16]",
+            "value": "sect7Exttension2",
+            "page": 6,
+            "label": "Extension",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 315,
+                "y": 611.19,
+                "width": 38,
+                "height": 17.61
+            },
+            "section": 7
+        },
+        {
+            "id": "9504 0 R",
+            "name": "form1[0].Sections7-9[0].#field[38]",
+            "value": true,
+            "page": 6,
+            "label": "Work telephone number: International or D S N phone number",
+            "type": "PDFCheckBox",
+            "maxLength": 0,
+            "rect": {
+                "x": 212.34,
+                "y": 638.59,
+                "width": 9,
+                "height": 9
+            },
+            "section": 7
+        },
+        {
+            "id": "9503 0 R",
+            "name": "form1[0].Sections7-9[0].#field[39]",
+            "value": true,
+            "page": 6,
+            "label": "Night",
+            "type": "PDFCheckBox",
+            "maxLength": 0,
+            "rect": {
+                "x": 360.96,
+                "y": 614.19,
+                "width": 9,
+                "height": 9
+            },
+            "section": 7
+        },
+        {
+            "id": "9562 0 R",
+            "name": "form1[0].Sections7-9[0].#field[40]",
+            "value": true,
+            "page": 6,
+            "label": "Day",
+            "type": "PDFCheckBox",
+            "maxLength": 0,
+            "rect": {
+                "x": 360.96,
+                "y": 627.19,
+                "width": 9,
+                "height": 9
+            },
+            "section": 7
+        },
+        {
+            "id": "9561 0 R",
+            "name": "form1[0].Sections7-9[0].p3-t68[3]",
+            "value": "sect7phoneNumber3",
+            "page": 6,
+            "label": "Mobile/Cell telephone number",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 404.5,
+                "y": 611.19,
+                "width": 110,
+                "height": 17.68
+            },
+            "section": 7
+        },
+        {
+            "id": "9560 0 R",
+            "name": "form1[0].Sections7-9[0].TextField11[17]",
+            "value": "sect7Exttension3",
+            "page": 6,
+            "label": "Extension",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 516.5,
+                "y": 611.19,
+                "width": 38,
+                "height": 17.61
+            },
+            "section": 7
+        },
+        {
+            "id": "9559 0 R",
+            "name": "form1[0].Sections7-9[0].#field[43]",
+            "value": true,
+            "page": 6,
+            "label": "Mobile/Cell telephone number: International or D S N phone number",
+            "type": "PDFCheckBox",
+            "maxLength": 0,
+            "rect": {
+                "x": 405.33,
+                "y": 638.59,
+                "width": 9,
+                "height": 9
+            },
+            "section": 7
+        },
+        {
+            "id": "9558 0 R",
+            "name": "form1[0].Sections7-9[0].#field[44]",
+            "value": true,
+            "page": 6,
+            "label": "Night",
+            "type": "PDFCheckBox",
+            "maxLength": 0,
+            "rect": {
+                "x": 559.72,
+                "y": 614.19,
+                "width": 9,
+                "height": 9
+            },
+            "section": 7
+        },
+        {
+            "id": "9557 0 R",
+            "name": "form1[0].Sections7-9[0].#field[45]",
+            "value": true,
+            "page": 6,
+            "label": "Day",
+            "type": "PDFCheckBox",
+            "maxLength": 0,
+            "rect": {
+                "x": 559.72,
+                "y": 627.19,
+                "width": 9,
+                "height": 9
+            },
+            "section": 7
+        }
+    ],
+    "statistics": {
+        "fieldTypes": {
+            "PDFTextField": 8,
+            "PDFCheckBox": 9
+        },
+        "confidenceDistribution": {
+            "high": 17,
+            "medium": 0,
+            "low": 0
+        }
+    }
+}

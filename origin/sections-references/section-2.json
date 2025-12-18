@@ -1,0 +1,56 @@
+{
+    "metadata": {
+        "sectionId": 2,
+        "sectionName": "Date of Birth",
+        "totalFields": 2,
+        "pageRange": [
+            5,
+            5
+        ]
+    },
+    "fields": [
+        {
+            "id": "9432 0 R",
+            "name": "form1[0].Sections1-6[0].From_Datefield_Name_2[0]",
+            "value": "sect2DateofBirth",
+            "page": 5,
+            "label": "Section 2. Date of Birth. Provide your date of birth (month/day/year).",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 27,
+                "y": 552.76,
+                "width": 76.39,
+                "height": 16.26
+            },
+            "section": 2
+        },
+        {
+            "id": "9431 0 R",
+            "name": "form1[0].Sections1-6[0].#field[18]",
+            "value": true,
+            "page": 5,
+            "label": "Estimate",
+            "type": "PDFCheckBox",
+            "maxLength": 0,
+            "rect": {
+                "x": 104.6,
+                "y": 555.26,
+                "width": 9,
+                "height": 9
+            },
+            "section": 2
+        }
+    ],
+    "statistics": {
+        "fieldTypes": {
+            "PDFTextField": 1,
+            "PDFCheckBox": 1
+        },
+        "confidenceDistribution": {
+            "high": 0,
+            "medium": 0,
+            "low": 2
+        }
+    }
+}

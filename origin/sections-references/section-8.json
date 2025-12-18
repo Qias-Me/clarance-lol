@@ -1,0 +1,206 @@
+{
+    "metadata": {
+        "sectionId": 8,
+        "sectionName": "U.S. Passport Information",
+        "totalFields": 10,
+        "pageRange": [
+            6,
+            6
+        ]
+    },
+    "fields": [
+        {
+            "id": "17231 0 R",
+            "name": "form1[0].Sections7-9[0].RadioButtonList[0]",
+            "value": "NO (If NO, proceed to Section 9)",
+            "page": 6,
+            "label": "RadioButtonList",
+            "type": "PDFRadioGroup",
+            "maxLength": 0,
+            "options": [
+                "YES",
+                "NO (If NO, proceed to Section 9)"
+            ],
+            "rect": {
+                "x": 29.96,
+                "y": 571.2,
+                "width": 9,
+                "height": 9
+            },
+            "section": 8
+        },
+        {
+            "id": "9553 0 R",
+            "name": "form1[0].Sections7-9[0].p3-t68[0]",
+            "value": "sect8PassportNum",
+            "page": 6,
+            "label": "Provide the following information for the most recent U.S. passport you currently possess. Passport number",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 27.12,
+                "y": 527.2,
+                "width": 144.88,
+                "height": 17.75
+            },
+            "section": 8
+        },
+        {
+            "id": "9551 0 R",
+            "name": "form1[0].Sections7-9[0].#area[0].From_Datefield_Name_2[0]",
+            "value": "sect8issueDate",
+            "page": 6,
+            "label": "Issue date (Month/Day/Year)",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 175.5,
+                "y": 527.2,
+                "width": 58.5,
+                "height": 17.68
+            },
+            "section": 8
+        },
+        {
+            "id": "9550 0 R",
+            "name": "form1[0].Sections7-9[0].#area[0].To_Datefield_Name_2[0]",
+            "value": "sect8ExpDate",
+            "page": 6,
+            "label": "Expiration date (Month/Day/Year)",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 281,
+                "y": 527.2,
+                "width": 65.5,
+                "height": 17.68
+            },
+            "section": 8
+        },
+        {
+            "id": "9549 0 R",
+            "name": "form1[0].Sections7-9[0].#area[0].#field[4]",
+            "value": true,
+            "page": 6,
+            "label": "Estimate",
+            "type": "PDFCheckBox",
+            "maxLength": 0,
+            "rect": {
+                "x": 249.5,
+                "y": 531.44,
+                "width": 9,
+                "height": 9
+            },
+            "section": 8
+        },
+        {
+            "id": "9548 0 R",
+            "name": "form1[0].Sections7-9[0].TextField11[0]",
+            "value": "sect8MiddleName",
+            "page": 6,
+            "label": "Middle name",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 390.88,
+                "y": 490.03,
+                "width": 128,
+                "height": 14.15
+            },
+            "section": 8
+        },
+        {
+            "id": "9547 0 R",
+            "name": "form1[0].Sections7-9[0].TextField11[1]",
+            "value": "sect8LastName",
+            "page": 6,
+            "label": "Provide the name in which passport was first issued. Last name",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 27.12,
+                "y": 490.03,
+                "width": 176.88,
+                "height": 14.77
+            },
+            "section": 8
+        },
+        {
+            "id": "9546 0 R",
+            "name": "form1[0].Sections7-9[0].TextField11[2]",
+            "value": "sect8FirstName",
+            "page": 6,
+            "label": "First name",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 210.88,
+                "y": 490.03,
+                "width": 172,
+                "height": 14.9
+            },
+            "section": 8
+        },
+        {
+            "id": "9545 0 R",
+            "name": "form1[0].Sections7-9[0].suffix[0]",
+            "value": [
+                "sect8Suffix"
+            ],
+            "page": 6,
+            "label": "Suffix",
+            "type": "PDFDropdown",
+            "maxLength": 0,
+            "options": [
+                "Jr",
+                "Sr",
+                "II",
+                "III",
+                "IV",
+                "V",
+                "VI",
+                "VII",
+                "VIII",
+                "IX",
+                "X",
+                "Other"
+            ],
+            "rect": {
+                "x": 523.88,
+                "y": 487.2,
+                "width": 69,
+                "height": 17.75
+            },
+            "section": 8
+        },
+        {
+            "id": "9523 0 R",
+            "name": "form1[0].Sections7-9[0].#field[23]",
+            "value": true,
+            "page": 6,
+            "label": "Estimate",
+            "type": "PDFCheckBox",
+            "maxLength": 0,
+            "rect": {
+                "x": 361.52,
+                "y": 531.45,
+                "width": 9,
+                "height": 9
+            },
+            "section": 8
+        }
+    ],
+    "statistics": {
+        "fieldTypes": {
+            "PDFRadioGroup": 1,
+            "PDFTextField": 6,
+            "PDFCheckBox": 2,
+            "PDFDropdown": 1
+        },
+        "confidenceDistribution": {
+            "high": 10,
+            "medium": 0,
+            "low": 0
+        }
+    }
+}

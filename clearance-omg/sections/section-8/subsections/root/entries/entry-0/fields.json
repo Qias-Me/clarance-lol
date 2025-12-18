@@ -1,0 +1,178 @@
+[
+  {
+    "id": "9555",
+    "name": "form1[0].Sections7-9[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 6,
+    "rect": {
+      "x": 29.957000732421875,
+      "y": 211.801025390625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "8",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "9554",
+    "name": "form1[0].Sections7-9[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 6,
+    "rect": {
+      "x": 68.83699798583984,
+      "y": 211.801025390625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "8",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "9553",
+    "name": "form1[0].Sections7-9[0].p3-t68[0]",
+    "label": "Provide the following information for the most recent U.S. passport you currently possess. Passport number",
+    "type": 7,
+    "page": 6,
+    "rect": {
+      "x": 27.121999740600586,
+      "y": 247.0479736328125,
+      "width": 144.87900733947754,
+      "height": 17.75
+    },
+    "section": "8",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "9551",
+    "name": "form1[0].Sections7-9[0].#area[0].From_Datefield_Name_2[0]",
+    "label": "Issue date (Month/Day/Year)",
+    "type": 7,
+    "page": 6,
+    "rect": {
+      "x": 175.49899291992188,
+      "y": 247.11798095703125,
+      "width": 58.501007080078125,
+      "height": 17.67999267578125
+    },
+    "section": "8",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "9550",
+    "name": "form1[0].Sections7-9[0].#area[0].To_Datefield_Name_2[0]",
+    "label": "Expiration date (Month/Day/Year)",
+    "type": 7,
+    "page": 6,
+    "rect": {
+      "x": 280.9989929199219,
+      "y": 247.11798095703125,
+      "width": 65.5,
+      "height": 17.67999267578125
+    },
+    "section": "8",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "9523",
+    "name": "form1[0].Sections7-9[0].#field[23]",
+    "label": "Estimate",
+    "type": 2,
+    "page": 6,
+    "rect": {
+      "x": 361.5150146484375,
+      "y": 251.55401611328125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "8",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "9549",
+    "name": "form1[0].Sections7-9[0].#area[0].#field[4]",
+    "label": "Estimate",
+    "type": 2,
+    "page": 6,
+    "rect": {
+      "x": 249.5019989013672,
+      "y": 251.5560302734375,
+      "width": 9.000015258789062,
+      "height": 9.0
+    },
+    "section": "8",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "9545",
+    "name": "form1[0].Sections7-9[0].suffix[0]",
+    "label": "Suffix",
+    "type": 3,
+    "page": 6,
+    "rect": {
+      "x": 523.8770141601562,
+      "y": 287.0509948730469,
+      "width": 69.0009765625,
+      "height": 17.75
+    },
+    "section": "8",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "9546",
+    "name": "form1[0].Sections7-9[0].TextField11[2]",
+    "label": "First name",
+    "type": 7,
+    "page": 6,
+    "rect": {
+      "x": 210.8780059814453,
+      "y": 287.06500244140625,
+      "width": 172.00099182128906,
+      "height": 14.9010009765625
+    },
+    "section": "8",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "9547",
+    "name": "form1[0].Sections7-9[0].TextField11[1]",
+    "label": "Provide the name in which passport was first issued. Last name",
+    "type": 7,
+    "page": 6,
+    "rect": {
+      "x": 27.121999740600586,
+      "y": 287.1929931640625,
+      "width": 176.87900733947754,
+      "height": 14.77301025390625
+    },
+    "section": "8",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "9548",
+    "name": "form1[0].Sections7-9[0].TextField11[0]",
+    "label": "Middle name",
+    "type": 7,
+    "page": 6,
+    "rect": {
+      "x": 390.87799072265625,
+      "y": 287.8160095214844,
+      "width": 128.00103759765625,
+      "height": 14.149993896484375
+    },
+    "section": "8",
+    "subsection": null,
+    "entry": null
+  }
+]

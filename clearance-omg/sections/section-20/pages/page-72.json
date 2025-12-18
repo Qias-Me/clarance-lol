@@ -1,0 +1,674 @@
+[
+  {
+    "page": 72,
+    "name": "form1[0].#subform[71].#field[159]",
+    "label": "Complete the following if you responded 'Yes' to you, your spouse or legally recognized civil union/domestic partner, cohabitant, or dependent children EVER owned, or do you anticipate owning, or plan to purchase real estate in a foreign country. Entry #2. Specify (check all that  apply): Yourself. ",
+    "type": 2,
+    "rect": {
+      "x": 152.42999267578125,
+      "y": 115.61199951171875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13672"
+  },
+  {
+    "page": 72,
+    "name": "form1[0].#subform[71].#field[169]",
+    "label": "Spouse or legally recognized civil union/domestic partner",
+    "type": 2,
+    "rect": {
+      "x": 206.42999267578125,
+      "y": 115.61199951171875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13662"
+  },
+  {
+    "page": 72,
+    "name": "form1[0].#subform[71].#field[168]",
+    "label": "Cohabitant",
+    "type": 2,
+    "rect": {
+      "x": 434.4289855957031,
+      "y": 115.61199951171875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13663"
+  },
+  {
+    "page": 72,
+    "name": "form1[0].#subform[71].#field[167]",
+    "label": "Dependent children",
+    "type": 2,
+    "rect": {
+      "x": 500.4309997558594,
+      "y": 115.61199951171875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13664"
+  },
+  {
+    "page": 72,
+    "name": "form1[0].#subform[71].TextField11[72]",
+    "label": "City",
+    "type": 7,
+    "rect": {
+      "x": 347.6319885253906,
+      "y": 151.208984375,
+      "width": 110.8800048828125,
+      "height": 14.9150390625
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13666"
+  },
+  {
+    "page": 72,
+    "name": "form1[0].#subform[71].DropDownList36[1]",
+    "label": "Country",
+    "type": 3,
+    "rect": {
+      "x": 462.3280029296875,
+      "y": 151.208984375,
+      "width": 131.60400390625,
+      "height": 14.9150390625
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13667"
+  },
+  {
+    "page": 72,
+    "name": "form1[0].#subform[71].TextField11[73]",
+    "label": "Provide the location/address of property. Street address. ",
+    "type": 7,
+    "rect": {
+      "x": 188.9320068359375,
+      "y": 151.35101318359375,
+      "width": 153.92999267578125,
+      "height": 14.77301025390625
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13665"
+  },
+  {
+    "page": 72,
+    "name": "form1[0].#subform[71].TextField11[70]",
+    "label": "Provide the type of real estate property (such as home, business, etc.).",
+    "type": 7,
+    "rect": {
+      "x": 35.93199920654297,
+      "y": 151.58001708984375,
+      "width": 150.0009994506836,
+      "height": 14.04498291015625
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13671"
+  },
+  {
+    "page": 72,
+    "name": "form1[0].#subform[71].From_Datefield_Name_2[8]",
+    "label": "Provide the date of purchase to be acquired. (Month/Day/Year)",
+    "type": 7,
+    "rect": {
+      "x": 35.93199920654297,
+      "y": 190.45697021484375,
+      "width": 119.9990005493164,
+      "height": 14.717041015625
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13688"
+  },
+  {
+    "page": 72,
+    "name": "form1[0].#subform[71].TextField11[71]",
+    "label": "Provide how the foreign real estate was or is to be acquired (such as purchase, gift, etc.).",
+    "type": 7,
+    "rect": {
+      "x": 188.9320068359375,
+      "y": 190.45697021484375,
+      "width": 263.0409851074219,
+      "height": 14.04205322265625
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13670"
+  },
+  {
+    "page": 72,
+    "name": "form1[0].#subform[71].From_Datefield_Name_2[9]",
+    "label": "Provide the date of purchase to be acquired. (Month/Day/Year)",
+    "type": 7,
+    "rect": {
+      "x": 462.3280029296875,
+      "y": 192.4840087890625,
+      "width": 99.56097412109375,
+      "height": 14.71697998046875
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13660"
+  },
+  {
+    "page": 72,
+    "name": "form1[0].#subform[71].#field[142]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 158.43099975585938,
+      "y": 196.833984375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13689"
+  },
+  {
+    "page": 72,
+    "name": "form1[0].#subform[71].#field[170]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 563.927001953125,
+      "y": 198.906005859375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13661"
+  },
+  {
+    "page": 72,
+    "name": "form1[0].#subform[71].NumericField[1]",
+    "label": "Provide the cost (in U.S. dollars) when sold or expected at time of acquisition.",
+    "type": 7,
+    "rect": {
+      "x": 35.93199920654297,
+      "y": 221.71099853515625,
+      "width": 275.9979934692383,
+      "height": 14.8480224609375
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13669"
+  },
+  {
+    "page": 72,
+    "name": "form1[0].#subform[71].#area[8].RadioButtonList[5]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 350.4670104980469,
+      "y": 226.53997802734375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13691"
+  },
+  {
+    "page": 72,
+    "name": "form1[0].#subform[71].#area[8].RadioButtonList[5]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 394.26800537109375,
+      "y": 226.53997802734375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13690"
+  },
+  {
+    "page": 72,
+    "name": "form1[0].#subform[71].#field[163]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 314.4289855957031,
+      "y": 226.541015625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13668"
+  },
+  {
+    "page": 72,
+    "name": "form1[0].#subform[71].TextField11[57]",
+    "label": "#1. Provide the full name of co-owner. Last name",
+    "type": 7,
+    "rect": {
+      "x": 47.930999755859375,
+      "y": 263.198974609375,
+      "width": 159.00100708007812,
+      "height": 14.84503173828125
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13698"
+  },
+  {
+    "page": 72,
+    "name": "form1[0].#subform[71].TextField11[58]",
+    "label": "First name",
+    "type": 7,
+    "rect": {
+      "x": 211.43299865722656,
+      "y": 263.198974609375,
+      "width": 173.99900817871094,
+      "height": 14.84503173828125
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13697"
+  },
+  {
+    "page": 72,
+    "name": "form1[0].#subform[71].TextField11[56]",
+    "label": "Middle name",
+    "type": 7,
+    "rect": {
+      "x": 395.9320068359375,
+      "y": 263.198974609375,
+      "width": 141.6099853515625,
+      "height": 14.84503173828125
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13699"
+  },
+  {
+    "page": 72,
+    "name": "form1[0].#subform[71].suffix[6]",
+    "label": "Suffix",
+    "type": 3,
+    "rect": {
+      "x": 542.9310302734375,
+      "y": 263.198974609375,
+      "width": 50.99798583984375,
+      "height": 17.680023193359375
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13700"
+  },
+  {
+    "page": 72,
+    "name": "form1[0].#subform[71].#area[7].TextField11[60]",
+    "label": "City",
+    "type": 7,
+    "rect": {
+      "x": 211.427001953125,
+      "y": 303.6610107421875,
+      "width": 112.5,
+      "height": 14.91497802734375
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13695"
+  },
+  {
+    "page": 72,
+    "name": "form1[0].#subform[71].#area[7].DropDownList35[1]",
+    "label": "Country",
+    "type": 3,
+    "rect": {
+      "x": 448.6789855957031,
+      "y": 303.6610107421875,
+      "width": 142.00204467773438,
+      "height": 14.91497802734375
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13693"
+  },
+  {
+    "page": 72,
+    "name": "form1[0].#subform[71].#area[7].TextField11[59]",
+    "label": "Provide the co-owner's current address.  (Provide City and Country if outside the United States; otherwise, provide City, State and Zip Code.) Street",
+    "type": 7,
+    "rect": {
+      "x": 47.92499923706055,
+      "y": 303.8030090332031,
+      "width": 159.00099563598633,
+      "height": 14.772979736328125
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13696"
+  },
+  {
+    "page": 72,
+    "name": "form1[0].#subform[71].#area[7].School6_State[6]",
+    "label": "State",
+    "type": 3,
+    "rect": {
+      "x": 329.41400146484375,
+      "y": 303.8030090332031,
+      "width": 44.01300048828125,
+      "height": 17.608001708984375
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13694"
+  },
+  {
+    "page": 72,
+    "name": "form1[0].#subform[71].#area[7].TextField11[61]",
+    "label": "Zip Code",
+    "type": 7,
+    "rect": {
+      "x": 377.6510009765625,
+      "y": 304.4259948730469,
+      "width": 65.99899291992188,
+      "height": 14.149993896484375
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13692"
+  },
+  {
+    "page": 72,
+    "name": "form1[0].#subform[71].DropDownList12[14]",
+    "label": "Provide your co-owner's country(ies) of citizenship. Country #1",
+    "type": 3,
+    "rect": {
+      "x": 47.808998107910156,
+      "y": 345.5320129394531,
+      "width": 163.50200653076172,
+      "height": 17.608001708984375
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13674"
+  },
+  {
+    "page": 72,
+    "name": "form1[0].#subform[71].DropDownList12[15]",
+    "label": "Country #2",
+    "type": 3,
+    "rect": {
+      "x": 220.43299865722656,
+      "y": 345.5320129394531,
+      "width": 157.49900817871094,
+      "height": 17.608001708984375
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13673"
+  },
+  {
+    "page": 72,
+    "name": "form1[0].#subform[71].TextField11[69]",
+    "label": "Provide the nature of your relationship with the co-owner.",
+    "type": 7,
+    "rect": {
+      "x": 387.0480041503906,
+      "y": 345.5320129394531,
+      "width": 206.88400268554688,
+      "height": 17.608001708984375
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13675"
+  },
+  {
+    "page": 72,
+    "name": "form1[0].#subform[71].TextField11[63]",
+    "label": "#2. Provide the full name of co-owner. Last name",
+    "type": 7,
+    "rect": {
+      "x": 47.808998107910156,
+      "y": 384.09698486328125,
+      "width": 159.0009994506836,
+      "height": 14.845001220703125
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13685"
+  },
+  {
+    "page": 72,
+    "name": "form1[0].#subform[71].TextField11[64]",
+    "label": "First name",
+    "type": 7,
+    "rect": {
+      "x": 211.31100463867188,
+      "y": 384.09698486328125,
+      "width": 173.99899291992188,
+      "height": 14.845001220703125
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13684"
+  },
+  {
+    "page": 72,
+    "name": "form1[0].#subform[71].TextField11[62]",
+    "label": "Middle name",
+    "type": 7,
+    "rect": {
+      "x": 395.80999755859375,
+      "y": 384.09698486328125,
+      "width": 141.6099853515625,
+      "height": 14.845001220703125
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13686"
+  },
+  {
+    "page": 72,
+    "name": "form1[0].#subform[71].suffix[7]",
+    "label": "Suffix",
+    "type": 3,
+    "rect": {
+      "x": 542.8090209960938,
+      "y": 384.09698486328125,
+      "width": 50.99798583984375,
+      "height": 17.680023193359375
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13687"
+  },
+  {
+    "page": 72,
+    "name": "form1[0].#subform[71].#area[9].TextField11[66]",
+    "label": "City",
+    "type": 7,
+    "rect": {
+      "x": 211.3000030517578,
+      "y": 424.5589904785156,
+      "width": 112.49998474121094,
+      "height": 14.915008544921875
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13682"
+  },
+  {
+    "page": 72,
+    "name": "form1[0].#subform[71].#area[9].DropDownList34[1]",
+    "label": "Country",
+    "type": 3,
+    "rect": {
+      "x": 448.552001953125,
+      "y": 424.5589904785156,
+      "width": 142.00201416015625,
+      "height": 14.915008544921875
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13680"
+  },
+  {
+    "page": 72,
+    "name": "form1[0].#subform[71].#area[9].School6_State[7]",
+    "label": "State",
+    "type": 3,
+    "rect": {
+      "x": 329.2869873046875,
+      "y": 424.70098876953125,
+      "width": 44.01300048828125,
+      "height": 17.608001708984375
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13681"
+  },
+  {
+    "page": 72,
+    "name": "form1[0].#subform[71].#area[9].TextField11[65]",
+    "label": "Provide the co-owner's current address.  (Provide City and Country if outside the United States; otherwise, provide City, State and Zip Code.) Street",
+    "type": 7,
+    "rect": {
+      "x": 47.79800033569336,
+      "y": 424.9779968261719,
+      "width": 159.00099563598633,
+      "height": 14.496002197265625
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13683"
+  },
+  {
+    "page": 72,
+    "name": "form1[0].#subform[71].#area[9].TextField11[67]",
+    "label": "Zip Code",
+    "type": 7,
+    "rect": {
+      "x": 377.52398681640625,
+      "y": 425.3240051269531,
+      "width": 65.9990234375,
+      "height": 14.149993896484375
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13679"
+  },
+  {
+    "page": 72,
+    "name": "form1[0].#subform[71].DropDownList12[12]",
+    "label": "Provide your co-owner's country(ies) of citizenship. Country #1",
+    "type": 3,
+    "rect": {
+      "x": 47.79800033569336,
+      "y": 467.03399658203125,
+      "width": 163.50200271606445,
+      "height": 17.608001708984375
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13677"
+  },
+  {
+    "page": 72,
+    "name": "form1[0].#subform[71].TextField11[68]",
+    "label": "Provide the nature of your relationship with the co-owner.",
+    "type": 7,
+    "rect": {
+      "x": 386.9320068359375,
+      "y": 467.03399658203125,
+      "width": 206.88397216796875,
+      "height": 17.608001708984375
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13678"
+  },
+  {
+    "page": 72,
+    "name": "form1[0].#subform[71].DropDownList12[13]",
+    "label": "Country #2",
+    "type": 3,
+    "rect": {
+      "x": 220.43299865722656,
+      "y": 467.510009765625,
+      "width": 157.49900817871094,
+      "height": 17.608001708984375
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13676"
+  },
+  {
+    "page": 72,
+    "name": "form1[0].#subform[71].SSN[3]",
+    "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+    "type": 7,
+    "rect": {
+      "x": 476.7279968261719,
+      "y": 739.0009765625,
+      "width": 115.51303100585938,
+      "height": 13.6710205078125
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13701"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "10099",
+    "name": "form1[0].section_12[0].pg10r1[0]",
+    "label": "pg10r1",
+    "type": 5,
+    "page": 14,
+    "rect": {
+      "x": 29.957000732421875,
+      "y": 108.08001708984375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "12",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "10098",
+    "name": "form1[0].section_12[0].pg10r1[0]",
+    "label": "pg10r1",
+    "type": 5,
+    "page": 14,
+    "rect": {
+      "x": 66.01899719238281,
+      "y": 108.08001708984375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "12",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "10097",
+    "name": "form1[0].section_12[0].pg10r2[0]",
+    "label": "pg10r2",
+    "type": 5,
+    "page": 14,
+    "rect": {
+      "x": 295.33599853515625,
+      "y": 108.08001708984375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "12",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "10096",
+    "name": "form1[0].section_12[0].pg10r2[0]",
+    "label": "pg10r2",
+    "type": 5,
+    "page": 14,
+    "rect": {
+      "x": 329.40301513671875,
+      "y": 108.08001708984375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "12",
+    "subsection": null,
+    "entry": null
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "id": "14734",
+    "name": "form1[0].Section21d3[0].#field[19]",
+    "label": "Day",
+    "type": 2,
+    "page": 95,
+    "rect": {
+      "x": 451.364013671875,
+      "y": 282.156005859375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "21",
+    "subsection": "21D.1",
+    "entry": 2
+  },
+  {
+    "id": "14733",
+    "name": "form1[0].Section21d3[0].#field[20]",
+    "label": "Night",
+    "type": 2,
+    "page": 95,
+    "rect": {
+      "x": 487.25299072265625,
+      "y": 282.156005859375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "21",
+    "subsection": "21D.1",
+    "entry": 2
+  },
+  {
+    "id": "14691",
+    "name": "form1[0].Section21d3[0].TextField11[5]",
+    "label": "Complete the following if you responded 'Yes' to currently in treatment. Entry #2. Provide the name of the health care professional providing such treatment.",
+    "type": 7,
+    "page": 95,
+    "rect": {
+      "x": 36.130001068115234,
+      "y": 293.64599609375,
+      "width": 222.6160011291504,
+      "height": 14.38201904296875
+    },
+    "section": "21",
+    "subsection": "21D.1",
+    "entry": 2
+  },
+  {
+    "id": "14732",
+    "name": "form1[0].Section21d3[0].p3-t68[1]",
+    "label": "Provide the telephone number of the health care professional. Telephone number",
+    "type": 7,
+    "page": 95,
+    "rect": {
+      "x": 268.1830139160156,
+      "y": 294.2239990234375,
+      "width": 127.26699829101562,
+      "height": 17.67999267578125
+    },
+    "section": "21",
+    "subsection": "21D.1",
+    "entry": 2
+  },
+  {
+    "id": "14731",
+    "name": "form1[0].Section21d3[0].TextField11[9]",
+    "label": "Extension",
+    "type": 7,
+    "page": 95,
+    "rect": {
+      "x": 404.23699951171875,
+      "y": 294.2959899902344,
+      "width": 38.001007080078125,
+      "height": 17.608001708984375
+    },
+    "section": "21",
+    "subsection": "21D.1",
+    "entry": 2
+  },
+  {
+    "id": "14730",
+    "name": "form1[0].Section21d3[0].#field[23]",
+    "label": "International or D S N phone number",
+    "type": 2,
+    "page": 95,
+    "rect": {
+      "x": 451.3609924316406,
+      "y": 298.6990051269531,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "21",
+    "subsection": "21D.1",
+    "entry": 2
+  },
+  {
+    "id": "14738",
+    "name": "form1[0].Section21d3[0].TextField11[7]",
+    "label": "City",
+    "type": 7,
+    "page": 95,
+    "rect": {
+      "x": 209.6479949951172,
+      "y": 333.06298828125,
+      "width": 110.88002014160156,
+      "height": 14.915008544921875
+    },
+    "section": "21",
+    "subsection": "21D.1",
+    "entry": 2
+  },
+  {
+    "id": "14736",
+    "name": "form1[0].Section21d3[0].#field[17]",
+    "label": "Country",
+    "type": 3,
+    "page": 95,
+    "rect": {
+      "x": 450.0509948730469,
+      "y": 333.06298828125,
+      "width": 142.00198364257812,
+      "height": 14.915008544921875
+    },
+    "section": "21",
+    "subsection": "21D.1",
+    "entry": 2
+  },
+  {
+    "id": "14690",
+    "name": "form1[0].Section21d3[0].TextField11[6]",
+    "label": "Provide the address of the health care professional.  (Provide City and Country if outside the United States; otherwise, provide City, State and Zip Code). Street",
+    "type": 7,
+    "page": 95,
+    "rect": {
+      "x": 36.64899826049805,
+      "y": 333.2049865722656,
+      "width": 166.50000381469727,
+      "height": 14.77301025390625
+    },
+    "section": "21",
+    "subsection": "21D.1",
+    "entry": 2
+  },
+  {
+    "id": "14737",
+    "name": "form1[0].Section21d3[0].School6_State[1]",
+    "label": "State",
+    "type": 3,
+    "page": 95,
+    "rect": {
+      "x": 329.1510009765625,
+      "y": 333.2049865722656,
+      "width": 45.49798583984375,
+      "height": 17.608001708984375
+    },
+    "section": "21",
+    "subsection": "21D.1",
+    "entry": 2
+  },
+  {
+    "id": "14735",
+    "name": "form1[0].Section21d3[0].TextField11[8]",
+    "label": "Zip Code",
+    "type": 7,
+    "page": 95,
+    "rect": {
+      "x": 381.3760070800781,
+      "y": 333.8280029296875,
+      "width": 65.99899291992188,
+      "height": 14.149993896484375
+    },
+    "section": "21",
+    "subsection": "21D.1",
+    "entry": 2
+  }
+]

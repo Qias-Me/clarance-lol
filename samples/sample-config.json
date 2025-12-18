@@ -1,0 +1,5 @@
+{
+  "sample_pdf_path": "samples\\clean.pdf",
+  "test_coordinates": true,
+  "debug_mode": false
+}

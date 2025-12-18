@@ -1,0 +1,21 @@
+{
+  "documentId": "",
+  "documentName": "",
+  "pages": [],
+  "sections": [],
+  "allFields": [],
+  "coordinateSystem": "pdf-to-css",
+  "metadata": {
+    "createdDate": "",
+    "lastValidated": null,
+    "accuracyScore": null,
+    "evolutionVersion": 1,
+    "totalFields": 0,
+    "totalSections": 0,
+    "stepsCompleted": [],
+    "pdfPath": "",
+    "sectionsReferencesPath": null,
+    "tolerancePixels": 0.5,
+    "workflowComplete": false
+  }
+}

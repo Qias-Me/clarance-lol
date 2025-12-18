@@ -1,0 +1,17 @@
+{
+  "coordinate_validation": {
+    "tolerance": 0.5,
+    "strict_mode": true,
+    "evidence_only": true
+  },
+  "field_detection": {
+    "confidence_threshold": 0.9,
+    "auto_validate": true,
+    "sections_integration": true
+  },
+  "component_generation": {
+    "typescript": true,
+    "accessibility_enabled": true,
+    "responsive_design": true
+  }
+}

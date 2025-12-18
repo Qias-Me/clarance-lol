@@ -1,0 +1,402 @@
+[
+  {
+    "page": 127,
+    "name": "form1[0].Section28[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 432.5840148925781,
+      "y": 78.55499267578125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "28",
+    "subsection": null,
+    "entry": null,
+    "id": "16099"
+  },
+  {
+    "page": 127,
+    "name": "form1[0].Section28[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 471.2170104980469,
+      "y": 78.55499267578125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "28",
+    "subsection": null,
+    "entry": null,
+    "id": "16098"
+  },
+  {
+    "page": 127,
+    "name": "form1[0].Section28[0].From_Datefield_Name_2[0]",
+    "label": "Complete the following if you responded 'Yes' to having been a party to any public record civil court action(s) not listed elsewhere on this form in the last ten (10) years. Entry #1. Provide the date of the civil action (Month/Year)",
+    "type": 7,
+    "rect": {
+      "x": 35.87799835205078,
+      "y": 143.16302490234375,
+      "width": 121.62300872802734,
+      "height": 17.67999267578125
+    },
+    "section": "28",
+    "subsection": null,
+    "entry": 1,
+    "id": "16096"
+  },
+  {
+    "page": 127,
+    "name": "form1[0].Section28[0].TextField11[1]",
+    "label": "Provide the court name.",
+    "type": 7,
+    "rect": {
+      "x": 225.0,
+      "y": 143.2349853515625,
+      "width": 367.3790283203125,
+      "height": 17.6080322265625
+    },
+    "section": "28",
+    "subsection": null,
+    "entry": 1,
+    "id": "16095"
+  },
+  {
+    "page": 127,
+    "name": "form1[0].Section28[0].#field[12]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 186.49899291992188,
+      "y": 147.75201416015625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "28",
+    "subsection": null,
+    "entry": 1,
+    "id": "16087"
+  },
+  {
+    "page": 127,
+    "name": "form1[0].Section28[0].TextField11[5]",
+    "label": "City",
+    "type": 7,
+    "rect": {
+      "x": 211.50100708007812,
+      "y": 181.3809814453125,
+      "width": 110.8800048828125,
+      "height": 14.9150390625
+    },
+    "section": "28",
+    "subsection": null,
+    "entry": 1,
+    "id": "16091"
+  },
+  {
+    "page": 127,
+    "name": "form1[0].Section28[0].DropDownList142[0]",
+    "label": "Country",
+    "type": 3,
+    "rect": {
+      "x": 450.8760070800781,
+      "y": 181.3809814453125,
+      "width": 142.00198364257812,
+      "height": 14.9150390625
+    },
+    "section": "28",
+    "subsection": null,
+    "entry": 1,
+    "id": "16089"
+  },
+  {
+    "page": 127,
+    "name": "form1[0].Section28[0].TextField11[4]",
+    "label": "Provide the address of the court. (Provide City and Country if outside the United States; otherwise, provide City, State and Zip Code). Street",
+    "type": 7,
+    "rect": {
+      "x": 36.0,
+      "y": 181.52301025390625,
+      "width": 171.0,
+      "height": 14.77301025390625
+    },
+    "section": "28",
+    "subsection": null,
+    "entry": 1,
+    "id": "16092"
+  },
+  {
+    "page": 127,
+    "name": "form1[0].Section28[0].School6_State[0]",
+    "label": "State",
+    "type": 3,
+    "rect": {
+      "x": 329.0400085449219,
+      "y": 181.52301025390625,
+      "width": 45.49798583984375,
+      "height": 17.60797119140625
+    },
+    "section": "28",
+    "subsection": null,
+    "entry": 1,
+    "id": "16090"
+  },
+  {
+    "page": 127,
+    "name": "form1[0].Section28[0].TextField11[6]",
+    "label": "Zip Code",
+    "type": 7,
+    "rect": {
+      "x": 380.72698974609375,
+      "y": 182.14599609375,
+      "width": 65.9990234375,
+      "height": 14.1500244140625
+    },
+    "section": "28",
+    "subsection": null,
+    "entry": 1,
+    "id": "16088"
+  },
+  {
+    "page": 127,
+    "name": "form1[0].Section28[0].TextField11[2]",
+    "label": "Provide a description of the results of the action.",
+    "type": 7,
+    "rect": {
+      "x": 225.0,
+      "y": 210.8900146484375,
+      "width": 184.50100708007812,
+      "height": 27.02496337890625
+    },
+    "section": "28",
+    "subsection": null,
+    "entry": 1,
+    "id": "16094"
+  },
+  {
+    "page": 127,
+    "name": "form1[0].Section28[0].TextField11[0]",
+    "label": "Provide details of the nature of the action.",
+    "type": 7,
+    "rect": {
+      "x": 35.87799835205078,
+      "y": 211.3060302734375,
+      "width": 184.62300872802734,
+      "height": 26.60797119140625
+    },
+    "section": "28",
+    "subsection": null,
+    "entry": 1,
+    "id": "16097"
+  },
+  {
+    "page": 127,
+    "name": "form1[0].Section28[0].TextField11[3]",
+    "label": "Provide the name(s) of the principal parties involved in the court action.",
+    "type": 7,
+    "rect": {
+      "x": 413.87799072265625,
+      "y": 222.4229736328125,
+      "width": 180.12200927734375,
+      "height": 15.49200439453125
+    },
+    "section": "28",
+    "subsection": null,
+    "entry": 1,
+    "id": "16093"
+  },
+  {
+    "page": 127,
+    "name": "form1[0].Section28[0].From_Datefield_Name_2[1]",
+    "label": "Entry #2. Provide the date of the civil action (Month/Year)",
+    "type": 7,
+    "rect": {
+      "x": 36.0,
+      "y": 264.6619873046875,
+      "width": 121.62300109863281,
+      "height": 17.680023193359375
+    },
+    "section": "28",
+    "subsection": null,
+    "entry": 2,
+    "id": "16085"
+  },
+  {
+    "page": 127,
+    "name": "form1[0].Section28[0].TextField11[8]",
+    "label": "Provide the court name.",
+    "type": 7,
+    "rect": {
+      "x": 222.3470001220703,
+      "y": 264.7340087890625,
+      "width": 370.1539764404297,
+      "height": 17.608001708984375
+    },
+    "section": "28",
+    "subsection": null,
+    "entry": 2,
+    "id": "16084"
+  },
+  {
+    "page": 127,
+    "name": "form1[0].Section28[0].#field[23]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 186.6199951171875,
+      "y": 269.25,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "28",
+    "subsection": null,
+    "entry": 2,
+    "id": "16101"
+  },
+  {
+    "page": 127,
+    "name": "form1[0].Section28[0].TextField11[12]",
+    "label": "City",
+    "type": 7,
+    "rect": {
+      "x": 211.50100708007812,
+      "y": 302.8789978027344,
+      "width": 110.8800048828125,
+      "height": 14.915008544921875
+    },
+    "section": "28",
+    "subsection": null,
+    "entry": 2,
+    "id": "16080"
+  },
+  {
+    "page": 127,
+    "name": "form1[0].Section28[0].DropDownList7[0]",
+    "label": "Country",
+    "type": 3,
+    "rect": {
+      "x": 450.8760070800781,
+      "y": 302.8789978027344,
+      "width": 142.00198364257812,
+      "height": 14.915008544921875
+    },
+    "section": "28",
+    "subsection": null,
+    "entry": 2,
+    "id": "16103"
+  },
+  {
+    "page": 127,
+    "name": "form1[0].Section28[0].TextField11[11]",
+    "label": "Provide the address of the court. (Provide City and Country if outside the United States; otherwise, provide City, State and Zip Code). Street",
+    "type": 7,
+    "rect": {
+      "x": 36.0,
+      "y": 303.02099609375,
+      "width": 171.0,
+      "height": 14.77301025390625
+    },
+    "section": "28",
+    "subsection": null,
+    "entry": 2,
+    "id": "16081"
+  },
+  {
+    "page": 127,
+    "name": "form1[0].Section28[0].School6_State[1]",
+    "label": "State",
+    "type": 3,
+    "rect": {
+      "x": 329.0400085449219,
+      "y": 303.02099609375,
+      "width": 45.49798583984375,
+      "height": 17.608001708984375
+    },
+    "section": "28",
+    "subsection": null,
+    "entry": 2,
+    "id": "16104"
+  },
+  {
+    "page": 127,
+    "name": "form1[0].Section28[0].TextField11[13]",
+    "label": "Zip Code",
+    "type": 7,
+    "rect": {
+      "x": 380.72698974609375,
+      "y": 303.6440124511719,
+      "width": 65.9990234375,
+      "height": 14.149993896484375
+    },
+    "section": "28",
+    "subsection": null,
+    "entry": 2,
+    "id": "16102"
+  },
+  {
+    "page": 127,
+    "name": "form1[0].Section28[0].TextField11[9]",
+    "label": "Provide a description of the results of the action.",
+    "type": 7,
+    "rect": {
+      "x": 225.1219940185547,
+      "y": 332.38800048828125,
+      "width": 184.50099182128906,
+      "height": 27.024993896484375
+    },
+    "section": "28",
+    "subsection": null,
+    "entry": 2,
+    "id": "16083"
+  },
+  {
+    "page": 127,
+    "name": "form1[0].Section28[0].TextField11[7]",
+    "label": "Provide details of the nature of the action.",
+    "type": 7,
+    "rect": {
+      "x": 36.0,
+      "y": 332.80499267578125,
+      "width": 184.6230010986328,
+      "height": 26.608001708984375
+    },
+    "section": "28",
+    "subsection": null,
+    "entry": 2,
+    "id": "16086"
+  },
+  {
+    "page": 127,
+    "name": "form1[0].Section28[0].TextField11[10]",
+    "label": "Provide the name(s) of the principal parties involved in the court action.",
+    "type": 7,
+    "rect": {
+      "x": 413.87799072265625,
+      "y": 343.9209899902344,
+      "width": 180.12200927734375,
+      "height": 15.49200439453125
+    },
+    "section": "28",
+    "subsection": null,
+    "entry": 2,
+    "id": "16082"
+  },
+  {
+    "page": 127,
+    "name": "form1[0].Section28[0].SSN[0]",
+    "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+    "type": 7,
+    "rect": {
+      "x": 476.7279968261719,
+      "y": 739.0009765625,
+      "width": 115.51303100585938,
+      "height": 13.6710205078125
+    },
+    "section": "28",
+    "subsection": null,
+    "entry": 2,
+    "id": "16100"
+  }
+]

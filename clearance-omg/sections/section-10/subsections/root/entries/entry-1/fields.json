@@ -1,0 +1,1026 @@
+[
+  {
+    "id": "9705",
+    "name": "form1[0].Section10\\.1-10\\.2[0].DropDownList13[0]",
+    "label": "Complete the following if you answered 'Yes' to having EVER held dual/multiple citizenship. Entry #1 Provide country of citizenship.",
+    "type": 3,
+    "page": 8,
+    "rect": {
+      "x": 37.000999450683594,
+      "y": 132.8170166015625,
+      "width": 277.87699127197266,
+      "height": 14.844970703125
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9700",
+    "name": "form1[0].Section10\\.1-10\\.2[0].#field[5]",
+    "label": "Present",
+    "type": 2,
+    "page": 8,
+    "rect": {
+      "x": 551.0009765625,
+      "y": 157.9990234375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9704",
+    "name": "form1[0].Section10\\.1-10\\.2[0].TextField11[0]",
+    "label": "How did you acquire this non-U.S. citizenship you now have or previously had?",
+    "type": 7,
+    "page": 8,
+    "rect": {
+      "x": 37.000999450683594,
+      "y": 163.57000732421875,
+      "width": 279.70801544189453,
+      "height": 14.844970703125
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9703",
+    "name": "form1[0].Section10\\.1-10\\.2[0].From_Datefield_Name_2[0]",
+    "label": "During what period of time did you hold citizenship with this country? (Provide the date range that you held this citizenship, beginning with the date it was acquired through its termination or \"Present,\" whichever is appropriate.) From Date (Month/Year)",
+    "type": 7,
+    "page": 8,
+    "rect": {
+      "x": 321.88299560546875,
+      "y": 163.57000732421875,
+      "width": 82.99600219726562,
+      "height": 17.67999267578125
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9701",
+    "name": "form1[0].Section10\\.1-10\\.2[0].From_Datefield_Name_2[1]",
+    "label": "To Date (Month/Year)",
+    "type": 7,
+    "page": 8,
+    "rect": {
+      "x": 463.3800048828125,
+      "y": 163.57000732421875,
+      "width": 77.0,
+      "height": 17.67999267578125
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9702",
+    "name": "form1[0].Section10\\.1-10\\.2[0].#field[3]",
+    "label": "Estimate",
+    "type": 2,
+    "page": 8,
+    "rect": {
+      "x": 420.1780090332031,
+      "y": 169.50201416015625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9699",
+    "name": "form1[0].Section10\\.1-10\\.2[0].#field[6]",
+    "label": "Estimate",
+    "type": 2,
+    "page": 8,
+    "rect": {
+      "x": 551.0,
+      "y": 170.50299072265625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9696",
+    "name": "form1[0].Section10\\.1-10\\.2[0].TextField11[1]",
+    "label": "Provide explanation:",
+    "type": 7,
+    "page": 8,
+    "rect": {
+      "x": 202.125,
+      "y": 194.0,
+      "width": 391.7540283203125,
+      "height": 14.77398681640625
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9697",
+    "name": "form1[0].Section10\\.1-10\\.2[0].RadioButtonList[1]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 8,
+    "rect": {
+      "x": 39.83599853515625,
+      "y": 198.30401611328125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9698",
+    "name": "form1[0].Section10\\.1-10\\.2[0].RadioButtonList[1]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 8,
+    "rect": {
+      "x": 79.59500122070312,
+      "y": 198.30401611328125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9693",
+    "name": "form1[0].Section10\\.1-10\\.2[0].TextField11[2]",
+    "label": "Provide explanation:",
+    "type": 7,
+    "page": 8,
+    "rect": {
+      "x": 203.24400329589844,
+      "y": 225.0,
+      "width": 390.6339874267578,
+      "height": 14.77398681640625
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9694",
+    "name": "form1[0].Section10\\.1-10\\.2[0].RadioButtonList[2]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 8,
+    "rect": {
+      "x": 39.83599853515625,
+      "y": 229.30401611328125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9695",
+    "name": "form1[0].Section10\\.1-10\\.2[0].RadioButtonList[2]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 8,
+    "rect": {
+      "x": 80.71199798583984,
+      "y": 229.30401611328125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9677",
+    "name": "form1[0].Section10\\.1-10\\.2[0].DropDownList14[0]",
+    "label": "Complete the following if you answered 'Yes' to having been issued a passport (or identity card for travel) by a country other than the U.S. Entry #1 Provide country in which the passport (or identity card) was issued.",
+    "type": 3,
+    "page": 8,
+    "rect": {
+      "x": 37.63600158691406,
+      "y": 441.072998046875,
+      "width": 277.36399841308594,
+      "height": 14.845001220703125
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9676",
+    "name": "form1[0].Section10\\.1-10\\.2[0].From_Datefield_Name_2[4]",
+    "label": "Provide the date the passport (or identity card) was issued. (month/day/year)",
+    "type": 7,
+    "page": 8,
+    "rect": {
+      "x": 324.0,
+      "y": 441.072998046875,
+      "width": 193.5009765625,
+      "height": 17.67999267578125
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9675",
+    "name": "form1[0].Section10\\.1-10\\.2[0].#field[20]",
+    "label": "Estimate",
+    "type": 2,
+    "page": 8,
+    "rect": {
+      "x": 551.0,
+      "y": 445.2650146484375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9674",
+    "name": "form1[0].Section10\\.1-10\\.2[0].TextField11[6]",
+    "label": "Provide the place the passport (or identity card) was issued. City",
+    "type": 7,
+    "page": 8,
+    "rect": {
+      "x": 37.63600158691406,
+      "y": 480.1210021972656,
+      "width": 335.8629913330078,
+      "height": 13.790008544921875
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9673",
+    "name": "form1[0].Section10\\.1-10\\.2[0].DropDownList11[0]",
+    "label": "Country",
+    "type": 3,
+    "page": 8,
+    "rect": {
+      "x": 381.1239929199219,
+      "y": 480.1210021972656,
+      "width": 212.87600708007812,
+      "height": 13.790008544921875
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9671",
+    "name": "form1[0].Section10\\.1-10\\.2[0].TextField11[8]",
+    "label": "First name",
+    "type": 7,
+    "page": 8,
+    "rect": {
+      "x": 218.76100158691406,
+      "y": 517.2459716796875,
+      "width": 154.74000549316406,
+      "height": 14.9150390625
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9669",
+    "name": "form1[0].Section10\\.1-10\\.2[0].suffix[0]",
+    "label": "Suffix",
+    "type": 3,
+    "page": 8,
+    "rect": {
+      "x": 522.0,
+      "y": 517.2459716796875,
+      "width": 71.87799072265625,
+      "height": 17.75
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9670",
+    "name": "form1[0].Section10\\.1-10\\.2[0].TextField11[9]",
+    "label": "Middle name",
+    "type": 7,
+    "page": 8,
+    "rect": {
+      "x": 382.5010070800781,
+      "y": 518.010986328125,
+      "width": 128.00100708007812,
+      "height": 14.1500244140625
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9672",
+    "name": "form1[0].Section10\\.1-10\\.2[0].TextField11[7]",
+    "label": "Provide the name in which passport (or identity card) was issued. Last name.",
+    "type": 7,
+    "page": 8,
+    "rect": {
+      "x": 37.63600158691406,
+      "y": 518.532958984375,
+      "width": 176.87899780273438,
+      "height": 13.6280517578125
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9668",
+    "name": "form1[0].Section10\\.1-10\\.2[0].TextField11[10]",
+    "label": "Provide the passport (or identity card) number.",
+    "type": 7,
+    "page": 8,
+    "rect": {
+      "x": 37.63600158691406,
+      "y": 545.3170166015625,
+      "width": 277.36399841308594,
+      "height": 14.844970703125
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9667",
+    "name": "form1[0].Section10\\.1-10\\.2[0].From_Datefield_Name_2[5]",
+    "label": "Provide the passport (or identity card) expiration date. (Month/Day/Year)",
+    "type": 7,
+    "page": 8,
+    "rect": {
+      "x": 324.0,
+      "y": 545.3170166015625,
+      "width": 193.5009765625,
+      "height": 17.67999267578125
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9666",
+    "name": "form1[0].Section10\\.1-10\\.2[0].#field[29]",
+    "label": "Estimate",
+    "type": 2,
+    "page": 8,
+    "rect": {
+      "x": 551.0,
+      "y": 550.509033203125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9664",
+    "name": "form1[0].Section10\\.1-10\\.2[0].RadioButtonList[6]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 8,
+    "rect": {
+      "x": 40.7140007019043,
+      "y": 578.280029296875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9665",
+    "name": "form1[0].Section10\\.1-10\\.2[0].RadioButtonList[6]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 8,
+    "rect": {
+      "x": 79.59400177001953,
+      "y": 578.280029296875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9663",
+    "name": "form1[0].Section10\\.1-10\\.2[0].Table1[0].Row1[0].Cell1[0]",
+    "label": "Provide the countries to which you traveled on this passport (or identity card) and the dates involved with each. Country. Row 1",
+    "type": 3,
+    "page": 8,
+    "rect": {
+      "x": 52.27899932861328,
+      "y": 621.0960083007812,
+      "width": 233.79100799560547,
+      "height": 13.0059814453125
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9662",
+    "name": "form1[0].Section10\\.1-10\\.2[0].Table1[0].Row1[0].Cell2[0]",
+    "label": "From date (Month/Year). Row 1",
+    "type": 7,
+    "page": 8,
+    "rect": {
+      "x": 288.90399169921875,
+      "y": 621.0960083007812,
+      "width": 84.156005859375,
+      "height": 13.0059814453125
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9660",
+    "name": "form1[0].Section10\\.1-10\\.2[0].Table1[0].Row1[0].Cell4[0]",
+    "label": "To date (Month/Year). Row 1",
+    "type": 7,
+    "page": 8,
+    "rect": {
+      "x": 415.8970031738281,
+      "y": 621.0960083007812,
+      "width": 77.17999267578125,
+      "height": 13.0059814453125
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9661",
+    "name": "form1[0].Section10\\.1-10\\.2[0].Table1[0].Row1[0].Cell3[0]",
+    "label": "Estimate. Row 1",
+    "type": 2,
+    "page": 8,
+    "rect": {
+      "x": 374.8580017089844,
+      "y": 623.0989990234375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9659",
+    "name": "form1[0].Section10\\.1-10\\.2[0].Table1[0].Row1[0].Cell5[0]",
+    "label": "Estimate. Row 1",
+    "type": 2,
+    "page": 8,
+    "rect": {
+      "x": 498.9939880371094,
+      "y": 623.0989990234375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9658",
+    "name": "form1[0].Section10\\.1-10\\.2[0].Table1[0].Row1[0].#field[5]",
+    "label": "Present. Row 1",
+    "type": 2,
+    "page": 8,
+    "rect": {
+      "x": 534.093994140625,
+      "y": 623.0989990234375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9657",
+    "name": "form1[0].Section10\\.1-10\\.2[0].Table1[0].Row2[0].Cell1[0]",
+    "label": "Country. Row 2",
+    "type": 3,
+    "page": 8,
+    "rect": {
+      "x": 52.27899932861328,
+      "y": 636.93603515625,
+      "width": 233.79100799560547,
+      "height": 13.0059814453125
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9656",
+    "name": "form1[0].Section10\\.1-10\\.2[0].Table1[0].Row2[0].Cell2[0]",
+    "label": "From date (Month/Year). Row 2",
+    "type": 7,
+    "page": 8,
+    "rect": {
+      "x": 288.90399169921875,
+      "y": 636.93603515625,
+      "width": 84.156005859375,
+      "height": 13.0059814453125
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9654",
+    "name": "form1[0].Section10\\.1-10\\.2[0].Table1[0].Row2[0].Cell4[0]",
+    "label": "To date (Month/Year). Row 2",
+    "type": 7,
+    "page": 8,
+    "rect": {
+      "x": 415.8970031738281,
+      "y": 636.93603515625,
+      "width": 77.17999267578125,
+      "height": 13.0059814453125
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9655",
+    "name": "form1[0].Section10\\.1-10\\.2[0].Table1[0].Row2[0].Cell3[0]",
+    "label": "Estimate. Row 2",
+    "type": 2,
+    "page": 8,
+    "rect": {
+      "x": 374.8580017089844,
+      "y": 638.93896484375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9653",
+    "name": "form1[0].Section10\\.1-10\\.2[0].Table1[0].Row2[0].Cell5[0]",
+    "label": "Estimate. Row 2",
+    "type": 2,
+    "page": 8,
+    "rect": {
+      "x": 498.9939880371094,
+      "y": 638.93896484375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9652",
+    "name": "form1[0].Section10\\.1-10\\.2[0].Table1[0].Row2[0].#field[5]",
+    "label": "Present. Row 2",
+    "type": 2,
+    "page": 8,
+    "rect": {
+      "x": 534.093994140625,
+      "y": 638.93896484375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9651",
+    "name": "form1[0].Section10\\.1-10\\.2[0].Table1[0].Row3[0].Cell1[0]",
+    "label": "Country. Row 3",
+    "type": 3,
+    "page": 8,
+    "rect": {
+      "x": 52.27899932861328,
+      "y": 652.7760009765625,
+      "width": 233.79100799560547,
+      "height": 13.0059814453125
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9650",
+    "name": "form1[0].Section10\\.1-10\\.2[0].Table1[0].Row3[0].Cell2[0]",
+    "label": "From date (Month/Year). Row 3",
+    "type": 7,
+    "page": 8,
+    "rect": {
+      "x": 288.90399169921875,
+      "y": 652.7760009765625,
+      "width": 84.156005859375,
+      "height": 13.0059814453125
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9648",
+    "name": "form1[0].Section10\\.1-10\\.2[0].Table1[0].Row3[0].Cell4[0]",
+    "label": "To date (Month/Year). Row 3",
+    "type": 7,
+    "page": 8,
+    "rect": {
+      "x": 415.8970031738281,
+      "y": 652.7760009765625,
+      "width": 77.17999267578125,
+      "height": 13.0059814453125
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9649",
+    "name": "form1[0].Section10\\.1-10\\.2[0].Table1[0].Row3[0].Cell3[0]",
+    "label": "Estimate. Row 3",
+    "type": 2,
+    "page": 8,
+    "rect": {
+      "x": 374.8580017089844,
+      "y": 654.7789916992188,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9647",
+    "name": "form1[0].Section10\\.1-10\\.2[0].Table1[0].Row3[0].Cell5[0]",
+    "label": "Estimate. Row 3",
+    "type": 2,
+    "page": 8,
+    "rect": {
+      "x": 498.9939880371094,
+      "y": 654.7789916992188,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9646",
+    "name": "form1[0].Section10\\.1-10\\.2[0].Table1[0].Row3[0].#field[5]",
+    "label": "Present. Row 3",
+    "type": 2,
+    "page": 8,
+    "rect": {
+      "x": 534.093994140625,
+      "y": 654.7789916992188,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9645",
+    "name": "form1[0].Section10\\.1-10\\.2[0].Table1[0].Row4[0].Cell1[0]",
+    "label": "Country. Row 4",
+    "type": 3,
+    "page": 8,
+    "rect": {
+      "x": 52.27899932861328,
+      "y": 668.615966796875,
+      "width": 233.79100799560547,
+      "height": 13.00604248046875
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9644",
+    "name": "form1[0].Section10\\.1-10\\.2[0].Table1[0].Row4[0].Cell2[0]",
+    "label": "From date (Month/Year). Row 4",
+    "type": 7,
+    "page": 8,
+    "rect": {
+      "x": 288.90399169921875,
+      "y": 668.615966796875,
+      "width": 84.156005859375,
+      "height": 13.00604248046875
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9642",
+    "name": "form1[0].Section10\\.1-10\\.2[0].Table1[0].Row4[0].Cell4[0]",
+    "label": "To date (Month/Year). Row 4",
+    "type": 7,
+    "page": 8,
+    "rect": {
+      "x": 415.8970031738281,
+      "y": 668.615966796875,
+      "width": 77.17999267578125,
+      "height": 13.00604248046875
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9643",
+    "name": "form1[0].Section10\\.1-10\\.2[0].Table1[0].Row4[0].Cell3[0]",
+    "label": "Estimate. Row 4",
+    "type": 2,
+    "page": 8,
+    "rect": {
+      "x": 374.8580017089844,
+      "y": 670.6190185546875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9641",
+    "name": "form1[0].Section10\\.1-10\\.2[0].Table1[0].Row4[0].Cell5[0]",
+    "label": "Estimate. Row 4",
+    "type": 2,
+    "page": 8,
+    "rect": {
+      "x": 498.9939880371094,
+      "y": 670.6190185546875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9640",
+    "name": "form1[0].Section10\\.1-10\\.2[0].Table1[0].Row4[0].#field[5]",
+    "label": "Present. Row 4",
+    "type": 2,
+    "page": 8,
+    "rect": {
+      "x": 534.093994140625,
+      "y": 670.6190185546875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9639",
+    "name": "form1[0].Section10\\.1-10\\.2[0].Table1[0].Row5[0].Cell1[0]",
+    "label": "Country. Row 5",
+    "type": 3,
+    "page": 8,
+    "rect": {
+      "x": 52.27899932861328,
+      "y": 684.4559936523438,
+      "width": 233.79100799560547,
+      "height": 13.0059814453125
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9638",
+    "name": "form1[0].Section10\\.1-10\\.2[0].Table1[0].Row5[0].Cell2[0]",
+    "label": "From date (Month/Year). Row 5",
+    "type": 7,
+    "page": 8,
+    "rect": {
+      "x": 288.90399169921875,
+      "y": 684.4559936523438,
+      "width": 84.156005859375,
+      "height": 13.0059814453125
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9636",
+    "name": "form1[0].Section10\\.1-10\\.2[0].Table1[0].Row5[0].Cell4[0]",
+    "label": "To date (Month/Year). Row 5",
+    "type": 7,
+    "page": 8,
+    "rect": {
+      "x": 415.8970031738281,
+      "y": 684.4559936523438,
+      "width": 77.17999267578125,
+      "height": 13.0059814453125
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9637",
+    "name": "form1[0].Section10\\.1-10\\.2[0].Table1[0].Row5[0].Cell3[0]",
+    "label": "Estimate. Row 5",
+    "type": 2,
+    "page": 8,
+    "rect": {
+      "x": 374.8580017089844,
+      "y": 686.458984375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9635",
+    "name": "form1[0].Section10\\.1-10\\.2[0].Table1[0].Row5[0].Cell5[0]",
+    "label": "Estimate. Row 5",
+    "type": 2,
+    "page": 8,
+    "rect": {
+      "x": 498.9939880371094,
+      "y": 686.458984375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9634",
+    "name": "form1[0].Section10\\.1-10\\.2[0].Table1[0].Row5[0].#field[5]",
+    "label": "Present. Row 5",
+    "type": 2,
+    "page": 8,
+    "rect": {
+      "x": 534.093994140625,
+      "y": 686.458984375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9633",
+    "name": "form1[0].Section10\\.1-10\\.2[0].Table1[0].Row5[1].#field[0]",
+    "label": "Country. Row 6",
+    "type": 3,
+    "page": 8,
+    "rect": {
+      "x": 52.27899932861328,
+      "y": 700.2960205078125,
+      "width": 233.79100799560547,
+      "height": 13.0059814453125
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9632",
+    "name": "form1[0].Section10\\.1-10\\.2[0].Table1[0].Row5[1].#field[1]",
+    "label": "From date (Month/Year). Row 6",
+    "type": 7,
+    "page": 8,
+    "rect": {
+      "x": 288.90399169921875,
+      "y": 700.2960205078125,
+      "width": 84.156005859375,
+      "height": 13.0059814453125
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9630",
+    "name": "form1[0].Section10\\.1-10\\.2[0].Table1[0].Row5[1].#field[3]",
+    "label": "To date (Month/Year). Row 6",
+    "type": 7,
+    "page": 8,
+    "rect": {
+      "x": 415.8970031738281,
+      "y": 700.2960205078125,
+      "width": 77.17999267578125,
+      "height": 13.0059814453125
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9631",
+    "name": "form1[0].Section10\\.1-10\\.2[0].Table1[0].Row5[1].Cell3[0]",
+    "label": "Estimate. Row 6",
+    "type": 2,
+    "page": 8,
+    "rect": {
+      "x": 375.1969909667969,
+      "y": 702.2990112304688,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9629",
+    "name": "form1[0].Section10\\.1-10\\.2[0].Table1[0].Row5[1].Cell5[0]",
+    "label": "Estimate. Row 6",
+    "type": 2,
+    "page": 8,
+    "rect": {
+      "x": 498.8139953613281,
+      "y": 702.2990112304688,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9628",
+    "name": "form1[0].Section10\\.1-10\\.2[0].Table1[0].Row5[1].#field[5]",
+    "label": "Present. Row 6",
+    "type": 2,
+    "page": 8,
+    "rect": {
+      "x": 534.093994140625,
+      "y": 702.2990112304688,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  },
+  {
+    "id": "9627",
+    "name": "form1[0].Section10\\.1-10\\.2[0].SSN[0]",
+    "label": "Your Social Security Number will auto-fill based on answer provided in section 4.",
+    "type": 7,
+    "page": 8,
+    "rect": {
+      "x": 476.7279968261719,
+      "y": 739.0009765625,
+      "width": 115.51303100585938,
+      "height": 13.6710205078125
+    },
+    "section": "10",
+    "subsection": null,
+    "entry": 1
+  }
+]

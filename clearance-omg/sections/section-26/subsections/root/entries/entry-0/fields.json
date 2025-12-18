@@ -1,0 +1,162 @@
+[
+  {
+    "id": "15804",
+    "name": "form1[0].Section26[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 118,
+    "rect": {
+      "x": 452.8349914550781,
+      "y": 76.30401611328125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "15803",
+    "name": "form1[0].Section26[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 118,
+    "rect": {
+      "x": 491.4679870605469,
+      "y": 76.30401611328125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "15863",
+    "name": "form1[0].Section26_2[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 119,
+    "rect": {
+      "x": 452.8349914550781,
+      "y": 76.30401611328125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "15862",
+    "name": "form1[0].Section26_2[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 119,
+    "rect": {
+      "x": 491.0740051269531,
+      "y": 76.30401611328125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "15912",
+    "name": "form1[0].Section26_3[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 120,
+    "rect": {
+      "x": 452.8349914550781,
+      "y": 76.30401611328125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "15911",
+    "name": "form1[0].Section26_3[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 120,
+    "rect": {
+      "x": 491.0740051269531,
+      "y": 76.30401611328125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "15940",
+    "name": "form1[0].Section26_6[0].#area[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 121,
+    "rect": {
+      "x": 446.08599853515625,
+      "y": 78.55499267578125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "15939",
+    "name": "form1[0].Section26_6[0].#area[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 121,
+    "rect": {
+      "x": 484.67401123046875,
+      "y": 78.55499267578125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "15975",
+    "name": "form1[0].Section26_8[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 123,
+    "rect": {
+      "x": 434.718994140625,
+      "y": 76.30401611328125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "15974",
+    "name": "form1[0].Section26_8[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 123,
+    "rect": {
+      "x": 472.9700012207031,
+      "y": 76.30401611328125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": null
+  }
+]

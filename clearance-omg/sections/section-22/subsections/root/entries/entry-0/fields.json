@@ -1,0 +1,98 @@
+[
+  {
+    "id": "14873",
+    "name": "form1[0].Section22_1[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 98,
+    "rect": {
+      "x": 443.8349914550781,
+      "y": 116.30401611328125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "14925",
+    "name": "form1[0].Section22_1[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 98,
+    "rect": {
+      "x": 487.510009765625,
+      "y": 116.30401611328125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "15034",
+    "name": "form1[0].Section22_5[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 102,
+    "rect": {
+      "x": 443.8349914550781,
+      "y": 76.30401611328125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "15033",
+    "name": "form1[0].Section22_5[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 102,
+    "rect": {
+      "x": 485.7489929199219,
+      "y": 76.30401611328125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "15172",
+    "name": "form1[0].Section22_3_1[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 104,
+    "rect": {
+      "x": 425.8349914550781,
+      "y": 76.30401611328125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "15171",
+    "name": "form1[0].Section22_3_1[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 104,
+    "rect": {
+      "x": 467.7550048828125,
+      "y": 76.30401611328125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": null
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "page": 5,
+    "name": "form1[0].Sections1-6[0].School6_State[0]",
+    "label": "State",
+    "type": 3,
+    "rect": {
+      "x": 409.5010070800781,
+      "y": 221.301025390625,
+      "width": 36.878997802734375,
+      "height": 17.9429931640625
+    },
+    "section": "3",
+    "subsection": null,
+    "entry": null,
+    "id": "9443"
+  },
+  {
+    "page": 5,
+    "name": "form1[0].Sections1-6[0].TextField11[4]",
+    "label": "County",
+    "type": 7,
+    "rect": {
+      "x": 279.0,
+      "y": 221.635986328125,
+      "width": 122.5050048828125,
+      "height": 14.77301025390625
+    },
+    "section": "3",
+    "subsection": null,
+    "entry": null,
+    "id": "9445"
+  },
+  {
+    "page": 5,
+    "name": "form1[0].Sections1-6[0].TextField11[3]",
+    "label": "Section 3. Place of Birth. Provide your place of birth. City.",
+    "type": 7,
+    "rect": {
+      "x": 139.50100708007812,
+      "y": 222.6190185546875,
+      "width": 130.49899291992188,
+      "height": 13.78997802734375
+    },
+    "section": "3",
+    "subsection": null,
+    "entry": null,
+    "id": "9446"
+  },
+  {
+    "page": 5,
+    "name": "form1[0].Sections1-6[0].DropDownList1[0]",
+    "label": "Country (Required)",
+    "type": 3,
+    "rect": {
+      "x": 454.5010070800781,
+      "y": 222.6190185546875,
+      "width": 138.37600708007812,
+      "height": 13.78997802734375
+    },
+    "section": "3",
+    "subsection": null,
+    "entry": null,
+    "id": "9444"
+  }
+]

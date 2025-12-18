@@ -1,0 +1,242 @@
+[
+  {
+    "id": "13912",
+    "name": "form1[0].#subform[78].TextField11[140]",
+    "label": "First name",
+    "type": 7,
+    "page": 77,
+    "rect": {
+      "x": 229.50100708007812,
+      "y": 153.59002685546875,
+      "width": 157.37799072265625,
+      "height": 15.75
+    },
+    "section": "20",
+    "subsection": "20B.3",
+    "entry": 1
+  },
+  {
+    "id": "13915",
+    "name": "form1[0].#subform[78].suffix[15]",
+    "label": "Suffix",
+    "type": 3,
+    "page": 77,
+    "rect": {
+      "x": 524.8770141601562,
+      "y": 153.59002685546875,
+      "width": 69.0009765625,
+      "height": 15.75
+    },
+    "section": "20",
+    "subsection": "20B.3",
+    "entry": 1
+  },
+  {
+    "id": "13913",
+    "name": "form1[0].#subform[78].TextField11[139]",
+    "label": "Complete the following if you responded 'Yes' to any foreign national having in the past seven (7) years offered you a job, asked you to work as a consultant, or consider employment with them. Entry #1. Provide the name of the foreign national who made the offer. Last name",
+    "type": 7,
+    "page": 77,
+    "rect": {
+      "x": 36.0,
+      "y": 153.73199462890625,
+      "width": 189.0,
+      "height": 15.6080322265625
+    },
+    "section": "20",
+    "subsection": "20B.3",
+    "entry": 1
+  },
+  {
+    "id": "13914",
+    "name": "form1[0].#subform[78].TextField11[138]",
+    "label": "Middle name",
+    "type": 7,
+    "page": 77,
+    "rect": {
+      "x": 391.87799072265625,
+      "y": 154.35498046875,
+      "width": 128.00103759765625,
+      "height": 14.98504638671875
+    },
+    "section": "20",
+    "subsection": "20B.3",
+    "entry": 1
+  },
+  {
+    "id": "13911",
+    "name": "form1[0].#subform[78].TextField11[141]",
+    "label": "Provide a description of the position offered.",
+    "type": 7,
+    "page": 77,
+    "rect": {
+      "x": 36.0,
+      "y": 181.64202880859375,
+      "width": 189.0,
+      "height": 27.02197265625
+    },
+    "section": "20",
+    "subsection": "20B.3",
+    "entry": 1
+  },
+  {
+    "id": "13901",
+    "name": "form1[0].#subform[78].TextField11[145]",
+    "label": "If \"yes,\" explanation",
+    "type": 7,
+    "page": 77,
+    "rect": {
+      "x": 456.59100341796875,
+      "y": 183.6710205078125,
+      "width": 137.40899658203125,
+      "height": 14.77099609375
+    },
+    "section": "20",
+    "subsection": "20B.3",
+    "entry": 1
+  },
+  {
+    "id": "13908",
+    "name": "form1[0].#subform[78].RadioButtonList[26]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 77,
+    "rect": {
+      "x": 371.8349914550781,
+      "y": 186.55499267578125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20B.3",
+    "entry": 1
+  },
+  {
+    "id": "13909",
+    "name": "form1[0].#subform[78].From_Datefield_Name_2[25]",
+    "label": "Provide the date when this offer was extended. (Month/Year)",
+    "type": 7,
+    "page": 77,
+    "rect": {
+      "x": 229.50100708007812,
+      "y": 193.8189697265625,
+      "width": 94.49899291992188,
+      "height": 17.6800537109375
+    },
+    "section": "20",
+    "subsection": "20B.3",
+    "entry": 1
+  },
+  {
+    "id": "13906",
+    "name": "form1[0].#subform[78].TextField11[142]",
+    "label": "If \"no,\" explanation",
+    "type": 7,
+    "page": 77,
+    "rect": {
+      "x": 456.59100341796875,
+      "y": 196.61700439453125,
+      "width": 137.40899658203125,
+      "height": 14.77099609375
+    },
+    "section": "20",
+    "subsection": "20B.3",
+    "entry": 1
+  },
+  {
+    "id": "13910",
+    "name": "form1[0].#subform[78].#field[335]",
+    "label": "Estimate",
+    "type": 2,
+    "page": 77,
+    "rect": {
+      "x": 330.5010070800781,
+      "y": 199.5009765625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20B.3",
+    "entry": 1
+  },
+  {
+    "id": "13907",
+    "name": "form1[0].#subform[78].RadioButtonList[26]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 77,
+    "rect": {
+      "x": 371.8349914550781,
+      "y": 199.5009765625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20B.3",
+    "entry": 1
+  },
+  {
+    "id": "13905",
+    "name": "form1[0].#subform[78].#area[22].TextField11[143]",
+    "label": "Provide location of where this occurred. (Provide City and Country if outside the United States; otherwise, provide City, State and Zip Code.) City",
+    "type": 7,
+    "page": 77,
+    "rect": {
+      "x": 35.887001037597656,
+      "y": 233.218017578125,
+      "width": 139.5300064086914,
+      "height": 14.82696533203125
+    },
+    "section": "20",
+    "subsection": "20B.3",
+    "entry": 1
+  },
+  {
+    "id": "13903",
+    "name": "form1[0].#subform[78].#area[22].DropDownList25[1]",
+    "label": "Country",
+    "type": 3,
+    "page": 77,
+    "rect": {
+      "x": 303.30999755859375,
+      "y": 233.218017578125,
+      "width": 149.00299072265625,
+      "height": 14.82696533203125
+    },
+    "section": "20",
+    "subsection": "20B.3",
+    "entry": 1
+  },
+  {
+    "id": "13904",
+    "name": "form1[0].#subform[78].#area[22].School6_State[11]",
+    "label": "State",
+    "type": 3,
+    "page": 77,
+    "rect": {
+      "x": 184.41600036621094,
+      "y": 233.3599853515625,
+      "width": 40.50999450683594,
+      "height": 17.52001953125
+    },
+    "section": "20",
+    "subsection": "20B.3",
+    "entry": 1
+  },
+  {
+    "id": "13902",
+    "name": "form1[0].#subform[78].#area[22].TextField11[144]",
+    "label": "Zip Code",
+    "type": 7,
+    "page": 77,
+    "rect": {
+      "x": 233.1439971923828,
+      "y": 233.98297119140625,
+      "width": 66.01301574707031,
+      "height": 14.06201171875
+    },
+    "section": "20",
+    "subsection": "20B.3",
+    "entry": 1
+  }
+]

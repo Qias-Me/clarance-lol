@@ -1,0 +1,386 @@
+[
+  {
+    "page": 124,
+    "name": "form1[0].Section26_9[0].TextField11[5]",
+    "label": "Complete the following if you answered 'Yes' to having experienced one or more of the previously stated financial issues. Entry #2. Provide the name of agency/organization/individual to which debt is/was owed.",
+    "type": 7,
+    "rect": {
+      "x": 36.0,
+      "y": 113.39501953125,
+      "width": 558.0,
+      "height": 17.60797119140625
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 2,
+    "id": "16002"
+  },
+  {
+    "page": 124,
+    "name": "form1[0].Section26_9[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 430.33599853515625,
+      "y": 136.30499267578125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 2,
+    "id": "16012"
+  },
+  {
+    "page": 124,
+    "name": "form1[0].Section26_9[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 468.5870056152344,
+      "y": 136.30499267578125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 2,
+    "id": "16011"
+  },
+  {
+    "page": 124,
+    "name": "form1[0].Section26_9[0].#field[6]",
+    "label": "In the last seven (7) years, you had any possessions or property voluntarily or involuntarily repossessed or foreclosed? (Include financial obligations for which you were the sole debtor, as well as those for which you were a cosigner or guarantor).",
+    "type": 2,
+    "rect": {
+      "x": 38.0,
+      "y": 156.7550048828125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 2,
+    "id": "16010"
+  },
+  {
+    "page": 124,
+    "name": "form1[0].Section26_9[0].#field[7]",
+    "label": "In the last seven (7) years, you defaulted on any type of loan? (Include financial obligations for which you were the sole debtor, as well as those for which you were a cosigner or guarantor).",
+    "type": 2,
+    "rect": {
+      "x": 38.000999450683594,
+      "y": 181.5040283203125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 2,
+    "id": "16009"
+  },
+  {
+    "page": 124,
+    "name": "form1[0].Section26_9[0].#field[20]",
+    "label": "In the last seven (7) years, you had bills or debts turned over to a collection agency? (Include financial obligations for which you were the sole debtor, as well as those for which you were a cosigner or guarantor).",
+    "type": 2,
+    "rect": {
+      "x": 38.000999450683594,
+      "y": 206.06597900390625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 2,
+    "id": "15996"
+  },
+  {
+    "page": 124,
+    "name": "form1[0].Section26_9[0].#field[21]",
+    "label": "In the last seven (7) years, you had any account or credit card suspended, charged off, or cancelled for failing to pay as agreed? (Include financial obligations for which you were the sole debtor, as well as those for which you were a cosigner or guarantor). ",
+    "type": 2,
+    "rect": {
+      "x": 38.0,
+      "y": 231.00201416015625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 2,
+    "id": "15995"
+  },
+  {
+    "page": 124,
+    "name": "form1[0].Section26_9[0].#field[22]",
+    "label": "In the last seven (7) years, you were evicted for non-payment?",
+    "type": 2,
+    "rect": {
+      "x": 38.000999450683594,
+      "y": 254.90997314453125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 2,
+    "id": "15994"
+  },
+  {
+    "page": 124,
+    "name": "form1[0].Section26_9[0].#field[11]",
+    "label": "In the last seven (7) years, you had wages, benefits, or assets garnished or attached for any reason?",
+    "type": 2,
+    "rect": {
+      "x": 38.000999450683594,
+      "y": 272.906982421875,
+      "width": 9.0,
+      "height": 9.000030517578125
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 2,
+    "id": "16005"
+  },
+  {
+    "page": 124,
+    "name": "form1[0].Section26_9[0].#field[12]",
+    "label": "In the last seven (7) years, you were over 120 days delinquent on any debt not previously entered? (Include financial obligations for which you were the sole debtor, as well as those for which you were a cosigner or guarantor).",
+    "type": 2,
+    "rect": {
+      "x": 38.000999450683594,
+      "y": 289.5010070800781,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 2,
+    "id": "16004"
+  },
+  {
+    "page": 124,
+    "name": "form1[0].Section26_9[0].#field[13]",
+    "label": "You are currently over 120 days delinquent on any debt? (Include financial obligations for which you are the sole debtor, as well as those for which you are a cosigner or guarantor).",
+    "type": 2,
+    "rect": {
+      "x": 38.000999450683594,
+      "y": 314.25,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 2,
+    "id": "16003"
+  },
+  {
+    "page": 124,
+    "name": "form1[0].Section26_9[0].TextField11[1]",
+    "label": "Provide the associated loan/account number(s) involved.",
+    "type": 7,
+    "rect": {
+      "x": 36.0,
+      "y": 347.3949890136719,
+      "width": 202.50100708007812,
+      "height": 17.608001708984375
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 2,
+    "id": "16015"
+  },
+  {
+    "page": 124,
+    "name": "form1[0].Section26_9[0].TextField11[2]",
+    "label": "Identify/describe the type of property involved (if any).",
+    "type": 7,
+    "rect": {
+      "x": 247.50100708007812,
+      "y": 347.3949890136719,
+      "width": 346.4989929199219,
+      "height": 17.608001708984375
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 2,
+    "id": "16008"
+  },
+  {
+    "page": 124,
+    "name": "form1[0].Section26_9[0].NumericField2[0]",
+    "label": "Provide the amount (in U.S. dollars) of the financial issue.",
+    "type": 7,
+    "rect": {
+      "x": 36.0,
+      "y": 376.5679931640625,
+      "width": 139.50100708007812,
+      "height": 17.683013916015625
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 2,
+    "id": "16013"
+  },
+  {
+    "page": 124,
+    "name": "form1[0].Section26_9[0].TextField11[3]",
+    "label": "Provide the reason(s) for the financial issue.",
+    "type": 7,
+    "rect": {
+      "x": 247.50100708007812,
+      "y": 376.64300537109375,
+      "width": 162.0,
+      "height": 17.608001708984375
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 2,
+    "id": "16007"
+  },
+  {
+    "page": 124,
+    "name": "form1[0].Section26_9[0].TextField11[4]",
+    "label": "Provide the current status of the financial issue.",
+    "type": 7,
+    "rect": {
+      "x": 418.4989929199219,
+      "y": 376.64300537109375,
+      "width": 175.50100708007812,
+      "height": 17.608001708984375
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 2,
+    "id": "16006"
+  },
+  {
+    "page": 124,
+    "name": "form1[0].Section26_9[0].#field[4]",
+    "label": "Estimate.",
+    "type": 2,
+    "rect": {
+      "x": 211.25100708007812,
+      "y": 380.99798583984375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 2,
+    "id": "16014"
+  },
+  {
+    "page": 124,
+    "name": "form1[0].Section26_9[0].#field[19]",
+    "label": "Not Resolved",
+    "type": 2,
+    "rect": {
+      "x": 503.74798583984375,
+      "y": 399.75201416015625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 2,
+    "id": "15997"
+  },
+  {
+    "page": 124,
+    "name": "form1[0].Section26_9[0].From_Datefield_Name_2[0]",
+    "label": "Provide the date the financial issue began. (Month/Year)",
+    "type": 7,
+    "rect": {
+      "x": 36.0,
+      "y": 405.8240051269531,
+      "width": 202.50100708007812,
+      "height": 18.678009033203125
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 2,
+    "id": "16001"
+  },
+  {
+    "page": 124,
+    "name": "form1[0].Section26_9[0].From_Datefield_Name_2[1]",
+    "label": "Provide date the financial issue was resolved. (Month/Year)",
+    "type": 7,
+    "rect": {
+      "x": 285.7489929199219,
+      "y": 405.8240051269531,
+      "width": 209.25100708007812,
+      "height": 18.678009033203125
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 2,
+    "id": "15999"
+  },
+  {
+    "page": 124,
+    "name": "form1[0].Section26_9[0].#field[16]",
+    "label": "Estimate.",
+    "type": 2,
+    "rect": {
+      "x": 249.49899291992188,
+      "y": 409.53399658203125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 2,
+    "id": "16000"
+  },
+  {
+    "page": 124,
+    "name": "form1[0].Section26_9[0].#field[18]",
+    "label": "Estimate.",
+    "type": 2,
+    "rect": {
+      "x": 503.7489929199219,
+      "y": 412.3009948730469,
+      "width": 9.000030517578125,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 2,
+    "id": "15998"
+  },
+  {
+    "page": 124,
+    "name": "form1[0].Section26_9[0].TextField11[0]",
+    "label": "Provide a description of any action(s) you have taken to satisfy this debt (such as withholdings, frequency and amount of payments, etc.). If you have not taken any action(s), provide explanation.",
+    "type": 7,
+    "rect": {
+      "x": 36.0,
+      "y": 447.2250061035156,
+      "width": 558.0,
+      "height": 16.746002197265625
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 2,
+    "id": "16016"
+  },
+  {
+    "page": 124,
+    "name": "form1[0].Section26_9[0].SSN[0]",
+    "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+    "type": 7,
+    "rect": {
+      "x": 476.7279968261719,
+      "y": 739.0009765625,
+      "width": 115.51303100585938,
+      "height": 13.6710205078125
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 2,
+    "id": "16017"
+  }
+]

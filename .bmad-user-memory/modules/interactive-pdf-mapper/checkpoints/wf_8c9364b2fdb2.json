@@ -1,0 +1,25 @@
+{
+  "workflowId": "wf_8c9364b2fdb2",
+  "documentPath": "C:\\Users\\TJ\\Desktop\\clarance-lol\\samples\\test-pdfs\\clean.pdf",
+  "documentHash": "216ec7747acaa4c6f75f0dff8223d883",
+  "currentPhase": "error",
+  "phaseHistory": [
+    {
+      "phase": "loading",
+      "startedAt": "2025-12-14T11:13:11.361741",
+      "completedAt": "2025-12-14T11:13:11.421391",
+      "progressPercent": 66.66666666666666,
+      "itemsTotal": 3,
+      "itemsCompleted": 2,
+      "errorMessage": "RenderOptions.__init__() got an unexpected keyword argument 'zoom'"
+    }
+  ],
+  "pages": [],
+  "detectedFields": [],
+  "validatedFields": [],
+  "retryPool": [],
+  "outputPaths": {},
+  "startedAt": "2025-12-14T11:13:11.299998",
+  "updatedAt": "2025-12-14T11:13:11.421395",
+  "error": "RenderOptions.__init__() got an unexpected keyword argument 'zoom'"
+}

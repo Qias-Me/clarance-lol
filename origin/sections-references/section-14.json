@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "sectionId": 14,
+        "sectionName": "Selective Service",
+        "totalFields": 5,
+        "pageRange": [
+            34,
+            34
+        ]
+    },
+    "fields": [
+        {
+            "id": "17089 0 R",
+            "name": "form1[0].Section14_1[0].#area[0].RadioButtonList[0]",
+            "value": "No",
+            "page": 34,
+            "label": "RadioButtonList",
+            "type": "PDFRadioGroup",
+            "maxLength": 0,
+            "options": [
+                "Yes",
+                "No",
+                "1"
+            ],
+            "rect": {
+                "x": 38,
+                "y": 662.02,
+                "width": 9,
+                "height": 9
+            },
+            "section": 14
+        },
+        {
+            "id": "11407 0 R",
+            "name": "form1[0].Section14_1[0].TextField11[0]",
+            "value": "Hello",
+            "page": 34,
+            "label": "If yes. provide registration number",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 223.97,
+                "y": 661.69,
+                "width": 113.41,
+                "height": 15.56
+            },
+            "section": 14
+        },
+        {
+            "id": "11406 0 R",
+            "name": "form1[0].Section14_1[0].TextField11[1]",
+            "value": "hello1",
+            "page": 34,
+            "label": "If no. Provide explanation",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 204.01,
+                "y": 643.69,
+                "width": 389.87,
+                "height": 15.56
+            },
+            "section": 14
+        },
+        {
+            "id": "11405 0 R",
+            "name": "form1[0].Section14_1[0].TextField11[2]",
+            "value": "HELLO@",
+            "page": 34,
+            "label": "If I don't know selected, provide explanation",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 204.01,
+                "y": 625.69,
+                "width": 389.87,
+                "height": 15.56
+            },
+            "section": 14
+        },
+        {
+            "id": "17077 0 R",
+            "name": "form1[0].Section14_1[0].#area[17].RadioButtonList[10]",
+            "value": "NO ",
+            "page": 34,
+            "label": "RadioButtonList",
+            "type": "PDFRadioGroup",
+            "maxLength": 0,
+            "options": [
+                "YES",
+                "NO "
+            ],
+            "rect": {
+                "x": 38.71,
+                "y": 195.08,
+                "width": 9,
+                "height": 9
+            },
+            "section": 14
+        }
+    ],
+    "statistics": {
+        "fieldTypes": {
+            "PDFRadioGroup": 2,
+            "PDFTextField": 3
+        },
+        "confidenceDistribution": {
+            "high": 5,
+            "medium": 0,
+            "low": 0
+        }
+    }
+}

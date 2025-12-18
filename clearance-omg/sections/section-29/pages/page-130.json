@@ -1,0 +1,562 @@
+[
+  {
+    "page": 130,
+    "name": "form1[0].Section29_3[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 452.8349914550781,
+      "y": 76.30401611328125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "29",
+    "subsection": null,
+    "entry": null,
+    "id": "16202"
+  },
+  {
+    "page": 130,
+    "name": "form1[0].Section29_3[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 491.4679870605469,
+      "y": 76.30401611328125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "29",
+    "subsection": null,
+    "entry": null,
+    "id": "16201"
+  },
+  {
+    "page": 130,
+    "name": "form1[0].Section29_3[0].TextField11[1]",
+    "label": "Complete the following if you responded 'Yes' to having EVER been a member of an organization dedicated to the use of violence or force to overthrow the United States Government, and which engaged in activities to that end with an awareness of the organization's dedication to that end or with the specific intent to further such activities. Entry #1. Provide the full name of the organization",
+    "type": 7,
+    "rect": {
+      "x": 35.810001373291016,
+      "y": 165.73699951171875,
+      "width": 557.9459800720215,
+      "height": 17.60797119140625
+    },
+    "section": "29",
+    "subsection": null,
+    "entry": 1,
+    "id": "16199"
+  },
+  {
+    "page": 130,
+    "name": "form1[0].Section29_3[0].#area[1].TextField11[5]",
+    "label": "City",
+    "type": 7,
+    "rect": {
+      "x": 211.50100708007812,
+      "y": 202.88201904296875,
+      "width": 110.8800048828125,
+      "height": 14.91497802734375
+    },
+    "section": "29",
+    "subsection": null,
+    "entry": 1,
+    "id": "16193"
+  },
+  {
+    "page": 130,
+    "name": "form1[0].Section29_3[0].#area[1].DropDownList4[0]",
+    "label": "Country",
+    "type": 3,
+    "rect": {
+      "x": 450.8760070800781,
+      "y": 202.88201904296875,
+      "width": 142.00198364257812,
+      "height": 14.91497802734375
+    },
+    "section": "29",
+    "subsection": null,
+    "entry": 1,
+    "id": "16191"
+  },
+  {
+    "page": 130,
+    "name": "form1[0].Section29_3[0].#area[1].TextField11[4]",
+    "label": "Provide the address/location of the organization. (Provide City and Country if outside the United States; otherwise, provide City, State and Zip Code). Street",
+    "type": 7,
+    "rect": {
+      "x": 36.0,
+      "y": 203.02398681640625,
+      "width": 171.0,
+      "height": 14.77301025390625
+    },
+    "section": "29",
+    "subsection": null,
+    "entry": 1,
+    "id": "16194"
+  },
+  {
+    "page": 130,
+    "name": "form1[0].Section29_3[0].#area[1].School6_State[0]",
+    "label": "State",
+    "type": 3,
+    "rect": {
+      "x": 329.0400085449219,
+      "y": 203.02398681640625,
+      "width": 45.49798583984375,
+      "height": 17.6080322265625
+    },
+    "section": "29",
+    "subsection": null,
+    "entry": 1,
+    "id": "16192"
+  },
+  {
+    "page": 130,
+    "name": "form1[0].Section29_3[0].#area[1].TextField11[6]",
+    "label": "Zip Code",
+    "type": 7,
+    "rect": {
+      "x": 380.72698974609375,
+      "y": 203.64697265625,
+      "width": 65.9990234375,
+      "height": 14.1500244140625
+    },
+    "section": "29",
+    "subsection": null,
+    "entry": 1,
+    "id": "16190"
+  },
+  {
+    "page": 130,
+    "name": "form1[0].Section29_3[0].#field[6]",
+    "label": "Provide all positions held in the organization, if any. No positions held",
+    "type": 2,
+    "rect": {
+      "x": 488.0010070800781,
+      "y": 224.0009765625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "29",
+    "subsection": null,
+    "entry": 1,
+    "id": "16196"
+  },
+  {
+    "page": 130,
+    "name": "form1[0].Section29_3[0].TextField11[0]",
+    "label": "Provide all positions held in the organization, if any.",
+    "type": 7,
+    "rect": {
+      "x": 283.5010070800781,
+      "y": 235.40899658203125,
+      "width": 310.4989929199219,
+      "height": 23.59197998046875
+    },
+    "section": "29",
+    "subsection": null,
+    "entry": 1,
+    "id": "16200"
+  },
+  {
+    "page": 130,
+    "name": "form1[0].Section29_3[0].#field[13]",
+    "label": "Present",
+    "type": 2,
+    "rect": {
+      "x": 233.75100708007812,
+      "y": 236.51898193359375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "29",
+    "subsection": null,
+    "entry": 1,
+    "id": "16189"
+  },
+  {
+    "page": 130,
+    "name": "form1[0].Section29_3[0].From_Datefield_Name_2[0]",
+    "label": "Provide the dates of your involvement with the organization. From Date (Month/Year)",
+    "type": 7,
+    "rect": {
+      "x": 36.0,
+      "y": 243.0670166015625,
+      "width": 83.2509994506836,
+      "height": 17.73095703125
+    },
+    "section": "29",
+    "subsection": null,
+    "entry": 1,
+    "id": "16188"
+  },
+  {
+    "page": 130,
+    "name": "form1[0].Section29_3[0].From_Datefield_Name_2[1]",
+    "label": "To Date (Month/Year)",
+    "type": 7,
+    "rect": {
+      "x": 157.49899291992188,
+      "y": 243.0670166015625,
+      "width": 74.25100708007812,
+      "height": 17.73095703125
+    },
+    "section": "29",
+    "subsection": null,
+    "entry": 1,
+    "id": "16186"
+  },
+  {
+    "page": 130,
+    "name": "form1[0].Section29_3[0].#field[15]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 121.25,
+      "y": 248.27398681640625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "29",
+    "subsection": null,
+    "entry": 1,
+    "id": "16187"
+  },
+  {
+    "page": 130,
+    "name": "form1[0].Section29_3[0].#field[17]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 233.79600524902344,
+      "y": 249.280029296875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "29",
+    "subsection": null,
+    "entry": 1,
+    "id": "16185"
+  },
+  {
+    "page": 130,
+    "name": "form1[0].Section29_3[0].#field[7]",
+    "label": "Provide all contributions made to the organization, if any. No contributions made",
+    "type": 2,
+    "rect": {
+      "x": 182.0019989013672,
+      "y": 265.62799072265625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "29",
+    "subsection": null,
+    "entry": 1,
+    "id": "16195"
+  },
+  {
+    "page": 130,
+    "name": "form1[0].Section29_3[0].TextField11[2]",
+    "label": "Provide all contributions made to the organization, if any.",
+    "type": 7,
+    "rect": {
+      "x": 36.0,
+      "y": 283.7090148925781,
+      "width": 238.50100708007812,
+      "height": 16.207977294921875
+    },
+    "section": "29",
+    "subsection": null,
+    "entry": 1,
+    "id": "16198"
+  },
+  {
+    "page": 130,
+    "name": "form1[0].Section29_3[0].TextField11[3]",
+    "label": "Provide a description of the nature of and reasons for your involvement with the organization.",
+    "type": 7,
+    "rect": {
+      "x": 283.4960021972656,
+      "y": 284.9100036621094,
+      "width": 310.5039978027344,
+      "height": 15.006988525390625
+    },
+    "section": "29",
+    "subsection": null,
+    "entry": 1,
+    "id": "16197"
+  },
+  {
+    "page": 130,
+    "name": "form1[0].Section29_3[0].TextField11[8]",
+    "label": "Entry #2. Provide the full name of the organization",
+    "type": 7,
+    "rect": {
+      "x": 36.0,
+      "y": 325.4859924316406,
+      "width": 557.9459838867188,
+      "height": 17.608001708984375
+    },
+    "section": "29",
+    "subsection": null,
+    "entry": 2,
+    "id": "16183"
+  },
+  {
+    "page": 130,
+    "name": "form1[0].Section29_3[0].#area[3].TextField11[12]",
+    "label": "City",
+    "type": 7,
+    "rect": {
+      "x": 211.50100708007812,
+      "y": 362.6310119628906,
+      "width": 110.8800048828125,
+      "height": 14.91497802734375
+    },
+    "section": "29",
+    "subsection": null,
+    "entry": 2,
+    "id": "16177"
+  },
+  {
+    "page": 130,
+    "name": "form1[0].Section29_3[0].#area[3].DropDownList3[0]",
+    "label": "Country",
+    "type": 3,
+    "rect": {
+      "x": 450.8760070800781,
+      "y": 362.6310119628906,
+      "width": 142.00198364257812,
+      "height": 14.91497802734375
+    },
+    "section": "29",
+    "subsection": null,
+    "entry": 2,
+    "id": "16175"
+  },
+  {
+    "page": 130,
+    "name": "form1[0].Section29_3[0].#area[3].TextField11[11]",
+    "label": "Provide the address/location of the organization. (Provide City and Country if outside the United States; otherwise, provide City, State and Zip Code). Street",
+    "type": 7,
+    "rect": {
+      "x": 36.0,
+      "y": 362.77301025390625,
+      "width": 171.0,
+      "height": 14.772979736328125
+    },
+    "section": "29",
+    "subsection": null,
+    "entry": 2,
+    "id": "16178"
+  },
+  {
+    "page": 130,
+    "name": "form1[0].Section29_3[0].#area[3].School6_State[1]",
+    "label": "State",
+    "type": 3,
+    "rect": {
+      "x": 329.0400085449219,
+      "y": 362.77301025390625,
+      "width": 45.49798583984375,
+      "height": 17.608001708984375
+    },
+    "section": "29",
+    "subsection": null,
+    "entry": 2,
+    "id": "16176"
+  },
+  {
+    "page": 130,
+    "name": "form1[0].Section29_3[0].#area[3].TextField11[13]",
+    "label": "Zip Code",
+    "type": 7,
+    "rect": {
+      "x": 380.72698974609375,
+      "y": 363.39599609375,
+      "width": 65.9990234375,
+      "height": 14.149993896484375
+    },
+    "section": "29",
+    "subsection": null,
+    "entry": 2,
+    "id": "16174"
+  },
+  {
+    "page": 130,
+    "name": "form1[0].Section29_3[0].#field[22]",
+    "label": "Provide all positions held in the organization, if any. No positions held",
+    "type": 2,
+    "rect": {
+      "x": 488.1910095214844,
+      "y": 383.75,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "29",
+    "subsection": null,
+    "entry": 2,
+    "id": "16180"
+  },
+  {
+    "page": 130,
+    "name": "form1[0].Section29_3[0].TextField11[7]",
+    "label": "Provide all positions held in the organization, if any.",
+    "type": 7,
+    "rect": {
+      "x": 283.5010070800781,
+      "y": 395.1579895019531,
+      "width": 310.4989929199219,
+      "height": 23.592010498046875
+    },
+    "section": "29",
+    "subsection": null,
+    "entry": 2,
+    "id": "16184"
+  },
+  {
+    "page": 130,
+    "name": "form1[0].Section29_3[0].#field[29]",
+    "label": "Present",
+    "type": 2,
+    "rect": {
+      "x": 233.99200439453125,
+      "y": 396.26800537109375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "29",
+    "subsection": null,
+    "entry": 2,
+    "id": "16173"
+  },
+  {
+    "page": 130,
+    "name": "form1[0].Section29_3[0].From_Datefield_Name_2[2]",
+    "label": "Provide the dates of your involvement with the organization. From Date (Month/Year)",
+    "type": 7,
+    "rect": {
+      "x": 36.189998626708984,
+      "y": 402.8169860839844,
+      "width": 83.25100326538086,
+      "height": 17.73101806640625
+    },
+    "section": "29",
+    "subsection": null,
+    "entry": 2,
+    "id": "16172"
+  },
+  {
+    "page": 130,
+    "name": "form1[0].Section29_3[0].From_Datefield_Name_2[3]",
+    "label": "To Date (Month/Year)",
+    "type": 7,
+    "rect": {
+      "x": 157.68899536132812,
+      "y": 402.8169860839844,
+      "width": 74.06100463867188,
+      "height": 17.73101806640625
+    },
+    "section": "29",
+    "subsection": null,
+    "entry": 2,
+    "id": "16170"
+  },
+  {
+    "page": 130,
+    "name": "form1[0].Section29_3[0].#field[31]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 121.44000244140625,
+      "y": 408.02301025390625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "29",
+    "subsection": null,
+    "entry": 2,
+    "id": "16171"
+  },
+  {
+    "page": 130,
+    "name": "form1[0].Section29_3[0].#field[33]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 233.98599243164062,
+      "y": 409.02899169921875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "29",
+    "subsection": null,
+    "entry": 2,
+    "id": "16169"
+  },
+  {
+    "page": 130,
+    "name": "form1[0].Section29_3[0].#field[23]",
+    "label": "Provide all contributions made to the organization, if any. No contributions made",
+    "type": 2,
+    "rect": {
+      "x": 182.19200134277344,
+      "y": 425.37701416015625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "29",
+    "subsection": null,
+    "entry": 2,
+    "id": "16179"
+  },
+  {
+    "page": 130,
+    "name": "form1[0].Section29_3[0].TextField11[9]",
+    "label": "Provide all contributions made to the organization, if any.",
+    "type": 7,
+    "rect": {
+      "x": 36.189998626708984,
+      "y": 443.4580078125,
+      "width": 238.5010108947754,
+      "height": 16.207977294921875
+    },
+    "section": "29",
+    "subsection": null,
+    "entry": 2,
+    "id": "16182"
+  },
+  {
+    "page": 130,
+    "name": "form1[0].Section29_3[0].TextField11[10]",
+    "label": "Provide a description of the nature of and reasons for your involvement with the organization.",
+    "type": 7,
+    "rect": {
+      "x": 283.4960021972656,
+      "y": 444.65899658203125,
+      "width": 310.5039978027344,
+      "height": 15.006988525390625
+    },
+    "section": "29",
+    "subsection": null,
+    "entry": 2,
+    "id": "16181"
+  },
+  {
+    "page": 130,
+    "name": "form1[0].Section29_3[0].SSN[0]",
+    "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+    "type": 7,
+    "rect": {
+      "x": 476.7279968261719,
+      "y": 739.0009765625,
+      "width": 115.51303100585938,
+      "height": 13.6710205078125
+    },
+    "section": "29",
+    "subsection": null,
+    "entry": 2,
+    "id": "16203"
+  }
+]

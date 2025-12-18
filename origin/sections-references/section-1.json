@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "sectionId": 1,
+        "sectionName": "Full Name",
+        "totalFields": 4,
+        "pageRange": [
+            5,
+            5
+        ]
+    },
+    "fields": [
+        {
+            "id": "9449 0 R",
+            "name": "form1[0].Sections1-6[0].TextField11[0]",
+            "value": "Sect1FirstName",
+            "page": 5,
+            "label": "Section 1. Full Name. Provide your full name. If you have only initials in your name, provide them and indicate \"Initial only\". If you do not have a middle name, indicate \"No Middle Name\". If you are a \"Jr.,\" \"Sr.,\" etc. enter this under Suffix. Last Name.\r",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 27,
+                "y": 609.09,
+                "width": 176.88,
+                "height": 14.77
+            },
+            "section": 1
+        },
+        {
+            "id": "9448 0 R",
+            "name": "form1[0].Sections1-6[0].TextField11[1]",
+            "value": "Sect1FirstName",
+            "page": 5,
+            "label": "First name",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 212,
+                "y": 609.09,
+                "width": 172,
+                "height": 14.92
+            },
+            "section": 1
+        },
+        {
+            "id": "9447 0 R",
+            "name": "form1[0].Sections1-6[0].TextField11[2]",
+            "value": "Sect1MiddleName",
+            "page": 5,
+            "label": "Middle name",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 392,
+                "y": 609.09,
+                "width": 128,
+                "height": 14.15
+            },
+            "section": 1
+        },
+        {
+            "id": "9435 0 R",
+            "name": "form1[0].Sections1-6[0].suffix[0]",
+            "value": [
+                "Sect1Sufix"
+            ],
+            "page": 5,
+            "label": "Suffix",
+            "type": "PDFDropdown",
+            "maxLength": 0,
+            "options": [
+                "Jr",
+                "Sr",
+                "II",
+                "III",
+                "IV",
+                "V",
+                "VI",
+                "VII",
+                "VIII",
+                "IX",
+                "X",
+                "Other"
+            ],
+            "rect": {
+                "x": 525,
+                "y": 606.25,
+                "width": 69,
+                "height": 17.75
+            },
+            "section": 1
+        }
+    ],
+    "statistics": {
+        "fieldTypes": {
+            "PDFTextField": 3,
+            "PDFDropdown": 1
+        },
+        "confidenceDistribution": {
+            "high": 0,
+            "medium": 0,
+            "low": 4
+        }
+    }
+}

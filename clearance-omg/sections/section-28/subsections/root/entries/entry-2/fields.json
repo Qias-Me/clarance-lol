@@ -1,0 +1,194 @@
+[
+  {
+    "id": "16085",
+    "name": "form1[0].Section28[0].From_Datefield_Name_2[1]",
+    "label": "Entry #2. Provide the date of the civil action (Month/Year)",
+    "type": 7,
+    "page": 127,
+    "rect": {
+      "x": 36.0,
+      "y": 264.6619873046875,
+      "width": 121.62300109863281,
+      "height": 17.680023193359375
+    },
+    "section": "28",
+    "subsection": null,
+    "entry": 2
+  },
+  {
+    "id": "16084",
+    "name": "form1[0].Section28[0].TextField11[8]",
+    "label": "Provide the court name.",
+    "type": 7,
+    "page": 127,
+    "rect": {
+      "x": 222.3470001220703,
+      "y": 264.7340087890625,
+      "width": 370.1539764404297,
+      "height": 17.608001708984375
+    },
+    "section": "28",
+    "subsection": null,
+    "entry": 2
+  },
+  {
+    "id": "16101",
+    "name": "form1[0].Section28[0].#field[23]",
+    "label": "Estimate",
+    "type": 2,
+    "page": 127,
+    "rect": {
+      "x": 186.6199951171875,
+      "y": 269.25,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "28",
+    "subsection": null,
+    "entry": 2
+  },
+  {
+    "id": "16080",
+    "name": "form1[0].Section28[0].TextField11[12]",
+    "label": "City",
+    "type": 7,
+    "page": 127,
+    "rect": {
+      "x": 211.50100708007812,
+      "y": 302.8789978027344,
+      "width": 110.8800048828125,
+      "height": 14.915008544921875
+    },
+    "section": "28",
+    "subsection": null,
+    "entry": 2
+  },
+  {
+    "id": "16103",
+    "name": "form1[0].Section28[0].DropDownList7[0]",
+    "label": "Country",
+    "type": 3,
+    "page": 127,
+    "rect": {
+      "x": 450.8760070800781,
+      "y": 302.8789978027344,
+      "width": 142.00198364257812,
+      "height": 14.915008544921875
+    },
+    "section": "28",
+    "subsection": null,
+    "entry": 2
+  },
+  {
+    "id": "16081",
+    "name": "form1[0].Section28[0].TextField11[11]",
+    "label": "Provide the address of the court. (Provide City and Country if outside the United States; otherwise, provide City, State and Zip Code). Street",
+    "type": 7,
+    "page": 127,
+    "rect": {
+      "x": 36.0,
+      "y": 303.02099609375,
+      "width": 171.0,
+      "height": 14.77301025390625
+    },
+    "section": "28",
+    "subsection": null,
+    "entry": 2
+  },
+  {
+    "id": "16104",
+    "name": "form1[0].Section28[0].School6_State[1]",
+    "label": "State",
+    "type": 3,
+    "page": 127,
+    "rect": {
+      "x": 329.0400085449219,
+      "y": 303.02099609375,
+      "width": 45.49798583984375,
+      "height": 17.608001708984375
+    },
+    "section": "28",
+    "subsection": null,
+    "entry": 2
+  },
+  {
+    "id": "16102",
+    "name": "form1[0].Section28[0].TextField11[13]",
+    "label": "Zip Code",
+    "type": 7,
+    "page": 127,
+    "rect": {
+      "x": 380.72698974609375,
+      "y": 303.6440124511719,
+      "width": 65.9990234375,
+      "height": 14.149993896484375
+    },
+    "section": "28",
+    "subsection": null,
+    "entry": 2
+  },
+  {
+    "id": "16083",
+    "name": "form1[0].Section28[0].TextField11[9]",
+    "label": "Provide a description of the results of the action.",
+    "type": 7,
+    "page": 127,
+    "rect": {
+      "x": 225.1219940185547,
+      "y": 332.38800048828125,
+      "width": 184.50099182128906,
+      "height": 27.024993896484375
+    },
+    "section": "28",
+    "subsection": null,
+    "entry": 2
+  },
+  {
+    "id": "16086",
+    "name": "form1[0].Section28[0].TextField11[7]",
+    "label": "Provide details of the nature of the action.",
+    "type": 7,
+    "page": 127,
+    "rect": {
+      "x": 36.0,
+      "y": 332.80499267578125,
+      "width": 184.6230010986328,
+      "height": 26.608001708984375
+    },
+    "section": "28",
+    "subsection": null,
+    "entry": 2
+  },
+  {
+    "id": "16082",
+    "name": "form1[0].Section28[0].TextField11[10]",
+    "label": "Provide the name(s) of the principal parties involved in the court action.",
+    "type": 7,
+    "page": 127,
+    "rect": {
+      "x": 413.87799072265625,
+      "y": 343.9209899902344,
+      "width": 180.12200927734375,
+      "height": 15.49200439453125
+    },
+    "section": "28",
+    "subsection": null,
+    "entry": 2
+  },
+  {
+    "id": "16100",
+    "name": "form1[0].Section28[0].SSN[0]",
+    "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+    "type": 7,
+    "page": 127,
+    "rect": {
+      "x": 476.7279968261719,
+      "y": 739.0009765625,
+      "width": 115.51303100585938,
+      "height": 13.6710205078125
+    },
+    "section": "28",
+    "subsection": null,
+    "entry": 2
+  }
+]

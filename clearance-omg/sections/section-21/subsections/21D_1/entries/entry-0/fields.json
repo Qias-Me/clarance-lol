@@ -1,0 +1,34 @@
+[
+  {
+    "id": "14704",
+    "name": "form1[0].Section21d3[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 95,
+    "rect": {
+      "x": 410.8399963378906,
+      "y": 109.7020263671875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "21",
+    "subsection": "21D.1",
+    "entry": null
+  },
+  {
+    "id": "14703",
+    "name": "form1[0].Section21d3[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 95,
+    "rect": {
+      "x": 453.5920104980469,
+      "y": 109.7020263671875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "21",
+    "subsection": "21D.1",
+    "entry": null
+  }
+]

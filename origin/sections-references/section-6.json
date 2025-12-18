@@ -1,0 +1,195 @@
+{
+    "metadata": {
+        "sectionId": 6,
+        "sectionName": "Identifying Information",
+        "totalFields": 6,
+        "pageRange": [
+            5,
+            5
+        ]
+    },
+    "fieldsByEntry": {
+        "1": [
+            {
+                "id": "17238 0 R",
+                "name": "form1[0].Sections1-6[0].p3-rb3b[0]",
+                "value": "Female",
+                "page": 5,
+                "label": "p3-rb3b",
+                "type": "PDFRadioGroup",
+                "maxLength": 0,
+                "options": [
+                    "Male",
+                    "Female"
+                ],
+                "rect": {
+                    "x": 534.02,
+                    "y": 147.94,
+                    "width": 10,
+                    "height": 10
+                },
+                "section": 6
+            },
+            {
+                "id": "9437 0 R",
+                "name": "form1[0].Sections1-6[0].DropDownList10[0]",
+                "value": [
+                    "sect6hairColor"
+                ],
+                "page": 5,
+                "label": "Hair color",
+                "type": "PDFDropdown",
+                "maxLength": 0,
+                "options": [
+                    "Bald",
+                    "Black",
+                    "Blonde or Strawberry",
+                    "Brown",
+                    "Gray or Partially Gray",
+                    "Red or Auburn",
+                    "Sandy",
+                    "White",
+                    "Blue",
+                    "Green",
+                    "Orange",
+                    "Pink",
+                    "Purple",
+                    "Unspecified or Unknown"
+                ],
+                "rect": {
+                    "x": 237.08,
+                    "y": 147.83,
+                    "width": 144.94,
+                    "height": 14.77
+                },
+                "section": 6,
+                "uniqueId": "section_6_entry_1_field_form1_0__Sections1_6_0__DropDownList10_0__healed"
+            },
+            {
+                "id": "9436 0 R",
+                "name": "form1[0].Sections1-6[0].DropDownList9[0]",
+                "value": [
+                    "sect6eyeColor"
+                ],
+                "page": 5,
+                "label": "Eye color",
+                "type": "PDFDropdown",
+                "maxLength": 0,
+                "options": [
+                    "Black",
+                    "Blue",
+                    "Brown",
+                    "Gray",
+                    "Green",
+                    "Hazel",
+                    "Maroon",
+                    "Multicolored",
+                    "Pink",
+                    "Unknown"
+                ],
+                "rect": {
+                    "x": 389.08,
+                    "y": 147.83,
+                    "width": 120.94,
+                    "height": 14.77
+                },
+                "section": 6,
+                "uniqueId": "section_6_entry_1_field_form1_0__Sections1_6_0__DropDownList9_0__healed"
+            },
+            {
+                "id": "9434 0 R",
+                "name": "form1[0].Sections1-6[0].DropDownList8[0]",
+                "value": [
+                    "sect6heightFeet"
+                ],
+                "page": 5,
+                "label": "Section 6. Your Identifying Information. Provide your identifying information. Height (feet).",
+                "type": "PDFDropdown",
+                "maxLength": 0,
+                "options": [
+                    "1",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7",
+                    "8",
+                    "9"
+                ],
+                "rect": {
+                    "x": 27,
+                    "y": 147.83,
+                    "width": 32.49,
+                    "height": 14.77
+                },
+                "section": 6,
+                "uniqueId": "section_6_entry_1_field_form1_0__Sections1_6_0__DropDownList8_0__healed"
+            },
+            {
+                "id": "9433 0 R",
+                "name": "form1[0].Sections1-6[0].DropDownList7[0]",
+                "value": [
+                    "sect6heightInch"
+                ],
+                "page": 5,
+                "label": "Height (inches)",
+                "type": "PDFDropdown",
+                "maxLength": 0,
+                "options": [
+                    "0",
+                    "1",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11"
+                ],
+                "rect": {
+                    "x": 85.5,
+                    "y": 147.83,
+                    "width": 38.63,
+                    "height": 14.77
+                },
+                "section": 6,
+                "uniqueId": "section_6_entry_1_field_form1_0__Sections1_6_0__DropDownList7_0__healed"
+            }
+        ],
+        "11": [
+            {
+                "id": "9438 0 R",
+                "name": "form1[0].Sections1-6[0].TextField11[5]",
+                "value": "160",
+                "page": 5,
+                "label": "Weight (in pounds)",
+                "type": "PDFTextField",
+                "maxLength": 0,
+                "rect": {
+                    "x": 159.5,
+                    "y": 147.83,
+                    "width": 70.5,
+                    "height": 14.77
+                },
+                "section": 6,
+                "uniqueId": "section_6_entry_11_field_form1_0__Sections1_6_0__TextField11_5__healed"
+            }
+        ]
+    },
+    "statistics": {
+        "fieldTypes": {
+            "PDFRadioGroup": 1,
+            "PDFTextField": 1,
+            "PDFDropdown": 4
+        },
+        "confidenceDistribution": {
+            "high": 0,
+            "medium": 0,
+            "low": 6
+        }
+    }
+}

@@ -1,0 +1,242 @@
+[
+  {
+    "page": 135,
+    "name": "form1[0].continuation3[0].p17-t1[0]",
+    "label": "Full name (Type or print legibly)",
+    "type": 7,
+    "rect": {
+      "x": 266.5929870605469,
+      "y": 454.16400146484375,
+      "width": 218.9010009765625,
+      "height": 15.839996337890625
+    },
+    "section": "30",
+    "subsection": "continuation3",
+    "entry": null,
+    "id": "16282"
+  },
+  {
+    "page": 135,
+    "name": "form1[0].continuation3[0].p17-t2[0]",
+    "label": "Date signed (m m/d d/y y y y)",
+    "type": 7,
+    "rect": {
+      "x": 490.3599853515625,
+      "y": 454.16400146484375,
+      "width": 96.60302734375,
+      "height": 15.839996337890625
+    },
+    "section": "30",
+    "subsection": "continuation3",
+    "entry": null,
+    "id": "16281"
+  },
+  {
+    "page": 135,
+    "name": "form1[0].continuation3[0].p17-t3[0]",
+    "label": "Other names used",
+    "type": 7,
+    "rect": {
+      "x": 30.389999389648438,
+      "y": 480.16900634765625,
+      "width": 451.1110076904297,
+      "height": 15.839996337890625
+    },
+    "section": "30",
+    "subsection": "continuation3",
+    "entry": null,
+    "id": "16279"
+  },
+  {
+    "page": 135,
+    "name": "form1[0].continuation3[0].SSN[1]",
+    "label": "Social Security Number",
+    "type": 7,
+    "rect": {
+      "x": 490.0929870605469,
+      "y": 480.16900634765625,
+      "width": 96.98300170898438,
+      "height": 15.839996337890625
+    },
+    "section": "30",
+    "subsection": "continuation3",
+    "entry": null,
+    "id": "16280"
+  },
+  {
+    "page": 135,
+    "name": "form1[0].continuation3[0].p17-t6[0]",
+    "label": "Current Street Address, Apt. #",
+    "type": 7,
+    "rect": {
+      "x": 30.389999389648438,
+      "y": 508.156005859375,
+      "width": 199.1110076904297,
+      "height": 15.8399658203125
+    },
+    "section": "30",
+    "subsection": "continuation3",
+    "entry": null,
+    "id": "16278"
+  },
+  {
+    "page": 135,
+    "name": "form1[0].continuation3[0].p17-t8[0]",
+    "label": "City (Country)",
+    "type": 7,
+    "rect": {
+      "x": 234.7570037841797,
+      "y": 508.156005859375,
+      "width": 125.24299621582031,
+      "height": 15.8399658203125
+    },
+    "section": "30",
+    "subsection": "continuation3",
+    "entry": null,
+    "id": "16277"
+  },
+  {
+    "page": 135,
+    "name": "form1[0].continuation3[0].p17-t9[0]",
+    "label": "State",
+    "type": 3,
+    "rect": {
+      "x": 368.10101318359375,
+      "y": 508.156005859375,
+      "width": 32.399993896484375,
+      "height": 15.8399658203125
+    },
+    "section": "30",
+    "subsection": "continuation3",
+    "entry": null,
+    "id": "16276"
+  },
+  {
+    "page": 135,
+    "name": "form1[0].continuation3[0].p17-t10[0]",
+    "label": "ZIP Code",
+    "type": 7,
+    "rect": {
+      "x": 408.6000061035156,
+      "y": 508.156005859375,
+      "width": 77.89300537109375,
+      "height": 15.8399658203125
+    },
+    "section": "30",
+    "subsection": "continuation3",
+    "entry": null,
+    "id": "16275"
+  },
+  {
+    "page": 135,
+    "name": "form1[0].continuation3[0].p17-t11[0]",
+    "label": "Telephone number",
+    "type": 7,
+    "rect": {
+      "x": 490.09600830078125,
+      "y": 508.156005859375,
+      "width": 96.98297119140625,
+      "height": 15.8399658203125
+    },
+    "section": "30",
+    "subsection": "continuation3",
+    "entry": null,
+    "id": "16274"
+  },
+  {
+    "page": 135,
+    "name": "form1[0].continuation3[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 31.0,
+      "y": 581.9299926757812,
+      "width": 10.0,
+      "height": 10.0
+    },
+    "section": "30",
+    "subsection": "continuation3",
+    "entry": null,
+    "id": "16285"
+  },
+  {
+    "page": 135,
+    "name": "form1[0].continuation3[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 77.5,
+      "y": 581.9299926757812,
+      "width": 10.0,
+      "height": 10.0
+    },
+    "section": "30",
+    "subsection": "continuation3",
+    "entry": null,
+    "id": "16284"
+  },
+  {
+    "page": 135,
+    "name": "form1[0].continuation3[0].TextField1[1]",
+    "label": "If so, describe the nature of the condition and the extent and duration of the impairment or treatment.",
+    "type": 7,
+    "rect": {
+      "x": 31.0,
+      "y": 611.4559936523438,
+      "width": 549.0,
+      "height": 20.072021484375
+    },
+    "section": "30",
+    "subsection": "continuation3",
+    "entry": null,
+    "id": "16273"
+  },
+  {
+    "page": 135,
+    "name": "form1[0].continuation3[0].TextField1[0]",
+    "label": "What is the prognosis?",
+    "type": 7,
+    "rect": {
+      "x": 31.0,
+      "y": 647.4559936523438,
+      "width": 547.1259765625,
+      "height": 20.06903076171875
+    },
+    "section": "30",
+    "subsection": "continuation3",
+    "entry": null,
+    "id": "16283"
+  },
+  {
+    "page": 135,
+    "name": "form1[0].continuation3[0].TextField1[2]",
+    "label": "Dates of treatment?",
+    "type": 7,
+    "rect": {
+      "x": 31.500999450683594,
+      "y": 683.4559936523438,
+      "width": 547.1260147094727,
+      "height": 20.06903076171875
+    },
+    "section": "30",
+    "subsection": "continuation3",
+    "entry": null,
+    "id": "16272"
+  },
+  {
+    "page": 135,
+    "name": "form1[0].continuation3[0].SSN[0]",
+    "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+    "type": 7,
+    "rect": {
+      "x": 476.7279968261719,
+      "y": 739.0009765625,
+      "width": 115.51303100585938,
+      "height": 13.6710205078125
+    },
+    "section": "30",
+    "subsection": "continuation3",
+    "entry": null,
+    "id": "16286"
+  }
+]

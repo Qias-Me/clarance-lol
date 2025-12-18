@@ -1,0 +1,15 @@
+{
+  "workflowId": "wf_3cb426406424",
+  "documentPath": "C:\\Users\\TJ\\Desktop\\clarance-lol\\samples\\test-pdfs\\clean.pdf",
+  "documentHash": "",
+  "currentPhase": "error",
+  "phaseHistory": [],
+  "pages": [],
+  "detectedFields": [],
+  "validatedFields": [],
+  "retryPool": [],
+  "outputPaths": {},
+  "startedAt": "2025-12-14T11:11:10.912655",
+  "updatedAt": "2025-12-14T11:11:10.912701",
+  "error": "PDFMetadataExtractor.__init__() missing 2 required positional arguments: 'document' and 'file_path'"
+}

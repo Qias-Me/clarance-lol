@@ -1,0 +1,914 @@
+[
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].#field[207]",
+    "label": "Complete the following if you responded 'YES' that as a U.S. citizen, have you, your spouse or legally recognized civil union/domestic partner, cohabitant, or dependent children received in the last seven (7) years, or are eligible to receive in the future, any educational, medical, retirement, social welfare, or other such benefit from a foreign country. Entry #2. Specify (Check all that apply): Yourself ",
+    "type": 2,
+    "rect": {
+      "x": 156.74200439453125,
+      "y": 128.05902099609375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13814"
+  },
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].#field[237]",
+    "label": "Spouse or legally recognized civil union/domestic partner",
+    "type": 2,
+    "rect": {
+      "x": 210.74200439453125,
+      "y": 128.05902099609375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13761"
+  },
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].#field[236]",
+    "label": "Cohabitant",
+    "type": 2,
+    "rect": {
+      "x": 438.7409973144531,
+      "y": 128.05902099609375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13762"
+  },
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].#field[235]",
+    "label": "Dependent children",
+    "type": 2,
+    "rect": {
+      "x": 504.7430114746094,
+      "y": 128.05902099609375,
+      "width": 8.999969482421875,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13763"
+  },
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].RadioButtonList[20]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 156.76199340820312,
+      "y": 147.18402099609375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13768"
+  },
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].RadioButtonList[20]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 261.76300048828125,
+      "y": 147.18402099609375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13767"
+  },
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].RadioButtonList[20]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 347.2640075683594,
+      "y": 147.18402099609375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13766"
+  },
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].RadioButtonList[20]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 441.76300048828125,
+      "y": 147.18402099609375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13765"
+  },
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].TextField11[85]",
+    "label": "(Provide explanation)",
+    "type": 7,
+    "rect": {
+      "x": 323.5929870605469,
+      "y": 157.656982421875,
+      "width": 268.6499938964844,
+      "height": 17.00201416015625
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13812"
+  },
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].RadioButtonList[20]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 156.76199340820312,
+      "y": 162.18798828125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13764"
+  },
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].RadioButtonList[15]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 156.74200439453125,
+      "y": 179.655029296875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13811"
+  },
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].RadioButtonList[15]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 306.7430114746094,
+      "y": 179.655029296875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13810"
+  },
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].RadioButtonList[15]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 441.7430114746094,
+      "y": 179.655029296875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13809"
+  },
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].TextField11[86]",
+    "label": "If \"other,\" provide explanation",
+    "type": 7,
+    "rect": {
+      "x": 323.5929870605469,
+      "y": 190.655029296875,
+      "width": 264.1510314941406,
+      "height": 17.001953125
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13807"
+  },
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].RadioButtonList[15]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 156.74200439453125,
+      "y": 194.65899658203125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13808"
+  },
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].TextField11[87]",
+    "label": "Provide the reason this benefit was received.",
+    "type": 7,
+    "rect": {
+      "x": 469.24200439453125,
+      "y": 254.4439697265625,
+      "width": 123.0009765625,
+      "height": 19.39404296875
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13802"
+  },
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].DropDownList34[3]",
+    "label": "Provide the name of the country providing the benefit.",
+    "type": 3,
+    "rect": {
+      "x": 173.74400329589844,
+      "y": 254.6610107421875,
+      "width": 142.0019989013672,
+      "height": 14.218994140625
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13801"
+  },
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].From_Datefield_Name_2[14]",
+    "label": "(a). If you have indicated that you, your spouse or legally recognized civil union/domestic partner, cohabitant, or dependent children received a onetime benefit from a foreign country: Provide the date the benefit was received. (Month/Day/Year)",
+    "type": 7,
+    "rect": {
+      "x": 46.32099914550781,
+      "y": 255.05999755859375,
+      "width": 86.9219970703125,
+      "height": 18.77801513671875
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13806"
+  },
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].NumericField[3]",
+    "label": "Provide the total value (in U.S. dollars) of the benefit received. ",
+    "type": 7,
+    "rect": {
+      "x": 322.2430114746094,
+      "y": 255.05999755859375,
+      "width": 111.00198364257812,
+      "height": 18.77801513671875
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13804"
+  },
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].#field[212]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 140.24400329589844,
+      "y": 260.60498046875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13805"
+  },
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].#field[214]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 437.2439880371094,
+      "y": 260.60498046875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13803"
+  },
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].RadioButtonList[14]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 49.27799987792969,
+      "y": 298.61700439453125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13815"
+  },
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].TextField11[84]",
+    "label": "If yes, provide explanation.",
+    "type": 7,
+    "rect": {
+      "x": 133.2429962158203,
+      "y": 305.9519958496094,
+      "width": 458.99998474121094,
+      "height": 17.608001708984375
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13813"
+  },
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].RadioButtonList[14]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 49.27799987792969,
+      "y": 312.1159973144531,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13816"
+  },
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].TextField11[90]",
+    "label": "(Provide explanation)",
+    "type": 7,
+    "rect": {
+      "x": 462.13800048828125,
+      "y": 358.0639953613281,
+      "width": 130.10498046875,
+      "height": 17.00201416015625
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13786"
+  },
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].RadioButtonList[17]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 197.24600219726562,
+      "y": 362.0610046386719,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13791"
+  },
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].RadioButtonList[17]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 272.2449951171875,
+      "y": 362.0610046386719,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13789"
+  },
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].RadioButtonList[17]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 339.7439880371094,
+      "y": 362.0610046386719,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13788"
+  },
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].From_Datefield_Name_2[15]",
+    "label": "(b). If you have indicated that you, your spouse or legally recognized civil union/domestic partner, cohabitant, or dependent children expect to receive a benefit from a foreign country: Provide the date the benefit was received. (Month/Day/Year)",
+    "type": 7,
+    "rect": {
+      "x": 46.44300079345703,
+      "y": 368.5589904785156,
+      "width": 113.79999542236328,
+      "height": 18.77801513671875
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13796"
+  },
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].#field[220]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 162.86399841308594,
+      "y": 374.10400390625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13795"
+  },
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].RadioButtonList[17]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 197.24600219726562,
+      "y": 375.052001953125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13790"
+  },
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].RadioButtonList[17]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 272.2449951171875,
+      "y": 375.052001953125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13787"
+  },
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].TextField11[89]",
+    "label": "Provide the reason this benefit will \nbe received.",
+    "type": 7,
+    "rect": {
+      "x": 457.1210021972656,
+      "y": 405.9469909667969,
+      "width": 135.12197875976562,
+      "height": 19.394012451171875
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13792"
+  },
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].DropDownList33[1]",
+    "label": "Provide the name of the country providing this benefit.",
+    "type": 3,
+    "rect": {
+      "x": 46.242000579833984,
+      "y": 406.56298828125,
+      "width": 195.00099563598633,
+      "height": 18.77801513671875
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13800"
+  },
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].NumericField1[4]",
+    "label": "Provide the value (in U.S. dollars) of the benefit to be received. ",
+    "type": 7,
+    "rect": {
+      "x": 244.24200439453125,
+      "y": 406.56298828125,
+      "width": 151.38400268554688,
+      "height": 18.77801513671875
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13794"
+  },
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].#field[222]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 420.7409973144531,
+      "y": 412.1080017089844,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13793"
+  },
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].#area[12].RadioButtonList[16]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 49.27799987792969,
+      "y": 448.6180114746094,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13797"
+  },
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].#area[12].TextField11[88]",
+    "label": "If yes, provide explanation.",
+    "type": 7,
+    "rect": {
+      "x": 133.2429962158203,
+      "y": 456.5710144042969,
+      "width": 458.99998474121094,
+      "height": 17.60797119140625
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13799"
+  },
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].#area[12].RadioButtonList[16]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 49.27799987792969,
+      "y": 462.11700439453125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13798"
+  },
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].From_Datefield_Name_2[16]",
+    "label": "(c). If have indicated that you, your spouse or legally recognized civil union/domestic partner, cohabitant, or dependent children receive a continuing or other benefit from a foreign country: Provide the date the benefit began. (Month/Day/Year)",
+    "type": 7,
+    "rect": {
+      "x": 46.44300079345703,
+      "y": 509.1239929199219,
+      "width": 185.79999542236328,
+      "height": 17.679962158203125
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13781"
+  },
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].From_Datefield_Name_2[17]",
+    "label": "Provide the date the benefit is expected to end. (Month/Day/Year)",
+    "type": 7,
+    "rect": {
+      "x": 266.739990234375,
+      "y": 509.1239929199219,
+      "width": 235.50201416015625,
+      "height": 17.679962158203125
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13770"
+  },
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].#field[228]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 234.7429962158203,
+      "y": 514.31103515625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13780"
+  },
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].#field[234]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 509.2439880371094,
+      "y": 514.31103515625,
+      "width": 9.000030517578125,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13769"
+  },
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].TextField11[93]",
+    "label": "(Provide explanation)",
+    "type": 7,
+    "rect": {
+      "x": 382.8349914550781,
+      "y": 537.8170166015625,
+      "width": 206.40798950195312,
+      "height": 17.001953125
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13771"
+  },
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].RadioButtonList[19]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 48.94300079345703,
+      "y": 541.8150024414062,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13776"
+  },
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].RadioButtonList[19]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 263.2449951171875,
+      "y": 541.8150024414062,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13772"
+  },
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].RadioButtonList[19]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 179.95199584960938,
+      "y": 541.9830322265625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13774"
+  },
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].RadioButtonList[19]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 48.94300079345703,
+      "y": 554.8060302734375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13775"
+  },
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].RadioButtonList[19]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 179.95199584960938,
+      "y": 554.8060302734375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13773"
+  },
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].TextField11[92]",
+    "label": "Provide the reason this benefit is \nbeing received.",
+    "type": 7,
+    "rect": {
+      "x": 434.7409973144531,
+      "y": 587.7919921875,
+      "width": 157.50100708007812,
+      "height": 19.39404296875
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13777"
+  },
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].DropDownList32[1]",
+    "label": "Provide the name of the country providing \nthis benefit.",
+    "type": 3,
+    "rect": {
+      "x": 46.242000579833984,
+      "y": 588.4080200195312,
+      "width": 177.00099563598633,
+      "height": 18.77801513671875
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13785"
+  },
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].NumericField1[5]",
+    "label": "Provide the value (in U.S. dollars) of the benefit to be received. ",
+    "type": 7,
+    "rect": {
+      "x": 230.7429962158203,
+      "y": 588.4080200195312,
+      "width": 159.00099182128906,
+      "height": 18.77801513671875
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13779"
+  },
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].#field[230]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 396.7430114746094,
+      "y": 593.9530029296875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13778"
+  },
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].#area[13].RadioButtonList[18]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 49.27799987792969,
+      "y": 631.6199951171875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13782"
+  },
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].#area[13].TextField11[91]",
+    "label": "If yes, provide explanation.",
+    "type": 7,
+    "rect": {
+      "x": 133.2429962158203,
+      "y": 639.572998046875,
+      "width": 458.99998474121094,
+      "height": 17.6080322265625
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13784"
+  },
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].#area[13].RadioButtonList[18]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 49.27799987792969,
+      "y": 645.1190185546875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13783"
+  },
+  {
+    "page": 74,
+    "name": "form1[0].#subform[74].SSN[5]",
+    "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+    "type": 7,
+    "rect": {
+      "x": 476.7279968261719,
+      "y": 739.0009765625,
+      "width": 115.51303100585938,
+      "height": 13.6710205078125
+    },
+    "section": "20",
+    "subsection": "20A",
+    "entry": 2,
+    "id": "13817"
+  }
+]

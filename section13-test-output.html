@@ -1,0 +1,28 @@
+
+        <!DOCTYPE html>
+        <html lang="en">
+          <head>
+            <meta charset="UTF-8" />
+            <title>Error</title>
+            <script type="module">
+              const error = {"message":"Cannot find module '~/api/sections-references/section-13.json' imported from 'C:/Users/TJ/Desktop/clarance-lol/clarance-f/app/utils/section13-data-loader-client.ts'","stack":"    at async ProxyServer.fetch (file:///C:/Users/TJ/Desktop/clarance-lol/clarance-f/node_modules/miniflare/src/workers/core/proxy.worker.ts:173:11)","frame":""}
+              try {
+                const { ErrorOverlay } = await import("/@vite/client")
+                document.body.appendChild(new ErrorOverlay(error))
+              } catch {
+                const h = (tag, text) => {
+                  const el = document.createElement(tag)
+                  el.textContent = text
+                  return el
+                }
+                document.body.appendChild(h('h1', 'Internal Server Error'))
+                document.body.appendChild(h('h2', error.message))
+                document.body.appendChild(h('pre', error.stack))
+                document.body.appendChild(h('p', '(Error overlay failed to load)'))
+              }
+            </script>
+          </head>
+          <body>
+          </body>
+        </html>
+      

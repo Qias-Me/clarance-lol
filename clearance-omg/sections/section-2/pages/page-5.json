@@ -1,0 +1,34 @@
+[
+  {
+    "page": 5,
+    "name": "form1[0].Sections1-6[0].From_Datefield_Name_2[0]",
+    "label": "Section 2. Date of Birth. Provide your date of birth (month/day/year).",
+    "type": 7,
+    "rect": {
+      "x": 27.0,
+      "y": 222.98199462890625,
+      "width": 76.39399719238281,
+      "height": 16.26202392578125
+    },
+    "section": "2",
+    "subsection": null,
+    "entry": null,
+    "id": "9432"
+  },
+  {
+    "page": 5,
+    "name": "form1[0].Sections1-6[0].#field[18]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 104.5999984741211,
+      "y": 227.739990234375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "2",
+    "subsection": null,
+    "entry": null,
+    "id": "9431"
+  }
+]

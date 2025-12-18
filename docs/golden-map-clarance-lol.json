@@ -1,0 +1,21 @@
+{
+  "documentId": "gm-2025-12-14-001",
+  "documentName": "clean.pdf",
+  "pages": [],
+  "sections": [],
+  "allFields": [],
+  "coordinateSystem": "pdf-to-css",
+  "metadata": {
+    "createdDate": "2025-12-14",
+    "lastValidated": null,
+    "accuracyScore": null,
+    "evolutionVersion": 1,
+    "totalFields": 0,
+    "totalSections": 0,
+    "stepsCompleted": [1],
+    "pdfPath": "C:/Users/TJ/Desktop/clarance-lol/samples/test-pdfs/clean.pdf",
+    "sectionsReferencesPath": null,
+    "tolerancePixels": 0.5,
+    "workflowComplete": false
+  }
+}

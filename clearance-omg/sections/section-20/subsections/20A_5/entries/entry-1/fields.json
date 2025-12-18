@@ -1,0 +1,242 @@
+[
+  {
+    "id": "13824",
+    "name": "form1[0].#subform[76].TextField11[106]",
+    "label": "First name",
+    "type": 7,
+    "page": 75,
+    "rect": {
+      "x": 207.0,
+      "y": 138.37298583984375,
+      "width": 166.5,
+      "height": 15.75
+    },
+    "section": "20",
+    "subsection": "20A.5",
+    "entry": 1
+  },
+  {
+    "id": "13827",
+    "name": "form1[0].#subform[76].suffix[9]",
+    "label": "Suffix",
+    "type": 3,
+    "page": 75,
+    "rect": {
+      "x": 524.8770141601562,
+      "y": 138.37298583984375,
+      "width": 69.0009765625,
+      "height": 15.75
+    },
+    "section": "20",
+    "subsection": "20A.5",
+    "entry": 1
+  },
+  {
+    "id": "13825",
+    "name": "form1[0].#subform[76].TextField112[0]",
+    "label": "Complete the following if you responded 'Yes' to providing financial support for any foreign national. Entry #1. Provide the name of the foreign national you support or have supported financially. Last name",
+    "type": 7,
+    "page": 75,
+    "rect": {
+      "x": 36.0,
+      "y": 138.7919921875,
+      "width": 166.5,
+      "height": 15.33099365234375
+    },
+    "section": "20",
+    "subsection": "20A.5",
+    "entry": 1
+  },
+  {
+    "id": "13826",
+    "name": "form1[0].#subform[76].TextField11[105]",
+    "label": "Middle name",
+    "type": 7,
+    "page": 75,
+    "rect": {
+      "x": 378.0,
+      "y": 139.13800048828125,
+      "width": 144.0,
+      "height": 14.9849853515625
+    },
+    "section": "20",
+    "subsection": "20A.5",
+    "entry": 1
+  },
+  {
+    "id": "13831",
+    "name": "form1[0].#subform[76].#area[15].TextField11[103]",
+    "label": "City",
+    "type": 7,
+    "page": 75,
+    "rect": {
+      "x": 207.0,
+      "y": 176.16497802734375,
+      "width": 117.0,
+      "height": 14.9150390625
+    },
+    "section": "20",
+    "subsection": "20A.5",
+    "entry": 1
+  },
+  {
+    "id": "13829",
+    "name": "form1[0].#subform[76].#area[15].DropDownList31[0]",
+    "label": "Country",
+    "type": 3,
+    "page": 75,
+    "rect": {
+      "x": 450.8760070800781,
+      "y": 176.16497802734375,
+      "width": 142.00198364257812,
+      "height": 14.9150390625
+    },
+    "section": "20",
+    "subsection": "20A.5",
+    "entry": 1
+  },
+  {
+    "id": "13832",
+    "name": "form1[0].#subform[76].#area[15].TextField11[102]",
+    "label": "Provide the address of the foreign national listed above. (Provide City and Country if outside the United States; otherwise, provide City, State and Zip Code.) Street",
+    "type": 7,
+    "page": 75,
+    "rect": {
+      "x": 36.0,
+      "y": 176.3070068359375,
+      "width": 166.5,
+      "height": 14.77301025390625
+    },
+    "section": "20",
+    "subsection": "20A.5",
+    "entry": 1
+  },
+  {
+    "id": "13830",
+    "name": "form1[0].#subform[76].#area[15].School6_State[9]",
+    "label": "State",
+    "type": 3,
+    "page": 75,
+    "rect": {
+      "x": 328.5,
+      "y": 176.3070068359375,
+      "width": 40.5,
+      "height": 17.60797119140625
+    },
+    "section": "20",
+    "subsection": "20A.5",
+    "entry": 1
+  },
+  {
+    "id": "13828",
+    "name": "form1[0].#subform[76].#area[15].TextField11[104]",
+    "label": "Zip Code",
+    "type": 7,
+    "page": 75,
+    "rect": {
+      "x": 378.0,
+      "y": 176.92999267578125,
+      "width": 65.99899291992188,
+      "height": 14.1500244140625
+    },
+    "section": "20",
+    "subsection": "20A.5",
+    "entry": 1
+  },
+  {
+    "id": "13821",
+    "name": "form1[0].#subform[76].NumericField1[7]",
+    "label": "Provide the amount (in U.S. dollars) of all financial support provided.",
+    "type": 7,
+    "page": 75,
+    "rect": {
+      "x": 328.5010070800781,
+      "y": 204.92498779296875,
+      "width": 182.99899291992188,
+      "height": 17.67999267578125
+    },
+    "section": "20",
+    "subsection": "20A.5",
+    "entry": 1
+  },
+  {
+    "id": "13823",
+    "name": "form1[0].#subform[76].TextField11[107]",
+    "label": "Provide the nature of your relationship with the foreign national listed above.",
+    "type": 7,
+    "page": 75,
+    "rect": {
+      "x": 36.0,
+      "y": 204.9959716796875,
+      "width": 288.0,
+      "height": 14.77301025390625
+    },
+    "section": "20",
+    "subsection": "20A.5",
+    "entry": 1
+  },
+  {
+    "id": "13822",
+    "name": "form1[0].#subform[76].#field[265]",
+    "label": "Estimate",
+    "type": 2,
+    "page": 75,
+    "rect": {
+      "x": 564.0999755859375,
+      "y": 210.14801025390625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20A.5",
+    "entry": 1
+  },
+  {
+    "id": "13820",
+    "name": "form1[0].#subform[76].TextField11[108]",
+    "label": "Provide the frequency of your support.",
+    "type": 7,
+    "page": 75,
+    "rect": {
+      "x": 36.0,
+      "y": 234.8790283203125,
+      "width": 166.50100708007812,
+      "height": 25.35797119140625
+    },
+    "section": "20",
+    "subsection": "20A.5",
+    "entry": 1
+  },
+  {
+    "id": "13819",
+    "name": "form1[0].#subform[76].DropDownList12[18]",
+    "label": "Provide this foreign national's country(ies) of citizenship. Country #1",
+    "type": 3,
+    "page": 75,
+    "rect": {
+      "x": 207.0,
+      "y": 242.7540283203125,
+      "width": 163.50201416015625,
+      "height": 17.60797119140625
+    },
+    "section": "20",
+    "subsection": "20A.5",
+    "entry": 1
+  },
+  {
+    "id": "13818",
+    "name": "form1[0].#subform[76].DropDownList12[19]",
+    "label": "Country #2",
+    "type": 3,
+    "page": 75,
+    "rect": {
+      "x": 378.0,
+      "y": 242.7540283203125,
+      "width": 157.4990234375,
+      "height": 17.60797119140625
+    },
+    "section": "20",
+    "subsection": "20A.5",
+    "entry": 1
+  }
+]

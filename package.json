@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "dev": "react-router dev",
+    "build": "react-router build",
+    "start": "npm run build && npm run serve",
+    "test": "vitest",
+    "test:ui": "vitest --ui",
+    "test:coverage": "vitest --coverage",
+    "lint": "eslint . --ext .ts,.tsx",
+    "lint:fix": "eslint . --ext .ts,.tsx --fix",
+    "type-check": "tsc --noEmit",
+    "validate-pdf": "node scripts/validate-pdf.js",
+    "process-samples": "node scripts/process-samples.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "pdf-lib": "^1.17.1"
+  }
+}

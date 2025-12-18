@@ -1,0 +1,210 @@
+[
+  {
+    "id": "13892",
+    "name": "form1[0].#subform[77].TextField11[113]",
+    "label": "Complete the following if you responded 'Yes' to having in the last seven (7) years provided advice or support to any individual associated with a foreign business or other foreign organization that you have not previously listed as a former employer. Entry #1. Provide a description of advice/support provided.",
+    "type": 7,
+    "page": 76,
+    "rect": {
+      "x": 36.0,
+      "y": 158.13702392578125,
+      "width": 184.5,
+      "height": 24.510986328125
+    },
+    "section": "20",
+    "subsection": "20B.1",
+    "entry": 1
+  },
+  {
+    "id": "13897",
+    "name": "form1[0].#subform[77].TextField11[110]",
+    "label": "First name",
+    "type": 7,
+    "page": 76,
+    "rect": {
+      "x": 346.5010070800781,
+      "y": 166.89801025390625,
+      "width": 117.0,
+      "height": 15.75
+    },
+    "section": "20",
+    "subsection": "20B.1",
+    "entry": 1
+  },
+  {
+    "id": "13895",
+    "name": "form1[0].#subform[77].suffix[10]",
+    "label": "Suffix",
+    "type": 3,
+    "page": 76,
+    "rect": {
+      "x": 549.0,
+      "y": 166.89801025390625,
+      "width": 44.87799072265625,
+      "height": 15.75
+    },
+    "section": "20",
+    "subsection": "20B.1",
+    "entry": 1
+  },
+  {
+    "id": "13898",
+    "name": "form1[0].#subform[77].TextField11[109]",
+    "label": "Provide the name of the individual to whom advice or support was provided. Last name",
+    "type": 7,
+    "page": 76,
+    "rect": {
+      "x": 225.0,
+      "y": 167.03997802734375,
+      "width": 117.0,
+      "height": 15.6080322265625
+    },
+    "section": "20",
+    "subsection": "20B.1",
+    "entry": 1
+  },
+  {
+    "id": "13896",
+    "name": "form1[0].#subform[77].TextField11[111]",
+    "label": "Middle name",
+    "type": 7,
+    "page": 76,
+    "rect": {
+      "x": 468.0,
+      "y": 167.66302490234375,
+      "width": 76.5,
+      "height": 14.9849853515625
+    },
+    "section": "20",
+    "subsection": "20B.1",
+    "entry": 1
+  },
+  {
+    "id": "13894",
+    "name": "form1[0].#subform[77].#area[16].TextField11[112]",
+    "label": "Provide the name of the foreign organization or foreign business with whom the individual is associated.",
+    "type": 7,
+    "page": 76,
+    "rect": {
+      "x": 36.0,
+      "y": 206.2659912109375,
+      "width": 326.9989929199219,
+      "height": 14.04498291015625
+    },
+    "section": "20",
+    "subsection": "20B.1",
+    "entry": 1
+  },
+  {
+    "id": "13893",
+    "name": "form1[0].#subform[77].#area[16].DropDownList28[0]",
+    "label": "Provide the country of origin for the organization or business.",
+    "type": 3,
+    "page": 76,
+    "rect": {
+      "x": 369.0,
+      "y": 206.2659912109375,
+      "width": 224.87799072265625,
+      "height": 14.04498291015625
+    },
+    "section": "20",
+    "subsection": "20B.1",
+    "entry": 1
+  },
+  {
+    "id": "13886",
+    "name": "form1[0].#subform[77].TextField11[114]",
+    "label": "Describe what compensation, if any, was provided for your service.",
+    "type": 7,
+    "page": 76,
+    "rect": {
+      "x": 310.5010070800781,
+      "y": 234.0369873046875,
+      "width": 283.5010070800781,
+      "height": 27.50799560546875
+    },
+    "section": "20",
+    "subsection": "20B.1",
+    "entry": 1
+  },
+  {
+    "id": "13888",
+    "name": "form1[0].#subform[77].#area[17].#field[282]",
+    "label": "Present",
+    "type": 2,
+    "page": 76,
+    "rect": {
+      "x": 258.5010070800781,
+      "y": 237.54400634765625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20B.1",
+    "entry": 1
+  },
+  {
+    "id": "13891",
+    "name": "form1[0].#subform[77].#area[17].From_Datefield_Name_2[18]",
+    "label": "Provide the date(s) during which this advice or support was provided. From Date (Month/Year)",
+    "type": 7,
+    "page": 76,
+    "rect": {
+      "x": 36.0,
+      "y": 243.86102294921875,
+      "width": 90.0,
+      "height": 17.67999267578125
+    },
+    "section": "20",
+    "subsection": "20B.1",
+    "entry": 1
+  },
+  {
+    "id": "13889",
+    "name": "form1[0].#subform[77].#area[17].From_Datefield_Name_2[19]",
+    "label": "To Date (Month/Year)",
+    "type": 7,
+    "page": 76,
+    "rect": {
+      "x": 171.0,
+      "y": 243.86102294921875,
+      "width": 82.00100708007812,
+      "height": 17.67999267578125
+    },
+    "section": "20",
+    "subsection": "20B.1",
+    "entry": 1
+  },
+  {
+    "id": "13890",
+    "name": "form1[0].#subform[77].#area[17].#field[280]",
+    "label": "Estimate",
+    "type": 2,
+    "page": 76,
+    "rect": {
+      "x": 132.50100708007812,
+      "y": 250.0059814453125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20B.1",
+    "entry": 1
+  },
+  {
+    "id": "13887",
+    "name": "form1[0].#subform[77].#area[17].#field[283]",
+    "label": "Estimate",
+    "type": 2,
+    "page": 76,
+    "rect": {
+      "x": 258.5010070800781,
+      "y": 250.0059814453125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20B.1",
+    "entry": 1
+  }
+]

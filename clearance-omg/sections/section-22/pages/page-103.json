@@ -1,0 +1,914 @@
+[
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].From_Datefield_Name_2[0]",
+    "label": "Entry #2. Provide the date of offense. (Month/Year)",
+    "type": 7,
+    "rect": {
+      "x": 37.22999954223633,
+      "y": 98.60498046875,
+      "width": 151.77000045776367,
+      "height": 17.73101806640625
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15119"
+  },
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].From_Datefield_Name_2[1]",
+    "label": "Provide a description of the specific nature of the offense.",
+    "type": 7,
+    "rect": {
+      "x": 224.8780059814453,
+      "y": 98.60498046875,
+      "width": 368.57798767089844,
+      "height": 17.73101806640625
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15117"
+  },
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].#field[6]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 191.3260040283203,
+      "y": 101.29998779296875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15118"
+  },
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].#area[1].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 51.500999450683594,
+      "y": 136.30499267578125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15084"
+  },
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].#area[1].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 92.00199890136719,
+      "y": 136.30499267578125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15083"
+  },
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].#area[0].#field[2]",
+    "label": "Check all that apply.  \rDomestic violence or a crime of violence (such as battery or assault) against your child, dependent, cohabitant, spouse or legally recognized civil union/domestic partner, former spouse or legally recognized civil union/domestic partner, or someone with whom you share a child in common?",
+    "type": 2,
+    "rect": {
+      "x": 51.499000549316406,
+      "y": 166.53997802734375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15087"
+  },
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].#area[0].#field[3]",
+    "label": "Involve firearms or explosives?",
+    "type": 2,
+    "rect": {
+      "x": 51.500999450683594,
+      "y": 189.291015625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15086"
+  },
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].#area[0].#field[4]",
+    "label": "Involve alcohol or drugs?",
+    "type": 2,
+    "rect": {
+      "x": 51.499000549316406,
+      "y": 203.04998779296875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15085"
+  },
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].TextField11[0]",
+    "label": "Provide the name of the court.",
+    "type": 7,
+    "rect": {
+      "x": 49.499000549316406,
+      "y": 226.67901611328125,
+      "width": 543.3759994506836,
+      "height": 14.77301025390625
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15116"
+  },
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].#field[25]",
+    "label": "Country",
+    "type": 3,
+    "rect": {
+      "x": 450.1619873046875,
+      "y": 265.53802490234375,
+      "width": 143.1240234375,
+      "height": 15.00897216796875
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15091"
+  },
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].School6_State[0]",
+    "label": "State",
+    "type": 3,
+    "rect": {
+      "x": 329.0459899902344,
+      "y": 266.176025390625,
+      "width": 45.498016357421875,
+      "height": 17.205963134765625
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15092"
+  },
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].TextField11[3]",
+    "label": "Provide the location of the court. (Provide City and Country if outside the United States; otherwise, provide City, State and Zip Code). City",
+    "type": 7,
+    "rect": {
+      "x": 49.500999450683594,
+      "y": 266.2919921875,
+      "width": 139.87799835205078,
+      "height": 14.2550048828125
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15093"
+  },
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].TextField11[5]",
+    "label": "County",
+    "type": 7,
+    "rect": {
+      "x": 195.7519989013672,
+      "y": 266.2919921875,
+      "width": 129.59999084472656,
+      "height": 14.2550048828125
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15089"
+  },
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].TextField11[4]",
+    "label": "Zip Code",
+    "type": 7,
+    "rect": {
+      "x": 380.0350036621094,
+      "y": 266.302978515625,
+      "width": 65.97598266601562,
+      "height": 14.2440185546875
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15090"
+  },
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].Table4[0].Row1[0].Cell1[0]",
+    "label": "Provide all the charges brought against you for this offense, and the outcome of each charged offense (such as found guilty, found not-guilty, charge dropped or \"nolle pros,\" etc). If you were found guilty of or pleaded guilty to a lesser offense, list separately both the original charge and the lesser offense. Felony/misdemeanor. Row 1",
+    "type": 3,
+    "rect": {
+      "x": 49.41899871826172,
+      "y": 335.04998779296875,
+      "width": 78.69300079345703,
+      "height": 12.75701904296875
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15082"
+  },
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].Table4[0].Row1[0].Cell2[0]",
+    "label": "Charge. Row 1",
+    "type": 7,
+    "rect": {
+      "x": 130.9459991455078,
+      "y": 335.04998779296875,
+      "width": 175.58201599121094,
+      "height": 12.75701904296875
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15138"
+  },
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].Table4[0].Row1[0].Cell3[0]",
+    "label": "Outcome. Row 1",
+    "type": 7,
+    "rect": {
+      "x": 309.36199951171875,
+      "y": 335.04998779296875,
+      "width": 181.87200927734375,
+      "height": 12.75701904296875
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15137"
+  },
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].Table4[0].Row1[0].Cell4[0]",
+    "label": "Date (Month/Year). Row 1",
+    "type": 7,
+    "rect": {
+      "x": 494.0679931640625,
+      "y": 335.04998779296875,
+      "width": 65.04998779296875,
+      "height": 12.75701904296875
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15136"
+  },
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].Table4[0].Row1[0].#field[4]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 562.5349731445312,
+      "y": 336.9280090332031,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15135"
+  },
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].Table4[0].Row2[0].Cell1[0]",
+    "label": "Felony/misdemeanor. Row 2",
+    "type": 3,
+    "rect": {
+      "x": 49.41899871826172,
+      "y": 350.6409912109375,
+      "width": 78.69300079345703,
+      "height": 12.75701904296875
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15134"
+  },
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].Table4[0].Row2[0].Cell2[0]",
+    "label": "Charge. Row 2",
+    "type": 7,
+    "rect": {
+      "x": 130.9459991455078,
+      "y": 350.6409912109375,
+      "width": 175.58201599121094,
+      "height": 12.75701904296875
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15133"
+  },
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].Table4[0].Row2[0].Cell3[0]",
+    "label": "Outcome. Row 2",
+    "type": 7,
+    "rect": {
+      "x": 309.36199951171875,
+      "y": 350.6409912109375,
+      "width": 181.87200927734375,
+      "height": 12.75701904296875
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15132"
+  },
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].Table4[0].Row2[0].Cell4[0]",
+    "label": "Date (Month/Year). Row 2",
+    "type": 7,
+    "rect": {
+      "x": 494.0679931640625,
+      "y": 350.6409912109375,
+      "width": 65.04998779296875,
+      "height": 12.75701904296875
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15131"
+  },
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].Table4[0].Row2[0].#field[4]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 562.5349731445312,
+      "y": 352.5190124511719,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15130"
+  },
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].Table4[0].Row3[0].Cell1[0]",
+    "label": "Felony/misdemeanor. Row 3",
+    "type": 3,
+    "rect": {
+      "x": 49.41899871826172,
+      "y": 366.23199462890625,
+      "width": 78.69300079345703,
+      "height": 12.75701904296875
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15129"
+  },
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].Table4[0].Row3[0].Cell2[0]",
+    "label": "Charge. Row 3",
+    "type": 7,
+    "rect": {
+      "x": 130.9459991455078,
+      "y": 366.23199462890625,
+      "width": 175.58201599121094,
+      "height": 12.75701904296875
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15128"
+  },
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].Table4[0].Row3[0].Cell3[0]",
+    "label": "Outcome. Row 3",
+    "type": 7,
+    "rect": {
+      "x": 309.36199951171875,
+      "y": 366.23199462890625,
+      "width": 181.87200927734375,
+      "height": 12.75701904296875
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15127"
+  },
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].Table4[0].Row3[0].Cell4[0]",
+    "label": "Date (Month/Year). Row 3",
+    "type": 7,
+    "rect": {
+      "x": 494.0679931640625,
+      "y": 366.23199462890625,
+      "width": 65.04998779296875,
+      "height": 12.75701904296875
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15126"
+  },
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].Table4[0].Row3[0].#field[4]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 562.5349731445312,
+      "y": 368.1099853515625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15125"
+  },
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].Table4[0].Row4[0].Cell1[0]",
+    "label": " Felony/misdemeanor. Row 4",
+    "type": 3,
+    "rect": {
+      "x": 49.41899871826172,
+      "y": 381.822998046875,
+      "width": 78.69300079345703,
+      "height": 12.756988525390625
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15124"
+  },
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].Table4[0].Row4[0].Cell2[0]",
+    "label": "Charge. Row 4",
+    "type": 7,
+    "rect": {
+      "x": 130.9459991455078,
+      "y": 381.822998046875,
+      "width": 175.58201599121094,
+      "height": 12.756988525390625
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15123"
+  },
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].Table4[0].Row4[0].Cell3[0]",
+    "label": "Outcome. Row 4",
+    "type": 7,
+    "rect": {
+      "x": 309.36199951171875,
+      "y": 381.822998046875,
+      "width": 181.87200927734375,
+      "height": 12.756988525390625
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15122"
+  },
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].Table4[0].Row4[0].Cell4[0]",
+    "label": "Date (Month/Year). Row 4",
+    "type": 7,
+    "rect": {
+      "x": 494.0679931640625,
+      "y": 381.822998046875,
+      "width": 65.04998779296875,
+      "height": 12.756988525390625
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15121"
+  },
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].Table4[0].Row4[0].#field[4]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 562.5349731445312,
+      "y": 383.70098876953125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15120"
+  },
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].#area[2].RadioButtonList[1]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 52.33599853515625,
+      "y": 414.88299560546875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15115"
+  },
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].#area[2].RadioButtonList[1]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 177.50100708007812,
+      "y": 414.88299560546875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15114"
+  },
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].TextField11[1]",
+    "label": "(b.1) Provide a description of the sentence.",
+    "type": 7,
+    "rect": {
+      "x": 49.500999450683594,
+      "y": 452.5740051269531,
+      "width": 542.2510147094727,
+      "height": 14.86700439453125
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15113"
+  },
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].#area[3].RadioButtonList[2]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 503.8330078125,
+      "y": 473.23699951171875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15112"
+  },
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].#area[3].RadioButtonList[2]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 541.6309814453125,
+      "y": 473.23699951171875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15111"
+  },
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].RadioButtonList[3]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 502.99798583984375,
+      "y": 493.2349853515625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15110"
+  },
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].RadioButtonList[3]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 542.4660034179688,
+      "y": 493.2349853515625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15109"
+  },
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].#field[13]",
+    "label": "Present",
+    "type": 2,
+    "rect": {
+      "x": 552.1370239257812,
+      "y": 510.9429931640625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15105"
+  },
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].#field[20]",
+    "label": "If the conviction resulted in imprisonment, provide the dates that you actually were incarcerated. Not applicable",
+    "type": 2,
+    "rect": {
+      "x": 303.50201416015625,
+      "y": 510.9460144042969,
+      "width": 9.0,
+      "height": 9.000030517578125
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15098"
+  },
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].From_Datefield_Name_2[2]",
+    "label": "From Date (Month/Year)",
+    "type": 7,
+    "rect": {
+      "x": 373.5010070800781,
+      "y": 520.0009765625,
+      "width": 51.001007080078125,
+      "height": 17.73101806640625
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15108"
+  },
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].From_Datefield_Name_2[3]",
+    "label": "To Date (Month/Year)",
+    "type": 7,
+    "rect": {
+      "x": 474.0039978027344,
+      "y": 520.5029907226562,
+      "width": 51.944976806640625,
+      "height": 17.73101806640625
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15106"
+  },
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].#field[11]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 440.0039978027344,
+      "y": 525.4620361328125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15107"
+  },
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].#field[14]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 551.9749755859375,
+      "y": 525.4630126953125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15104"
+  },
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].#field[21]",
+    "label": "If conviction resulted in probation or parole, provide the dates of probation or parole. Not applicable",
+    "type": 2,
+    "rect": {
+      "x": 303.50201416015625,
+      "y": 540.9450073242188,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15097"
+  },
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].#field[18]",
+    "label": "Present",
+    "type": 2,
+    "rect": {
+      "x": 552.1480102539062,
+      "y": 541.302978515625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15100"
+  },
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].From_Datefield_Name_2[4]",
+    "label": "From Date (Month/Year)",
+    "type": 7,
+    "rect": {
+      "x": 373.51300048828125,
+      "y": 549.2520141601562,
+      "width": 50.944000244140625,
+      "height": 17.73101806640625
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15103"
+  },
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].From_Datefield_Name_2[5]",
+    "label": "To Date (Month/Year)",
+    "type": 7,
+    "rect": {
+      "x": 474.0150146484375,
+      "y": 549.2520141601562,
+      "width": 51.94500732421875,
+      "height": 17.73101806640625
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15101"
+  },
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].#field[16]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 440.0150146484375,
+      "y": 555.4620361328125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15102"
+  },
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].#field[19]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 551.9860229492188,
+      "y": 555.4620361328125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15099"
+  },
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].#area[5].RadioButtonList[4]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 50.83399963378906,
+      "y": 597.5980224609375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15096"
+  },
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].#area[5].RadioButtonList[4]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 88.63200378417969,
+      "y": 597.5980224609375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15095"
+  },
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].TextField11[2]",
+    "label": "Provide explanation.",
+    "type": 7,
+    "rect": {
+      "x": 119.9990005493164,
+      "y": 606.343017578125,
+      "width": 469.5019760131836,
+      "height": 13.21099853515625
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15094"
+  },
+  {
+    "page": 103,
+    "name": "form1[0].Section22_6[0].SSN[0]",
+    "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+    "type": 7,
+    "rect": {
+      "x": 476.7279968261719,
+      "y": 739.0009765625,
+      "width": 115.51303100585938,
+      "height": 13.6710205078125
+    },
+    "section": "22",
+    "subsection": null,
+    "entry": 2,
+    "id": "15088"
+  }
+]

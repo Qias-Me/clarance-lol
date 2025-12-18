@@ -1,0 +1,2104 @@
+{
+    "metadata": {
+        "sectionId": 4,
+        "sectionName": "Social Security Number ",
+        "totalFields": 138,
+        "pageRange": [
+            5,
+            136
+        ]
+    },
+    "fields": [
+        {
+            "id": "9452 0 R",
+            "name": "form1[0].Sections1-6[0].SSN[0]",
+            "page": 5,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4.",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "9441 0 R",
+            "name": "form1[0].Sections1-6[0].SSN[1]",
+            "value": "sect4ssn",
+            "page": 5,
+            "label": "Section 4. Social Security Number. Provide your U.S. Social Security Number",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 27,
+                "y": 507.76,
+                "width": 153,
+                "height": 17.61
+            },
+            "section": 4
+        },
+        {
+            "id": "9524 0 R",
+            "name": "form1[0].Sections7-9[0].SSN[0]",
+            "page": 6,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4.",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "9615 0 R",
+            "name": "form1[0].Section9\\.1-9\\.4[0].SSN[0]",
+            "page": 7,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4.",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "9627 0 R",
+            "name": "form1[0].Section10\\.1-10\\.2[0].SSN[0]",
+            "page": 8,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4.",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "9726 0 R",
+            "name": "form1[0].Section10-2[0].SSN[0]",
+            "value": "Yes",
+            "page": 9,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4.",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "9827 0 R",
+            "name": "form1[0].Section11[0].SSN[0]",
+            "page": 10,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4.",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "9896 0 R",
+            "name": "form1[0].Section11-2[0].SSN[0]",
+            "page": 11,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4.",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "9901 0 R",
+            "name": "form1[0].Section11-3[0].SSN[0]",
+            "page": 12,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4.",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "10030 0 R",
+            "name": "form1[0].Section11-4[0].SSN[0]",
+            "page": 13,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4.",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "10100 0 R",
+            "name": "form1[0].section_12[0].SSN[0]",
+            "page": 14,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4.",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "10136 0 R",
+            "name": "form1[0].section_12_2[0].SSN[0]",
+            "page": 15,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4.",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "10209 0 R",
+            "name": "form1[0].section_12_3[0].SSN[0]",
+            "page": 16,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4.",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "10248 0 R",
+            "name": "form1[0].section_13_1-2[0].SSN[0]",
+            "page": 17,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4.",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "10310 0 R",
+            "name": "form1[0].section13_2-2[0].SSN[0]",
+            "page": 18,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4.",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "10381 0 R",
+            "name": "form1[0].section13_3-2[0].SSN[0]",
+            "page": 19,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4.",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "10474 0 R",
+            "name": "form1[0].section13_4[0].SSN[0]",
+            "page": 20,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4.",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 38.08,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "10544 0 R",
+            "name": "form1[0].section_13_1[0].SSN[0]",
+            "page": 21,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4.",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "10558 0 R",
+            "name": "form1[0].section13_2[0].SSN[0]",
+            "page": 22,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4.",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "10711 0 R",
+            "name": "form1[0].section13_3[0].SSN[0]",
+            "page": 23,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4.",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "10727 0 R",
+            "name": "form1[0].section13_4[1].SSN[0]",
+            "page": 24,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4.",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 38.08,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "10787 0 R",
+            "name": "form1[0].section_13_1[1].SSN[0]",
+            "page": 25,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4.",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "10865 0 R",
+            "name": "form1[0].section13_2[1].SSN[0]",
+            "page": 26,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4.",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "10993 0 R",
+            "name": "form1[0].section13_3[1].SSN[0]",
+            "page": 27,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4.",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "11037 0 R",
+            "name": "form1[0].section13_4[2].SSN[0]",
+            "page": 28,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4.",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 38.08,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "11094 0 R",
+            "name": "form1[0].section_13_1[2].SSN[0]",
+            "page": 29,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4.",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "11209 0 R",
+            "name": "form1[0].section13_2[2].SSN[0]",
+            "page": 30,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4.",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "11239 0 R",
+            "name": "form1[0].section13_3[2].SSN[0]",
+            "page": 31,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4.",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "11320 0 R",
+            "name": "form1[0].section13_4[3].SSN[0]",
+            "page": 32,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4.",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 38.08,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "11358 0 R",
+            "name": "form1[0].section13_5[0].SSN[0]",
+            "page": 33,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4.",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "11411 0 R",
+            "name": "form1[0].Section14_1[0].SSN[0]",
+            "page": 34,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4.",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "11481 0 R",
+            "name": "form1[0].Section15_2[0].SSN[0]",
+            "page": 35,
+            "label": "Enter Social Security Number; this box will prefill on all other pages of the form ",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "11493 0 R",
+            "name": "form1[0].Section15_3[0].SSN[0]",
+            "page": 36,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "11591 0 R",
+            "name": "form1[0].Section16_1[0].SSN[0]",
+            "page": 37,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "11622 0 R",
+            "name": "form1[0].Section16_3[0].SSN[0]",
+            "page": 38,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "11775 0 R",
+            "name": "form1[0].Section17_1[0].SSN[0]",
+            "page": 39,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "11825 0 R",
+            "name": "form1[0].Section17_1_2[0].SSN[0]",
+            "page": 40,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "11863 0 R",
+            "name": "form1[0].Section17_2[0].SSN[0]",
+            "page": 41,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "11896 0 R",
+            "name": "form1[0].Section17_2_2[0].SSN[0]",
+            "page": 42,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "11956 0 R",
+            "name": "form1[0].Section17_3[0].SSN[0]",
+            "page": 43,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "12061 0 R",
+            "name": "form1[0].Section17_3_2[0].SSN[0]",
+            "page": 44,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "12147 0 R",
+            "name": "form1[0].Section18_1[0].SSN[0]",
+            "page": 45,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "12150 0 R",
+            "name": "form1[0].Section18_2[0].SSN[0]",
+            "page": 46,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.17,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "12250 0 R",
+            "name": "form1[0].Section18_3[0].SSN[0]",
+            "page": 47,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "12297 0 R",
+            "name": "form1[0].Section18_1_1[0].SSN[0]",
+            "page": 48,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "12351 0 R",
+            "name": "form1[0].Section18_2[1].SSN[0]",
+            "page": 49,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.17,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "12392 0 R",
+            "name": "form1[0].Section18_3[1].SSN[0]",
+            "page": 50,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "12447 0 R",
+            "name": "form1[0].Section18_1_1[1].SSN[0]",
+            "page": 51,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "12524 0 R",
+            "name": "form1[0].Section18_2[2].SSN[0]",
+            "page": 52,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.17,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "12596 0 R",
+            "name": "form1[0].Section18_3[2].SSN[0]",
+            "page": 53,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "12650 0 R",
+            "name": "form1[0].Section18_1_1[2].SSN[0]",
+            "page": 54,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "12697 0 R",
+            "name": "form1[0].Section18_2[3].SSN[0]",
+            "page": 55,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.17,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "12702 0 R",
+            "name": "form1[0].Section18_3[3].SSN[0]",
+            "page": 56,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "12797 0 R",
+            "name": "form1[0].Section18_1_1[3].SSN[0]",
+            "page": 57,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "12859 0 R",
+            "name": "form1[0].Section18_2[4].SSN[0]",
+            "page": 58,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.17,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "12942 0 R",
+            "name": "form1[0].Section18_3[4].SSN[0]",
+            "page": 59,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "12944 0 R",
+            "name": "form1[0].Section18_1_1[4].SSN[0]",
+            "page": 60,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "13043 0 R",
+            "name": "form1[0].Section18_2[5].SSN[0]",
+            "page": 61,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.17,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "13115 0 R",
+            "name": "form1[0].Section18_3[5].SSN[0]",
+            "page": 62,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "13142 0 R",
+            "name": "form1[0].Section19_1[0].SSN[0]",
+            "page": 63,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.2,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "13265 0 R",
+            "name": "form1[0].Section19_2[0].SSN[0]",
+            "page": 64,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "13354 0 R",
+            "name": "form1[0].Section19_3[0].SSN[0]",
+            "page": 65,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "13378 0 R",
+            "name": "form1[0].Section19_4[0].SSN[0]",
+            "page": 66,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "13445 0 R",
+            "name": "form1[0].Section20a[0].SSN[0]",
+            "page": 67,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "13521 0 R",
+            "name": "form1[0].Section20a2[0].SSN[0]",
+            "page": 68,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "13569 0 R",
+            "name": "form1[0].#subform[68].SSN[0]",
+            "page": 69,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "13578 0 R",
+            "name": "form1[0].#subform[69].SSN[1]",
+            "page": 70,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "13655 0 R",
+            "name": "form1[0].#subform[70].SSN[2]",
+            "page": 71,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "13701 0 R",
+            "name": "form1[0].#subform[71].SSN[3]",
+            "page": 72,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "13760 0 R",
+            "name": "form1[0].#subform[72].SSN[4]",
+            "page": 73,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "13817 0 R",
+            "name": "form1[0].#subform[74].SSN[5]",
+            "page": 74,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "13850 0 R",
+            "name": "form1[0].#subform[76].SSN[6]",
+            "page": 75,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "13899 0 R",
+            "name": "form1[0].#subform[77].SSN[7]",
+            "page": 76,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "13932 0 R",
+            "name": "form1[0].#subform[78].SSN[8]",
+            "page": 77,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "13974 0 R",
+            "name": "form1[0].#subform[79].SSN[9]",
+            "page": 78,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "14012 0 R",
+            "name": "form1[0].#subform[80].SSN[10]",
+            "page": 79,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 38.43,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "14077 0 R",
+            "name": "form1[0].#subform[83].#subform[84].SSN[11]",
+            "page": 80,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "14117 0 R",
+            "name": "form1[0].#subform[87].SSN[12]",
+            "page": 81,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "14155 0 R",
+            "name": "form1[0].#subform[89].SSN[13]",
+            "page": 82,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "14166 0 R",
+            "name": "form1[0].#subform[91].SSN[14]",
+            "page": 83,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "14233 0 R",
+            "name": "form1[0].#subform[92].SSN[15]",
+            "page": 84,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "14255 0 R",
+            "name": "form1[0].#subform[93].SSN[16]",
+            "page": 85,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "14295 0 R",
+            "name": "form1[0].#subform[94].SSN[17]",
+            "page": 86,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "14356 0 R",
+            "name": "form1[0].#subform[95].SSN[18]",
+            "value": "NO",
+            "page": 87,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "14383 0 R",
+            "name": "form1[0].Section21a[0].SSN[0]",
+            "page": 88,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "14432 0 R",
+            "name": "form1[0].Section21a2[0].SSN[0]",
+            "page": 89,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "14460 0 R",
+            "name": "form1[0].Section21b[0].SSN[0]",
+            "page": 90,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "14463 0 R",
+            "name": "form1[0].Section21b2[0].SSN[0]",
+            "page": 91,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "14534 0 R",
+            "name": "form1[0].Section21c[0].SSN[0]",
+            "page": 92,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "14620 0 R",
+            "name": "form1[0].section21d1[0].SSN[0]",
+            "page": 93,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "14689 0 R",
+            "name": "form1[0].section21d2[0].SSN[0]",
+            "page": 94,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "14705 0 R",
+            "name": "form1[0].Section21d3[0].SSN[0]",
+            "page": 95,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "14765 0 R",
+            "name": "form1[0].Section21e[0].SSN[0]",
+            "page": 96,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "14872 0 R",
+            "name": "form1[0].Section21e1[0].SSN[0]",
+            "page": 97,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "14874 0 R",
+            "name": "form1[0].Section22_1[0].SSN[0]",
+            "page": 98,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "14935 0 R",
+            "name": "form1[0].Section22_2[0].SSN[0]",
+            "page": 99,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "14997 0 R",
+            "name": "form1[0].Section22_3[0].SSN[0]",
+            "page": 100,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "15022 0 R",
+            "name": "form1[0].Section22_4[0].SSN[0]",
+            "page": 101,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "15038 0 R",
+            "name": "form1[0].Section22_5[0].SSN[0]",
+            "page": 102,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "15088 0 R",
+            "name": "form1[0].Section22_6[0].SSN[0]",
+            "page": 103,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "15173 0 R",
+            "name": "form1[0].Section22_3_1[0].SSN[0]",
+            "page": 104,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "15202 0 R",
+            "name": "form1[0].Section23_1[0].SSN[0]",
+            "page": 105,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "15273 0 R",
+            "name": "form1[0].Section23_2[0].SSN[0]",
+            "page": 106,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "15276 0 R",
+            "name": "form1[0].Section_23_3[0].SSN[0]",
+            "page": 107,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "15324 0 R",
+            "name": "form1[0].Section_23_4[0].SSN[0]",
+            "page": 108,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "15374 0 R",
+            "name": "form1[0].Section_23_5[0].SSN[0]",
+            "page": 109,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "15412 0 R",
+            "name": "form1[0].Section_23_6_1[0].SSN[0]",
+            "page": 110,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "15416 0 R",
+            "name": "form1[0].Section_23_6[0].SSN[0]",
+            "page": 111,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "15505 0 R",
+            "name": "form1[0].Section24[0].SSN[0]",
+            "page": 112,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "15580 0 R",
+            "name": "form1[0].Section24_2[0].SSN[0]",
+            "page": 113,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "15602 0 R",
+            "name": "form1[0].Section24_3[0].SSN[0]",
+            "page": 114,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "15666 0 R",
+            "name": "form1[0].Section24_4[0].SSN[0]",
+            "page": 115,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "15729 0 R",
+            "name": "form1[0].Section25[0].SSN[0]",
+            "page": 116,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "15748 0 R",
+            "name": "form1[0].Section25_2[0].SSN[0]",
+            "page": 117,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "15805 0 R",
+            "name": "form1[0].Section26[0].SSN[0]",
+            "page": 118,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "15864 0 R",
+            "name": "form1[0].Section26_2[0].SSN[0]",
+            "page": 119,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "15913 0 R",
+            "name": "form1[0].Section26_3[0].SSN[0]",
+            "page": 120,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "15941 0 R",
+            "name": "form1[0].Section26_6[0].SSN[0]",
+            "page": 121,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "15967 0 R",
+            "name": "form1[0].Section26_7[0].SSN[0]",
+            "page": 122,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "15976 0 R",
+            "name": "form1[0].Section26_8[0].SSN[0]",
+            "page": 123,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "16017 0 R",
+            "name": "form1[0].Section26_9[0].SSN[0]",
+            "page": 124,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "16058 0 R",
+            "name": "form1[0].Section27[0].SSN[0]",
+            "page": 125,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "16079 0 R",
+            "name": "form1[0].Section27_2[0].SSN[0]",
+            "page": 126,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "16100 0 R",
+            "name": "form1[0].Section28[0].SSN[0]",
+            "page": 127,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "16139 0 R",
+            "name": "form1[0].Section29[0].SSN[0]",
+            "page": 128,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "16168 0 R",
+            "name": "form1[0].Section29_2[0].SSN[0]",
+            "page": 129,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "16203 0 R",
+            "name": "form1[0].Section29_3[0].SSN[0]",
+            "page": 130,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "16238 0 R",
+            "name": "form1[0].Section29_4[0].SSN[0]",
+            "page": 131,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "16257 0 R",
+            "name": "form1[0].Section29_5[0].SSN[0]",
+            "page": 132,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "16260 0 R",
+            "name": "form1[0].continuation1[0].SSN[0]",
+            "page": 133,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "16271 0 R",
+            "name": "form1[0].continuation2[0].SSN[0]",
+            "page": 134,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "16268 0 R",
+            "name": "form1[0].continuation2[0].SSN[1]",
+            "page": 134,
+            "label": "SSN",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 490.09,
+                "y": 133.31,
+                "width": 96.98,
+                "height": 15.84
+            },
+            "section": 4
+        },
+        {
+            "id": "16286 0 R",
+            "name": "form1[0].continuation3[0].SSN[0]",
+            "page": 135,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "16280 0 R",
+            "name": "form1[0].continuation3[0].SSN[1]",
+            "page": 135,
+            "label": "Social Security Number",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 490.09,
+                "y": 295.99,
+                "width": 96.98,
+                "height": 15.84
+            },
+            "section": 4
+        },
+        {
+            "id": "16290 0 R",
+            "name": "form1[0].continuation4[0].SSN[0]",
+            "page": 136,
+            "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 476.73,
+                "y": 39.33,
+                "width": 115.51,
+                "height": 13.67
+            },
+            "section": 4
+        },
+        {
+            "id": "16287 0 R",
+            "name": "form1[0].continuation4[0].SSN[1]",
+            "page": 136,
+            "label": "Social Security Number",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 490.09,
+                "y": 328.64,
+                "width": 96.98,
+                "height": 15.84
+            },
+            "section": 4
+        },
+        {
+            "id": "17237 0 R",
+            "name": "form1[0].Sections1-6[0].RadioButtonList[0]",
+            "value": "YES",
+            "page": 5,
+            "label": "RadioButtonList",
+            "type": "PDFRadioGroup",
+            "maxLength": 0,
+            "options": [
+                "YES",
+                "NO"
+            ],
+            "rect": {
+                "x": 515.84,
+                "y": 691.25,
+                "width": 9,
+                "height": 9
+            },
+            "section": 4
+        },
+        {
+            "id": "9442 0 R",
+            "name": "form1[0].Sections1-6[0].CheckBox1[0]",
+            "value": true,
+            "page": 5,
+            "label": "Not applicable",
+            "type": "PDFCheckBox",
+            "maxLength": 0,
+            "rect": {
+                "x": 189.58,
+                "y": 511.75,
+                "width": 9,
+                "height": 9
+            },
+            "section": 4
+        }
+    ],
+    "statistics": {
+        "fieldTypes": {
+            "PDFTextField": 136,
+            "PDFRadioGroup": 1,
+            "PDFCheckBox": 1
+        },
+        "confidenceDistribution": {
+            "high": 136,
+            "medium": 0,
+            "low": 2
+        }
+    }
+}

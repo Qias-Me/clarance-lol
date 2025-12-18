@@ -1,0 +1,450 @@
+[
+  {
+    "id": "12072",
+    "name": "form1[0].Section18_1[0].#field[66]",
+    "label": "Section 18-Relatives. Select each type of relative applicable to you, regardless if they are living or deceased. (An opportunity will be provided to list multiple relatives for each type.)\rCheck all that apply. Mother",
+    "type": 2,
+    "page": 45,
+    "rect": {
+      "x": 28.499000549316406,
+      "y": 96.9990234375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "18",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "12074",
+    "name": "form1[0].Section18_1[0].#field[64]",
+    "label": "Foster parent",
+    "type": 2,
+    "page": 45,
+    "rect": {
+      "x": 132.5,
+      "y": 96.9990234375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "18",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "12069",
+    "name": "form1[0].Section18_1[0].#field[69]",
+    "label": "Sister",
+    "type": 2,
+    "page": 45,
+    "rect": {
+      "x": 304.5,
+      "y": 97.99700927734375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "18",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "12064",
+    "name": "form1[0].Section18_1[0].#field[74]",
+    "label": "Half-sister",
+    "type": 2,
+    "page": 45,
+    "rect": {
+      "x": 408.5010070800781,
+      "y": 97.99700927734375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "18",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "12077",
+    "name": "form1[0].Section18_1[0].#field[61]",
+    "label": "Father",
+    "type": 2,
+    "page": 45,
+    "rect": {
+      "x": 28.499000549316406,
+      "y": 111.16400146484375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "18",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "12076",
+    "name": "form1[0].Section18_1[0].#field[62]",
+    "label": "Child (including adopted/foster)",
+    "type": 2,
+    "page": 45,
+    "rect": {
+      "x": 132.5,
+      "y": 111.16400146484375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "18",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "12068",
+    "name": "form1[0].Section18_1[0].#field[70]",
+    "label": "Stepbrother",
+    "type": 2,
+    "page": 45,
+    "rect": {
+      "x": 304.5,
+      "y": 111.16400146484375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "18",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "12065",
+    "name": "form1[0].Section18_1[0].#field[73]",
+    "label": "Father-in-law",
+    "type": 2,
+    "page": 45,
+    "rect": {
+      "x": 408.5010070800781,
+      "y": 111.16400146484375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "18",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "12073",
+    "name": "form1[0].Section18_1[0].#field[65]",
+    "label": "Stepmother",
+    "type": 2,
+    "page": 45,
+    "rect": {
+      "x": 28.499000549316406,
+      "y": 125.3289794921875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "18",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "12075",
+    "name": "form1[0].Section18_1[0].#field[63]",
+    "label": "Stepchild",
+    "type": 2,
+    "page": 45,
+    "rect": {
+      "x": 132.5,
+      "y": 125.3289794921875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "18",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "12067",
+    "name": "form1[0].Section18_1[0].#field[71]",
+    "label": "Stepsister",
+    "type": 2,
+    "page": 45,
+    "rect": {
+      "x": 304.5,
+      "y": 125.3289794921875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "18",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "12063",
+    "name": "form1[0].Section18_1[0].#field[75]",
+    "label": "Mother-in-law",
+    "type": 2,
+    "page": 45,
+    "rect": {
+      "x": 408.5010070800781,
+      "y": 125.3289794921875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "18",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "12071",
+    "name": "form1[0].Section18_1[0].#field[67]",
+    "label": "Stepfather",
+    "type": 2,
+    "page": 45,
+    "rect": {
+      "x": 28.499000549316406,
+      "y": 139.4959716796875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "18",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "12070",
+    "name": "form1[0].Section18_1[0].#field[68]",
+    "label": "Brother",
+    "type": 2,
+    "page": 45,
+    "rect": {
+      "x": 132.5,
+      "y": 139.4959716796875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "18",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "12066",
+    "name": "form1[0].Section18_1[0].#field[72]",
+    "label": "Half-brother",
+    "type": 2,
+    "page": 45,
+    "rect": {
+      "x": 304.5,
+      "y": 139.4959716796875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "18",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "12062",
+    "name": "form1[0].Section18_1[0].#field[76]",
+    "label": "Guardian",
+    "type": 2,
+    "page": 45,
+    "rect": {
+      "x": 408.5010070800781,
+      "y": 139.4959716796875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "18",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "12173",
+    "name": "form1[0].Section18_2[0].RadioButtonList[1]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 46,
+    "rect": {
+      "x": 448.33599853515625,
+      "y": 77.83197021484375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "18",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "12172",
+    "name": "form1[0].Section18_2[0].RadioButtonList[1]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 46,
+    "rect": {
+      "x": 565.3300170898438,
+      "y": 77.83197021484375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "18",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "12343",
+    "name": "form1[0].Section18_2[1].RadioButtonList[1]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 49,
+    "rect": {
+      "x": 448.33599853515625,
+      "y": 77.83197021484375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "18",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "12342",
+    "name": "form1[0].Section18_2[1].RadioButtonList[1]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 49,
+    "rect": {
+      "x": 565.3300170898438,
+      "y": 77.83197021484375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "18",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "12516",
+    "name": "form1[0].Section18_2[2].RadioButtonList[1]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 52,
+    "rect": {
+      "x": 448.33599853515625,
+      "y": 77.83197021484375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "18",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "12515",
+    "name": "form1[0].Section18_2[2].RadioButtonList[1]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 52,
+    "rect": {
+      "x": 565.3300170898438,
+      "y": 77.83197021484375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "18",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "12689",
+    "name": "form1[0].Section18_2[3].RadioButtonList[1]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 55,
+    "rect": {
+      "x": 448.33599853515625,
+      "y": 77.83197021484375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "18",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "12688",
+    "name": "form1[0].Section18_2[3].RadioButtonList[1]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 55,
+    "rect": {
+      "x": 565.3300170898438,
+      "y": 77.83197021484375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "18",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "12851",
+    "name": "form1[0].Section18_2[4].RadioButtonList[1]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 58,
+    "rect": {
+      "x": 448.33599853515625,
+      "y": 77.83197021484375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "18",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "12850",
+    "name": "form1[0].Section18_2[4].RadioButtonList[1]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 58,
+    "rect": {
+      "x": 565.3300170898438,
+      "y": 77.83197021484375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "18",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "13035",
+    "name": "form1[0].Section18_2[5].RadioButtonList[1]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 61,
+    "rect": {
+      "x": 448.33599853515625,
+      "y": 77.83197021484375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "18",
+    "subsection": null,
+    "entry": null
+  },
+  {
+    "id": "13034",
+    "name": "form1[0].Section18_2[5].RadioButtonList[1]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 61,
+    "rect": {
+      "x": 565.3300170898438,
+      "y": 77.83197021484375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "18",
+    "subsection": null,
+    "entry": null
+  }
+]

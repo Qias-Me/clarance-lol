@@ -1,0 +1,54 @@
+# Interactive PDF Mapper Configuration
+# Generated on: 2025-12-14T01:49:12.037Z
+
+# API Configuration
+api:
+  glm45v:
+    api_key: "test-api-key-12345"
+    endpoint: "https://api.openai.com/v1"
+    timeout: 30000
+    max_retries: 3
+
+# Cache Configuration
+cache:
+  directory: "data/golden-maps"
+  ttl: 3600000  # 1 hour
+  max_size_mb: 1000
+  cleanup_interval: 86400000  # 24 hours
+
+# Processing Configuration
+processing:
+  max_concurrent_tasks: 3
+  default_timeout: 30000
+  chunk_size: 10
+
+# Validation Configuration
+validation:
+  default_tolerance: 0.5
+  strict_mode: true
+  evidence_only: true
+  auto_validate: true
+
+# Logging Configuration
+logging:
+  verbosity: "standard"
+  file_path: "./logs/interactive-pdf-mapper.log"
+  max_file_size_mb: 100
+  backup_count: 5
+
+# Component Generation
+components:
+  output_format: "typescript"
+  typescript: true
+  accessibility: true
+  responsive: true
+
+# Performance Monitoring
+monitoring:
+  enabled: true
+  metrics_collection: true
+  performance_reports: true
+  alert_thresholds:
+    response_time_ms: 500
+    cache_hit_rate: 0.95
+    memory_usage_percent: 80

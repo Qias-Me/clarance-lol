@@ -1,0 +1,25 @@
+{
+  "workflowId": "wf_f8f567eb1efa",
+  "documentPath": "C:\\Users\\TJ\\Desktop\\clarance-lol\\samples\\test-pdfs\\clean.pdf",
+  "documentHash": "",
+  "currentPhase": "error",
+  "phaseHistory": [
+    {
+      "phase": "loading",
+      "startedAt": "2025-12-14T11:12:37.837552",
+      "completedAt": "2025-12-14T11:12:37.887968",
+      "progressPercent": 33.33333333333333,
+      "itemsTotal": 3,
+      "itemsCompleted": 1,
+      "errorMessage": "PDFMetadataExtractor.__init__() missing 2 required positional arguments: 'document' and 'file_path'"
+    }
+  ],
+  "pages": [],
+  "detectedFields": [],
+  "validatedFields": [],
+  "retryPool": [],
+  "outputPaths": {},
+  "startedAt": "2025-12-14T11:12:37.778117",
+  "updatedAt": "2025-12-14T11:12:37.887973",
+  "error": "PDFMetadataExtractor.__init__() missing 2 required positional arguments: 'document' and 'file_path'"
+}

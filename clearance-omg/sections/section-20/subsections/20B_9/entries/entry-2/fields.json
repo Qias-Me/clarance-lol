@@ -1,0 +1,98 @@
+[
+  {
+    "id": "14188",
+    "name": "form1[0].#subform[91].From_Datefield_Name_2[44]",
+    "label": "Entry #2. Provide the date you voted in the foreign election. (Month/Year)",
+    "type": 7,
+    "page": 83,
+    "rect": {
+      "x": 36.0,
+      "y": 394.0719909667969,
+      "width": 246.49798583984375,
+      "height": 17.680023193359375
+    },
+    "section": "20",
+    "subsection": "20B.9",
+    "entry": 2
+  },
+  {
+    "id": "14185",
+    "name": "form1[0].#subform[91].From_Datefield_Name_2[45]",
+    "label": "Provide the name of the country involved.",
+    "type": 3,
+    "page": 83,
+    "rect": {
+      "x": 320.99798583984375,
+      "y": 394.0719909667969,
+      "width": 270.0,
+      "height": 17.680023193359375
+    },
+    "section": "20",
+    "subsection": "20B.9",
+    "entry": 2
+  },
+  {
+    "id": "14187",
+    "name": "form1[0].#subform[91].#field[533]",
+    "label": "Estimate",
+    "type": 2,
+    "page": 83,
+    "rect": {
+      "x": 285.8760070800781,
+      "y": 398.3030090332031,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "20",
+    "subsection": "20B.9",
+    "entry": 2
+  },
+  {
+    "id": "14186",
+    "name": "form1[0].#subform[91].TextField11[231]",
+    "label": "Provide the reason(s) for these activities.",
+    "type": 7,
+    "page": 83,
+    "rect": {
+      "x": 36.0,
+      "y": 422.5710144042969,
+      "width": 281.9989929199219,
+      "height": 15.67999267578125
+    },
+    "section": "20",
+    "subsection": "20B.9",
+    "entry": 2
+  },
+  {
+    "id": "14156",
+    "name": "form1[0].#subform[91].TextField11[230]",
+    "label": "Provide your current eligibility to vote in a foreign country.",
+    "type": 7,
+    "page": 83,
+    "rect": {
+      "x": 320.99798583984375,
+      "y": 422.5710144042969,
+      "width": 270.0,
+      "height": 14.844970703125
+    },
+    "section": "20",
+    "subsection": "20B.9",
+    "entry": 2
+  },
+  {
+    "id": "14166",
+    "name": "form1[0].#subform[91].SSN[14]",
+    "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+    "type": 7,
+    "page": 83,
+    "rect": {
+      "x": 476.7279968261719,
+      "y": 739.0009765625,
+      "width": 115.51303100585938,
+      "height": 13.6710205078125
+    },
+    "section": "20",
+    "subsection": "20B.9",
+    "entry": 2
+  }
+]

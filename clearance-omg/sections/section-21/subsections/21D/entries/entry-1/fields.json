@@ -1,0 +1,546 @@
+[
+  {
+    "id": "14562",
+    "name": "form1[0].section21d1[0].TextField11[20]",
+    "label": "Complete the following if you responded 'Yes' to having EVER been diagnosed by a physician or other health professional. Entry #1. Identify the diagnosis or health condition.",
+    "type": 7,
+    "page": 93,
+    "rect": {
+      "x": 35.54100036621094,
+      "y": 217.39398193359375,
+      "width": 303.4399871826172,
+      "height": 26.614013671875
+    },
+    "section": "21",
+    "subsection": "21D",
+    "entry": 1
+  },
+  {
+    "id": "14569",
+    "name": "form1[0].section21d1[0].#field[46]",
+    "label": "Present",
+    "type": 2,
+    "page": 93,
+    "rect": {
+      "x": 550.5269775390625,
+      "y": 219.54498291015625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "21",
+    "subsection": "21D",
+    "entry": 1
+  },
+  {
+    "id": "14572",
+    "name": "form1[0].section21d1[0].From_Datefield_Name_2[0]",
+    "label": "Provide the dates of diagnosis. From Date (Month/Year)",
+    "type": 7,
+    "page": 93,
+    "rect": {
+      "x": 344.9960021972656,
+      "y": 227.58697509765625,
+      "width": 83.05499267578125,
+      "height": 17.748046875
+    },
+    "section": "21",
+    "subsection": "21D",
+    "entry": 1
+  },
+  {
+    "id": "14570",
+    "name": "form1[0].section21d1[0].From_Datefield_Name_2[1]",
+    "label": "To Date (Month/Year)",
+    "type": 7,
+    "page": 93,
+    "rect": {
+      "x": 466.875,
+      "y": 227.58697509765625,
+      "width": 75.77001953125,
+      "height": 17.748046875
+    },
+    "section": "21",
+    "subsection": "21D",
+    "entry": 1
+  },
+  {
+    "id": "14571",
+    "name": "form1[0].section21d1[0].#field[44]",
+    "label": "Estimate",
+    "type": 2,
+    "page": 93,
+    "rect": {
+      "x": 432.97698974609375,
+      "y": 232.08197021484375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "21",
+    "subsection": "21D",
+    "entry": 1
+  },
+  {
+    "id": "14568",
+    "name": "form1[0].section21d1[0].#field[47]",
+    "label": "Estimate",
+    "type": 2,
+    "page": 93,
+    "rect": {
+      "x": 550.5269775390625,
+      "y": 233.08599853515625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "21",
+    "subsection": "21D",
+    "entry": 1
+  },
+  {
+    "id": "14567",
+    "name": "form1[0].section21d1[0].#field[48]",
+    "label": "Day",
+    "type": 2,
+    "page": 93,
+    "rect": {
+      "x": 499.5950012207031,
+      "y": 259.1669921875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "21",
+    "subsection": "21D",
+    "entry": 1
+  },
+  {
+    "id": "14566",
+    "name": "form1[0].section21d1[0].#field[49]",
+    "label": "Night",
+    "type": 2,
+    "page": 93,
+    "rect": {
+      "x": 551.3619995117188,
+      "y": 259.1669921875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "21",
+    "subsection": "21D",
+    "entry": 1
+  },
+  {
+    "id": "14565",
+    "name": "form1[0].section21d1[0].p3-t68[2]",
+    "label": "Provide the telephone number of the health care professional. Telephone number.",
+    "type": 7,
+    "page": 93,
+    "rect": {
+      "x": 344.9960021972656,
+      "y": 267.9019775390625,
+      "width": 100.63299560546875,
+      "height": 17.680023193359375
+    },
+    "section": "21",
+    "subsection": "21D",
+    "entry": 1
+  },
+  {
+    "id": "14564",
+    "name": "form1[0].section21d1[0].TextField11[19]",
+    "label": "Extension",
+    "type": 7,
+    "page": 93,
+    "rect": {
+      "x": 450.9949951171875,
+      "y": 267.9739990234375,
+      "width": 38.001007080078125,
+      "height": 17.608001708984375
+    },
+    "section": "21",
+    "subsection": "21D",
+    "entry": 1
+  },
+  {
+    "id": "14573",
+    "name": "form1[0].section21d1[0].TextField11[18]",
+    "label": "Provide the name of the health care professional who diagnosed you, or is currently treating you for such diagnosis, or with whom you have discussed such condition.",
+    "type": 7,
+    "page": 93,
+    "rect": {
+      "x": 35.48400115966797,
+      "y": 268.947998046875,
+      "width": 298.1590042114258,
+      "height": 18.800994873046875
+    },
+    "section": "21",
+    "subsection": "21D",
+    "entry": 1
+  },
+  {
+    "id": "14563",
+    "name": "form1[0].section21d1[0].#field[52]",
+    "label": "International or DSN phone number",
+    "type": 2,
+    "page": 93,
+    "rect": {
+      "x": 499.5950012207031,
+      "y": 270.52801513671875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "21",
+    "subsection": "21D",
+    "entry": 1
+  },
+  {
+    "id": "14616",
+    "name": "form1[0].section21d1[0].TextField11[1]",
+    "label": "City",
+    "type": 7,
+    "page": 93,
+    "rect": {
+      "x": 208.9980010986328,
+      "y": 319.1419982910156,
+      "width": 110.87998962402344,
+      "height": 14.915008544921875
+    },
+    "section": "21",
+    "subsection": "21D",
+    "entry": 1
+  },
+  {
+    "id": "14614",
+    "name": "form1[0].section21d1[0].#field[5]",
+    "label": "Country",
+    "type": 3,
+    "page": 93,
+    "rect": {
+      "x": 450.8760070800781,
+      "y": 319.1419982910156,
+      "width": 142.00198364257812,
+      "height": 14.915008544921875
+    },
+    "section": "21",
+    "subsection": "21D",
+    "entry": 1
+  },
+  {
+    "id": "14617",
+    "name": "form1[0].section21d1[0].TextField11[0]",
+    "label": "Provide the address of the health care professional who diagnosed you, or is currently treating you for such diagnosis, or with whom you have discussed such condition.  (Provide City and Country if outside the United States; otherwise, provide City, State and Zip Code). Street",
+    "type": 7,
+    "page": 93,
+    "rect": {
+      "x": 35.48400115966797,
+      "y": 319.28399658203125,
+      "width": 166.49999237060547,
+      "height": 14.77301025390625
+    },
+    "section": "21",
+    "subsection": "21D",
+    "entry": 1
+  },
+  {
+    "id": "14615",
+    "name": "form1[0].section21d1[0].School6_State[0]",
+    "label": "State",
+    "type": 3,
+    "page": 93,
+    "rect": {
+      "x": 328.5010070800781,
+      "y": 319.28399658203125,
+      "width": 45.49798583984375,
+      "height": 17.608001708984375
+    },
+    "section": "21",
+    "subsection": "21D",
+    "entry": 1
+  },
+  {
+    "id": "14613",
+    "name": "form1[0].section21d1[0].TextField11[2]",
+    "label": "Zip Code",
+    "type": 7,
+    "page": 93,
+    "rect": {
+      "x": 380.72698974609375,
+      "y": 319.9070129394531,
+      "width": 65.9990234375,
+      "height": 14.149993896484375
+    },
+    "section": "21",
+    "subsection": "21D",
+    "entry": 1
+  },
+  {
+    "id": "14612",
+    "name": "form1[0].section21d1[0].#field[7]",
+    "label": "Provide the name of agency/organization/facility where counseling/treatment was provided. Same as above",
+    "type": 2,
+    "page": 93,
+    "rect": {
+      "x": 245.01400756835938,
+      "y": 341.00201416015625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "21",
+    "subsection": "21D",
+    "entry": 1
+  },
+  {
+    "id": "14602",
+    "name": "form1[0].section21d1[0].#field[15]",
+    "label": "Provide the telephone number of the agency/organization/facility. Same as above",
+    "type": 2,
+    "page": 93,
+    "rect": {
+      "x": 543.3679809570312,
+      "y": 341.00299072265625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "21",
+    "subsection": "21D",
+    "entry": 1
+  },
+  {
+    "id": "14600",
+    "name": "form1[0].section21d1[0].#field[17]",
+    "label": "Day",
+    "type": 2,
+    "page": 93,
+    "rect": {
+      "x": 452.1889953613281,
+      "y": 355.1199951171875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "21",
+    "subsection": "21D",
+    "entry": 1
+  },
+  {
+    "id": "14599",
+    "name": "form1[0].section21d1[0].#field[18]",
+    "label": "Night",
+    "type": 2,
+    "page": 93,
+    "rect": {
+      "x": 488.0780029296875,
+      "y": 355.1199951171875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "21",
+    "subsection": "21D",
+    "entry": 1
+  },
+  {
+    "id": "14598",
+    "name": "form1[0].section21d1[0].p3-t68[0]",
+    "label": "Provide the telephone number of the agency/organization/facility. Telephone number",
+    "type": 7,
+    "page": 93,
+    "rect": {
+      "x": 297.5899963378906,
+      "y": 361.15899658203125,
+      "width": 100.63299560546875,
+      "height": 17.67999267578125
+    },
+    "section": "21",
+    "subsection": "21D",
+    "entry": 1
+  },
+  {
+    "id": "14597",
+    "name": "form1[0].section21d1[0].TextField11[8]",
+    "label": "Extension",
+    "type": 7,
+    "page": 93,
+    "rect": {
+      "x": 403.5880126953125,
+      "y": 361.2309875488281,
+      "width": 38.0009765625,
+      "height": 17.608001708984375
+    },
+    "section": "21",
+    "subsection": "21D",
+    "entry": 1
+  },
+  {
+    "id": "14601",
+    "name": "form1[0].section21d1[0].TextField11[7]",
+    "label": "Provide the name of any agency/organization/facility\nwhere counseling/treatment was provided.",
+    "type": 7,
+    "page": 93,
+    "rect": {
+      "x": 35.48400115966797,
+      "y": 361.8800048828125,
+      "width": 204.7459945678711,
+      "height": 16.135009765625
+    },
+    "section": "21",
+    "subsection": "21D",
+    "entry": 1
+  },
+  {
+    "id": "14596",
+    "name": "form1[0].section21d1[0].#field[21]",
+    "label": "International or DSN phone number",
+    "type": 2,
+    "page": 93,
+    "rect": {
+      "x": 452.1889953613281,
+      "y": 367.9779968261719,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "21",
+    "subsection": "21D",
+    "entry": 1
+  },
+  {
+    "id": "14606",
+    "name": "form1[0].section21d1[0].#field[13]",
+    "label": "Provide the address of agency/organization/facility provider.  (Provide City and Country if outside the United States; otherwise, provide City, State and Zip Code). Same as above",
+    "type": 2,
+    "page": 93,
+    "rect": {
+      "x": 543.3679809570312,
+      "y": 383.2879943847656,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "21",
+    "subsection": "21D",
+    "entry": 1
+  },
+  {
+    "id": "14610",
+    "name": "form1[0].section21d1[0].TextField11[4]",
+    "label": "City",
+    "type": 7,
+    "page": 93,
+    "rect": {
+      "x": 208.98699951171875,
+      "y": 410.8710021972656,
+      "width": 110.8800048828125,
+      "height": 14.915008544921875
+    },
+    "section": "21",
+    "subsection": "21D",
+    "entry": 1
+  },
+  {
+    "id": "14611",
+    "name": "form1[0].section21d1[0].TextField11[3]",
+    "label": "Provide the address of agency/organization/facility where counseling/treatment was provided. (Provide City and Country if outside the United States; otherwise, provide City, State and Zip Code). Street",
+    "type": 7,
+    "page": 93,
+    "rect": {
+      "x": 36.0,
+      "y": 411.01300048828125,
+      "width": 166.5,
+      "height": 14.77301025390625
+    },
+    "section": "21",
+    "subsection": "21D",
+    "entry": 1
+  },
+  {
+    "id": "14609",
+    "name": "form1[0].section21d1[0].School6_State[1]",
+    "label": "State",
+    "type": 3,
+    "page": 93,
+    "rect": {
+      "x": 328.489990234375,
+      "y": 411.01300048828125,
+      "width": 45.498016357421875,
+      "height": 17.608001708984375
+    },
+    "section": "21",
+    "subsection": "21D",
+    "entry": 1
+  },
+  {
+    "id": "14608",
+    "name": "form1[0].section21d1[0].#field[11]",
+    "label": "Country",
+    "type": 3,
+    "page": 93,
+    "rect": {
+      "x": 450.864990234375,
+      "y": 411.5090026855469,
+      "width": 142.00201416015625,
+      "height": 14.277008056640625
+    },
+    "section": "21",
+    "subsection": "21D",
+    "entry": 1
+  },
+  {
+    "id": "14607",
+    "name": "form1[0].section21d1[0].TextField11[5]",
+    "label": "Zip Code",
+    "type": 7,
+    "page": 93,
+    "rect": {
+      "x": 380.71600341796875,
+      "y": 411.635986328125,
+      "width": 65.99899291992188,
+      "height": 14.1500244140625
+    },
+    "section": "21",
+    "subsection": "21D",
+    "entry": 1
+  },
+  {
+    "id": "14604",
+    "name": "form1[0].section21d1[0].RadioButtonList[1]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 93,
+    "rect": {
+      "x": 38.834999084472656,
+      "y": 446.17401123046875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "21",
+    "subsection": "21D",
+    "entry": 1
+  },
+  {
+    "id": "14605",
+    "name": "form1[0].section21d1[0].RadioButtonList[1]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "page": 93,
+    "rect": {
+      "x": 79.91500091552734,
+      "y": 446.17401123046875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "21",
+    "subsection": "21D",
+    "entry": 1
+  },
+  {
+    "id": "14603",
+    "name": "form1[0].section21d1[0].TextField11[6]",
+    "label": "If no, provide explanation",
+    "type": 7,
+    "page": 93,
+    "rect": {
+      "x": 216.61300659179688,
+      "y": 446.59600830078125,
+      "width": 376.7809753417969,
+      "height": 18.464996337890625
+    },
+    "section": "21",
+    "subsection": "21D",
+    "entry": 1
+  }
+]

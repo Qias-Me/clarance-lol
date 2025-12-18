@@ -1,0 +1,8 @@
+{
+  "glm45v_api_key": "test-api-key-12345",
+  "cache_directory": "data/golden-maps",
+  "validation_tolerance": "0.5",
+  "max_concurrent_tasks": "3",
+  "log_verbosity": "standard",
+  "component_output_format": "typescript"
+}

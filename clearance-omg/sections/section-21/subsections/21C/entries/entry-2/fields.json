@@ -1,0 +1,242 @@
+[
+  {
+    "id": "14503",
+    "name": "form1[0].Section21c[0].TextField11[10]",
+    "label": "Explanation",
+    "type": 7,
+    "page": 92,
+    "rect": {
+      "x": 151.6529998779297,
+      "y": 285.1650085449219,
+      "width": 247.47300720214844,
+      "height": 17.001983642578125
+    },
+    "section": "21",
+    "subsection": "21C",
+    "entry": 2
+  },
+  {
+    "id": "14505",
+    "name": "form1[0].Section21c[0].#field[28]",
+    "label": "Complete the following if you responded 'Yes' to having EVER been hospitalized for a mental health condition. Entry #2. Was the admission voluntary or involuntary. Voluntary",
+    "type": 2,
+    "page": 92,
+    "rect": {
+      "x": 38.15299987792969,
+      "y": 289.1659851074219,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "21",
+    "subsection": "21C",
+    "entry": 2
+  },
+  {
+    "id": "14507",
+    "name": "form1[0].Section21c[0].#field[26]",
+    "label": "Present",
+    "type": 2,
+    "page": 92,
+    "rect": {
+      "x": 549.8980102539062,
+      "y": 298.67401123046875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "21",
+    "subsection": "21C",
+    "entry": 2
+  },
+  {
+    "id": "14510",
+    "name": "form1[0].Section21c[0].From_Datefield_Name_2[2]",
+    "label": "Provide the dates of treatment. From Date (Month/Year)",
+    "type": 7,
+    "page": 92,
+    "rect": {
+      "x": 403.8970031738281,
+      "y": 303.08599853515625,
+      "width": 49.503997802734375,
+      "height": 17.94000244140625
+    },
+    "section": "21",
+    "subsection": "21C",
+    "entry": 2
+  },
+  {
+    "id": "14508",
+    "name": "form1[0].Section21c[0].From_Datefield_Name_2[3]",
+    "label": "To Date (Month/Year)",
+    "type": 7,
+    "page": 92,
+    "rect": {
+      "x": 493.8890075683594,
+      "y": 303.7340087890625,
+      "width": 49.501007080078125,
+      "height": 17.2919921875
+    },
+    "section": "21",
+    "subsection": "21C",
+    "entry": 2
+  },
+  {
+    "id": "14502",
+    "name": "form1[0].Section21c[0].TextField11[11]",
+    "label": "Explanation",
+    "type": 7,
+    "page": 92,
+    "rect": {
+      "x": 150.98399353027344,
+      "y": 307.82598876953125,
+      "width": 247.47300720214844,
+      "height": 17.00201416015625
+    },
+    "section": "21",
+    "subsection": "21C",
+    "entry": 2
+  },
+  {
+    "id": "14509",
+    "name": "form1[0].Section21c[0].#field[24]",
+    "label": "Estimate",
+    "type": 2,
+    "page": 92,
+    "rect": {
+      "x": 455.39599609375,
+      "y": 311.2090148925781,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "21",
+    "subsection": "21C",
+    "entry": 2
+  },
+  {
+    "id": "14504",
+    "name": "form1[0].Section21c[0].#field[29]",
+    "label": "Involuntary",
+    "type": 2,
+    "page": 92,
+    "rect": {
+      "x": 38.04499816894531,
+      "y": 311.8269958496094,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "21",
+    "subsection": "21C",
+    "entry": 2
+  },
+  {
+    "id": "14506",
+    "name": "form1[0].Section21c[0].#field[27]",
+    "label": "Estimate",
+    "type": 2,
+    "page": 92,
+    "rect": {
+      "x": 549.89697265625,
+      "y": 312.2149963378906,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "21",
+    "subsection": "21C",
+    "entry": 2
+  },
+  {
+    "id": "14516",
+    "name": "form1[0].Section21c[0].TextField11[6]",
+    "label": "Provide the name of the facility where treatment was provided.",
+    "type": 7,
+    "page": 92,
+    "rect": {
+      "x": 36.0,
+      "y": 342.09600830078125,
+      "width": 556.8889770507812,
+      "height": 15.67999267578125
+    },
+    "section": "21",
+    "subsection": "21C",
+    "entry": 2
+  },
+  {
+    "id": "14514",
+    "name": "form1[0].Section21c[0].TextField11[8]",
+    "label": "City",
+    "type": 7,
+    "page": 92,
+    "rect": {
+      "x": 208.98699951171875,
+      "y": 381.0249938964844,
+      "width": 110.8800048828125,
+      "height": 14.915008544921875
+    },
+    "section": "21",
+    "subsection": "21C",
+    "entry": 2
+  },
+  {
+    "id": "14515",
+    "name": "form1[0].Section21c[0].TextField11[7]",
+    "label": "Provide the address of the facility where treatment was provided. (Provide City and Country if outside the United States; otherwise, provide City, State and Zip Code). Street",
+    "type": 7,
+    "page": 92,
+    "rect": {
+      "x": 36.0,
+      "y": 381.1669921875,
+      "width": 166.5,
+      "height": 14.77301025390625
+    },
+    "section": "21",
+    "subsection": "21C",
+    "entry": 2
+  },
+  {
+    "id": "14513",
+    "name": "form1[0].Section21c[0].School6_State[1]",
+    "label": "State",
+    "type": 3,
+    "page": 92,
+    "rect": {
+      "x": 328.489990234375,
+      "y": 381.1669921875,
+      "width": 45.498016357421875,
+      "height": 17.608001708984375
+    },
+    "section": "21",
+    "subsection": "21C",
+    "entry": 2
+  },
+  {
+    "id": "14512",
+    "name": "form1[0].Section21c[0].#field[21]",
+    "label": "Country",
+    "type": 3,
+    "page": 92,
+    "rect": {
+      "x": 450.864990234375,
+      "y": 381.6629943847656,
+      "width": 142.00201416015625,
+      "height": 14.277008056640625
+    },
+    "section": "21",
+    "subsection": "21C",
+    "entry": 2
+  },
+  {
+    "id": "14511",
+    "name": "form1[0].Section21c[0].TextField11[9]",
+    "label": "Zip Code",
+    "type": 7,
+    "page": 92,
+    "rect": {
+      "x": 380.71600341796875,
+      "y": 381.7900085449219,
+      "width": 65.99899291992188,
+      "height": 14.149993896484375
+    },
+    "section": "21",
+    "subsection": "21C",
+    "entry": 2
+  }
+]

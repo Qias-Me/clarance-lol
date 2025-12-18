@@ -1,0 +1,402 @@
+[
+  {
+    "page": 108,
+    "name": "form1[0].Section_23_4[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 452.8349914550781,
+      "y": 78.55499267578125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": null,
+    "id": "15313"
+  },
+  {
+    "page": 108,
+    "name": "form1[0].Section_23_4[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 488.38299560546875,
+      "y": 78.55499267578125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": null,
+    "id": "15312"
+  },
+  {
+    "page": 108,
+    "name": "form1[0].Section_23_4[0].TextField11[1]",
+    "label": "Complete the following if you responded 'Yes' to in the last seven (7) years having intentionally engaged in the misuse of prescription drugs, regardless of whether the drugs were prescribed for you or someone else. Entry #1. Provide the name of the prescription drug that you misused.",
+    "type": 7,
+    "rect": {
+      "x": 36.0,
+      "y": 147.8900146484375,
+      "width": 557.8779907226562,
+      "height": 14.86700439453125
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 1,
+    "id": "15310"
+  },
+  {
+    "page": 108,
+    "name": "form1[0].Section_23_4[0].TextField11[0]",
+    "label": "Provide the reason(s) for and circumstances of the misuse of the prescription drug.",
+    "type": 7,
+    "rect": {
+      "x": 288.0,
+      "y": 179.3389892578125,
+      "width": 306.0,
+      "height": 24.62200927734375
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 1,
+    "id": "15311"
+  },
+  {
+    "page": 108,
+    "name": "form1[0].Section_23_4[0].#field[2]",
+    "label": "Present",
+    "type": 2,
+    "rect": {
+      "x": 236.0,
+      "y": 182.51898193359375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 1,
+    "id": "15323"
+  },
+  {
+    "page": 108,
+    "name": "form1[0].Section_23_4[0].From_Datefield_Name_2[0]",
+    "label": "Provide the dates of involvement/use. From Date (Month/Year)",
+    "type": 7,
+    "rect": {
+      "x": 36.0,
+      "y": 189.0670166015625,
+      "width": 62.87799835205078,
+      "height": 17.73095703125
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 1,
+    "id": "15322"
+  },
+  {
+    "page": 108,
+    "name": "form1[0].Section_23_4[0].From_Datefield_Name_2[1]",
+    "label": "To Date (Month/Year)",
+    "type": 7,
+    "rect": {
+      "x": 150.06300354003906,
+      "y": 189.0670166015625,
+      "width": 68.06599426269531,
+      "height": 17.73095703125
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 1,
+    "id": "15320"
+  },
+  {
+    "page": 108,
+    "name": "form1[0].Section_23_4[0].#field[4]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 107.62699890136719,
+      "y": 194.27398681640625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 1,
+    "id": "15321"
+  },
+  {
+    "page": 108,
+    "name": "form1[0].Section_23_4[0].#field[6]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 236.0,
+      "y": 195.280029296875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 1,
+    "id": "15319"
+  },
+  {
+    "page": 108,
+    "name": "form1[0].Section_23_4[0].#area[1].RadioButtonList[1]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 503.9549865722656,
+      "y": 211.30401611328125,
+      "width": 9.000030517578125,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 1,
+    "id": "15309"
+  },
+  {
+    "page": 108,
+    "name": "form1[0].Section_23_4[0].#area[1].RadioButtonList[1]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 541.7529907226562,
+      "y": 211.30401611328125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 1,
+    "id": "15308"
+  },
+  {
+    "page": 108,
+    "name": "form1[0].Section_23_4[0].RadioButtonList[2]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 504.06298828125,
+      "y": 233.802978515625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 1,
+    "id": "15331"
+  },
+  {
+    "page": 108,
+    "name": "form1[0].Section_23_4[0].RadioButtonList[2]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 541.7540283203125,
+      "y": 233.802978515625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 1,
+    "id": "15307"
+  },
+  {
+    "page": 108,
+    "name": "form1[0].Section_23_4[0].TextField11[3]",
+    "label": "Entry #2. Provide the name of the prescription drug that you misused.",
+    "type": 7,
+    "rect": {
+      "x": 36.0,
+      "y": 269.3909912109375,
+      "width": 557.8779907226562,
+      "height": 14.86700439453125
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 2,
+    "id": "15329"
+  },
+  {
+    "page": 108,
+    "name": "form1[0].Section_23_4[0].TextField11[2]",
+    "label": "Provide the reason(s) for and circumstances of the misuse of the prescription drug.",
+    "type": 7,
+    "rect": {
+      "x": 288.0,
+      "y": 301.4540100097656,
+      "width": 306.0,
+      "height": 24.009002685546875
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 2,
+    "id": "15330"
+  },
+  {
+    "page": 108,
+    "name": "form1[0].Section_23_4[0].#field[7]",
+    "label": "Present",
+    "type": 2,
+    "rect": {
+      "x": 236.0,
+      "y": 304.0199890136719,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 2,
+    "id": "15318"
+  },
+  {
+    "page": 108,
+    "name": "form1[0].Section_23_4[0].From_Datefield_Name_2[2]",
+    "label": "Provide the dates of involvement/use. From Date (Month/Year)",
+    "type": 7,
+    "rect": {
+      "x": 36.0,
+      "y": 310.5690002441406,
+      "width": 62.87799835205078,
+      "height": 17.730987548828125
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 2,
+    "id": "15317"
+  },
+  {
+    "page": 108,
+    "name": "form1[0].Section_23_4[0].From_Datefield_Name_2[3]",
+    "label": "To Date (Month/Year)",
+    "type": 7,
+    "rect": {
+      "x": 150.06300354003906,
+      "y": 310.5690002441406,
+      "width": 68.06599426269531,
+      "height": 17.730987548828125
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 2,
+    "id": "15315"
+  },
+  {
+    "page": 108,
+    "name": "form1[0].Section_23_4[0].#field[9]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 107.62699890136719,
+      "y": 315.7749938964844,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 2,
+    "id": "15316"
+  },
+  {
+    "page": 108,
+    "name": "form1[0].Section_23_4[0].#field[11]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 236.0,
+      "y": 316.7820129394531,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 2,
+    "id": "15314"
+  },
+  {
+    "page": 108,
+    "name": "form1[0].Section_23_4[0].#area[3].RadioButtonList[3]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 504.04901123046875,
+      "y": 332.80499267578125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 2,
+    "id": "15328"
+  },
+  {
+    "page": 108,
+    "name": "form1[0].Section_23_4[0].#area[3].RadioButtonList[3]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 541.7540283203125,
+      "y": 332.80499267578125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 2,
+    "id": "15327"
+  },
+  {
+    "page": 108,
+    "name": "form1[0].Section_23_4[0].RadioButtonList[4]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 504.06298828125,
+      "y": 355.3039855957031,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 2,
+    "id": "15325"
+  },
+  {
+    "page": 108,
+    "name": "form1[0].Section_23_4[0].RadioButtonList[4]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 541.7540283203125,
+      "y": 355.3039855957031,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 2,
+    "id": "15326"
+  },
+  {
+    "page": 108,
+    "name": "form1[0].Section_23_4[0].SSN[0]",
+    "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+    "type": 7,
+    "rect": {
+      "x": 476.7279968261719,
+      "y": 739.0009765625,
+      "width": 115.51303100585938,
+      "height": 13.6710205078125
+    },
+    "section": "23",
+    "subsection": null,
+    "entry": 2,
+    "id": "15324"
+  }
+]

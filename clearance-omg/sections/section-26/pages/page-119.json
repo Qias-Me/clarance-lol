@@ -1,0 +1,786 @@
+[
+  {
+    "page": 119,
+    "name": "form1[0].Section26_2[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 452.8349914550781,
+      "y": 76.30401611328125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": null,
+    "id": "15863"
+  },
+  {
+    "page": 119,
+    "name": "form1[0].Section26_2[0].RadioButtonList[0]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 491.0740051269531,
+      "y": 76.30401611328125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": null,
+    "id": "15862"
+  },
+  {
+    "page": 119,
+    "name": "form1[0].Section26_2[0].NumericField2[0]",
+    "label": "Provide an estimate of the amount (in U.S. dollars) of gambling losses incurred.",
+    "type": 7,
+    "rect": {
+      "x": 277.2430114746094,
+      "y": 133.1259765625,
+      "width": 314.9999694824219,
+      "height": 23.791015625
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1,
+    "id": "15860"
+  },
+  {
+    "page": 119,
+    "name": "form1[0].Section26_2[0].#field[4]",
+    "label": "Present",
+    "type": 2,
+    "rect": {
+      "x": 231.50100708007812,
+      "y": 137.51898193359375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1,
+    "id": "15859"
+  },
+  {
+    "page": 119,
+    "name": "form1[0].Section26_2[0].From_Datefield_Name_2[0]",
+    "label": "Complete the following if you responded 'Yes' to having EVER experienced financial problems due to gambling. Entry #1. Provide the date range of your financial problems due to gambling. From Date (Month/Year)",
+    "type": 7,
+    "rect": {
+      "x": 36.0,
+      "y": 144.0670166015625,
+      "width": 83.2509994506836,
+      "height": 17.73095703125
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1,
+    "id": "15858"
+  },
+  {
+    "page": 119,
+    "name": "form1[0].Section26_2[0].From_Datefield_Name_2[1]",
+    "label": "To Date (Month/Year)",
+    "type": 7,
+    "rect": {
+      "x": 153.0,
+      "y": 144.0670166015625,
+      "width": 74.25100708007812,
+      "height": 17.73095703125
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1,
+    "id": "15856"
+  },
+  {
+    "page": 119,
+    "name": "form1[0].Section26_2[0].#field[6]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 121.25,
+      "y": 149.27398681640625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1,
+    "id": "15857"
+  },
+  {
+    "page": 119,
+    "name": "form1[0].Section26_2[0].#field[8]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 231.5,
+      "y": 150.280029296875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1,
+    "id": "15855"
+  },
+  {
+    "page": 119,
+    "name": "form1[0].Section26_2[0].p3-t68[0]",
+    "label": "Provide a description of your financial problems due to gambling.",
+    "type": 7,
+    "rect": {
+      "x": 36.0,
+      "y": 172.49700927734375,
+      "width": 234.0,
+      "height": 41.25201416015625
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1,
+    "id": "15861"
+  },
+  {
+    "page": 119,
+    "name": "form1[0].Section26_2[0].p3-t68[1]",
+    "label": "If you have taken any action(s) to rectify your financial problems due to gambling, provide a description of your actions. If you have not taken any action(s), provide explanation.",
+    "type": 7,
+    "rect": {
+      "x": 276.3009948730469,
+      "y": 185.25299072265625,
+      "width": 316.9620056152344,
+      "height": 28.49603271484375
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1,
+    "id": "15854"
+  },
+  {
+    "page": 119,
+    "name": "form1[0].Section26_2[0].NumericField2[1]",
+    "label": "Provide an estimate of the amount (in U.S. dollars) of gambling losses incurred.",
+    "type": 7,
+    "rect": {
+      "x": 276.3009948730469,
+      "y": 241.1259765625,
+      "width": 315.0000305175781,
+      "height": 23.791015625
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 2,
+    "id": "15852"
+  },
+  {
+    "page": 119,
+    "name": "form1[0].Section26_2[0].#field[12]",
+    "label": "Present",
+    "type": 2,
+    "rect": {
+      "x": 231.50100708007812,
+      "y": 245.51898193359375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 2,
+    "id": "15851"
+  },
+  {
+    "page": 119,
+    "name": "form1[0].Section26_2[0].From_Datefield_Name_2[2]",
+    "label": "Entry #2. Provide the date range of your financial problems due to gambling. From Date (Month/Year)",
+    "type": 7,
+    "rect": {
+      "x": 36.0,
+      "y": 252.0670166015625,
+      "width": 83.2509994506836,
+      "height": 17.73095703125
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 2,
+    "id": "15850"
+  },
+  {
+    "page": 119,
+    "name": "form1[0].Section26_2[0].From_Datefield_Name_2[3]",
+    "label": "To Date (Month/Year)",
+    "type": 7,
+    "rect": {
+      "x": 153.0,
+      "y": 252.0670166015625,
+      "width": 74.25100708007812,
+      "height": 17.73095703125
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 2,
+    "id": "15848"
+  },
+  {
+    "page": 119,
+    "name": "form1[0].Section26_2[0].#field[14]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 121.25,
+      "y": 257.27398681640625,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 2,
+    "id": "15849"
+  },
+  {
+    "page": 119,
+    "name": "form1[0].Section26_2[0].#field[16]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 231.5019989013672,
+      "y": 258.9210205078125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 2,
+    "id": "15847"
+  },
+  {
+    "page": 119,
+    "name": "form1[0].Section26_2[0].p3-t68[2]",
+    "label": "Provide a description of your financial problems due to gambling.",
+    "type": 7,
+    "rect": {
+      "x": 36.0,
+      "y": 280.49700927734375,
+      "width": 234.0,
+      "height": 41.251983642578125
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 2,
+    "id": "15853"
+  },
+  {
+    "page": 119,
+    "name": "form1[0].Section26_2[0].p3-t68[3]",
+    "label": "If you have taken any action(s) to rectify your financial problems due to gambling, provide a description of your actions. If you have not taken any action(s), provide explanation.",
+    "type": 7,
+    "rect": {
+      "x": 276.3009948730469,
+      "y": 293.8659973144531,
+      "width": 316.1960144042969,
+      "height": 27.88299560546875
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 2,
+    "id": "15846"
+  },
+  {
+    "page": 119,
+    "name": "form1[0].Section26_2[0].RadioButtonList[1]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 452.8349914550781,
+      "y": 330.55499267578125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 2,
+    "id": "15844"
+  },
+  {
+    "page": 119,
+    "name": "form1[0].Section26_2[0].RadioButtonList[1]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 491.0740051269531,
+      "y": 330.55499267578125,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 2,
+    "id": "15843"
+  },
+  {
+    "page": 119,
+    "name": "form1[0].Section26_2[0].p3-t68[4]",
+    "label": "Provide the year you failed to file or pay your Federal, state, or other taxes.",
+    "type": 7,
+    "rect": {
+      "x": 238.50100708007812,
+      "y": 386.2489929199219,
+      "width": 319.4989929199219,
+      "height": 17.75
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1,
+    "id": "15845"
+  },
+  {
+    "page": 119,
+    "name": "form1[0].Section26_2[0].#field[38]",
+    "label": "Estimate.",
+    "type": 2,
+    "rect": {
+      "x": 562.2509765625,
+      "y": 388.49798583984375,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1,
+    "id": "15817"
+  },
+  {
+    "page": 119,
+    "name": "form1[0].Section26_2[0].RadioButtonList[2]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 38.834999084472656,
+      "y": 390.9949951171875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1,
+    "id": "15842"
+  },
+  {
+    "page": 119,
+    "name": "form1[0].Section26_2[0].RadioButtonList[2]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 100.14800262451172,
+      "y": 390.9949951171875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1,
+    "id": "15841"
+  },
+  {
+    "page": 119,
+    "name": "form1[0].Section26_2[0].RadioButtonList[2]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 163.7100067138672,
+      "y": 390.9949951171875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1,
+    "id": "15840"
+  },
+  {
+    "page": 119,
+    "name": "form1[0].Section26_2[0].TextField11[2]",
+    "label": "Provide the reason(s) for your failure to file or pay required taxes.",
+    "type": 7,
+    "rect": {
+      "x": 36.0,
+      "y": 416.135009765625,
+      "width": 234.0,
+      "height": 27.8599853515625
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1,
+    "id": "15834"
+  },
+  {
+    "page": 119,
+    "name": "form1[0].Section26_2[0].TextField11[0]",
+    "label": "Provide the Federal, state, or other agency to which you failed to file or pay taxes.",
+    "type": 7,
+    "rect": {
+      "x": 276.3009948730469,
+      "y": 426.4809875488281,
+      "width": 157.49899291992188,
+      "height": 17.514007568359375
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1,
+    "id": "15836"
+  },
+  {
+    "page": 119,
+    "name": "form1[0].Section26_2[0].TextField11[3]",
+    "label": "Provide the type of taxes you failed to file or pay (such as property, income, sales, etc.).",
+    "type": 7,
+    "rect": {
+      "x": 436.5010070800781,
+      "y": 426.4809875488281,
+      "width": 157.49899291992188,
+      "height": 17.514007568359375
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1,
+    "id": "15833"
+  },
+  {
+    "page": 119,
+    "name": "form1[0].Section26_2[0].#field[21]",
+    "label": "Provide date satisfied. (Month/Year). Not applicable",
+    "type": 2,
+    "rect": {
+      "x": 438.5,
+      "y": 449.3689880371094,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1,
+    "id": "15837"
+  },
+  {
+    "page": 119,
+    "name": "form1[0].Section26_2[0].NumericField2[2]",
+    "label": "Provide the amount (in U.S. dollars) of the taxes. ",
+    "type": 7,
+    "rect": {
+      "x": 36.0,
+      "y": 456.5610046386719,
+      "width": 193.50100708007812,
+      "height": 17.6829833984375
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1,
+    "id": "15832"
+  },
+  {
+    "page": 119,
+    "name": "form1[0].Section26_2[0].From_Datefield_Name_2[4]",
+    "label": "Provide date satisfied. (Month/Year)",
+    "type": 7,
+    "rect": {
+      "x": 276.3009948730469,
+      "y": 456.5639953613281,
+      "width": 153.0,
+      "height": 17.67999267578125
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1,
+    "id": "15838"
+  },
+  {
+    "page": 119,
+    "name": "form1[0].Section26_2[0].#field[27]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 238.25100708007812,
+      "y": 460.9939880371094,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1,
+    "id": "15831"
+  },
+  {
+    "page": 119,
+    "name": "form1[0].Section26_2[0].#field[19]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 438.5010070800781,
+      "y": 461.7430114746094,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1,
+    "id": "15839"
+  },
+  {
+    "page": 119,
+    "name": "form1[0].Section26_2[0].TextField11[1]",
+    "label": "Provide a description of any action(s) you have taken to satisfy this debt (such as withholdings, frequency and amount of payments, etc.). If you have not taken any action(s) provide explanation.",
+    "type": 7,
+    "rect": {
+      "x": 36.0,
+      "y": 496.9949951171875,
+      "width": 558.0,
+      "height": 16.7490234375
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 1,
+    "id": "15835"
+  },
+  {
+    "page": 119,
+    "name": "form1[0].Section26_2[0].p3-t68[5]",
+    "label": "Provide the year you failed to file or pay your Federal, state, or other taxes.",
+    "type": 7,
+    "rect": {
+      "x": 238.50100708007812,
+      "y": 541.5,
+      "width": 317.2480163574219,
+      "height": 17.75
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 2,
+    "id": "15830"
+  },
+  {
+    "page": 119,
+    "name": "form1[0].Section26_2[0].#field[39]",
+    "label": "Estimate.",
+    "type": 2,
+    "rect": {
+      "x": 562.2509765625,
+      "y": 546.0,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 2,
+    "id": "15816"
+  },
+  {
+    "page": 119,
+    "name": "form1[0].Section26_2[0].RadioButtonList[3]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 38.834999084472656,
+      "y": 546.2459716796875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 2,
+    "id": "15829"
+  },
+  {
+    "page": 119,
+    "name": "form1[0].Section26_2[0].RadioButtonList[3]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 100.14800262451172,
+      "y": 546.2459716796875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 2,
+    "id": "15828"
+  },
+  {
+    "page": 119,
+    "name": "form1[0].Section26_2[0].RadioButtonList[3]",
+    "label": "RadioButtonList",
+    "type": 5,
+    "rect": {
+      "x": 163.7100067138672,
+      "y": 546.2459716796875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 2,
+    "id": "15827"
+  },
+  {
+    "page": 119,
+    "name": "form1[0].Section26_2[0].TextField11[6]",
+    "label": "Provide the reason(s) for your failure to file or pay required taxes.",
+    "type": 7,
+    "rect": {
+      "x": 36.0,
+      "y": 571.385986328125,
+      "width": 234.0,
+      "height": 27.8599853515625
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 2,
+    "id": "15821"
+  },
+  {
+    "page": 119,
+    "name": "form1[0].Section26_2[0].TextField11[4]",
+    "label": "Provide the Federal, state, or other agency to which you failed to file or pay taxes.",
+    "type": 7,
+    "rect": {
+      "x": 276.3009948730469,
+      "y": 581.7319946289062,
+      "width": 157.49899291992188,
+      "height": 17.51397705078125
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 2,
+    "id": "15823"
+  },
+  {
+    "page": 119,
+    "name": "form1[0].Section26_2[0].TextField11[7]",
+    "label": "Provide the type of taxes you failed to file or pay (such as property, income, sales, etc.).",
+    "type": 7,
+    "rect": {
+      "x": 436.5010070800781,
+      "y": 581.7319946289062,
+      "width": 157.49899291992188,
+      "height": 17.51397705078125
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 2,
+    "id": "15820"
+  },
+  {
+    "page": 119,
+    "name": "form1[0].Section26_2[0].#field[31]",
+    "label": "Provide date satisfied. (Month/Year). Not applicable",
+    "type": 2,
+    "rect": {
+      "x": 438.5,
+      "y": 604.6199951171875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 2,
+    "id": "15824"
+  },
+  {
+    "page": 119,
+    "name": "form1[0].Section26_2[0].NumericField2[3]",
+    "label": "Provide the amount (in U.S. dollars) of the taxes. ",
+    "type": 7,
+    "rect": {
+      "x": 36.0,
+      "y": 611.81201171875,
+      "width": 193.50100708007812,
+      "height": 17.6829833984375
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 2,
+    "id": "15819"
+  },
+  {
+    "page": 119,
+    "name": "form1[0].Section26_2[0].From_Datefield_Name_2[5]",
+    "label": "Provide date satisfied. (Month/Year)",
+    "type": 7,
+    "rect": {
+      "x": 276.3009948730469,
+      "y": 611.8150024414062,
+      "width": 153.0,
+      "height": 17.67999267578125
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 2,
+    "id": "15825"
+  },
+  {
+    "page": 119,
+    "name": "form1[0].Section26_2[0].#field[37]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 238.25100708007812,
+      "y": 616.2449951171875,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 2,
+    "id": "15818"
+  },
+  {
+    "page": 119,
+    "name": "form1[0].Section26_2[0].#field[29]",
+    "label": "Estimate",
+    "type": 2,
+    "rect": {
+      "x": 438.5010070800781,
+      "y": 616.9929809570312,
+      "width": 9.0,
+      "height": 9.0
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 2,
+    "id": "15826"
+  },
+  {
+    "page": 119,
+    "name": "form1[0].Section26_2[0].TextField11[5]",
+    "label": "Provide a description of any action(s) you have taken to satisfy this debt (such as withholdings, frequency and amount of payments, etc.). If you have not taken any action(s) provide explanation.",
+    "type": 7,
+    "rect": {
+      "x": 36.0,
+      "y": 652.2459716796875,
+      "width": 558.0,
+      "height": 16.7490234375
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 2,
+    "id": "15822"
+  },
+  {
+    "page": 119,
+    "name": "form1[0].Section26_2[0].SSN[0]",
+    "label": "Your Social Security Number will auto-fill based on answer provided in section 4",
+    "type": 7,
+    "rect": {
+      "x": 476.7279968261719,
+      "y": 739.0009765625,
+      "width": 115.51303100585938,
+      "height": 13.6710205078125
+    },
+    "section": "26",
+    "subsection": null,
+    "entry": 2,
+    "id": "15864"
+  }
+]

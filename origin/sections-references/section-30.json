@@ -1,0 +1,563 @@
+{
+    "metadata": {
+        "sectionId": 30,
+        "sectionName": "Continuation",
+        "totalFields": 25,
+        "pageRange": [
+            133,
+            136
+        ]
+    },
+    "fields": [
+        {
+            "id": "16259 0 R",
+            "name": "form1[0].continuation1[0].p15-t28[0]",
+            "page": 133,
+            "label": "Use the space below to continue answers or a blank sheet(s) of paper. Include your name and SSN at the top of each blank sheet(s). Before each answer, identify the number of the item and attempt to maintain sequential order and question format.",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 21.6,
+                "y": 187.2,
+                "width": 569,
+                "height": 487.8
+            },
+            "section": 30
+        },
+        {
+            "id": "16258 0 R",
+            "name": "form1[0].continuation1[0].p17-t2[0]",
+            "page": 133,
+            "label": "Date signed (m m/d d/y y y y)",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 486,
+                "y": 61.2,
+                "width": 100.2,
+                "height": 16.2
+            },
+            "section": 30
+        },
+        {
+            "id": "16270 0 R",
+            "name": "form1[0].continuation2[0].p17-t1[0]",
+            "page": 134,
+            "label": "Full Name (Type or Print legibly)",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 266.59,
+                "y": 159.31,
+                "width": 218.9,
+                "height": 15.84
+            },
+            "section": 30
+        },
+        {
+            "id": "16269 0 R",
+            "name": "form1[0].continuation2[0].p17-t2[0]",
+            "page": 134,
+            "label": "Date signed (m m/d d/y y y y)",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 490.36,
+                "y": 159.31,
+                "width": 96.6,
+                "height": 15.84
+            },
+            "section": 30
+        },
+        {
+            "id": "16267 0 R",
+            "name": "form1[0].continuation2[0].p17-t4[0]",
+            "page": 134,
+            "label": "Date of Birth  (m m/d d/y y y y)",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 406.09,
+                "y": 133.31,
+                "width": 78.26,
+                "height": 15.84
+            },
+            "section": 30
+        },
+        {
+            "id": "16266 0 R",
+            "name": "form1[0].continuation2[0].p17-t3[0]",
+            "page": 134,
+            "label": "Other names used",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 26.1,
+                "y": 133.31,
+                "width": 375.9,
+                "height": 15.84
+            },
+            "section": 30
+        },
+        {
+            "id": "16265 0 R",
+            "name": "form1[0].continuation2[0].p17-t6[0]",
+            "page": 134,
+            "label": "Current Street Address, Apt #",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 26.59,
+                "y": 105.32,
+                "width": 198.41,
+                "height": 15.84
+            },
+            "section": 30
+        },
+        {
+            "id": "16264 0 R",
+            "name": "form1[0].continuation2[0].p17-t8[0]",
+            "page": 134,
+            "label": "City (Country)",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 231.59,
+                "y": 105.32,
+                "width": 127.91,
+                "height": 15.84
+            },
+            "section": 30
+        },
+        {
+            "id": "16263 0 R",
+            "name": "form1[0].continuation2[0].p17-t9[0]",
+            "value": [],
+            "page": 134,
+            "label": "State",
+            "type": "PDFDropdown",
+            "maxLength": 0,
+            "options": [
+                "AK",
+                "AL",
+                "AR",
+                "AS",
+                "AZ",
+                "CA",
+                "CO",
+                "CT",
+                "DC",
+                "DE",
+                "FL",
+                "FM",
+                "GA",
+                "GU",
+                "HI",
+                "IA",
+                "ID",
+                "IL",
+                "IN",
+                "KS",
+                "KY",
+                "LA",
+                "MA",
+                "MD",
+                "ME",
+                "MH",
+                "MI",
+                "MN",
+                "MO",
+                "MP",
+                "MS",
+                "MT",
+                "NC",
+                "ND",
+                "NE",
+                "NH",
+                "NJ",
+                "NM",
+                "NV",
+                "NY",
+                "OH",
+                "OK",
+                "OR",
+                "PA",
+                "PR",
+                "PW",
+                "RI",
+                "SC",
+                "SD",
+                "TN",
+                "TX",
+                "UT",
+                "VA",
+                "VI",
+                "VT",
+                "WA",
+                "WI",
+                "WV",
+                "WY",
+                "AS",
+                "FQ",
+                "GU",
+                "HQ",
+                "DQ",
+                "JQ",
+                "KQ",
+                "MH",
+                "FM",
+                "MQ",
+                "BQ",
+                "MP",
+                "PW",
+                "LQ",
+                "PR",
+                "VI",
+                "WQ"
+            ],
+            "rect": {
+                "x": 363.59,
+                "y": 105.32,
+                "width": 39.9,
+                "height": 15.84
+            },
+            "section": 30
+        },
+        {
+            "id": "16262 0 R",
+            "name": "form1[0].continuation2[0].p17-t10[0]",
+            "page": 134,
+            "label": "ZIP Code",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 406.09,
+                "y": 105.32,
+                "width": 80.4,
+                "height": 15.84
+            },
+            "section": 30
+        },
+        {
+            "id": "16261 0 R",
+            "name": "form1[0].continuation2[0].p17-t11[0]",
+            "page": 134,
+            "label": "Telephone number",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 490.1,
+                "y": 105.32,
+                "width": 96.98,
+                "height": 15.84
+            },
+            "section": 30
+        },
+        {
+            "id": "16424 0 R",
+            "name": "form1[0].continuation3[0].RadioButtonList[0]",
+            "value": "1",
+            "page": 135,
+            "label": "RadioButtonList",
+            "type": "PDFRadioGroup",
+            "maxLength": 0,
+            "options": [
+                "1",
+                "2"
+            ],
+            "rect": {
+                "x": 31,
+                "y": 200.07,
+                "width": 10,
+                "height": 10
+            },
+            "section": 30
+        },
+        {
+            "id": "16283 0 R",
+            "name": "form1[0].continuation3[0].TextField1[0]",
+            "page": 135,
+            "label": "What is the prognosis?",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 31,
+                "y": 124.47,
+                "width": 547.13,
+                "height": 20.07
+            },
+            "section": 30
+        },
+        {
+            "id": "16282 0 R",
+            "name": "form1[0].continuation3[0].p17-t1[0]",
+            "page": 135,
+            "label": "Full name (Type or print legibly)",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 266.59,
+                "y": 322,
+                "width": 218.9,
+                "height": 15.84
+            },
+            "section": 30
+        },
+        {
+            "id": "16281 0 R",
+            "name": "form1[0].continuation3[0].p17-t2[0]",
+            "page": 135,
+            "label": "Date signed (m m/d d/y y y y)",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 490.36,
+                "y": 322,
+                "width": 96.6,
+                "height": 15.84
+            },
+            "section": 30
+        },
+        {
+            "id": "16279 0 R",
+            "name": "form1[0].continuation3[0].p17-t3[0]",
+            "page": 135,
+            "label": "Other names used",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 30.39,
+                "y": 295.99,
+                "width": 451.11,
+                "height": 15.84
+            },
+            "section": 30
+        },
+        {
+            "id": "16278 0 R",
+            "name": "form1[0].continuation3[0].p17-t6[0]",
+            "page": 135,
+            "label": "Current Street Address, Apt. #",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 30.39,
+                "y": 268,
+                "width": 199.11,
+                "height": 15.84
+            },
+            "section": 30
+        },
+        {
+            "id": "16277 0 R",
+            "name": "form1[0].continuation3[0].p17-t8[0]",
+            "page": 135,
+            "label": "City (Country)",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 234.76,
+                "y": 268,
+                "width": 125.24,
+                "height": 15.84
+            },
+            "section": 30
+        },
+        {
+            "id": "16276 0 R",
+            "name": "form1[0].continuation3[0].p17-t9[0]",
+            "value": [],
+            "page": 135,
+            "label": "State",
+            "type": "PDFDropdown",
+            "maxLength": 0,
+            "options": [
+                "AK",
+                "AL",
+                "AR",
+                "AS",
+                "AZ",
+                "CA",
+                "CO",
+                "CT",
+                "DC",
+                "DE",
+                "FL",
+                "FM",
+                "GA",
+                "GU",
+                "HI",
+                "IA",
+                "ID",
+                "IL",
+                "IN",
+                "KS",
+                "KY",
+                "LA",
+                "MA",
+                "MD",
+                "ME",
+                "MH",
+                "MI",
+                "MN",
+                "MO",
+                "MP",
+                "MS",
+                "MT",
+                "NC",
+                "ND",
+                "NE",
+                "NH",
+                "NJ",
+                "NM",
+                "NV",
+                "NY",
+                "OH",
+                "OK",
+                "OR",
+                "PA",
+                "PR",
+                "PW",
+                "RI",
+                "SC",
+                "SD",
+                "TN",
+                "TX",
+                "UT",
+                "VA",
+                "VI",
+                "VT",
+                "WA",
+                "WI",
+                "WV",
+                "WY",
+                "AS",
+                "FQ",
+                "GU",
+                "HQ",
+                "DQ",
+                "JQ",
+                "KQ",
+                "MH",
+                "FM",
+                "MQ",
+                "BQ",
+                "MP",
+                "PW",
+                "LQ",
+                "PR",
+                "VI",
+                "WQ"
+            ],
+            "rect": {
+                "x": 368.1,
+                "y": 268,
+                "width": 32.4,
+                "height": 15.84
+            },
+            "section": 30
+        },
+        {
+            "id": "16275 0 R",
+            "name": "form1[0].continuation3[0].p17-t10[0]",
+            "page": 135,
+            "label": "ZIP Code",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 408.6,
+                "y": 268,
+                "width": 77.89,
+                "height": 15.84
+            },
+            "section": 30
+        },
+        {
+            "id": "16274 0 R",
+            "name": "form1[0].continuation3[0].p17-t11[0]",
+            "page": 135,
+            "label": "Telephone number",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 490.1,
+                "y": 268,
+                "width": 96.98,
+                "height": 15.84
+            },
+            "section": 30
+        },
+        {
+            "id": "16273 0 R",
+            "name": "form1[0].continuation3[0].TextField1[1]",
+            "page": 135,
+            "label": "If so, describe the nature of the condition and the extent and duration of the impairment or treatment.",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 31,
+                "y": 160.47,
+                "width": 549,
+                "height": 20.07
+            },
+            "section": 30
+        },
+        {
+            "id": "16272 0 R",
+            "name": "form1[0].continuation3[0].TextField1[2]",
+            "page": 135,
+            "label": "Dates of treatment?",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 31.5,
+                "y": 88.47,
+                "width": 547.13,
+                "height": 20.07
+            },
+            "section": 30
+        },
+        {
+            "id": "16289 0 R",
+            "name": "form1[0].continuation4[0].p17-t1[0]",
+            "page": 136,
+            "label": "Print name",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 30.6,
+                "y": 328.64,
+                "width": 455.4,
+                "height": 15.84
+            },
+            "section": 30
+        },
+        {
+            "id": "16288 0 R",
+            "name": "form1[0].continuation4[0].p17-t2[0]",
+            "page": 136,
+            "label": "Date signed (m m/d d/y y y y)",
+            "type": "PDFTextField",
+            "maxLength": 0,
+            "rect": {
+                "x": 490.36,
+                "y": 300.3,
+                "width": 96.6,
+                "height": 15.84
+            },
+            "section": 30
+        }
+    ],
+    "statistics": {
+        "fieldTypes": {
+            "PDFTextField": 22,
+            "PDFDropdown": 2,
+            "PDFRadioGroup": 1
+        },
+        "confidenceDistribution": {
+            "high": 0,
+            "medium": 0,
+            "low": 25
+        }
+    }
+}
