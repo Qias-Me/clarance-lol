@@ -370,7 +370,7 @@ function EditorContent(): React.ReactNode {
   const currentSectionFilled = getCurrentSectionFilledCount();
 
   return (
-    <div className="flex flex-col h-screen bg-gray-50">
+    <div className="flex flex-col min-h-screen bg-gray-50">
       <Header
         totalFields={getTotalFieldCount()}
         onDownloadEditable={handleDownloadEditable}
@@ -381,7 +381,7 @@ function EditorContent(): React.ReactNode {
         currentSectionFilled={currentSectionFilled}
         sectionTitle={currentSection ? SECTION_NAMES[currentSection] : undefined}
       />
-      <div className="flex flex-1 overflow-hidden">
+      <div className="flex flex-1 min-h-0">
         <SectionNav sections={sections} filledCounts={getFilledCountsBySection()} />
         <FieldPanel fields={currentFields} sectionTitle={sectionTitle} />
       </div>

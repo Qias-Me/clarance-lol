@@ -385,7 +385,7 @@ export class ClientPdfService {
    * Download PDF bytes as a file
    */
   static downloadPdf(pdfBytes: Uint8Array, filename: string): void {
-    const blob = new Blob([pdfBytes as BlobPart], { type: 'application/pdf' });
+    const blob = new Blob([pdfBytes as unknown as BlobPart], { type: 'application/pdf' });
     const url = URL.createObjectURL(blob);
 
     const link = document.createElement('a');

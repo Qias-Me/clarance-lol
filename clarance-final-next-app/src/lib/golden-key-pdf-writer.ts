@@ -370,7 +370,7 @@ export async function fillPdfClientSide(params: {
  * Downloads a PDF blob with optional filename
  */
 export function downloadPdfBytes(pdfBytes: Uint8Array, filename: string): void {
-  const blob = new Blob([pdfBytes], { type: 'application/pdf' });
+  const blob = new Blob([pdfBytes as unknown as BlobPart], { type: 'application/pdf' });
   const url = URL.createObjectURL(blob);
 
   const link = document.createElement('a');

@@ -66,7 +66,7 @@ export async function testPDFFields(): Promise<void> {
     // Try to save a test version
     console.log("💾 Saving test PDF...");
     const testPdfBytes = await pdfDoc.save();
-    const testBlob = new Blob([testPdfBytes], { type: 'application/pdf' });
+    const testBlob = new Blob([testPdfBytes as unknown as BlobPart], { type: 'application/pdf' });
     const testUrl = URL.createObjectURL(testBlob);
 
     const link = document.createElement('a');

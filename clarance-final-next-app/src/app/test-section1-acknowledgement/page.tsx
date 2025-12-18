@@ -160,7 +160,7 @@ export default function TestSection1AcknowledgementPage() {
       console.log('✅ PDF filled successfully:', filledPdfBytes.length, 'bytes');
 
       // Create download link
-      const blob = new Blob([filledPdfBytes as BlobPart], { type: 'application/pdf' });
+      const blob = new Blob([filledPdfBytes as unknown as BlobPart], { type: 'application/pdf' });
       const url = URL.createObjectURL(blob);
       const a = document.createElement('a');
       a.href = url;

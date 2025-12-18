@@ -10,7 +10,7 @@ import {
 } from "react";
 import type { FormValues, PDFField } from "@/types/pdf-fields";
 import type { GoldenKeyInventory } from "@/types/golden-key";
-import { formDataPersistence } from "@/lib/form-data-persistence";
+import { formDataPersistence, FormDataPersistenceService } from "@/lib/form-data-persistence";
 import {
   type EntryState,
   type SectionEntryConfig,
@@ -97,7 +97,7 @@ export function FormProvider({
   // Load saved data on component mount
   useEffect(() => {
     async function loadSavedData() {
-      if (!formDataPersistence.constructor.isSupported()) {
+      if (!(formDataPersistence.constructor as typeof FormDataPersistenceService).isSupported()) {
         console.warn("IndexedDB is not supported. Form data will not be persisted.");
         setIsLoading(false);
         return;

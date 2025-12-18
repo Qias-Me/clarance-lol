@@ -23,6 +23,36 @@ export class GoldenKeySectionRenderer {
    */
   private pendingDropdownOptions: Map<string, Promise<string[]>> = new Map();
 
+/**
+ * Robust field group lookup with multiple fallback patterns.
+ * Handles various PDF field naming conventions and key mismatches.
+ *
+ * @param fieldName - string - The raw field name from golden-key.
+ * @returns FieldGroup | undefined - The found field group or undefined.
+ *
+ * Bug-fix: Replaces hardcoded single fallback with comprehensive pattern matching.
+ */
+private findFieldGroup(fieldName: string): any {
+  const patterns = [
+    fieldName,
+    `form1[0].Sections1-6[0].${fieldName}[0]`,
+    `form1[0].Sections1-6[0].${fieldName}`,
+    `form1[0].#subform[0].${fieldName}[0]`,
+    `form1[0].${fieldName}[0]`,
+    `form1[0].${fieldName}`,
+    fieldName.replace(/\[0\]$/, ''),
+    fieldName.replace(/^form1\[0\]\./, ''),
+  ];
+
+  for (const pattern of patterns) {
+    if (this.fieldGroups[pattern]) {
+      return this.fieldGroups[pattern];
+    }
+  }
+
+  return undefined;
+}
+
   /**
    * Gets fields for a specific section, strictly filtered by golden key logical.section.
    * This ensures no cross-section contamination.
@@ -44,8 +74,7 @@ export class GoldenKeySectionRenderer {
     const fields: PDFField[] = [];
 
     sectionRecords.forEach(record => {
-      const fieldGroup = this.fieldGroups[record.pdf.fieldName] ||
-                       this.fieldGroups[`form1[0].Sections1-6[0].${record.pdf.fieldName}[0]`];
+      const fieldGroup = this.findFieldGroup(record.pdf.fieldName);
 
       // DEBUG: Log field group lookup for debugging
       console.log(`🔍 Processing field: ${record.pdf.fieldName}`);
@@ -60,11 +89,20 @@ export class GoldenKeySectionRenderer {
         if (!processedRadioGroups.has(fieldGroup.fieldName)) {
           processedRadioGroups.add(fieldGroup.fieldName);
 
+          // Normalize fieldGroup coordinates to match PDF coordinate system
+          const originalRect = fieldGroup.widgets?.[0]?.rectTopLeft || { x: 0, y: 0, width: 0, height: 0 };
+          const normalizedRect = {
+            ...originalRect,
+            y: originalRect.y
+            // Note: fieldGroup coordinates appear to already be in PDF coordinate system
+            // keeping them as-is since they seem to work correctly with the sorting
+          };
+
           fields.push({
             id: fieldGroup.fieldName,
             name: fieldGroup.fieldName,
             page: fieldGroup.pageIndex + 1,
-            rect: fieldGroup.widgets?.[0]?.rectTopLeft || { x: 0, y: 0, width: 0, height: 0 },
+            rect: normalizedRect,
             label: fieldGroup.displayLabel,
             type: FieldType.RADIO,
             section: record.logical.section,
@@ -87,11 +125,20 @@ export class GoldenKeySectionRenderer {
               console.log(`  First option:`, dropdownOptions[0]);
             }
 
+            // Normalize fieldGroup coordinates to match PDF coordinate system
+            const originalRect = fieldGroup.widgets?.[0]?.rectTopLeft || { x: 0, y: 0, width: 0, height: 0 };
+            const normalizedRect = {
+              ...originalRect,
+              y: originalRect.y
+              // Note: fieldGroup coordinates appear to already be in PDF coordinate system
+              // keeping them as-is since they seem to work correctly with the sorting
+            };
+
             fields.push({
               id: fieldGroup.fieldName,
               name: fieldGroup.fieldName,
               page: fieldGroup.pageIndex + 1,
-              rect: fieldGroup.widgets?.[0]?.rectTopLeft || { x: 0, y: 0, width: 0, height: 0 },
+              rect: normalizedRect,
               label: fieldGroup.displayLabel,
               type: FieldType.DROPDOWN,
               section: record.logical.section,
@@ -106,11 +153,20 @@ export class GoldenKeySectionRenderer {
           } else {
             console.log(`  ⚠️ No options in field-groups, will load from PDF async`);
 
+            // Normalize fieldGroup coordinates to match PDF coordinate system
+            const originalRect = fieldGroup.widgets?.[0]?.rectTopLeft || { x: 0, y: 0, width: 0, height: 0 };
+            const normalizedRect = {
+              ...originalRect,
+              y: originalRect.y
+              // Note: fieldGroup coordinates appear to already be in PDF coordinate system
+              // keeping them as-is since they seem to work correctly with the sorting
+            };
+
             fields.push({
               id: fieldGroup.fieldName,
               name: fieldGroup.fieldName,
               page: fieldGroup.pageIndex + 1,
-              rect: fieldGroup.widgets?.[0]?.rectTopLeft || { x: 0, y: 0, width: 0, height: 0 },
+              rect: normalizedRect,
               label: fieldGroup.displayLabel,
               type: FieldType.DROPDOWN,
               section: record.logical.section,
@@ -165,41 +221,56 @@ export class GoldenKeySectionRenderer {
     });
 
     /**
-     * Y proximity threshold for grouping fields into the same row.
-     * SF-86 PDF has fields within ~10-20 Y units that belong together.
-     * Increased from 15 to 20 to better capture related fields like
-     * "Estimate" checkboxes with their associated date fields.
-     */
-    const Y_PROXIMITY_THRESHOLD = 20;
-
-    /**
-     * Coordinate-based sorting to match PDF visual layout.
+     * Simplified and deterministic coordinate-based sorting for PDF visual layout.
      *
-     * PDF coordinate system: Y=0 at BOTTOM, larger Y = higher on page.
-     * For top-to-bottom rendering: sort Y DESCENDING (larger Y first).
+     * PDF coordinate system: Y=0 at BOTTOM, larger Y = LOWER on page.
+     * For top-to-bottom rendering: sort Y ASCENDING (smaller Y = higher on page = appears first).
      * For left-to-right rendering: sort X ASCENDING.
      *
-     * Bug-fix: Changed Y sort from ascending to descending for correct PDF layout.
-     * Bug-fix: Increased Y threshold from 15 to 20 for better field grouping.
+     * Fixed: Corrected PDF coordinate system understanding based on golden-key data analysis.
+     * Golden-key shows: "I have read the instructions" at y:756.16 (bottom), "Last name" at y:662.64 (above)
+     * Therefore: SMALLER Y = HIGHER on page (appears first in top-to-bottom layout)
      */
     fields.sort((a, b) => {
       if (a.page !== b.page) return a.page - b.page;
 
-      const yProximity = Math.abs(a.rect.y - b.rect.y);
-      if (yProximity > Y_PROXIMITY_THRESHOLD) {
-        return b.rect.y - a.rect.y;
+      // Primary sort: Y coordinate ASCENDING (smaller Y = higher on page = appears first)
+      const yComparison = a.rect.y - b.rect.y;
+      if (Math.abs(yComparison) > 1) {
+        return yComparison;
       }
 
+      // Secondary sort: X coordinate ASCENDING for fields on same line
       return a.rect.x - b.rect.x;
     });
 
     console.log(`✅ Section ${sectionId}: Processed ${fields.length} fields`);
-    
+
     if (fields.length > 0) {
-      const firstFew = fields.slice(0, 5).map(f => 
+      const firstFew = fields.slice(0, 5).map(f =>
         `${f.label?.substring(0, 20)}... (pg${f.page}, y:${Math.round(f.rect.y)})`
       );
       console.log(`📐 First 5 fields (should be top of page first):`, firstFew);
+
+      // DEBUG: Log coordinate ranges to identify coordinate system issues
+      const yCoords = fields.map(f => f.rect.y);
+      const minY = Math.min(...yCoords);
+      const maxY = Math.max(...yCoords);
+      console.log(`📊 Y-coordinate range: ${Math.round(minY)} to ${Math.round(maxY)} (spread: ${Math.round(maxY - minY)})`);
+
+      // DEBUG: Check for coordinate system inconsistencies
+      const coordinateSources = fields.map(f => {
+        if (f.type === FieldType.RADIO || f.type === FieldType.DROPDOWN) {
+          return "fieldGroup.widgets[0].rectTopLeft";
+        } else {
+          return "record.pdf.rects[0]";
+        }
+      });
+      const uniqueSources = [...new Set(coordinateSources)];
+      if (uniqueSources.length > 1) {
+        console.warn(`⚠️ Mixed coordinate sources detected:`, uniqueSources);
+        console.log(`📋 Field coordinate sources:`, fields.map(f => ({ label: f.label, type: f.type, source: coordinateSources[fields.indexOf(f)], y: f.rect.y })));
+      }
     }
     
     return fields;

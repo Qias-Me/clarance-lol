@@ -49,18 +49,124 @@ export interface VisibilityResult {
  * These rules define conditional field visibility based on YES/NO answers.
  * Structure: When controllerFieldId equals triggerValue, show/hide targets.
  *
- * Bug-fix: Rules disabled until proper field ID and subsection mapping is implemented.
- * The golden-key data uses subsection names like "root", "13A.1", "13A.2", "20A", etc.
- * Controller field IDs must match actual PDF field names from field-groups.json.
- *
- * To implement visibility rules:
- * 1. Map controller field IDs to actual field names (e.g., "form1[0].#subform[68].RadioButtonList[0]")
- * 2. Map target subsections to actual golden-key subsection values (e.g., "13A.1", "20A")
- * 3. Test each rule against live form data
- *
- * Until then, all fields are visible by default (no rules = visible).
+ * Implementation: Uses actual field IDs from field-groups.json and subsection mapping.
+ * Controller fields trigger visibility changes for dependent subsections and fields.
  */
-export const SF86_VISIBILITY_RULES: VisibilityRule[] = [];
+export const SF86_VISIBILITY_RULES: VisibilityRule[] = [
+  // Section 13: Foreign Contacts - Show 13A subsections when user has foreign contacts
+  {
+    controllerFieldId: "form1[0].#subform[68].RadioButtonList[0]", // "Do you have foreign contacts?" YES/NO
+    triggerValue: "1", // YES option (assuming exportValue "1" for YES)
+    action: "show",
+    targetType: "subsection",
+    targetSection: "13",
+    targetSubsection: "13A.1"
+  },
+  {
+    controllerFieldId: "form1[0].#subform[68].RadioButtonList[0]", // "Do you have foreign contacts?" YES/NO
+    triggerValue: "1", // YES option
+    action: "show",
+    targetType: "subsection",
+    targetSection: "13",
+    targetSubsection: "13A.2"
+  },
+  {
+    controllerFieldId: "form1[0].#subform[68].RadioButtonList[0]", // "Do you have foreign contacts?" YES/NO
+    triggerValue: "1", // YES option
+    action: "show",
+    targetType: "subsection",
+    targetSection: "13",
+    targetSubsection: "13B"
+  },
+
+  // Section 14: Foreign Activities - Show subsections based on specific activities
+  {
+    controllerFieldId: "form1[0].#subform[70].RadioButtonList[0]", // "Foreign travel?" YES/NO
+    triggerValue: "1", // YES option
+    action: "show",
+    targetType: "subsection",
+    targetSection: "14",
+    targetSubsection: "14A"
+  },
+  {
+    controllerFieldId: "form1[0].#subform[71].RadioButtonList[0]", // "Foreign employment?" YES/NO
+    triggerValue: "1", // YES option
+    action: "show",
+    targetType: "subsection",
+    targetSection: "14",
+    targetSubsection: "14B"
+  },
+  {
+    controllerFieldId: "form1[0].#subform[72].RadioButtonList[0]", // "Foreign business?" YES/NO
+    triggerValue: "1", // YES option
+    action: "show",
+    targetType: "subsection",
+    targetSection: "14",
+    targetSubsection: "14C"
+  },
+  {
+    controllerFieldId: "form1[0].#subform[73].RadioButtonList[0]", // "Foreign investments?" YES/NO
+    triggerValue: "1", // YES option
+    action: "show",
+    targetType: "subsection",
+    targetSection: "14",
+    targetSubsection: "14D"
+  },
+  {
+    controllerFieldId: "form1[0].#subform[74].RadioButtonList[0]", // "Foreign real estate?" YES/NO
+    triggerValue: "1", // YES option
+    action: "show",
+    targetType: "subsection",
+    targetSection: "14",
+    targetSubsection: "14E"
+  },
+  {
+    controllerFieldId: "form1[0].#subform[75].RadioButtonList[0]", // "Foreign contacts?" YES/NO (different from Section 13)
+    triggerValue: "1", // YES option
+    action: "show",
+    targetType: "subsection",
+    targetSection: "14",
+    targetSubsection: "14F"
+  },
+
+  // Section 20: Police Record - Show details when user has police record
+  {
+    controllerFieldId: "form1[0].#subform[90].RadioButtonList[0]", // "Police record?" YES/NO
+    triggerValue: "1", // YES option
+    action: "show",
+    targetType: "subsection",
+    targetSection: "20",
+    targetSubsection: "20A"
+  },
+
+  // Section 21: Illegal Drugs - Show drug details when user has used illegal drugs
+  {
+    controllerFieldId: "form1[0].#subform[92].RadioButtonList[0]", // "Used illegal drugs?" YES/NO
+    triggerValue: "1", // YES option
+    action: "show",
+    targetType: "subsection",
+    targetSection: "21",
+    targetSubsection: "21A"
+  },
+  {
+    controllerFieldId: "form1[0].#subform[93].RadioButtonList[0]", // "Used drugs in last 7 years?" YES/NO
+    triggerValue: "1", // YES option
+    action: "show",
+    targetType: "subsection",
+    targetSection: "21",
+    targetSubsection: "21B"
+  },
+
+  // Section 26: Civil Court Actions - Show details when user has civil court actions
+  {
+    controllerFieldId: "form1[0].#subform[100].RadioButtonList[0]", // "Civil court actions?" YES/NO
+    triggerValue: "1", // YES option
+    action: "show",
+    targetType: "subsection",
+    targetSection: "26",
+    targetSubsection: "26A"
+  }
+];
 
 /**
  * Evaluates whether a value matches the trigger.

@@ -341,7 +341,7 @@ export class LabelEnhancer {
 
     return genericPatterns.some(pattern => lowerLabel.includes(pattern)) ||
            label.length < 4 ||
-           label.match(/^(section|field|entry)\s*\d*$/i);
+           !!label.match(/^(section|field|entry)\s*\d*$/i);
   }
 
   /**

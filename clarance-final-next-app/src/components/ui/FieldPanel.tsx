@@ -6,6 +6,10 @@ import { TextField, CheckboxField, RadioField, DropdownField } from "@/component
 import { FieldType, type PDFField } from "@/types/pdf-fields";
 import { groupFieldsByEntry, getEntryLabel, isMultiEntrySection } from "@/lib/entry-manager";
 import { isFieldVisible, getControllerFields } from "@/lib/visibility-rules";
+import { ScrollArea } from "@/components/ui/scroll-area";
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import { Badge } from "@/components/ui/badge";
+import { Separator } from "@/components/ui/separator";
 
 /**
  * Groups fields by subsection for collapsible display.
@@ -74,9 +78,9 @@ function groupFieldsByCoordinates(fields: PDFField[]): PDFField[][] {
   const sortedFields = [...fields].sort((a, b) => {
     if (a.page !== b.page) return a.page - b.page;
     if (Math.abs(a.rect.y - b.rect.y) > Y_PROXIMITY_THRESHOLD) {
-      return b.rect.y - a.rect.y;
+      return a.rect.y - b.rect.y; // FIXED: ASCENDING Y - smaller Y = higher on page = appears first
     }
-    return a.rect.x - b.rect.x;
+    return a.rect.x - b.rect.x; // ASCENDING X - left to right
   });
 
   for (const field of sortedFields) {
@@ -109,52 +113,77 @@ function groupFieldsByCoordinates(fields: PDFField[]): PDFField[][] {
  *
  * @param fields - PDFField[] - Fields in a coordinate group (same row).
  * @returns PDFField[] - Fields with enhanced labels where applicable.
+ *
+ * Bug-fix: Now sorts checkboxes by X coordinate for correct From/To detection.
+ * Bug-fix: Improved context extraction from nearest text field labels.
+ * Bug-fix: Fixed Estimate checkbox disambiguation to check X coordinate proximity.
  */
 function enhanceFieldLabelsWithContext(fields: PDFField[]): PDFField[] {
-  // Find generic labels that need context
   const genericLabels = ["Estimate", "Present", "Part-time", "Full-time"];
+
+  const estimateCheckboxes = fields
+    .filter(f => f.type === FieldType.CHECKBOX && f.label?.toLowerCase() === "estimate")
+    .sort((a, b) => a.rect.x - b.rect.x);
 
   return fields.map((field) => {
     const label = field.label || "";
 
-    // Check if this is a generic label that needs context
     if (!genericLabels.some(g => label.toLowerCase() === g.toLowerCase())) {
       return field;
     }
 
-    // Look for nearby text/date fields to provide context
-    // Check the field immediately to the left (lower X)
-    const leftField = fields
+    // Special handling for Estimate checkboxes - check proximity to date fields
+    if (label.toLowerCase() === "estimate" && estimateCheckboxes.length >= 2) {
+      const sortedIndex = estimateCheckboxes.findIndex(f => f.id === field.id);
+
+      // Find the nearest text field to the left to determine context
+      const leftTextField = fields
+        .filter(f => f.rect.x < field.rect.x && f.type === FieldType.TEXT)
+        .sort((a, b) => b.rect.x - a.rect.x)[0];
+
+      if (leftTextField && leftTextField.label) {
+        const isFromDate = leftTextField.label.toLowerCase().includes("from date");
+        const isToDate = leftTextField.label.toLowerCase().includes("to date");
+
+        if (isFromDate) {
+          return { ...field, label: `${label} (From Date)` };
+        } else if (isToDate) {
+          return { ...field, label: `${label} (To Date)` };
+        }
+      }
+
+      // Fallback: use X position to determine From/To
+      if (sortedIndex === 0) {
+        return { ...field, label: `${label} (From Date)` };
+      } else if (sortedIndex === 1) {
+        return { ...field, label: `${label} (To Date)` };
+      } else if (sortedIndex > 1) {
+        return { ...field, label: `${label} (${sortedIndex + 1})` };
+      }
+    }
+
+    // Generic context for other fields
+    const leftTextField = fields
       .filter(f => f.rect.x < field.rect.x && f.type === FieldType.TEXT)
       .sort((a, b) => b.rect.x - a.rect.x)[0];
 
-    if (leftField && leftField.label) {
-      // Extract a short context from the nearby field label
-      const contextLabel = leftField.label
-        .replace(/^Section \d+[A-Z]?\.\d*\s*/i, "") // Remove section prefix
-        .replace(/provide|complete|enter|the|your|following/gi, "") // Remove common words
+    if (leftTextField && leftTextField.label) {
+      const rawLabel = leftTextField.label
+        .replace(/^Section\s*\d+[A-Z]?\.?\d*\s*/i, "")
+        .replace(/\d+[A-Z]?\.\d+\s*/i, "")
+        .replace(/provide|complete|enter|the|your|following|if|employment|type|is|active|duty|national|guard|reserve|or|usphs|commissioned|corps|entry|\d+/gi, "")
+        .trim();
+
+      const contextLabel = rawLabel
+        .split(/[,.(\r\n]/)[0]
         .trim()
-        .split(/[,.(]/)[0] // Take first part before punctuation
-        .trim()
-        .substring(0, 25); // Limit length
+        .substring(0, 20);
 
       if (contextLabel && contextLabel.length > 2) {
         return {
           ...field,
           label: `${label} (${contextLabel})`
         };
-      }
-    }
-
-    // If no left field, check position in row for From/To pattern
-    const checkboxFields = fields.filter(f => f.type === FieldType.CHECKBOX);
-
-    if (checkboxFields.length >= 2 && label.toLowerCase() === "estimate") {
-      const checkboxIndex = checkboxFields.findIndex(f => f.id === field.id);
-      if (checkboxIndex === 0) {
-        return { ...field, label: `${label} (From)` };
-      } else if (checkboxIndex === 1) {
-        return { ...field, label: `${label} (To)` };
       }
     }
 
@@ -218,40 +247,55 @@ function CoordinateGroupRow({
   // Enhance labels with context for generic fields like "Estimate"
   const enhancedFields = enhanceFieldLabelsWithContext(fields);
 
+  // Enhanced responsive grid system for mobile-first design
   const gridCols = enhancedFields.length === 1 ? "grid-cols-1" :
-                   enhancedFields.length === 2 ? "grid-cols-2" :
-                   enhancedFields.length === 3 ? "grid-cols-3" :
-                   enhancedFields.length <= 6 ? "grid-cols-3 sm:grid-cols-6" :
-                   "grid-cols-3 sm:grid-cols-4 md:grid-cols-6";
+                   enhancedFields.length === 2 ? "grid-cols-1 sm:grid-cols-2" :
+                   enhancedFields.length === 3 ? "grid-cols-1 sm:grid-cols-2 lg:grid-cols-3" :
+                   enhancedFields.length <= 4 ? "grid-cols-1 sm:grid-cols-2 lg:grid-cols-4" :
+                   enhancedFields.length <= 6 ? "grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-6" :
+                   "grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-6";
 
   return (
-    <div className={`grid ${gridCols} gap-3 p-3 bg-gray-50 rounded-lg border border-gray-200`}>
-      {enhancedFields.map((field) => (
-        <div
-          key={field.id}
-          className={`
-            flex flex-col min-w-0 transition-all duration-200
-            ${selectedField?.id === field.id
-              ? "bg-blue-100 ring-2 ring-blue-300 rounded-lg p-2 scale-105 shadow-md z-10"
-              : "bg-white rounded-lg p-2 hover:shadow-sm hover:border-gray-300 border border-transparent"
-            }
-          `}
-        >
-          <div className="text-xs text-gray-500 mb-1 font-medium leading-tight" title={field.label || field.name}>
-            {field.label || field.name}
-            {field.entry !== undefined && field.entry !== null && field.entry > 0 && (
-              <span className="ml-1 text-blue-500">[Entry {field.entry + 1}]</span>
-            )}
-          </div>
-          <div className="flex-1 flex items-center">
-            {renderField(field)}
-          </div>
-          <div className="text-xs text-gray-400 mt-1 text-center" title={`Page ${field.page}, X: ${field.rect.x}, Y: ${field.rect.y}`}>
-            Pg {field.page} • Y:{Math.round(field.rect.y)}
-          </div>
+    <Card className="border border-gray-200 shadow-sm">
+      <CardContent className="p-4">
+        <div className={`grid ${gridCols} gap-4`}>
+          {enhancedFields.map((field) => (
+            <Card
+              key={field.id}
+              className={`
+                cursor-pointer transition-all duration-200 hover:shadow-md
+                ${selectedField?.id === field.id
+                  ? "ring-2 ring-blue-500 shadow-lg border-blue-200 bg-blue-50"
+                  : "hover:border-gray-300 bg-white"
+                }
+              `}
+              onClick={() => handleFieldSelect(field)}
+            >
+              <CardContent className="p-4">
+                <div className="text-xs text-gray-600 mb-2 font-medium leading-tight" title={field.label || field.name}>
+                  <div className="line-clamp-2">
+                    {field.label || field.name}
+                    {field.entry !== undefined && field.entry !== null && field.entry > 0 && (
+                      <Badge variant="secondary" className="ml-1 text-[10px] px-1 py-0">
+                        Entry {field.entry + 1}
+                      </Badge>
+                    )}
+                  </div>
+                </div>
+                <div className="flex-1 flex items-center min-h-[2rem]">
+                  {renderField(field)}
+                </div>
+                <div className="text-xs text-gray-400 mt-2 text-center" title={`Page ${field.page}, X: ${field.rect.x}, Y: ${field.rect.y}`}>
+                  <Badge variant="outline" className="text-[10px]">
+                    Pg {field.page} • Y:{Math.round(field.rect.y)}
+                  </Badge>
+                </div>
+              </CardContent>
+            </Card>
+          ))}
         </div>
-      ))}
-    </div>
+      </CardContent>
+    </Card>
   );
 }
 
@@ -536,13 +580,17 @@ export function FieldPanel({ fields, sectionTitle }: FieldPanelProps): React.Rea
   };
 
   return (
-    <div className="flex-1 overflow-y-auto bg-white">
-      <div className="p-6">
-        {sectionTitle && (
-          <h2 className="text-xl font-semibold text-gray-800 mb-6 pb-4 border-b border-gray-200">
-            {sectionTitle}
-          </h2>
-        )}
+    <div className="flex-1 bg-white">
+      <ScrollArea className="h-full">
+        <div className="p-6">
+          {sectionTitle && (
+            <div className="mb-6 pb-4 border-b border-gray-200">
+              <h2 className="text-xl font-semibold text-gray-800">{sectionTitle}</h2>
+              <Badge variant="secondary" className="mt-2">
+                {fields.length} field{fields.length !== 1 ? 's' : ''}
+              </Badge>
+            </div>
+          )}
 
         {fields.length === 0 ? (
           <div className="text-center py-12 text-gray-500">
@@ -674,9 +722,10 @@ export function FieldPanel({ fields, sectionTitle }: FieldPanelProps): React.Rea
           </div>
         )}
       </div>
+      </ScrollArea>
 
       {selectedField && (
-        <div className="fixed bottom-0 left-64 right-0 bg-gray-800 text-white p-3 text-sm">
+        <div className="fixed bottom-0 left-64 right-0 bg-gray-800 text-white p-3 text-sm z-10">
           <div className="flex items-center justify-between max-w-4xl mx-auto">
             <span className="font-mono text-xs truncate flex-1">
               ID: {selectedField.id} | Page: {selectedField.page}
