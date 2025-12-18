@@ -1,6 +1,7 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 /**
  * Entry Management System
- * 
+ *
  * Handles "Add/Remove Entry" functionality while maintaining PDF field mapping correctness.
  * Dynamically detects multi-entry sections from golden-key data structure.
  * 

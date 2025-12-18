@@ -25,7 +25,7 @@ interface Widget {
   };
 }
 
-interface FieldGroup {
+export interface FieldGroup {
   fieldName: string;
   fieldType: string;
   displayLabel: string;
@@ -66,8 +66,29 @@ export function getRadioOptions(fieldGroup: FieldGroup): RadioOption[] {
   return isRadioGroup(fieldGroup) ? (fieldGroup.options as RadioOption[]) || [] : [];
 }
 
+/**
+ * Checks if a field group is a dropdown type.
+ *
+ * @param fieldGroup - FieldGroup - The field group to check.
+ * @returns boolean - True if fieldType is "Dropdown".
+ *
+ * Bug-fix: Removed options check - dropdown type is determined by fieldType alone.
+ * Options may be loaded asynchronously from PDF if not present in field-groups.json.
+ */
 export function isDropdownGroup(fieldGroup: FieldGroup): boolean {
-  return fieldGroup.fieldType === "Dropdown" && !!fieldGroup.options;
+  return fieldGroup.fieldType === "Dropdown";
+}
+
+/**
+ * Checks if a dropdown field group has pre-loaded options.
+ *
+ * @param fieldGroup - FieldGroup - The field group to check.
+ * @returns boolean - True if dropdown has options array with items.
+ */
+export function hasDropdownOptions(fieldGroup: FieldGroup): boolean {
+  return fieldGroup.fieldType === "Dropdown" &&
+         Array.isArray(fieldGroup.options) &&
+         fieldGroup.options.length > 0;
 }
 
 export function getDropdownOptions(fieldGroup: FieldGroup): DropdownOption[] {

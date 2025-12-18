@@ -142,7 +142,7 @@ export class FieldIdAwareMapper {
 
     fields.forEach(field => {
       const section = field.uiPath ? this.extractSectionFromUiPath(field.uiPath) : null;
-      const mappedField = this.mapWithFieldId(field.goldenKeyField, field.fieldId, section);
+      const mappedField = this.mapWithFieldId(field.goldenKeyField, field.fieldId, section ?? undefined);
 
       mapping[field.goldenKeyField] = {
         mappedField,

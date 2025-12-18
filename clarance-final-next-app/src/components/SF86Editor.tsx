@@ -2,17 +2,18 @@
 
 import { useState, useEffect, useCallback } from "react";
 import { FormProvider, useFormContext } from "@/lib/form-context";
-import { loadFieldIndex, loadSectionsSummary, getFieldsBySection } from "@/lib/pdf-data";
-import { loadGoldenKeyInventory, getFieldsForUiPath } from "@/lib/golden-key-loader";
-import { labelEnhancer } from "@/lib/label-enhancer";
-import { loadFieldGroups, type FieldGroups, type RadioOption, type DropdownOption, isDropdownGroup, getDropdownOptions } from "@/lib/field-groups-loader";
+import { loadFieldIndex, loadSectionsSummary } from "@/lib/pdf-data";
+import { loadGoldenKeyInventory } from "@/lib/golden-key-loader";
+import { reconcileSections } from "@/lib/section-reconciliation";
+import { loadFieldGroups, type FieldGroups } from "@/lib/field-groups-loader";
 import { FieldNameMapper } from "@/lib/field-name-mapper";
-import { ClientPdfService } from "@/lib/client-pdf-service";
 import { testPDFFields } from "@/lib/pdf-field-tester";
 import { collectValuesByPdfName, fillPdfClientSide, downloadPdfBytes } from "@/lib/golden-key-pdf-writer";
 import type { GoldenKeyInventory } from "@/types/golden-key";
 import { SectionNav, FieldPanel, Header } from "@/components/ui";
-import { FieldType, type FieldIndex, SectionsSummary, PDFField, FormValues } from "@/types/pdf-fields";
+import { GoldenKeySectionRenderer } from "@/lib/golden-key-section-renderer";
+import { formPersistence, createAutoSave } from "@/lib/indexeddb-persistence";
+import { type FieldIndex, SectionsSummary, PDFField } from "@/types/pdf-fields";
 
 const SECTION_NAMES: Record<string, string> = {
   "1": "Personal Information",
@@ -57,26 +58,43 @@ function EditorContent(): React.ReactNode {
   const [goldenKey, setGoldenKey] = useState<GoldenKeyInventory | null>(null);
   const [fieldGroups, setFieldGroups] = useState<FieldGroups>({});
   const [pdfTypeByName, setPdfTypeByName] = useState<Record<string, "Text" | "CheckBox" | "RadioButton" | "ComboBox">>({});
+  const [sectionRenderer, setSectionRenderer] = useState<GoldenKeySectionRenderer | null>(null);
+  const [autoSave, setAutoSave] = useState<ReturnType<typeof createAutoSave> | null>(null);
 
-  const { currentSection, values, clearValues, initializeEntryConfigs, entryConfigs } = useFormContext();
+  const { currentSection, values, clearValues, initializeEntryConfigs } = useFormContext();
 
   useEffect(() => {
     // Make test function available globally for debugging
-    (window as any).testPDFFields = testPDFFields;
+    (window as unknown as { testPDFFields: typeof testPDFFields }).testPDFFields = testPDFFields;
 
-    async function loadData(): Promise<void> {
-      try {
-        setIsLoading(true);
-        const [fieldData, sectionData, goldenKeyData, fieldGroupsData] = await Promise.all([
-          loadFieldIndex(),
-          loadSectionsSummary(),
-          loadGoldenKeyInventory(),
-          loadFieldGroups(),
-        ]);
+    function loadData(): void {
+      setIsLoading(true);
+
+      Promise.all([
+        loadFieldIndex(),
+        loadSectionsSummary(),
+        loadGoldenKeyInventory(),
+        loadFieldGroups(),
+      ]).then(([fieldData, sectionData, goldenKeyData, fieldGroupsData]) => {
         setFieldIndex(fieldData);
         setSections(sectionData);
+
+        // 🔧 Apply section reconciliation to fix section placement issues
+        console.log('🔧 Applying section reconciliation to golden-key data...');
+        const reconciliationResult = reconcileSections(goldenKeyData);
+        if (reconciliationResult.correctedRecords > 0) {
+          console.log(`✅ Fixed ${reconciliationResult.correctedRecords} section assignments`);
+        }
+
         setGoldenKey(goldenKeyData);
         setFieldGroups(fieldGroupsData);
+
+        // Initialize the deterministic section renderer
+        const renderer = new GoldenKeySectionRenderer(goldenKeyData, fieldGroupsData);
+        setSectionRenderer(renderer);
+
+        // Validate section integrity and log any issues
+        renderer.validateSectionIntegrity();
 
         // Create pdfTypeByName mapping from field groups
         const typeMap: Record<string, "Text" | "CheckBox" | "RadioButton" | "ComboBox"> = {};
@@ -94,12 +112,46 @@ function EditorContent(): React.ReactNode {
         setPdfTypeByName(typeMap);
         console.log(`📋 Built PDF type mapping: ${Object.keys(typeMap).length} fields`);
 
+        // Load persisted state
+        formPersistence.init().then(() => {
+          return formPersistence.loadState();
+        }).then((persistedState) => {
+          if (persistedState) {
+            console.log(`🔄 Loaded ${Object.keys(persistedState.values).length} values from IndexedDB`);
+            // The form context should handle setting the values
+          }
+        }).catch((error) => {
+          console.warn("⚠️ Failed to load persisted state:", error);
+        });
+
+        // Setup auto-save
+        const saveHandler = createAutoSave(async (valuesToSave) => {
+          await formPersistence.saveState(
+            valuesToSave,
+            goldenKeyData.version || "unknown",
+            goldenKeyData.generatedAt
+          );
+        });
+        setAutoSave(() => saveHandler);
+
+        // DEBUG: Expose internals to browser for debugging dropdowns
+        if (typeof window !== 'undefined') {
+          (window as any).__CLARANCE_FIELD_GROUPS__ = fieldGroupsData;
+          (window as any).__CLARANCE_GOLDEN_KEY__ = goldenKeyData;
+          (window as any).__CLARANCE_SECTION_RENDERER__ = renderer;
+          (window as any).__CLARANCE_GET_DROPDOWN_OPTIONS__ = async (fieldName: string) => {
+            const { getDropdownOptions } = await import('@/lib/dropdown-options-service');
+            return getDropdownOptions(fieldName);
+          };
+          console.log('🐛 Debug hooks exposed to window object');
+        }
+
         setError(null);
-      } catch (err) {
-        setError(err instanceof Error ? err.message : "Failed to load data");
-      } finally {
         setIsLoading(false);
-      }
+      }).catch((err) => {
+        setError(err instanceof Error ? err.message : "Failed to load data");
+        setIsLoading(false);
+      });
     }
     loadData();
   }, []);
@@ -111,131 +163,96 @@ function EditorContent(): React.ReactNode {
   }, [goldenKey, initializeEntryConfigs]);
 
   useEffect(() => {
-    if (goldenKey && currentSection && fieldGroups) {
-      // Get fields from golden key data for the current section
-      const sectionFields = Object.values(goldenKey.records).filter(
-        record => record.logical.section === currentSection
-      );
+    if (sectionRenderer && currentSection) {
+      console.log(`🔧 Rendering section ${currentSection} using deterministic renderer`);
 
-      // Track processed radio groups to avoid duplicate fields
-      const processedRadioGroups = new Set<string>();
-
-      // Convert golden key records to PDFField format for compatibility
-      const fields: PDFField[] = [];
-
-      sectionFields.forEach(record => {
-        // Check if this field has an enhanced field group
-        // Try both fieldId and fieldName for matching
-        const fieldGroup = fieldGroups[record.pdf.fieldName] || fieldGroups[`form1[0].Sections1-6[0].${record.pdf.fieldName}[0]`];
-
-        if (fieldGroup && fieldGroup.fieldType === "RadioGroup") {
-          // Handle enhanced radio groups - create group field only once
-          if (!processedRadioGroups.has(fieldGroup.fieldName)) {
-            processedRadioGroups.add(fieldGroup.fieldName);
-
-            // Convert enhanced radio options to the expected format
-            const radioOptions: RadioOption[] = (fieldGroup.options || []).map(option => ({
-              fieldId: option.stableId,
-              value: option.exportValue,
-              label: option.displayLabel,
-              selected: false
-            }));
-
-            fields.push({
-              id: fieldGroup.fieldName,
-              name: fieldGroup.fieldName,
-              page: fieldGroup.pageIndex + 1, // Convert 0-based to 1-based
-              rect: fieldGroup.widgets?.[0]?.rectTopLeft || { x: 0, y: 0, width: 0, height: 0 },
-              label: fieldGroup.displayLabel,
-              type: FieldType.RADIO,
-              section: record.logical.section,
-              subsection: record.logical.subsection,
-              entry: record.logical.entry,
-              radioOptions: radioOptions,
-              groupFieldId: fieldGroup.fieldName
-            });
-          }
-        } else if (fieldGroup && isDropdownGroup(fieldGroup)) {
-          // Handle enhanced dropdown groups with full golden key metadata
-          const dropdownOptions: DropdownOption[] = getDropdownOptions(fieldGroup);
-
-          fields.push({
-            id: fieldGroup.fieldName,
-            name: fieldGroup.fieldName,
-            page: fieldGroup.pageIndex + 1, // Convert 0-based to 1-based
-            rect: fieldGroup.widgets?.[0]?.rectTopLeft || { x: 0, y: 0, width: 0, height: 0 },
-            label: fieldGroup.displayLabel,
-            type: FieldType.DROPDOWN,
-            section: record.logical.section,
-            subsection: record.logical.subsection,
-            entry: record.logical.entry,
-            // Pass full golden key dropdown metadata for proper mapping
-            options: dropdownOptions.map(option => ({
-              value: option.exportValue,
-              label: option.displayLabel,
-              uiLabel: option.uiLabel
-            }))
-          });
-        } else {
-          // Handle non-radio fields (use enhanced label if available, fall back to label enhancer)
-          let fieldLabel: string;
-
-          if (fieldGroup) {
-            fieldLabel = fieldGroup.displayLabel;
-          } else {
-            fieldLabel = labelEnhancer.enhanceLabel(record, currentSection);
-          }
-
-          // Map golden key field name to actual PDF field name
-          const pdfFieldId = FieldNameMapper.mapToPDFField(record.pdf.fieldName);
-
-          fields.push({
-            id: pdfFieldId,
-            name: pdfFieldId,
-            page: record.pdf.pageNumber,
-            rect: record.pdf.rects[0] || { x: 0, y: 0, width: 0, height: 0 },
-            label: fieldLabel,
-            type: record.pdf.type === "Checkbox" ? FieldType.CHECKBOX :
-                  record.pdf.type === "Dropdown" ? FieldType.DROPDOWN :
-                  FieldType.TEXT,
-            section: record.logical.section,
-            subsection: record.logical.subsection,
-            entry: record.logical.entry
-          });
-        }
-      });
-
-      // Sort by page and position
-      fields.sort((a, b) => {
-        if (a.page !== b.page) return a.page - b.page;
-        if (a.rect.y !== b.rect.y) return a.rect.y - b.rect.y;
-        return a.rect.x - b.rect.x;
-      });
-
+      // Use the deterministic section renderer - this is the source of truth
+      const fields = sectionRenderer.getFieldsForSection(currentSection);
       setCurrentFields(fields);
+
+      // DEBUG: Expose current section for debugging
+      if (typeof window !== 'undefined') {
+        (window as any).__CLARANCE_CURRENT_SECTION__ = currentSection;
+      }
     } else {
       setCurrentFields([]);
     }
-  }, [goldenKey, currentSection, fieldGroups]);
+  }, [sectionRenderer, currentSection]);
 
+  // Auto-save effect
+  useEffect(() => {
+    if (autoSave && values && Object.keys(values).length > 0) {
+      autoSave(values);
+    }
+  }, [values, autoSave]);
+
+  /**
+   * Counts filled fields per section using correct field ID lookup.
+   * 
+   * @returns Record<string, number> - Map of section ID to filled field count.
+   * 
+   * Bug-fix: Uses mapped field names matching form field IDs, not raw fieldId.
+   * Radio/Dropdown fields use fieldGroup.fieldName as ID.
+   * Other fields use FieldNameMapper.mapToPDFField(record.pdf.fieldName).
+   */
   const getFilledCountsBySection = useCallback((): Record<string, number> => {
     if (!goldenKey) return {};
     const counts: Record<string, number> = {};
+    const processedRadioGroups = new Set<string>();
+
     Object.values(goldenKey.records).forEach((record) => {
-      if (record.logical.section) {
-        const value = values[record.pdf.fieldId];
-        if (value !== undefined && value !== "" && value !== false) {
-          counts[record.logical.section] = (counts[record.logical.section] || 0) + 1;
-        }
+      if (!record.logical.section) return;
+
+      const fieldGroup = fieldGroups[record.pdf.fieldName];
+      let fieldKey: string;
+
+      if (fieldGroup && (fieldGroup.fieldType === "RadioGroup" || fieldGroup.fieldType === "Dropdown")) {
+        if (processedRadioGroups.has(fieldGroup.fieldName)) return;
+        processedRadioGroups.add(fieldGroup.fieldName);
+        fieldKey = fieldGroup.fieldName;
+      } else {
+        fieldKey = FieldNameMapper.mapToPDFField(record.pdf.fieldName);
+      }
+
+      const value = values[fieldKey];
+      if (value !== undefined && value !== "" && value !== false) {
+        counts[record.logical.section] = (counts[record.logical.section] || 0) + 1;
       }
     });
     return counts;
-  }, [goldenKey, values]);
+  }, [goldenKey, values, fieldGroups]);
 
   const getTotalFieldCount = useCallback((): number => {
     if (!sections) return 0;
     return Object.values(sections).reduce((sum, s) => sum + s.fieldCount, 0);
   }, [sections]);
+
+  /**
+   * Gets the field count for the current section from actual displayed fields.
+   * 
+   * @returns number - Count of fields in current section.
+   * 
+   * Bug-fix: Uses currentFields.length (actual displayed fields) instead of
+   * sections-summary.json fieldCount which may not match golden-key data.
+   */
+  const getCurrentSectionFieldCount = useCallback((): number => {
+    return currentFields.length;
+  }, [currentFields]);
+
+  /**
+   * Counts filled fields in the current section from actual displayed fields.
+   * 
+   * @returns number - Count of filled fields in current section.
+   * 
+   * Bug-fix: Counts from currentFields array using correct field.id lookup,
+   * ensuring consistency between displayed fields and progress count.
+   */
+  const getCurrentSectionFilledCount = useCallback((): number => {
+    return currentFields.filter((field) => {
+      const value = values[field.id];
+      return value !== undefined && value !== "" && value !== false;
+    }).length;
+  }, [currentFields, values]);
 
   async function generatePDF(flatten: boolean): Promise<void> {
     setIsDownloading(true);
@@ -348,6 +365,10 @@ function EditorContent(): React.ReactNode {
     ? `Section ${currentSection}: ${SECTION_NAMES[currentSection] || "Unknown"}`
     : undefined;
 
+  // Get section-specific progress data using actual displayed fields
+  const currentSectionFields = getCurrentSectionFieldCount();
+  const currentSectionFilled = getCurrentSectionFilledCount();
+
   return (
     <div className="flex flex-col h-screen bg-gray-50">
       <Header
@@ -356,6 +377,9 @@ function EditorContent(): React.ReactNode {
         onDownloadFlattened={handleDownloadFlattened}
         onClear={handleClear}
         isDownloading={isDownloading}
+        currentSectionFields={currentSectionFields}
+        currentSectionFilled={currentSectionFilled}
+        sectionTitle={currentSection ? SECTION_NAMES[currentSection] : undefined}
       />
       <div className="flex flex-1 overflow-hidden">
         <SectionNav sections={sections} filledCounts={getFilledCountsBySection()} />

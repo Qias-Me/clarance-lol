@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 'use client';
 
 import { useState, useEffect } from 'react';
@@ -11,7 +12,7 @@ export default function TestSection1AcknowledgementPage() {
   useEffect(() => {
     // Load golden key data
     fetch('/data/golden-key.json')
-      .then(res => res.json())
+      .then(res => res.json() as Promise<Record<string, any>>)
       .then(data => {
         setGoldenKeyData(data);
         const mapper = new CoordinateFieldMapper(data);
@@ -159,7 +160,7 @@ export default function TestSection1AcknowledgementPage() {
       console.log('✅ PDF filled successfully:', filledPdfBytes.length, 'bytes');
 
       // Create download link
-      const blob = new Blob([filledPdfBytes], { type: 'application/pdf' });
+      const blob = new Blob([filledPdfBytes as BlobPart], { type: 'application/pdf' });
       const url = URL.createObjectURL(blob);
       const a = document.createElement('a');
       a.href = url;

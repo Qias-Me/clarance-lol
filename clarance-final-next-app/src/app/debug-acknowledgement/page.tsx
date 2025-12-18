@@ -41,7 +41,7 @@ export default function DebugAcknowledgement() {
       if (fieldGroup) {
         addResult(`✅ Field found in field groups: ${fieldGroup.fieldType}`);
         addResult(`Display label: ${fieldGroup.displayLabel.substring(0, 100)}...`);
-        addResult(`Options: ${fieldGroup.options?.map((opt: any) => opt.exportValue).join(', ')}`);
+        addResult(`Options: ${fieldGroup.options?.map((opt: { exportValue: string }) => opt.exportValue).join(', ')}`);
       } else {
         addResult(`❌ Field NOT found in field groups`);
       }
@@ -89,7 +89,7 @@ export default function DebugAcknowledgement() {
       addResult(`Generated PDF: ${pdfBytes.length} bytes (increase: ${sizeIncrease})`);
 
       // Download test PDF
-      const blob = new Blob([pdfBytes], { type: 'application/pdf' });
+      const blob = new Blob([pdfBytes as BlobPart], { type: 'application/pdf' });
       const url = URL.createObjectURL(blob);
       const link = document.createElement('a');
       link.href = url;

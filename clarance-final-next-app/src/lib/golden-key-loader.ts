@@ -1,4 +1,5 @@
 import type { SectionIndex, GoldenKeyInventory } from "@/types/golden-key";
+import { reconcileSections } from "./section-reconciliation";
 
 interface FieldIndexEntry {
   id: string;
@@ -80,21 +81,37 @@ export async function loadAllSectionIndexes(
   return indexes;
 }
 
+/**
+ * Loads the Golden Key inventory and reconciles section assignments.
+ * 
+ * @returns Promise<GoldenKeyInventory> - The loaded and reconciled golden-key data.
+ * 
+ * Bug-fix: Applies section reconciliation to fix incorrect logical.section values.
+ * This prevents section bleed issues where fields appear in wrong sections.
+ */
 export async function loadGoldenKeyInventory(): Promise<GoldenKeyInventory> {
-  /**
-   * Returns Golden Key inventory from default path
-   */
+  let goldenKey: GoldenKeyInventory;
+
   if (typeof window === "undefined") {
     const { readFile } = eval("require")("fs/promises");
     const data = await readFile("./public/data/golden-key.json", "utf-8");
-    return JSON.parse(data);
+    goldenKey = JSON.parse(data);
+  } else {
+    const response = await fetch("/data/golden-key.json");
+    if (!response.ok) {
+      throw new Error(`Failed to load golden key inventory: ${response.statusText}`);
+    }
+    goldenKey = await response.json();
   }
 
-  const response = await fetch("/data/golden-key.json");
-  if (!response.ok) {
-    throw new Error(`Failed to load golden key inventory: ${response.statusText}`);
+  // Apply section reconciliation to fix any misassigned sections
+  const result = reconcileSections(goldenKey);
+  
+  if (result.correctedRecords > 0) {
+    console.log(`📋 Golden Key loaded with ${result.correctedRecords} section corrections applied`);
   }
-  return response.json();
+
+  return goldenKey;
 }
 
 export function getFieldsForUiPath(

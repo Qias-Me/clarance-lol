@@ -8,12 +8,30 @@ interface HeaderProps {
   onDownloadFlattened: () => void;
   onClear: () => void;
   isDownloading?: boolean;
+  currentSectionFields?: number;
+  currentSectionFilled?: number;
+  sectionTitle?: string;
 }
 
-export function Header({ totalFields, onDownloadEditable, onDownloadFlattened, onClear, isDownloading = false }: HeaderProps): React.ReactNode {
-  const { getFilledFieldCount, isLoading, lastSaved, saveData } = useFormContext();
+export function Header({
+  totalFields,
+  onDownloadEditable,
+  onDownloadFlattened,
+  onClear,
+  isDownloading = false,
+  currentSectionFields,
+  currentSectionFilled,
+  sectionTitle
+}: HeaderProps): React.ReactNode {
+  const { getFilledFieldCount, isLoading, lastSaved } = useFormContext();
   const filledCount = getFilledFieldCount();
-  const progressPercent = totalFields > 0 ? Math.round((filledCount / totalFields) * 100) : 0;
+  const globalProgressPercent = totalFields > 0 ? Math.round((filledCount / totalFields) * 100) : 0;
+
+  // Section-based progress calculation
+  const showSectionProgress = currentSectionFields !== undefined && currentSectionFilled !== undefined;
+  const sectionProgressPercent = showSectionProgress && currentSectionFields > 0
+    ? Math.round((currentSectionFilled / currentSectionFields) * 100)
+    : 0;
 
   // Format last saved time
   const formatLastSaved = (timestamp: number | null): string => {
@@ -35,15 +53,28 @@ export function Header({ totalFields, onDownloadEditable, onDownloadFlattened, o
         <div className="flex items-center gap-6">
           <div className="flex items-center gap-3">
             <div className="text-right">
-              <p className="text-sm font-medium text-gray-700">
-                {filledCount} / {totalFields} fields
-              </p>
-              <p className="text-xs text-gray-500">{progressPercent}% complete</p>
+              {showSectionProgress ? (
+                <>
+                  <p className="text-sm font-medium text-gray-700">
+                    {sectionTitle ? `${sectionTitle}: ` : ""}{currentSectionFilled} / {currentSectionFields} fields
+                  </p>
+                  <p className="text-xs text-gray-500">
+                    Section: {sectionProgressPercent}% | Overall: {globalProgressPercent}%
+                  </p>
+                </>
+              ) : (
+                <>
+                  <p className="text-sm font-medium text-gray-700">
+                    {filledCount} / {totalFields} fields
+                  </p>
+                  <p className="text-xs text-gray-500">{globalProgressPercent}% complete</p>
+                </>
+              )}
             </div>
             <div className="w-32 bg-gray-200 rounded-full h-2">
               <div
-                className="bg-green-500 h-2 rounded-full transition-all duration-300"
-                style={{ width: `${progressPercent}%` }}
+                className="bg-blue-500 h-2 rounded-full transition-all duration-300"
+                style={{ width: `${showSectionProgress ? sectionProgressPercent : globalProgressPercent}%` }}
               />
             </div>
           </div>

@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
-import { loadFieldGroups } from "@/lib/field-groups-loader";
+import { loadFieldGroups, type FieldGroup } from "@/lib/field-groups-loader";
 
 export async function GET(request: NextRequest): Promise<NextResponse> {
   try {
@@ -10,7 +10,7 @@ export async function GET(request: NextRequest): Promise<NextResponse> {
 
     if (section) {
       // Filter field groups by section if requested
-      const filteredGroups: Record<string, any> = {};
+      const filteredGroups: Record<string, FieldGroup> = {};
       Object.entries(fieldGroups).forEach(([fieldName, fieldGroup]) => {
         if (fieldGroup.fieldType === "RadioGroup" && fieldGroup.displayLabel) {
           // For debugging, include all radio groups so users can see the enhanced labels

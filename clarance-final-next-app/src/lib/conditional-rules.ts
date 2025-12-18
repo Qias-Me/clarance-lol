@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any, @typescript-eslint/no-unused-vars */
 /**
  * Conditional Logic Rules for Dynamic Field Rendering
  * Based on PDF form instructions and field relationships

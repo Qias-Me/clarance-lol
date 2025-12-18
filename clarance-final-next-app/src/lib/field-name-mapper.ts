@@ -20,7 +20,7 @@ const FIELD_PATTERNS = {
   // Special field patterns
   special: {
     'form1[0].Sections1-6[0].#field[18]': 'form1[0].Sections1-6[0].#field[18]', // This one already works
-  }
+  } as Record<string, string>
 };
 
 // Mapping for specific known field translations based on actual PDF structure

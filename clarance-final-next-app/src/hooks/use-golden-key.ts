@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 import { useState, useEffect, useMemo } from "react";
 import type { GoldenKeyInventory, GoldenKeyRecord } from "@/types/golden-key";
 
@@ -35,11 +36,11 @@ export function useGoldenKeyLookup() {
   const lookup = useMemo(() => {
     if (!goldenKey) {
       return {
-        byUiPath: (uiPath: string) => null,
-        byFieldId: (fieldId: string) => null,
-        bySection: (section: string) => [],
-        byLabel: (label: string) => [],
-        search: (query: string) => [],
+        byUiPath: (_uiPath: string) => null,
+        byFieldId: (_fieldId: string) => null,
+        bySection: (_section: string) => [],
+        byLabel: (_label: string) => [],
+        search: (_query: string) => [],
       };
     }
 

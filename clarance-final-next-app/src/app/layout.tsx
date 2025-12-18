@@ -26,6 +26,9 @@ export default function RootLayout({
 		<html lang="en">
 			<head>
 				<link rel="icon" href="/favicon.svg" type="image/svg+xml"></link>
+				<script src="/debug-dropdowns.js" async></script>
+				<script src="/debug-sections.js" async></script>
+				<script src="/debug-visibility.js" async></script>
 			</head>
 			<body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>{children}</body>
 		</html>

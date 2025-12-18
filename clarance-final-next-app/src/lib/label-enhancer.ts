@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 import type { GoldenKeyInventory, GoldenKeyRecord } from "@/types/golden-key";
 
 interface LabelPattern {

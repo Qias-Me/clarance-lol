@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any, react/no-unescaped-entities */
 'use client';
 
 import { useState } from 'react';
@@ -44,7 +45,7 @@ export default function TestFieldIdMappingPage() {
       const mappedField = FieldIdAwareMapper.mapWithFieldId(
         test.goldenKeyField,
         test.fieldId,
-        section
+        section ?? undefined
       );
 
       return {

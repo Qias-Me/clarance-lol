@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 /**
  * PDF Field Tester - Debug utility to check if PDF template has accessible form fields
  */

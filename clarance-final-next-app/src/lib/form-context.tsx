@@ -293,6 +293,20 @@ export function FormProvider({
     return state ? state.expandedEntries.has(entryNumber) : true;
   }, [entryStates]);
 
+  // DEBUG: Expose form context to browser for debugging
+  useEffect(() => {
+    if (typeof window !== 'undefined') {
+      (window as any).__CLARANCE_FORM_VALUES__ = values;
+      (window as any).formContext = {
+        values,
+        setValue,
+        getValue,
+        currentSection,
+        setCurrentSection
+      };
+    }
+  }, [values, setValue, getValue, currentSection, setCurrentSection]);
+
   return (
     <FormContext.Provider
       value={{

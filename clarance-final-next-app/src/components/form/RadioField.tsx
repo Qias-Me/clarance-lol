@@ -24,13 +24,13 @@ export function RadioField({ field, groupFields, radioOptions, className = "" }:
   }
 
   // Use radioOptions if provided, otherwise fall back to groupFields
-  const options = radioOptions ? radioOptions.map((option, idx) => ({
+  const options = radioOptions ? radioOptions.map((option) => ({
     id: option.fieldId,
     label: option.label,
     value: option.value
-  })) : groupFields ? groupFields.map((opt, idx) => ({
+  })) : groupFields ? groupFields.map((opt, optIdx) => ({
     id: opt.id,
-    label: opt.label || `Option ${idx + 1}`,
+    label: opt.label || `Option ${optIdx + 1}`,
     value: opt.id
   })) : [{
     id: field.id,
@@ -44,7 +44,7 @@ export function RadioField({ field, groupFields, radioOptions, className = "" }:
         {field.label || field.name}
       </span>
       <div className="flex flex-wrap gap-3">
-        {options.map((opt, idx) => (
+        {options.map((opt) => (
           <label key={opt.id} className="flex items-center gap-2 cursor-pointer">
             <input
               type="radio"

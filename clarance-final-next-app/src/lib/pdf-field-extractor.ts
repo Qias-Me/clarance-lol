@@ -1,7 +1,22 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 import { PDFDocument } from 'pdf-lib';
 
 /**
- * PDF Field Extractor - Extract and analyze all fields from PDF template
+ * Extracted dropdown field information.
+ * 
+ * @property name - string - The PDF field name.
+ * @property options - string[] - Available dropdown options (export values).
+ * @property accessible - boolean - Whether the field was accessible.
+ */
+export interface ExtractedDropdown {
+  name: string;
+  options: string[];
+  accessible: boolean;
+}
+
+/**
+ * PDF Field Extractor - Extract and analyze all fields from PDF template.
+ * Provides methods to extract field metadata including dropdown options.
  */
 export class PdfFieldExtractor {
   /**
@@ -89,6 +104,84 @@ export class PdfFieldExtractor {
 
     } catch (error) {
       console.error('Failed to extract radio fields:', error);
+      return [];
+    }
+  }
+
+  /**
+   * Extracts all dropdown/combobox fields and their options from PDF.
+   * 
+   * @param pdfBytes - Uint8Array - PDF file bytes.
+   * @returns Promise<ExtractedDropdown[]> - Array of dropdown field info.
+   * 
+   * Bug-fix: Provides fallback when field-groups.json is missing dropdown options.
+   */
+  static async extractDropdownFields(pdfBytes: Uint8Array): Promise<ExtractedDropdown[]> {
+    try {
+      const pdfDoc = await PDFDocument.load(pdfBytes);
+      const form = pdfDoc.getForm();
+      const allFields = form.getFields();
+      const dropdownFields: ExtractedDropdown[] = [];
+
+      for (const field of allFields) {
+        const fieldName = field.getName();
+        const fieldType = field.constructor.name;
+
+        if (fieldType === 'PDFDropdown') {
+          try {
+            const dropdown = form.getDropdown(fieldName);
+            const options = dropdown.getOptions();
+
+            dropdownFields.push({
+              name: fieldName,
+              options: options,
+              accessible: true
+            });
+          } catch (error) {
+            dropdownFields.push({
+              name: fieldName,
+              options: [],
+              accessible: false
+            });
+          }
+        }
+      }
+
+      console.log(`📋 Extracted ${dropdownFields.length} dropdown fields from PDF`);
+      return dropdownFields;
+
+    } catch (error) {
+      console.error('Failed to extract dropdown fields:', error);
+      return [];
+    }
+  }
+
+  /**
+   * Extracts options for a specific dropdown field by name.
+   * 
+   * @param pdfBytes - Uint8Array - PDF file bytes.
+   * @param fieldName - string - The dropdown field name to extract.
+   * @returns Promise<string[]> - Array of option values, empty if not found.
+   * 
+   * Bug-fix: On-demand extraction for dropdowns missing from field-groups.json.
+   */
+  static async extractDropdownOptions(pdfBytes: Uint8Array, fieldName: string): Promise<string[]> {
+    try {
+      const pdfDoc = await PDFDocument.load(pdfBytes);
+      const form = pdfDoc.getForm();
+
+      try {
+        const dropdown = form.getDropdown(fieldName);
+        const options = dropdown.getOptions();
+        console.log(`📋 Extracted ${options.length} options for dropdown: ${fieldName}`);
+        return options;
+      } catch (error) {
+        console.warn(`⚠️ Could not extract options for dropdown: ${fieldName}`, error);
+        return [];
+      }
+
+    } catch (error) {
+      console.error('Failed to load PDF for dropdown extraction:', error);
       return [];
     }
   }
